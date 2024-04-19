@@ -1,0 +1,16 @@
+{
+    "Will": {
+        "CurrentFocus": "Getting better at my skills",
+        "HowDoISeeMyselfIn5Years": "As the best SysAdmin I can be",        
+        "Favorites": {
+            "OperationalSystem": "Arch Linux",
+            "GUI": "XFCE",
+            "Kernel": "Zen",
+            "Interpreter": "ZSH",
+            "IDE": "Sublime text",
+            "Language": "Python",
+            "MobileOS": "Android",
+            "Games": ["Chrono Trigger", "Driver: Parallel Lines", "Watch Dogs"]
+        }
+    }
+}

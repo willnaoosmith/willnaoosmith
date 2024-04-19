@@ -1,0 +1,13 @@
+{
+	"Yes": ["!Not", "Yes", "Looks like it its", "Indeed", "Not'nt", "Who knows?", "Only god knows", "I was exactly one year ago", "Beep boop beep", "Kinda", "That's what i thought", "Ask me in one year"],
+	"No": ["!Yes", "Maybe another time", "A long long time ago, in a far far galaxy away, it was", "Maybe", "I dont know", "Yes'nt", "Ask me in one hour", "Nah", "One day", "No say I", "No", "Nope", "Not yet", "Unfortunately, not", "Not quite", "Ask me tomorrow", "Not this time", "Ask me in a year"],
+	"Christmas": {
+		"Yes": ["Happy birthday jesus", "Knoc knock. Who's there? you ask. ITS SANTA"],
+		"No": []
+	},
+	"Birthday": {
+		"Yes": ["Yes, it is my birthday", "Yup, getting old more and more"],
+		"No": []
+	},
+	"ErrorMessages": ["Oh no", "Not beep boop :(", "Sad beep :(", "I crashed", "Oh no, this is akward", "Looks like someone needs to repair their code now", "Well well well, if i didn't put a try/except here", "It's not a bug, it's a feature", "It's not the dev fault"]
+}
