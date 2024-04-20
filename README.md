@@ -153,12 +153,12 @@
       "CurrentStackOverflowReputation": "2,768"
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "To Ensure Promptness, one is expected to pay beyond the value of service – hence the later abbreviation: T.I.P.",
-      "CoolAdviceOfTheDay": "Accept advice.",
-      "DadJokeOfTheDay": "What did the ocean say to the beach? Thanks for all the sediment.",
-      "IsTodayChristmas?": "Not quite",
-      "IsTodayMyBirthday?": "Nope",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/8nad9k.jpg"
+      "FunFactOfTheDay": "10,000 Dutch cows pass through the Amsterdam airport each year.",
+      "CoolAdviceOfTheDay": "What's stopping you?",
+      "DadJokeOfTheDay": "Why don't you find hippopotamuses hiding in trees? They're really good at it.",
+      "IsTodayChristmas?": "No",
+      "IsTodayMyBirthday?": "Nah",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/8nespv.jpg"
    }
 }
 ```
