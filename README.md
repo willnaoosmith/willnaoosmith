@@ -153,12 +153,12 @@
       "CurrentStackOverflowReputation": "2,768"
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "10,000 Dutch cows pass through the Amsterdam airport each year.",
-      "CoolAdviceOfTheDay": "What's stopping you?",
-      "DadJokeOfTheDay": "Why don't you find hippopotamuses hiding in trees? They're really good at it.",
-      "IsTodayChristmas?": "No",
-      "IsTodayMyBirthday?": "Nah",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/8nespv.jpg"
+      "FunFactOfTheDay": "The average person will accidentally eat just under a pound of insects every year.",
+      "CoolAdviceOfTheDay": "Winter is coming.",
+      "DadJokeOfTheDay": "Guy told me today he did not know what cloning is. I told him, 'that makes 2 of us.'",
+      "IsTodayChristmas?": "One day",
+      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/8nhpk7.jpg"
    }
 }
 ```
