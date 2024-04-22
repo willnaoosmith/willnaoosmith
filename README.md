@@ -153,12 +153,12 @@
       "CurrentStackOverflowReputation": "2,768"
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The average person will accidentally eat just under a pound of insects every year.",
-      "CoolAdviceOfTheDay": "Winter is coming.",
-      "DadJokeOfTheDay": "Guy told me today he did not know what cloning is. I told him, 'that makes 2 of us.'",
-      "IsTodayChristmas?": "One day",
-      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/8nhpk7.jpg"
+      "FunFactOfTheDay": "The phrase 'rule of thumb' is derived from an old English law, which stated that you couldn`t beat your wife with anything wider than your thumb.",
+      "CoolAdviceOfTheDay": "Brush your teeth the moment you get up.",
+      "DadJokeOfTheDay": "Dad died because he couldn't remember his blood type. I will never forget his last words. Be positive.",
+      "IsTodayChristmas?": "Unfortunately, not",
+      "IsTodayMyBirthday?": "Nope",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/8nkota.jpg"
    }
 }
 ```
