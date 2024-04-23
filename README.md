@@ -150,15 +150,15 @@
             "Artists": ["MF DOOM","Rav","Vundabar"]
          }
       },
-      "CurrentStackOverflowReputation": "2,768"
+      "CurrentStackOverflowReputation": "2,778"
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The phrase 'rule of thumb' is derived from an old English law, which stated that you couldn`t beat your wife with anything wider than your thumb.",
-      "CoolAdviceOfTheDay": "Brush your teeth the moment you get up.",
-      "DadJokeOfTheDay": "Dad died because he couldn't remember his blood type. I will never forget his last words. Be positive.",
-      "IsTodayChristmas?": "Unfortunately, not",
-      "IsTodayMyBirthday?": "Nope",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/8nkota.jpg"
+      "FunFactOfTheDay": "It takes 3,000 cows to supply the NFL with enough leather for a year`s supply of footballs.",
+      "CoolAdviceOfTheDay": "If you have the chance, take it!",
+      "DadJokeOfTheDay": "Where do rabbits go after they get married? On a bunny-moon.",
+      "IsTodayChristmas?": "Not this time",
+      "IsTodayMyBirthday?": "Unfortunately, not",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/8np0nv.jpg"
    }
 }
 ```
