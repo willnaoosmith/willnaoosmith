@@ -153,12 +153,12 @@
       "CurrentStackOverflowReputation": "2,778"
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "It takes 3,000 cows to supply the NFL with enough leather for a year`s supply of footballs.",
-      "CoolAdviceOfTheDay": "If you have the chance, take it!",
-      "DadJokeOfTheDay": "Where do rabbits go after they get married? On a bunny-moon.",
-      "IsTodayChristmas?": "Not this time",
-      "IsTodayMyBirthday?": "Unfortunately, not",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/8np0nv.jpg"
+      "FunFactOfTheDay": "5,840 people with pillow related injuries checked into U.S. emergency rooms in 1992.",
+      "CoolAdviceOfTheDay": "Tell it like it is.",
+      "DadJokeOfTheDay": "Did you hear about the campsite that got visited by Bigfoot? It got in tents.",
+      "IsTodayChristmas?": "One day",
+      "IsTodayMyBirthday?": "Ask me in a year",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/8nthcy.jpg"
    }
 }
 ```
