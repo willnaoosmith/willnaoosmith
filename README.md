@@ -153,12 +153,12 @@
       "CurrentStackOverflowReputation": "2,778"
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Los Angeles` full name `El Pueblo de Nuestra Senora la Reina de Los Angeles de Porciuncula` is reduced to 3.63% of its size in the abbreviation `L.A.`.",
-      "CoolAdviceOfTheDay": "Why wait until valentines day for a romantic gesture?",
-      "DadJokeOfTheDay": "Why do cows not have toes? They lactose!",
-      "IsTodayChristmas?": "Unfortunately, not",
-      "IsTodayMyBirthday?": "Maybe",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/8nxz7p.jpg"
+      "FunFactOfTheDay": "There are two credit cards for every person in the United States.",
+      "CoolAdviceOfTheDay": "Hold the door open for the next person.",
+      "DadJokeOfTheDay": "It was raining cats and dogs the other day. I almost stepped in a poodle.",
+      "IsTodayChristmas?": "Ask me in a year",
+      "IsTodayMyBirthday?": "Yes'nt",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/8o2ohb.jpg"
    }
 }
 ```
