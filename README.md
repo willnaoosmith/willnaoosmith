@@ -153,12 +153,12 @@
       "CurrentStackOverflowReputation": "2,778"
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "There are two credit cards for every person in the United States.",
-      "CoolAdviceOfTheDay": "Hold the door open for the next person.",
-      "DadJokeOfTheDay": "It was raining cats and dogs the other day. I almost stepped in a poodle.",
-      "IsTodayChristmas?": "Ask me in a year",
-      "IsTodayMyBirthday?": "Yes'nt",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/8o2ohb.jpg"
+      "FunFactOfTheDay": "On average, Americans eat 18 acres of pizza everyday.",
+      "CoolAdviceOfTheDay": "Respect other people's opinions, even when they differ from your own.",
+      "DadJokeOfTheDay": "What do you call a group of disorganized cats? A cat-tastrophe.",
+      "IsTodayChristmas?": "No say I",
+      "IsTodayMyBirthday?": "Ask me in one hour",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/8o75jc.jpg"
    }
 }
 ```
