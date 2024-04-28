@@ -153,12 +153,12 @@
       "CurrentStackOverflowReputation": "2,778"
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "On average, Americans eat 18 acres of pizza everyday.",
-      "CoolAdviceOfTheDay": "Respect other people's opinions, even when they differ from your own.",
-      "DadJokeOfTheDay": "What do you call a group of disorganized cats? A cat-tastrophe.",
-      "IsTodayChristmas?": "No say I",
-      "IsTodayMyBirthday?": "Ask me in one hour",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/8o75jc.jpg"
+      "FunFactOfTheDay": "Giraffes have no vocal cords.",
+      "CoolAdviceOfTheDay": "Learn to handle criticism.",
+      "DadJokeOfTheDay": "Whoever invented the knock-knock joke should get a no bell prize.",
+      "IsTodayChristmas?": "Not quite",
+      "IsTodayMyBirthday?": "No say I",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/8oa0m2.jpg"
    }
 }
 ```
