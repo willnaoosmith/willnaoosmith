@@ -153,12 +153,12 @@
       "CurrentStackOverflowReputation": "2,778"
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Giraffes have no vocal cords.",
-      "CoolAdviceOfTheDay": "Learn to handle criticism.",
-      "DadJokeOfTheDay": "Whoever invented the knock-knock joke should get a no bell prize.",
-      "IsTodayChristmas?": "Not quite",
-      "IsTodayMyBirthday?": "No say I",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/8oa0m2.jpg"
+      "FunFactOfTheDay": "Bullet proof vests, fire escapes, windshield wipers, and laser printers were all invented by women",
+      "CoolAdviceOfTheDay": "Never regret. If it's good, it's wonderful. If it's bad, it's experience.",
+      "DadJokeOfTheDay": "When will the little snake arrive? I don't know but he won't be long...",
+      "IsTodayChristmas?": "Nah",
+      "IsTodayMyBirthday?": "I dont know",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/8ocyud.jpg"
    }
 }
 ```
