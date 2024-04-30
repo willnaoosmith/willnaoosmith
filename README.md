@@ -153,12 +153,12 @@
       "CurrentStackOverflowReputation": "2,778"
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Bullet proof vests, fire escapes, windshield wipers, and laser printers were all invented by women",
-      "CoolAdviceOfTheDay": "Never regret. If it's good, it's wonderful. If it's bad, it's experience.",
-      "DadJokeOfTheDay": "When will the little snake arrive? I don't know but he won't be long...",
-      "IsTodayChristmas?": "Nah",
+      "FunFactOfTheDay": "the bird is the word",
+      "CoolAdviceOfTheDay": "If you're squashed close to strangers on public transport, try not to be rude to them. No one likes those situations.",
+      "DadJokeOfTheDay": "What did Romans use to cut pizza before the rolling cutter was invented? Lil Caesars",
+      "IsTodayChristmas?": "Not quite",
       "IsTodayMyBirthday?": "I dont know",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/8ocyud.jpg"
+      "RandomMemeOfTheDay": "https://i.imgflip.com/8oh59n.jpg"
    }
 }
 ```
