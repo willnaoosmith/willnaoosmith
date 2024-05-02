@@ -153,12 +153,12 @@
       "CurrentStackOverflowReputation": "2,778"
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Most toilets flush in E flat.",
-      "CoolAdviceOfTheDay": "Turn jeans inside out when washing them to help preserve their colour.",
-      "DadJokeOfTheDay": "Milk is also the fastest liquid on earth – its pasteurized before you even see it",
-      "IsTodayChristmas?": "Not yet",
-      "IsTodayMyBirthday?": "Maybe",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/8oli29.jpg"
+      "FunFactOfTheDay": "Studies show that if a cat falls off the seventh floor of a building it has about thirty percent less chance of surviving than a cat that falls off the twentieth floor. It supposedly takes about eight floors for the cat to realize what is occurring, relax and correct itself.",
+      "CoolAdviceOfTheDay": "Try to do the things that you're incapable of.",
+      "DadJokeOfTheDay": "It was so cold yesterday my computer froze. My own fault though, I left too many windows open.",
+      "IsTodayChristmas?": "One day",
+      "IsTodayMyBirthday?": "Nah",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/8opgjl.jpg"
    }
 }
 ```
