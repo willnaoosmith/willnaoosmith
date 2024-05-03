@@ -153,12 +153,12 @@
       "CurrentStackOverflowReputation": "2,778"
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Studies show that if a cat falls off the seventh floor of a building it has about thirty percent less chance of surviving than a cat that falls off the twentieth floor. It supposedly takes about eight floors for the cat to realize what is occurring, relax and correct itself.",
-      "CoolAdviceOfTheDay": "Try to do the things that you're incapable of.",
-      "DadJokeOfTheDay": "It was so cold yesterday my computer froze. My own fault though, I left too many windows open.",
-      "IsTodayChristmas?": "One day",
+      "FunFactOfTheDay": "Humans are the only primates that don`t have pigment in the palms of their hands.",
+      "CoolAdviceOfTheDay": "If you need cheering up, try searching online for photos of kittens.",
+      "DadJokeOfTheDay": "Why did the man run around his bed? Because he was trying to catch up on his sleep!",
+      "IsTodayChristmas?": "!Yes",
       "IsTodayMyBirthday?": "Nah",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/8opgjl.jpg"
+      "RandomMemeOfTheDay": "https://i.imgflip.com/8otvsm.jpg"
    }
 }
 ```
