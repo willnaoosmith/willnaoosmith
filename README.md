@@ -153,12 +153,12 @@
       "CurrentStackOverflowReputation": "2,778"
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Humans are the only primates that don`t have pigment in the palms of their hands.",
-      "CoolAdviceOfTheDay": "If you need cheering up, try searching online for photos of kittens.",
-      "DadJokeOfTheDay": "Why did the man run around his bed? Because he was trying to catch up on his sleep!",
-      "IsTodayChristmas?": "!Yes",
-      "IsTodayMyBirthday?": "Nah",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/8otvsm.jpg"
+      "FunFactOfTheDay": "Studies show that if a cat falls off the seventh floor of a building it has about thirty percent less chance of surviving than a cat that falls off the twentieth floor. It supposedly takes about eight floors for the cat to realize what is occurring, relax and correct itself.",
+      "CoolAdviceOfTheDay": "Winter is coming.",
+      "DadJokeOfTheDay": "I just got fired from a florist, apparently I took too many leaves.",
+      "IsTodayChristmas?": "Not yet",
+      "IsTodayMyBirthday?": "I dont know",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/8oy5al.jpg"
    }
 }
 ```
