@@ -153,12 +153,12 @@
       "CurrentStackOverflowReputation": "2,778"
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Studies show that if a cat falls off the seventh floor of a building it has about thirty percent less chance of surviving than a cat that falls off the twentieth floor. It supposedly takes about eight floors for the cat to realize what is occurring, relax and correct itself.",
-      "CoolAdviceOfTheDay": "Winter is coming.",
-      "DadJokeOfTheDay": "I just got fired from a florist, apparently I took too many leaves.",
-      "IsTodayChristmas?": "Not yet",
+      "FunFactOfTheDay": "If a rooster can`t fully extend its neck, it can`t crow.",
+      "CoolAdviceOfTheDay": "Age is of no importance, unless you are a cheese.",
+      "DadJokeOfTheDay": "Dermatologists are always in a hurry. They spend all day making rash decisions. ",
+      "IsTodayChristmas?": "One day",
       "IsTodayMyBirthday?": "I dont know",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/8oy5al.jpg"
+      "RandomMemeOfTheDay": "https://i.imgflip.com/8p14o4.jpg"
    }
 }
 ```
