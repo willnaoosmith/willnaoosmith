@@ -78,10 +78,13 @@ except Exception as error:
   print("DadJokeOfTheDay error: " + str(error))
   RandomFile['RandomStuff']["DadJokeOfTheDay"] = Choose(PhrasesFile["ErrorMessages"])
 
+'''
+not needed anymore
 try: PersonalFile['Will']["CurrentStackOverflowReputation"] = RequestApi("https://stackoverflow.com/users/flair/12368797.json")["reputation"].replace('"', "'")
 except Exception as error:
   print("CurrentStackOverflowReputation error: " + str(error))
   PersonalFile['Will']["CurrentStackOverflowReputation"] = Choose(PhrasesFile["ErrorMessages"])
+'''
 
 try: 
 
