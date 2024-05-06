@@ -153,12 +153,12 @@
       "CurrentStackOverflowReputation": "2,778"
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "If a rooster can`t fully extend its neck, it can`t crow.",
-      "CoolAdviceOfTheDay": "Age is of no importance, unless you are a cheese.",
-      "DadJokeOfTheDay": "Dermatologists are always in a hurry. They spend all day making rash decisions. ",
-      "IsTodayChristmas?": "One day",
-      "IsTodayMyBirthday?": "I dont know",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/8p14o4.jpg"
+      "FunFactOfTheDay": "Between 25% and 33% of the population sneeze when exposed to light.",
+      "CoolAdviceOfTheDay": "When the cistern is filling, the seat is probably still warm.",
+      "DadJokeOfTheDay": "Sometimes I tuck my knees into my chest and lean forward.  That’s just how I roll.",
+      "IsTodayChristmas?": "No",
+      "IsTodayMyBirthday?": "One day",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/8p4013.jpg"
    }
 }
 ```
