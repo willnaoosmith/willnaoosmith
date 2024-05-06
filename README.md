@@ -149,16 +149,15 @@
             "Songs": ["MF DOOM - Datura stramonium","MF DOOM - One beer","Quasimodo - Bad caracther"],
             "Artists": ["MF DOOM","Rav","Vundabar"]
          }
-      },
-      "CurrentStackOverflowReputation": "2,778"
+      }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Between 25% and 33% of the population sneeze when exposed to light.",
-      "CoolAdviceOfTheDay": "When the cistern is filling, the seat is probably still warm.",
-      "DadJokeOfTheDay": "Sometimes I tuck my knees into my chest and lean forward.  That’s just how I roll.",
-      "IsTodayChristmas?": "No",
-      "IsTodayMyBirthday?": "One day",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/8p4013.jpg"
+      "FunFactOfTheDay": "'I am.' is the shortest complete sentence in the English language.",
+      "CoolAdviceOfTheDay": "As things get closer to the light, the shadows get darker.",
+      "DadJokeOfTheDay": "How many hipsters does it take to change a lightbulb? Oh, it's a really obscure number. You've probably never heard of it.",
+      "IsTodayChristmas?": "Not this time",
+      "IsTodayMyBirthday?": "Maybe",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/8p4rrs.jpg"
    }
 }
 ```
