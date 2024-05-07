@@ -177,7 +177,7 @@
 
 > 📦 111.2 kB Used in GitHub's Storage 
  > 
-> 🏆 103 Contributions in the Year 2024
+> 🏆 108 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -188,9 +188,9 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                243 commits         ███████████░░░░░░░░░░░░░░   44.10 % 
-🌆 Daytime                300 commits         ██████████████░░░░░░░░░░░   54.45 % 
-🌃 Evening                5 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+🌞 Morning                245 commits         ███████████░░░░░░░░░░░░░░   44.06 % 
+🌆 Daytime                303 commits         ██████████████░░░░░░░░░░░   54.50 % 
+🌃 Evening                5 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
 🌙 Night                  3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 ```
 
@@ -199,14 +199,14 @@
 
 ```text
 💬 Programming Languages: 
-Text                     1 hr 8 mins         ███████████████████████░░   93.03 % 
-Other                    5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
+Text                     32 mins             ████████████████████████░   95.01 % 
+Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
 
 🔥 Editors: 
-Sublime Text             1 hr 13 mins        █████████████████████████   100.00 % 
+Sublime Text             34 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    1 hr 13 mins        █████████████████████████   100.00 % 
+Linux                    34 mins             █████████████████████████   100.00 % 
 ```
 
 
