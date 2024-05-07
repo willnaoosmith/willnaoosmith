@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Only 6 people in the whole world have died from moshing.",
-      "CoolAdviceOfTheDay": "Don't give to others advice which you wouldn't follow.",
-      "DadJokeOfTheDay": "What kind of pants do ghosts wear? Boo jeans.",
-      "IsTodayChristmas?": "Unfortunately, not",
-      "IsTodayMyBirthday?": "Not this time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/8p83jq.jpg"
+      "FunFactOfTheDay": "The Main Library at Indiana University sinks over an inch every year because when it was built, engineers failed to take into account the weight of all the books that would occupy the building.",
+      "CoolAdviceOfTheDay": "Measure twice, cut once.",
+      "DadJokeOfTheDay": "Wife: Honey I’m pregnant.  Me: Well…. what do we do now?  Wife: Well, I guess we should go to a baby doctor.  Me: Hm.. I think I’d be a lot more comfortable going to an adult doctor.",
+      "IsTodayChristmas?": "Ask me in a year",
+      "IsTodayMyBirthday?": "No say I",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/8pb9un.jpg"
    }
 }
 ```
