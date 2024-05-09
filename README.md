@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "A person cannot taste food unless it is mixed with saliva. For example, if a strong-tasting substance like salt is placed on a dry tongue, the taste buds will not be able to taste it. As soon as a drop of saliva is added and the salt is dissolved, however, a definite taste sensation results. This is true for all foods.",
-      "CoolAdviceOfTheDay": "When you look around and don't see anyone you respect, its time to leave.",
-      "DadJokeOfTheDay": "Why didn’t the skeleton cross the road? Because he had no guts.",
-      "IsTodayChristmas?": "Ask me tomorrow",
-      "IsTodayMyBirthday?": "Yes'nt",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/8pceym.jpg"
+      "FunFactOfTheDay": "James Bond`s car had three different license plates in Goldfinger",
+      "CoolAdviceOfTheDay": "A common regret in life is wishing one had the courage to be ones true self.",
+      "DadJokeOfTheDay": "What's the difference between a rooster and a crow? A rooster can crow but a crow cannot rooster.",
+      "IsTodayChristmas?": "Ask me in one hour",
+      "IsTodayMyBirthday?": "No",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/8pgqkd.jpg"
    }
 }
 ```
