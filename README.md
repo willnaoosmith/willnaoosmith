@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "James Bond`s car had three different license plates in Goldfinger",
-      "CoolAdviceOfTheDay": "A common regret in life is wishing one had the courage to be ones true self.",
-      "DadJokeOfTheDay": "What's the difference between a rooster and a crow? A rooster can crow but a crow cannot rooster.",
-      "IsTodayChristmas?": "Ask me in one hour",
-      "IsTodayMyBirthday?": "No",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/8pgqkd.jpg"
+      "FunFactOfTheDay": "'Underground' is the only word in the English language that begins and ends with the letters 'und'",
+      "CoolAdviceOfTheDay": "Never pay full price for a sofa at DFS.",
+      "DadJokeOfTheDay": "Did you hear that the police have a warrant out on a midget psychic ripping people off? It reads “Small medium at large.”",
+      "IsTodayChristmas?": "One day",
+      "IsTodayMyBirthday?": "No say I",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/8pkz38.jpg"
    }
 }
 ```
