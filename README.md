@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "'Underground' is the only word in the English language that begins and ends with the letters 'und'",
-      "CoolAdviceOfTheDay": "Never pay full price for a sofa at DFS.",
-      "DadJokeOfTheDay": "Did you hear that the police have a warrant out on a midget psychic ripping people off? It reads “Small medium at large.”",
+      "FunFactOfTheDay": "You can sail all the way around the world at latitude 60 degrees south.",
+      "CoolAdviceOfTheDay": "Opinions are like arseholes, everyone has one.",
+      "DadJokeOfTheDay": "Why is no one friends with Dracula? Because he's a pain in the neck.",
       "IsTodayChristmas?": "One day",
-      "IsTodayMyBirthday?": "No say I",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/8pkz38.jpg"
+      "IsTodayMyBirthday?": "Maybe",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/8pozkj.jpg"
    }
 }
 ```
