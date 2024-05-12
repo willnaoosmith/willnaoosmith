@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "You can sail all the way around the world at latitude 60 degrees south.",
-      "CoolAdviceOfTheDay": "Opinions are like arseholes, everyone has one.",
-      "DadJokeOfTheDay": "Why is no one friends with Dracula? Because he's a pain in the neck.",
-      "IsTodayChristmas?": "One day",
-      "IsTodayMyBirthday?": "Maybe",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/8pozkj.jpg"
+      "FunFactOfTheDay": "In the last 4000 years, no new animals have been domesticated.",
+      "CoolAdviceOfTheDay": "Good advice is something a man gives when he is too old to set a bad example.",
+      "DadJokeOfTheDay": "What did the late tomato say to the early tomato? I’ll ketch up",
+      "IsTodayChristmas?": "Not this time",
+      "IsTodayMyBirthday?": "One day",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/8prtyt.jpg"
    }
 }
 ```
