@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "In the last 4000 years, no new animals have been domesticated.",
-      "CoolAdviceOfTheDay": "Good advice is something a man gives when he is too old to set a bad example.",
-      "DadJokeOfTheDay": "What did the late tomato say to the early tomato? I’ll ketch up",
-      "IsTodayChristmas?": "Not this time",
-      "IsTodayMyBirthday?": "One day",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/8prtyt.jpg"
+      "FunFactOfTheDay": "Hong Kong holds the most Rolls Royce’s per capita.",
+      "CoolAdviceOfTheDay": "Try going commando to an important meeting, NB: don't wear a skirt.",
+      "DadJokeOfTheDay": "What do you call a cow with no legs? Ground beef.",
+      "IsTodayChristmas?": "No",
+      "IsTodayMyBirthday?": "Nope",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/8puo65.jpg"
    }
 }
 ```
