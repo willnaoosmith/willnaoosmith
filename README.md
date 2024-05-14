@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "A rainbow can be seen only in the morning or late afternoon. It can occur only when the sun is 40 degrees or less above the horizon.",
-      "CoolAdviceOfTheDay": "Most things look better when you put them in a circle.",
-      "DadJokeOfTheDay": "How does a French skeleton say hello? Bone-jour.",
-      "IsTodayChristmas?": "Yes'nt",
-      "IsTodayMyBirthday?": "No",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/8pvhf2.jpg"
+      "FunFactOfTheDay": "The earth weighs around 6,588,000,000,000,000,000,000,000,000 tons.",
+      "CoolAdviceOfTheDay": "Life is short enough, don't race to the finish.",
+      "DadJokeOfTheDay": "I cut my finger chopping cheese, but I think that I may have grater problems.",
+      "IsTodayChristmas?": "Ask me in one hour",
+      "IsTodayMyBirthday?": "Yes'nt",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/8pyvh1.jpg"
    }
 }
 ```
