@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "South Dakota is the only U.S state which shares no letters with the name of it`s capital",
-      "CoolAdviceOfTheDay": "Mercy is the better part of justice.",
-      "DadJokeOfTheDay": "Hear about the new restaurant called Karma? There’s no menu: You get what you deserve.",
-      "IsTodayChristmas?": "No say I",
-      "IsTodayMyBirthday?": "Yes'nt",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/8pzrhc.jpg"
+      "FunFactOfTheDay": "The longest word comprised of one row on the keyboard is: TYPEWRITER",
+      "CoolAdviceOfTheDay": "To cleanly remove the seed from an Avocado, lay a knife firmly across it, and twist.",
+      "DadJokeOfTheDay": "This morning I was wondering where the sun was, but then it dawned on me.",
+      "IsTodayChristmas?": "Nah",
+      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/8q3980.jpg"
    }
 }
 ```
