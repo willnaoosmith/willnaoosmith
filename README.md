@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The longest word comprised of one row on the keyboard is: TYPEWRITER",
-      "CoolAdviceOfTheDay": "To cleanly remove the seed from an Avocado, lay a knife firmly across it, and twist.",
-      "DadJokeOfTheDay": "This morning I was wondering where the sun was, but then it dawned on me.",
-      "IsTodayChristmas?": "Nah",
-      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/8q3980.jpg"
+      "FunFactOfTheDay": "Average life span of a major league baseball: 7 pitches.",
+      "CoolAdviceOfTheDay": "What's stopping you?",
+      "DadJokeOfTheDay": "I cut my finger chopping cheese, but I think that I may have grater problems.",
+      "IsTodayChristmas?": "I dont know",
+      "IsTodayMyBirthday?": "Yes'nt",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/8q7sff.jpg"
    }
 }
 ```
