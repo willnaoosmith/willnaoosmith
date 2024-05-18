@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The value of Pi will be officially 'rounded down' to 3.14 from 3.14159265359 on December 31, 1999.",
-      "CoolAdviceOfTheDay": "Don't let the bastards grind you down.",
-      "DadJokeOfTheDay": "Why did the miner get fired from his job? He took it for granite...",
-      "IsTodayChristmas?": "Not this time",
-      "IsTodayMyBirthday?": "One day",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/8qcck8.jpg"
+      "FunFactOfTheDay": "Canada makes up 6.67 percent of the Earth`s land area",
+      "CoolAdviceOfTheDay": "You can fail at what you don't want. So you might as well take a chance on doing what you love.",
+      "DadJokeOfTheDay": "Got a new suit recently made entirely of living plants. I wasn’t sure at first, but it’s grown on me",
+      "IsTodayChristmas?": "I dont know",
+      "IsTodayMyBirthday?": "Maybe another time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/8qgnkw.jpg"
    }
 }
 ```
