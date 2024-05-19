@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Canada makes up 6.67 percent of the Earth`s land area",
-      "CoolAdviceOfTheDay": "You can fail at what you don't want. So you might as well take a chance on doing what you love.",
-      "DadJokeOfTheDay": "Got a new suit recently made entirely of living plants. I wasn’t sure at first, but it’s grown on me",
-      "IsTodayChristmas?": "I dont know",
-      "IsTodayMyBirthday?": "Maybe another time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/8qgnkw.jpg"
+      "FunFactOfTheDay": "Until 1994, world maps and globes sold in Albania only had Albania on them.",
+      "CoolAdviceOfTheDay": "Avoid mixing Ginger Nuts with other biscuits, they contaminate. Keep separated.",
+      "DadJokeOfTheDay": "What is the tallest building in the world? The library – it’s got the most stories!",
+      "IsTodayChristmas?": "Maybe",
+      "IsTodayMyBirthday?": "I dont know",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/8qjfud.jpg"
    }
 }
 ```
