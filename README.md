@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Until 1994, world maps and globes sold in Albania only had Albania on them.",
-      "CoolAdviceOfTheDay": "Avoid mixing Ginger Nuts with other biscuits, they contaminate. Keep separated.",
-      "DadJokeOfTheDay": "What is the tallest building in the world? The library – it’s got the most stories!",
-      "IsTodayChristmas?": "Maybe",
-      "IsTodayMyBirthday?": "I dont know",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/8qjfud.jpg"
+      "FunFactOfTheDay": "The word Pennsylvania is misspelled on the Liberty Bell.",
+      "CoolAdviceOfTheDay": "Remember that spiders are more afraid of you, than you are of them.",
+      "DadJokeOfTheDay": "How are false teeth like stars? They come out at night!",
+      "IsTodayChristmas?": "Ask me in a year",
+      "IsTodayMyBirthday?": "Not yet",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/8qmb2p.jpg"
    }
 }
 ```
