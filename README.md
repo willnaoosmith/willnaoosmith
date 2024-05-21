@@ -177,7 +177,7 @@
 
 > 📦 111.2 kB Used in GitHub's Storage 
  > 
-> 🏆 116 Contributions in the Year 2024
+> 🏆 117 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -188,9 +188,9 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                248 commits         ███████████░░░░░░░░░░░░░░   44.05 % 
-🌆 Daytime                305 commits         ██████████████░░░░░░░░░░░   54.17 % 
-🌃 Evening                6 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+🌞 Morning                248 commits         ███████████░░░░░░░░░░░░░░   43.97 % 
+🌆 Daytime                306 commits         ██████████████░░░░░░░░░░░   54.26 % 
+🌃 Evening                6 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
 🌙 Night                  4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
 ```
 
@@ -199,18 +199,18 @@
 
 ```text
 💬 Programming Languages: 
-Liquid                   8 hrs 32 mins       ███████████████░░░░░░░░░░   60.06 % 
-Text                     3 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   25.52 % 
-JavaScript               1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
-Python                   24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
-Other                    18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+Liquid                   5 hrs 16 mins       █████████████░░░░░░░░░░░░   51.26 % 
+Text                     3 hrs 6 mins        ████████░░░░░░░░░░░░░░░░░   30.19 % 
+JavaScript               1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
+Python                   24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
+Other                    10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
 
 🔥 Editors: 
-Sublime Text             14 hrs 13 mins      █████████████████████████   100.00 % 
+Sublime Text             10 hrs 16 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    14 hrs 10 mins      █████████████████████████   99.70 % 
-Windows                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+Linux                    10 hrs 14 mins      █████████████████████████   99.59 % 
+Windows                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 ```
 
 
