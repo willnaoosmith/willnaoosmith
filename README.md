@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The word Pennsylvania is misspelled on the Liberty Bell.",
-      "CoolAdviceOfTheDay": "Remember that spiders are more afraid of you, than you are of them.",
-      "DadJokeOfTheDay": "How are false teeth like stars? They come out at night!",
-      "IsTodayChristmas?": "Ask me in a year",
-      "IsTodayMyBirthday?": "Not yet",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/8qmb2p.jpg"
+      "FunFactOfTheDay": "The most common street name in the U.S. is Second Street.",
+      "CoolAdviceOfTheDay": "Most things are not as bad as you think they are.",
+      "DadJokeOfTheDay": "Have you heard about the film 'Constipation', you probably haven't because it's not out yet.",
+      "IsTodayChristmas?": "Yes'nt",
+      "IsTodayMyBirthday?": "No say I",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/8qq7w0.jpg"
    }
 }
 ```
