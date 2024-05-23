@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "All polar bears are left-handed.",
-      "CoolAdviceOfTheDay": "Eat food. Not too much, mostly plants.",
-      "DadJokeOfTheDay": "What cheese can never be yours? Nacho cheese.",
-      "IsTodayChristmas?": "Not this time",
-      "IsTodayMyBirthday?": "No",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/8qugsh.jpg"
+      "FunFactOfTheDay": "When possums are playing `possum`, they are not 'playing.' They actually pass out from sheer terror.",
+      "CoolAdviceOfTheDay": "Share positive energy.",
+      "DadJokeOfTheDay": "What do you get when you cross a pig and a pineapple? A porky pine",
+      "IsTodayChristmas?": "Unfortunately, not",
+      "IsTodayMyBirthday?": "Ask me in one hour",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/8qywf6.jpg"
    }
 }
 ```
