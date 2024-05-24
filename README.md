@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "When possums are playing `possum`, they are not 'playing.' They actually pass out from sheer terror.",
-      "CoolAdviceOfTheDay": "Share positive energy.",
-      "DadJokeOfTheDay": "What do you get when you cross a pig and a pineapple? A porky pine",
-      "IsTodayChristmas?": "Unfortunately, not",
-      "IsTodayMyBirthday?": "Ask me in one hour",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/8qywf6.jpg"
+      "FunFactOfTheDay": "A bull can inseminate 300 cows from one single ejaculation.",
+      "CoolAdviceOfTheDay": "Don't cross the streams.",
+      "DadJokeOfTheDay": "Why did the man put his money in the freezer? He wanted cold hard cash!",
+      "IsTodayChristmas?": "Ask me in one hour",
+      "IsTodayMyBirthday?": "Ask me in a year",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/8r8ldz.jpg"
    }
 }
 ```
