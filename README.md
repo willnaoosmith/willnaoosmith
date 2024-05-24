@@ -199,17 +199,15 @@
 
 ```text
 💬 Programming Languages: 
-Python                   2 hrs 5 mins        ████████████░░░░░░░░░░░░░   46.91 % 
-Text                     1 hr 58 mins        ███████████░░░░░░░░░░░░░░   44.00 % 
-Other                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
-JavaScript               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
-TypeScript               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+Python                   2 hrs 5 mins        ██████████████░░░░░░░░░░░   54.14 % 
+Text                     1 hr 33 mins        ██████████░░░░░░░░░░░░░░░   40.03 % 
+Other                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
 
 🔥 Editors: 
-Sublime Text             4 hrs 28 mins       █████████████████████████   100.00 % 
+Sublime Text             3 hrs 52 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    4 hrs 28 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 52 mins       █████████████████████████   100.00 % 
 ```
 
 
