@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "To Ensure Promptness, one is expected to pay beyond the value of service – hence the later abbreviation: T.I.P.",
-      "CoolAdviceOfTheDay": "Remember that spiders are more afraid of you, than you are of them.",
-      "DadJokeOfTheDay": "I just broke my guitar. It's okay, I won't fret",
-      "IsTodayChristmas?": "I dont know",
-      "IsTodayMyBirthday?": "No say I",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/8r9cp1.jpg"
+      "FunFactOfTheDay": "China has more English speakers than the United States.",
+      "CoolAdviceOfTheDay": "Most things are not as bad as you think they are.",
+      "DadJokeOfTheDay": "Just watched a documentary about beavers… It was the best damn program I’ve ever seen.",
+      "IsTodayChristmas?": "Not yet",
+      "IsTodayMyBirthday?": "Maybe another time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/8rk6l9.jpg"
    }
 }
 ```
