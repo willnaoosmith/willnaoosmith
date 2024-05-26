@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "China has more English speakers than the United States.",
-      "CoolAdviceOfTheDay": "Most things are not as bad as you think they are.",
-      "DadJokeOfTheDay": "Just watched a documentary about beavers… It was the best damn program I’ve ever seen.",
-      "IsTodayChristmas?": "Not yet",
-      "IsTodayMyBirthday?": "Maybe another time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/8rk6l9.jpg"
+      "FunFactOfTheDay": "The San Francisco Cable cars are the only mobile National Monuments.",
+      "CoolAdviceOfTheDay": "The hardest things to say are usually the most important.",
+      "DadJokeOfTheDay": "How much does a hipster weigh? An instagram.",
+      "IsTodayChristmas?": "Not quite",
+      "IsTodayMyBirthday?": "Unfortunately, not",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/8rmue3.jpg"
    }
 }
 ```
