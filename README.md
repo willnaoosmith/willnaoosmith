@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "A pig`s orgasm lasts for 30 minutes.",
-      "CoolAdviceOfTheDay": "Eliminate the unnecessary.",
-      "DadJokeOfTheDay": "A woman is on trial for beating her husband to death with his guitar collection. Judge says, ‘First offender?’ She says, ‘No, first a Gibson! Then a Fender!’",
-      "IsTodayChristmas?": "One day",
-      "IsTodayMyBirthday?": "Not this time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/8rpl1b.jpg"
+      "FunFactOfTheDay": "Non-dairy creamer is flammable.",
+      "CoolAdviceOfTheDay": "If it ain't broke don't fix it.",
+      "DadJokeOfTheDay": "Is the pool safe for diving? It deep ends.",
+      "IsTodayChristmas?": "I dont know",
+      "IsTodayMyBirthday?": "Ask me tomorrow",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/8rqlf0.jpg"
    }
 }
 ```
