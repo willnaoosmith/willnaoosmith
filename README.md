@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Non-dairy creamer is flammable.",
-      "CoolAdviceOfTheDay": "If it ain't broke don't fix it.",
-      "DadJokeOfTheDay": "Is the pool safe for diving? It deep ends.",
-      "IsTodayChristmas?": "I dont know",
-      "IsTodayMyBirthday?": "Ask me tomorrow",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/8rqlf0.jpg"
+      "FunFactOfTheDay": "Honey is the only food which does not spoil.",
+      "CoolAdviceOfTheDay": "Your smile could make someone's day, don't forget to wear it.",
+      "DadJokeOfTheDay": "I saw my husband trip and fall while carrying a laundry basket full of ironed clothes. I watched it all unfold.",
+      "IsTodayChristmas?": "Nah",
+      "IsTodayMyBirthday?": "Unfortunately, not",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/8rtehm.jpg"
    }
 }
 ```
