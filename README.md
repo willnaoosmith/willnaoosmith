@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Honey is the only food which does not spoil.",
-      "CoolAdviceOfTheDay": "Your smile could make someone's day, don't forget to wear it.",
-      "DadJokeOfTheDay": "I saw my husband trip and fall while carrying a laundry basket full of ironed clothes. I watched it all unfold.",
-      "IsTodayChristmas?": "Nah",
-      "IsTodayMyBirthday?": "Unfortunately, not",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/8rtehm.jpg"
+      "FunFactOfTheDay": "2,000 pounds of space dust and other space debris fall on the Earth every day.",
+      "CoolAdviceOfTheDay": "Don't feed Mogwais after midnight.",
+      "DadJokeOfTheDay": "It’s hard to explain puns to kleptomaniacs, because they take everything literally.",
+      "IsTodayChristmas?": "Nope",
+      "IsTodayMyBirthday?": "Ask me tomorrow",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/8s27fq.jpg"
    }
 }
 ```
