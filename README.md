@@ -169,7 +169,7 @@
 <h4 align="left">My weekly programming languages per time spent</h4>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C028%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C030%20hrs%2044%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.1%20million%20lines%20of%20code-blue)
 
@@ -199,17 +199,17 @@
 
 ```text
 💬 Programming Languages: 
-Text                     2 hrs 5 mins        ████████████████████░░░░░   80.77 % 
-Python                   15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
-Other                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
-Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
-HTML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+Text                     2 hrs 19 mins       █████████████░░░░░░░░░░░░   53.07 % 
+CSS                      57 mins             █████░░░░░░░░░░░░░░░░░░░░   21.83 % 
+JavaScript               52 mins             █████░░░░░░░░░░░░░░░░░░░░   19.90 % 
+Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
 
 🔥 Editors: 
-Sublime Text             2 hrs 35 mins       █████████████████████████   100.00 % 
+Sublime Text             4 hrs 22 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    2 hrs 35 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 22 mins       █████████████████████████   100.00 % 
 ```
 
 
