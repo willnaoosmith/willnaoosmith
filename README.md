@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Dentists have recommended that a toothbrush be kept at least 6 feet away from a toilet to avoid airborne particles resulting from the flush.",
-      "CoolAdviceOfTheDay": "It's always the quiet ones.",
-      "DadJokeOfTheDay": "What did the Red light say to the Green light? Don't look at me I'm changing!",
-      "IsTodayChristmas?": "I dont know",
-      "IsTodayMyBirthday?": "Yes'nt",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/8s6hbr.jpg"
+      "FunFactOfTheDay": "If a rooster can`t fully extend its neck, it can`t crow.",
+      "CoolAdviceOfTheDay": "Identify sources of happiness.",
+      "DadJokeOfTheDay": "I made a playlist for hiking. It has music from Peanuts, The Cranberries, and Eminem. I call it my Trail Mix.",
+      "IsTodayChristmas?": "Ask me in a year",
+      "IsTodayMyBirthday?": "Ask me in one hour",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/8saw4c.jpg"
    }
 }
 ```
