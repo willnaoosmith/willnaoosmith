@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Barbie`s full name is Barbara Millicent Roberts.",
-      "CoolAdviceOfTheDay": "What could you increase? What could you reduce?",
-      "DadJokeOfTheDay": "What lies at the bottom of the ocean and twitches? A nervous wreck.",
-      "IsTodayChristmas?": "Maybe",
-      "IsTodayMyBirthday?": "Yes'nt",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/8shtoz.jpg"
+      "FunFactOfTheDay": "The placement of a donkey`s eyes in its` heads enables it to see all four feet at all times!",
+      "CoolAdviceOfTheDay": "When having a clear out, ask yourself if an item has any financial, practical or sentimental value. If not, chuck it.",
+      "DadJokeOfTheDay": "Whenever the cashier at the grocery store asks my dad if he would like the milk in a bag he replies, ‘No, just leave it in the carton!’",
+      "IsTodayChristmas?": "Yes'nt",
+      "IsTodayMyBirthday?": "No say I",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/8skn5t.jpg"
    }
 }
 ```
