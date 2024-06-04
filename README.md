@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The placement of a donkey`s eyes in its` heads enables it to see all four feet at all times!",
-      "CoolAdviceOfTheDay": "When having a clear out, ask yourself if an item has any financial, practical or sentimental value. If not, chuck it.",
-      "DadJokeOfTheDay": "Whenever the cashier at the grocery store asks my dad if he would like the milk in a bag he replies, ‘No, just leave it in the carton!’",
-      "IsTodayChristmas?": "Yes'nt",
+      "FunFactOfTheDay": "40,000 Americans are injured by toilets each year.",
+      "CoolAdviceOfTheDay": "If you're squashed close to strangers on public transport, try not to be rude to them. No one likes those situations.",
+      "DadJokeOfTheDay": "My dog used to chase people on a bike a lot. It got so bad I had to take his bike away.",
+      "IsTodayChristmas?": "Nope",
       "IsTodayMyBirthday?": "No say I",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/8skn5t.jpg"
+      "RandomMemeOfTheDay": "https://i.imgflip.com/8soqn2.jpg"
    }
 }
 ```
