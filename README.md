@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "40,000 Americans are injured by toilets each year.",
-      "CoolAdviceOfTheDay": "If you're squashed close to strangers on public transport, try not to be rude to them. No one likes those situations.",
-      "DadJokeOfTheDay": "My dog used to chase people on a bike a lot. It got so bad I had to take his bike away.",
-      "IsTodayChristmas?": "Nope",
-      "IsTodayMyBirthday?": "No say I",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/8soqn2.jpg"
+      "FunFactOfTheDay": "The king of hearts is the only king without a mustache.",
+      "CoolAdviceOfTheDay": "Don't let the bastards grind you down.",
+      "DadJokeOfTheDay": "What's the difference between roast beef and pea soup. Anyone can roast beef, but nobody can pee soup.",
+      "IsTodayChristmas?": "I dont know",
+      "IsTodayMyBirthday?": "No",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/8stfne.jpg"
    }
 }
 ```
