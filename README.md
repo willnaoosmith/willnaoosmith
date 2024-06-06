@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The king of hearts is the only king without a mustache.",
-      "CoolAdviceOfTheDay": "Don't let the bastards grind you down.",
-      "DadJokeOfTheDay": "What's the difference between roast beef and pea soup. Anyone can roast beef, but nobody can pee soup.",
-      "IsTodayChristmas?": "I dont know",
-      "IsTodayMyBirthday?": "No",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/8stfne.jpg"
+      "FunFactOfTheDay": "Mount Olympus Mons on Mars is three times the size of Mount Everest.",
+      "CoolAdviceOfTheDay": "Some people would be better off if they took their own advice.",
+      "DadJokeOfTheDay": "So a duck walks into a pharmacy and says “Give me some chap-stick… and put it on my bill”",
+      "IsTodayChristmas?": "Unfortunately, not",
+      "IsTodayMyBirthday?": "Nope",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/8sybps.jpg"
    }
 }
 ```
