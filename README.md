@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Mel Blanc (the voice of Bugs Bunny) was allergic to carrots.",
-      "CoolAdviceOfTheDay": "Try buying a coffee for the creator of a free public API, now and then.",
-      "DadJokeOfTheDay": "How did Darth Vader know what Luke was getting for Christmas? He felt his presents.",
-      "IsTodayChristmas?": "Not yet",
-      "IsTodayMyBirthday?": "Not quite",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/8t2jyt.jpg"
+      "FunFactOfTheDay": "Venus is the only planet that rotates clockwise.",
+      "CoolAdviceOfTheDay": "If you need cheering up, try searching online for photos of kittens.",
+      "DadJokeOfTheDay": "Scientists finally did a study on forks. It's about tine!",
+      "IsTodayChristmas?": "Ask me in one hour",
+      "IsTodayMyBirthday?": "One day",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/8t6zsr.jpg"
    }
 }
 ```
