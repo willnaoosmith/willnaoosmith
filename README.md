@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Venus is the only planet that rotates clockwise.",
-      "CoolAdviceOfTheDay": "If you need cheering up, try searching online for photos of kittens.",
-      "DadJokeOfTheDay": "Scientists finally did a study on forks. It's about tine!",
-      "IsTodayChristmas?": "Ask me in one hour",
-      "IsTodayMyBirthday?": "One day",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/8t6zsr.jpg"
+      "FunFactOfTheDay": "The Eisenhower interstate system requires that one mile in every five must be straight in case of war or emergency, they could be used as airstrips.",
+      "CoolAdviceOfTheDay": "You spend half your life asleep or in bed. It's worth spending money on a good mattress, decent pillows and a comfy duvet.",
+      "DadJokeOfTheDay": "What do you call corn that joins the army? Kernel.",
+      "IsTodayChristmas?": "Ask me tomorrow",
+      "IsTodayMyBirthday?": "Ask me in one hour",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/8t9pyf.jpg"
    }
 }
 ```
