@@ -177,8 +177,6 @@
 
 > 📦 111.2 kB Used in GitHub's Storage 
  > 
-> 🏆 145 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 41 Public Repositories 
@@ -199,17 +197,17 @@
 
 ```text
 💬 Programming Languages: 
-JavaScript               6 hrs 10 mins       █████████░░░░░░░░░░░░░░░░   36.11 % 
-Liquid                   4 hrs 56 mins       ███████░░░░░░░░░░░░░░░░░░   28.92 % 
-CSS                      4 hrs 36 mins       ███████░░░░░░░░░░░░░░░░░░   26.95 % 
-Python                   49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
-Text                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+JavaScript               6 hrs 10 mins       ██████████░░░░░░░░░░░░░░░   41.33 % 
+CSS                      4 hrs 36 mins       ████████░░░░░░░░░░░░░░░░░   30.84 % 
+Liquid                   2 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   18.98 % 
+Python                   49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
+Text                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
 
 🔥 Editors: 
-Sublime Text             17 hrs 6 mins       █████████████████████████   100.00 % 
+Sublime Text             14 hrs 57 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    17 hrs 6 mins       █████████████████████████   100.00 % 
+Linux                    14 hrs 57 mins      █████████████████████████   100.00 % 
 ```
 
 
