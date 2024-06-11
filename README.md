@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The word 'samba' means 'to rub navels together.'",
-      "CoolAdviceOfTheDay": "Work is never as important as you think it is.",
-      "DadJokeOfTheDay": "What did the traffic light say to the car as it passed? 'Don't look I'm changing!'",
-      "IsTodayChristmas?": "Nope",
-      "IsTodayMyBirthday?": "Maybe another time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/8tcjhr.jpg"
+      "FunFactOfTheDay": "A crocodile cannot stick its tongue out.",
+      "CoolAdviceOfTheDay": "Don't take it personally.",
+      "DadJokeOfTheDay": "Someone asked me to name two structures that hold water. I said 'Well dam'",
+      "IsTodayChristmas?": "No",
+      "IsTodayMyBirthday?": "Yes'nt",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/8tgm4r.jpg"
    }
 }
 ```
