@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "A crocodile cannot stick its tongue out.",
-      "CoolAdviceOfTheDay": "Don't take it personally.",
-      "DadJokeOfTheDay": "Someone asked me to name two structures that hold water. I said 'Well dam'",
-      "IsTodayChristmas?": "No",
-      "IsTodayMyBirthday?": "Yes'nt",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/8tgm4r.jpg"
+      "FunFactOfTheDay": "Ingrown toenails are hereditary.  ",
+      "CoolAdviceOfTheDay": "If you can't do anything about it, there's no point in worrying about it.",
+      "DadJokeOfTheDay": "What kind of pants do ghosts wear? Boo jeans.",
+      "IsTodayChristmas?": "Not quite",
+      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/8tkshp.jpg"
    }
 }
 ```
