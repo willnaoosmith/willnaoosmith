@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Ingrown toenails are hereditary.  ",
-      "CoolAdviceOfTheDay": "If you can't do anything about it, there's no point in worrying about it.",
-      "DadJokeOfTheDay": "What kind of pants do ghosts wear? Boo jeans.",
-      "IsTodayChristmas?": "Not quite",
-      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/8tkshp.jpg"
+      "FunFactOfTheDay": "The strongest muscle (Relative to size) in the body is the tongue.",
+      "CoolAdviceOfTheDay": "State the problem in words as clearly as possible.",
+      "DadJokeOfTheDay": "When people are sad, I sometimes let them colour in my tattoos. Sometimes all they need is a shoulder to crayon.",
+      "IsTodayChristmas?": "Maybe another time",
+      "IsTodayMyBirthday?": "Maybe",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/8tp0rl.jpg"
    }
 }
 ```
