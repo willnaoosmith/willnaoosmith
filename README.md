@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The strongest muscle (Relative to size) in the body is the tongue.",
-      "CoolAdviceOfTheDay": "State the problem in words as clearly as possible.",
-      "DadJokeOfTheDay": "When people are sad, I sometimes let them colour in my tattoos. Sometimes all they need is a shoulder to crayon.",
-      "IsTodayChristmas?": "Maybe another time",
-      "IsTodayMyBirthday?": "Maybe",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/8tp0rl.jpg"
+      "FunFactOfTheDay": "Fictional/horror writer Stephen King sleeps with a nearby light on to calm his fear of the dark. ",
+      "CoolAdviceOfTheDay": "Never pay full price for a sofa at DFS.",
+      "DadJokeOfTheDay": "My friend said to me: 'What rhymes with orange' I said: 'no it doesn't'",
+      "IsTodayChristmas?": "Ask me in one hour",
+      "IsTodayMyBirthday?": "Not this time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/8ttaab.jpg"
    }
 }
 ```
