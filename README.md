@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Fictional/horror writer Stephen King sleeps with a nearby light on to calm his fear of the dark. ",
-      "CoolAdviceOfTheDay": "Never pay full price for a sofa at DFS.",
-      "DadJokeOfTheDay": "My friend said to me: 'What rhymes with orange' I said: 'no it doesn't'",
-      "IsTodayChristmas?": "Ask me in one hour",
-      "IsTodayMyBirthday?": "Not this time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/8ttaab.jpg"
+      "FunFactOfTheDay": "The world`s record for keeping a Lifesaver in the mouth with the hole intact is 7 hrs 10 min.",
+      "CoolAdviceOfTheDay": "If you think your headphones are dying, check the socket for fluff with a straightened paperclip.",
+      "DadJokeOfTheDay": "‘Put the cat out’ … ‘I didn’t realize it was on fire",
+      "IsTodayChristmas?": "!Yes",
+      "IsTodayMyBirthday?": "No say I",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/8txigq.jpg"
    }
 }
 ```
