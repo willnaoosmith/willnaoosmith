@@ -169,7 +169,7 @@
 <h4 align="left">My weekly programming languages per time spent</h4>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C055%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C062%20hrs%208%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.2%20million%20lines%20of%20code-blue)
 
@@ -177,7 +177,7 @@
 
 > 📦 111.2 kB Used in GitHub's Storage 
  > 
-> 🏆 153 Contributions in the Year 2024
+> 🏆 156 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -188,10 +188,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                253 commits         ███████████░░░░░░░░░░░░░░   42.03 % 
-🌆 Daytime                333 commits         ██████████████░░░░░░░░░░░   55.32 % 
-🌃 Evening                6 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
-🌙 Night                  10 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+🌞 Morning                254 commits         ██████████░░░░░░░░░░░░░░░   41.98 % 
+🌆 Daytime                335 commits         ██████████████░░░░░░░░░░░   55.37 % 
+🌃 Evening                6 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+🌙 Night                  10 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
 ```
 
 
@@ -199,17 +199,17 @@
 
 ```text
 💬 Programming Languages: 
-JavaScript               4 hrs 56 mins       ████████░░░░░░░░░░░░░░░░░   31.09 % 
-Liquid                   4 hrs 49 mins       ████████░░░░░░░░░░░░░░░░░   30.31 % 
-CSS                      3 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   21.03 % 
-Text                     1 hr 47 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
-HTML                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+JavaScript               5 hrs 53 mins       ██████████░░░░░░░░░░░░░░░   38.89 % 
+Liquid                   4 hrs 49 mins       ████████░░░░░░░░░░░░░░░░░   31.86 % 
+Text                     2 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
+CSS                      1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
+HTML                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
 
 🔥 Editors: 
-Sublime Text             15 hrs 54 mins      █████████████████████████   100.00 % 
+Sublime Text             15 hrs 7 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    15 hrs 54 mins      █████████████████████████   100.00 % 
+Linux                    15 hrs 7 mins       █████████████████████████   100.00 % 
 ```
 
 
