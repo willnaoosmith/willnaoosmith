@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The world`s record for keeping a Lifesaver in the mouth with the hole intact is 7 hrs 10 min.",
-      "CoolAdviceOfTheDay": "If you think your headphones are dying, check the socket for fluff with a straightened paperclip.",
-      "DadJokeOfTheDay": "‘Put the cat out’ … ‘I didn’t realize it was on fire",
-      "IsTodayChristmas?": "!Yes",
-      "IsTodayMyBirthday?": "No say I",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/8txigq.jpg"
+      "FunFactOfTheDay": "There are 1,792 steps in the Eiffel Tower",
+      "CoolAdviceOfTheDay": "If you find yourself distressed about something, ask yourself if it will still matter tomorrow or next week or next month.",
+      "DadJokeOfTheDay": "I've just written a song about a tortilla. Well, it is more of a rap really.",
+      "IsTodayChristmas?": "Maybe",
+      "IsTodayMyBirthday?": "!Yes",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/8u07je.jpg"
    }
 }
 ```
