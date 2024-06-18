@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The only two days of the year in which there are no professional sports games--MLB, NBA, NHL, or NFL--are the day before and the day after the Major League All-Star Game.",
-      "CoolAdviceOfTheDay": "Visitors are like fish: As much as you might like them, after three days they start to smell.",
-      "DadJokeOfTheDay": "Do you want a brief explanation of what an acorn is? In a nutshell, it's an oak tree.",
-      "IsTodayChristmas?": "Ask me in a year",
-      "IsTodayMyBirthday?": "Not quite",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/8u309t.jpg"
+      "FunFactOfTheDay": "Average life span of a major league baseball: 7 pitches.",
+      "CoolAdviceOfTheDay": "Once you find a really good friend don't do anything that could mess up your friendship.",
+      "DadJokeOfTheDay": "What did the traffic light say to the car as it passed? 'Don't look I'm changing!'",
+      "IsTodayChristmas?": "No",
+      "IsTodayMyBirthday?": "Yes'nt",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/8u6trt.jpg"
    }
 }
 ```
