@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The first CD pressed in the US was Bruce Springsteen`s `Born in the USA`",
-      "CoolAdviceOfTheDay": "The sun always shines above the clouds.",
-      "DadJokeOfTheDay": "What did the sea say to the sand? 'We have to stop meeting like this.'",
-      "IsTodayChristmas?": "Ask me in a year",
-      "IsTodayMyBirthday?": "!Yes",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/8ueptv.jpg"
+      "FunFactOfTheDay": "In Disney`s Fantasia, the Sorcerer`s name is 'Yensid' (Disney backwards.)",
+      "CoolAdviceOfTheDay": "What could you increase? What could you reduce?",
+      "DadJokeOfTheDay": "Why did the kid throw the clock out the window? He wanted to see time fly!",
+      "IsTodayChristmas?": "One day",
+      "IsTodayMyBirthday?": "No",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/8uixkr.jpg"
    }
 }
 ```
