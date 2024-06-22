@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "In Disney`s Fantasia, the Sorcerer`s name is 'Yensid' (Disney backwards.)",
-      "CoolAdviceOfTheDay": "What could you increase? What could you reduce?",
-      "DadJokeOfTheDay": "Why did the kid throw the clock out the window? He wanted to see time fly!",
-      "IsTodayChristmas?": "One day",
-      "IsTodayMyBirthday?": "No",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/8uixkr.jpg"
+      "FunFactOfTheDay": "John Lennon`s first girlfriend was named Thelma Pickles.",
+      "CoolAdviceOfTheDay": "Opinions are like arseholes, everyone has one.",
+      "DadJokeOfTheDay": "Where do young cows eat lunch? In the calf-ateria.",
+      "IsTodayChristmas?": "Not quite",
+      "IsTodayMyBirthday?": "!Yes",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/8umuyr.jpg"
    }
 }
 ```
