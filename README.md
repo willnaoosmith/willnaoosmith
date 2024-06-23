@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "John Lennon`s first girlfriend was named Thelma Pickles.",
-      "CoolAdviceOfTheDay": "Opinions are like arseholes, everyone has one.",
-      "DadJokeOfTheDay": "Where do young cows eat lunch? In the calf-ateria.",
-      "IsTodayChristmas?": "Not quite",
-      "IsTodayMyBirthday?": "!Yes",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/8umuyr.jpg"
+      "FunFactOfTheDay": "The `Golden Arches` of fast food chain McDonalds is more recognized worldwide than the religious cross of Christianity.",
+      "CoolAdviceOfTheDay": "Everything in moderation, including moderation itself.",
+      "DadJokeOfTheDay": "I used to work in a shoe recycling shop. It was sole destroying.",
+      "IsTodayChristmas?": "One day",
+      "IsTodayMyBirthday?": "Yes'nt",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/8upn4p.jpg"
    }
 }
 ```
