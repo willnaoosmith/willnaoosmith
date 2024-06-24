@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The `Golden Arches` of fast food chain McDonalds is more recognized worldwide than the religious cross of Christianity.",
-      "CoolAdviceOfTheDay": "Everything in moderation, including moderation itself.",
-      "DadJokeOfTheDay": "I used to work in a shoe recycling shop. It was sole destroying.",
-      "IsTodayChristmas?": "One day",
-      "IsTodayMyBirthday?": "Yes'nt",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/8upn4p.jpg"
+      "FunFactOfTheDay": "The king of hearts is the only king without a mustache.",
+      "CoolAdviceOfTheDay": "The sun always shines above the clouds.",
+      "DadJokeOfTheDay": "Where do bees go to the bathroom?  The BP station.",
+      "IsTodayChristmas?": "No",
+      "IsTodayMyBirthday?": "Maybe",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/8uszx3.jpg"
    }
 }
 ```
