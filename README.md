@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The king of hearts is the only king without a mustache.",
-      "CoolAdviceOfTheDay": "The sun always shines above the clouds.",
-      "DadJokeOfTheDay": "Where do bees go to the bathroom?  The BP station.",
-      "IsTodayChristmas?": "No",
-      "IsTodayMyBirthday?": "Maybe",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/8uszx3.jpg"
+      "FunFactOfTheDay": "A standard slinky measures 87 feet when stretched out.",
+      "CoolAdviceOfTheDay": "Everything matters, but nothing matters that much.",
+      "DadJokeOfTheDay": "How many apples grow on a tree? All of them!",
+      "IsTodayChristmas?": "Unfortunately, not",
+      "IsTodayMyBirthday?": "No say I",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/8uwuod.jpg"
    }
 }
 ```
