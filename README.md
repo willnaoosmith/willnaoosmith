@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "A standard slinky measures 87 feet when stretched out.",
-      "CoolAdviceOfTheDay": "Everything matters, but nothing matters that much.",
-      "DadJokeOfTheDay": "How many apples grow on a tree? All of them!",
-      "IsTodayChristmas?": "Unfortunately, not",
-      "IsTodayMyBirthday?": "No say I",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/8uwuod.jpg"
+      "FunFactOfTheDay": "Peanuts are one of the ingredients of dynamite.",
+      "CoolAdviceOfTheDay": "Don't use Excel or Powerpoint documents for your basic word processing needs.",
+      "DadJokeOfTheDay": "I couldn't get a reservation at the library. They were completely booked.",
+      "IsTodayChristmas?": "Not quite",
+      "IsTodayMyBirthday?": "Maybe",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/8v0uzj.jpg"
    }
 }
 ```
