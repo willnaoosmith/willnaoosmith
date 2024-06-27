@@ -146,18 +146,18 @@
          "Games": ["Chrono Trigger","Driver: Parallel Lines","Watch Dogs"],
          "Music": {
             "Genres": ["Hip Hop","Lo-fi","Jazz"],
-            "Songs": ["MF DOOM - Datura stramonium","MF DOOM - One beer","Quasimodo - Bad caracther"],
+            "Songs": ["MF DOOM - Datura stramonium","MF DOOM - One beer","Quasimodo - Bad character"],
             "Artists": ["MF DOOM","Rav","Vundabar"]
          }
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Peanuts are one of the ingredients of dynamite.",
-      "CoolAdviceOfTheDay": "Don't use Excel or Powerpoint documents for your basic word processing needs.",
-      "DadJokeOfTheDay": "I couldn't get a reservation at the library. They were completely booked.",
-      "IsTodayChristmas?": "Not quite",
-      "IsTodayMyBirthday?": "Maybe",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/8v0uzj.jpg"
+      "FunFactOfTheDay": "The S in Harry S. Truman did not stand for anything.",
+      "CoolAdviceOfTheDay": "Do not seek praise, seek criticism.",
+      "DadJokeOfTheDay": "What do you call your friend who stands in a hole? Phil.",
+      "IsTodayChristmas?": "Ask me tomorrow",
+      "IsTodayMyBirthday?": "Not this time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/8v4vxr.jpg"
    }
 }
 ```
