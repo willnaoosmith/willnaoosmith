@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The S in Harry S. Truman did not stand for anything.",
-      "CoolAdviceOfTheDay": "Do not seek praise, seek criticism.",
-      "DadJokeOfTheDay": "What do you call your friend who stands in a hole? Phil.",
+      "FunFactOfTheDay": "A duck`s quack doesn`t echo, and no one knows why.",
+      "CoolAdviceOfTheDay": "It is easy to sit up and take notice, what's difficult is getting up and taking action.",
+      "DadJokeOfTheDay": "No matter how kind you are, German children are kinder.",
       "IsTodayChristmas?": "Ask me tomorrow",
-      "IsTodayMyBirthday?": "Not this time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/8v4vxr.jpg"
+      "IsTodayMyBirthday?": "Ask me in one hour",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/8v8zen.jpg"
    }
 }
 ```
