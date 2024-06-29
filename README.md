@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "A duck`s quack doesn`t echo, and no one knows why.",
-      "CoolAdviceOfTheDay": "It is easy to sit up and take notice, what's difficult is getting up and taking action.",
-      "DadJokeOfTheDay": "No matter how kind you are, German children are kinder.",
-      "IsTodayChristmas?": "Ask me tomorrow",
-      "IsTodayMyBirthday?": "Ask me in one hour",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/8v8zen.jpg"
+      "FunFactOfTheDay": "Koala is Aboriginal for 'no drink'.",
+      "CoolAdviceOfTheDay": "When you're at a concert or event, enjoy the moment, enjoy being there. Try leaving your camera in your pocket.",
+      "DadJokeOfTheDay": "How do you make a water bed more bouncy. You use Spring Water",
+      "IsTodayChristmas?": "No say I",
+      "IsTodayMyBirthday?": "Nah",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/8vczc6.jpg"
    }
 }
 ```
