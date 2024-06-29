@@ -177,7 +177,7 @@
 
 > 📦 111.2 kB Used in GitHub's Storage 
  > 
-> 🏆 193 Contributions in the Year 2024
+> 🏆 194 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -188,8 +188,8 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                260 commits         ██████████░░░░░░░░░░░░░░░   40.62 % 
-🌆 Daytime                363 commits         ██████████████░░░░░░░░░░░   56.72 % 
+🌞 Morning                260 commits         ██████████░░░░░░░░░░░░░░░   40.56 % 
+🌆 Daytime                364 commits         ██████████████░░░░░░░░░░░   56.79 % 
 🌃 Evening                7 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
 🌙 Night                  10 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
 ```
@@ -199,17 +199,17 @@
 
 ```text
 💬 Programming Languages: 
-JavaScript               14 hrs 10 mins      ███████████████████░░░░░░   77.92 % 
-CSS                      1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
-Liquid                   1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
-JSON                     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
-Python                   22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+JavaScript               11 hrs 22 mins      ███████████████████░░░░░░   76.13 % 
+Liquid                   1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
+CSS                      1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
+JSON                     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
+Text                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
 
 🔥 Editors: 
-Sublime Text             18 hrs 10 mins      █████████████████████████   100.00 % 
+Sublime Text             14 hrs 56 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    18 hrs 10 mins      █████████████████████████   100.00 % 
+Linux                    14 hrs 56 mins      █████████████████████████   100.00 % 
 ```
 
 
