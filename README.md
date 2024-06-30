@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Koala is Aboriginal for 'no drink'.",
-      "CoolAdviceOfTheDay": "When you're at a concert or event, enjoy the moment, enjoy being there. Try leaving your camera in your pocket.",
-      "DadJokeOfTheDay": "How do you make a water bed more bouncy. You use Spring Water",
-      "IsTodayChristmas?": "No say I",
-      "IsTodayMyBirthday?": "Nah",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/8vczc6.jpg"
+      "FunFactOfTheDay": "38% of American men say they love their cars more than women",
+      "CoolAdviceOfTheDay": "Remember that spiders are more afraid of you, than you are of them.",
+      "DadJokeOfTheDay": "Did you hear about the campsite that got visited by Bigfoot? It got in tents.",
+      "IsTodayChristmas?": "No",
+      "IsTodayMyBirthday?": "Maybe another time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/8vfoem.jpg"
    }
 }
 ```
