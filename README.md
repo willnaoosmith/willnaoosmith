@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "5,840 people with pillow related injuries checked into U.S. emergency rooms in 1992.",
-      "CoolAdviceOfTheDay": "If you want to be happily married, marry a happy person.",
-      "DadJokeOfTheDay": "I’m reading a book on the history of glue – can’t put it down.",
-      "IsTodayChristmas?": "No say I",
-      "IsTodayMyBirthday?": "Nope",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/8vixpb.jpg"
+      "FunFactOfTheDay": "The longest word in the English language, according to the Oxford English Dictionary, is: pneumonoultramicroscopicsilicovolcanoconiosis..  ",
+      "CoolAdviceOfTheDay": "Identify sources of happiness.",
+      "DadJokeOfTheDay": "I been watching a channel on TV that is strictly just about origami — of course it is paper-view.",
+      "IsTodayChristmas?": "!Yes",
+      "IsTodayMyBirthday?": "I dont know",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/8vn70i.jpg"
    }
 }
 ```
