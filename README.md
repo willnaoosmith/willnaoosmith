@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Only 6 people in the whole world have died from moshing.",
-      "CoolAdviceOfTheDay": "Sing in the shower.",
-      "DadJokeOfTheDay": "Sometimes I tuck my knees into my chest and lean forward.  That’s just how I roll.",
+      "FunFactOfTheDay": "Simplistic passwords contribute to over 80% of all computer password break-ins.",
+      "CoolAdviceOfTheDay": "Always double check you actually attached the file to the email.",
+      "DadJokeOfTheDay": "What do you call a bear with no teeth? A gummy bear!",
       "IsTodayChristmas?": "Ask me in a year",
-      "IsTodayMyBirthday?": "Unfortunately, not",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/8vs5wa.jpg"
+      "IsTodayMyBirthday?": "Maybe",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/8vs6du.jpg"
    }
 }
 ```
