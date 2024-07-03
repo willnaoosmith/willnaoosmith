@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The longest word in the English language, according to the Oxford English Dictionary, is: pneumonoultramicroscopicsilicovolcanoconiosis..  ",
-      "CoolAdviceOfTheDay": "Identify sources of happiness.",
-      "DadJokeOfTheDay": "I been watching a channel on TV that is strictly just about origami — of course it is paper-view.",
-      "IsTodayChristmas?": "!Yes",
-      "IsTodayMyBirthday?": "I dont know",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/8vn70i.jpg"
+      "FunFactOfTheDay": "The common idea that only 10% of the brain is used it not true as it is impossible to determine the actual percentage because of the complexity of the brain.",
+      "CoolAdviceOfTheDay": "Do not seek praise, seek criticism.",
+      "DadJokeOfTheDay": "Past, present, and future walked into a bar.... It was tense.",
+      "IsTodayChristmas?": "Ask me in one hour",
+      "IsTodayMyBirthday?": "Ask me in a year",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/8vrbz3.jpg"
    }
 }
 ```
