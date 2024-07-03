@@ -169,11 +169,15 @@
 <h4 align="left">My weekly programming languages per time spent</h4>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C102%20hrs%2027%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.3%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 111.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 195 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -181,6 +185,33 @@
  > 
 > 🔑 15 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                260 commits         ██████████░░░░░░░░░░░░░░░   40.50 % 
+🌆 Daytime                364 commits         ██████████████░░░░░░░░░░░   56.70 % 
+🌃 Evening                7 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+🌙 Night                  11 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Liquid                   4 hrs 36 mins       █████████████░░░░░░░░░░░░   53.53 % 
+Python                   2 hrs 33 mins       ███████░░░░░░░░░░░░░░░░░░   29.83 % 
+JSON                     1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
+JavaScript               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+CSV                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+
+🔥 Editors: 
+Sublime Text             8 hrs 36 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Linux                    8 hrs 36 mins       █████████████████████████   100.00 % 
+```
+
 
 <!--END_SECTION:waka-->
 
