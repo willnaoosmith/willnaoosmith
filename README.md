@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Simplistic passwords contribute to over 80% of all computer password break-ins.",
-      "CoolAdviceOfTheDay": "Always double check you actually attached the file to the email.",
-      "DadJokeOfTheDay": "What do you call a bear with no teeth? A gummy bear!",
-      "IsTodayChristmas?": "Ask me in a year",
-      "IsTodayMyBirthday?": "Maybe",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/8vs6du.jpg"
+      "FunFactOfTheDay": "Jefferson invented the dumbwaiter, the monetary system, and the folding attic ladder.",
+      "CoolAdviceOfTheDay": "One of the top five regrets people have is that they didn't have the courage to be their true self.",
+      "DadJokeOfTheDay": "The biggest knight at King Arthur's round table was Sir Cumference. He acquired his size from eating too much pi.",
+      "IsTodayChristmas?": "!Yes",
+      "IsTodayMyBirthday?": "Not yet",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/8vvu8z.jpg"
    }
 }
 ```
