@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Alfred Hitchcock didn`t have a belly button. It was eliminated when he was sewn up after surgery.",
-      "CoolAdviceOfTheDay": "For every complex problem there is an answer that is clear, simple, and wrong.",
-      "DadJokeOfTheDay": "What do you call a beehive without the b's? An eehive.",
-      "IsTodayChristmas?": "Nah",
-      "IsTodayMyBirthday?": "Ask me in one hour",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/8vzc75.jpg"
+      "FunFactOfTheDay": "Shakespeare is quoted 33,150 times in the Oxford English dictionary.",
+      "CoolAdviceOfTheDay": "A long walk alone with some time to think, can work wonders.",
+      "DadJokeOfTheDay": "Recent survey revealed 6 out of 7 dwarf's aren't happy.",
+      "IsTodayChristmas?": "Unfortunately, not",
+      "IsTodayMyBirthday?": "Maybe another time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/8w2q96.jpg"
    }
 }
 ```
