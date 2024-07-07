@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Shakespeare is quoted 33,150 times in the Oxford English dictionary.",
-      "CoolAdviceOfTheDay": "A long walk alone with some time to think, can work wonders.",
-      "DadJokeOfTheDay": "Recent survey revealed 6 out of 7 dwarf's aren't happy.",
-      "IsTodayChristmas?": "Unfortunately, not",
-      "IsTodayMyBirthday?": "Maybe another time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/8w2q96.jpg"
+      "FunFactOfTheDay": "There are 336 dimples on a regulation golf ball.",
+      "CoolAdviceOfTheDay": "A common regret in life is wishing one hadn't worked so hard.",
+      "DadJokeOfTheDay": "The rotation of earth really makes my day.",
+      "IsTodayChristmas?": "Not yet",
+      "IsTodayMyBirthday?": "Nah",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/8w5dsb.jpg"
    }
 }
 ```
