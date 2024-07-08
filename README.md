@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "There are 336 dimples on a regulation golf ball.",
-      "CoolAdviceOfTheDay": "A common regret in life is wishing one hadn't worked so hard.",
-      "DadJokeOfTheDay": "The rotation of earth really makes my day.",
-      "IsTodayChristmas?": "Not yet",
-      "IsTodayMyBirthday?": "Nah",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/8w5dsb.jpg"
+      "FunFactOfTheDay": "You can sail all the way around the world at latitude 60 degrees south.",
+      "CoolAdviceOfTheDay": "Do something selfless.",
+      "DadJokeOfTheDay": "There’s a new type of broom out, it’s sweeping the nation.",
+      "IsTodayChristmas?": "Nah",
+      "IsTodayMyBirthday?": "One day",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/8w8d7u.jpg"
    }
 }
 ```
