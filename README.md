@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "You can sail all the way around the world at latitude 60 degrees south.",
-      "CoolAdviceOfTheDay": "Do something selfless.",
-      "DadJokeOfTheDay": "There’s a new type of broom out, it’s sweeping the nation.",
-      "IsTodayChristmas?": "Nah",
-      "IsTodayMyBirthday?": "One day",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/8w8d7u.jpg"
+      "FunFactOfTheDay": "Most lipstick contains fish scales!",
+      "CoolAdviceOfTheDay": "Remedy tickly coughs with a drink of honey, lemon and water as hot as you can take.",
+      "DadJokeOfTheDay": "How do you make a 'one' disappear? You add a 'g' and it's 'gone'",
+      "IsTodayChristmas?": "Maybe",
+      "IsTodayMyBirthday?": "Nah",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/8wbwoj.jpg"
    }
 }
 ```
