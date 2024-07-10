@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Most lipstick contains fish scales!",
-      "CoolAdviceOfTheDay": "Remedy tickly coughs with a drink of honey, lemon and water as hot as you can take.",
-      "DadJokeOfTheDay": "How do you make a 'one' disappear? You add a 'g' and it's 'gone'",
-      "IsTodayChristmas?": "Maybe",
-      "IsTodayMyBirthday?": "Nah",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/8wbwoj.jpg"
+      "FunFactOfTheDay": "Bees have 5 eyes. There are 3 small eyes on the top of a bee`s head and 2 larger ones in front.",
+      "CoolAdviceOfTheDay": "You're not as fat as you think you are.",
+      "DadJokeOfTheDay": "My wife said I was immature. So I told her to get out of my fort.",
+      "IsTodayChristmas?": "Not this time",
+      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/8wg156.jpg"
    }
 }
 ```
