@@ -177,6 +177,8 @@
 
 > 📦 111.2 kB Used in GitHub's Storage 
  > 
+> 🏆 207 Contributions in the Year 2024
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 43 Public Repositories 
@@ -186,10 +188,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                263 commits         ██████████░░░░░░░░░░░░░░░   40.59 % 
-🌆 Daytime                365 commits         ██████████████░░░░░░░░░░░   56.33 % 
-🌃 Evening                7 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
-🌙 Night                  13 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
+🌞 Morning                264 commits         ██████████░░░░░░░░░░░░░░░   40.37 % 
+🌆 Daytime                370 commits         ██████████████░░░░░░░░░░░   56.57 % 
+🌃 Evening                7 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+🌙 Night                  13 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
 ```
 
 
