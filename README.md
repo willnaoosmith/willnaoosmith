@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "It has NEVER rained in Calama, a town in the Atacama Desert of Chile.",
-      "CoolAdviceOfTheDay": "Don't give to others advice which you wouldn't follow.",
-      "DadJokeOfTheDay": "Yesterday a clown held a door open for me. I thought it was a nice jester.",
-      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
-      "IsTodayMyBirthday?": "Maybe another time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/8wjwgi.jpg"
+      "FunFactOfTheDay": "Deborah Winger did the voice of E.T.",
+      "CoolAdviceOfTheDay": "Most things look better when you put them in a circle.",
+      "DadJokeOfTheDay": "Nurse: Doctor, there's a patient that says he's invisible. Doctor: Well, tell him I can't see him right now!",
+      "IsTodayChristmas?": "Unfortunately, not",
+      "IsTodayMyBirthday?": "One day",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/8wo20m.jpg"
    }
 }
 ```
