@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Deborah Winger did the voice of E.T.",
-      "CoolAdviceOfTheDay": "Most things look better when you put them in a circle.",
-      "DadJokeOfTheDay": "Nurse: Doctor, there's a patient that says he's invisible. Doctor: Well, tell him I can't see him right now!",
-      "IsTodayChristmas?": "Unfortunately, not",
-      "IsTodayMyBirthday?": "One day",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/8wo20m.jpg"
+      "FunFactOfTheDay": "Months that begin on a Sunday will always have a `Friday the 13th`.",
+      "CoolAdviceOfTheDay": "Don't eat non-snow-coloured snow.",
+      "DadJokeOfTheDay": "Where did you learn to make ice cream? Sunday school.",
+      "IsTodayChristmas?": "Ask me tomorrow",
+      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/8wsbkt.jpg"
    }
 }
 ```
