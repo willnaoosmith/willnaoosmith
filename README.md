@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Months that begin on a Sunday will always have a `Friday the 13th`.",
-      "CoolAdviceOfTheDay": "Don't eat non-snow-coloured snow.",
-      "DadJokeOfTheDay": "Where did you learn to make ice cream? Sunday school.",
-      "IsTodayChristmas?": "Ask me tomorrow",
+      "FunFactOfTheDay": "An ostrich`s eye is bigger than its brain.  ",
+      "CoolAdviceOfTheDay": "You will always regret the round of Tequila.",
+      "DadJokeOfTheDay": "Why did the miner get fired from his job? He took it for granite...",
+      "IsTodayChristmas?": "Nope",
       "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/8wsbkt.jpg"
+      "RandomMemeOfTheDay": "https://i.imgflip.com/8wxmhq.jpg"
    }
 }
 ```
