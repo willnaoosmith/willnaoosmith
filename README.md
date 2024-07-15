@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "An ostrich`s eye is bigger than its brain.  ",
-      "CoolAdviceOfTheDay": "You will always regret the round of Tequila.",
-      "DadJokeOfTheDay": "Why did the miner get fired from his job? He took it for granite...",
-      "IsTodayChristmas?": "Nope",
-      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/8wxmhq.jpg"
+      "FunFactOfTheDay": "Firehouses have circular stairways originating from the old days when the engines were pulled by horses. The horses were stabled on the ground floor and figured out how to walk up straight staircases.",
+      "CoolAdviceOfTheDay": "You don't need to floss all of your teeth. Only the ones you want to keep.",
+      "DadJokeOfTheDay": "People saying 'boo! to their friends has risen by 85% in the last year.... That's a frightening statistic.",
+      "IsTodayChristmas?": "Ask me tomorrow",
+      "IsTodayMyBirthday?": "Ask me in one hour",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/8x0os2.jpg"
    }
 }
 ```
