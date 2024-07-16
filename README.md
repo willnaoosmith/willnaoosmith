@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Donald Duck comics were banned from Finland because he doesn`t wear pants!",
-      "CoolAdviceOfTheDay": "Do something selfless.",
-      "DadJokeOfTheDay": "What kind of dog lives in a particle accelerator? A Fermilabrador Retriever.",
-      "IsTodayChristmas?": "Ask me in one hour",
-      "IsTodayMyBirthday?": "I dont know",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/8x4hdh.jpg"
+      "FunFactOfTheDay": "It`s possible to lead a cow upstairs but not downstairs.",
+      "CoolAdviceOfTheDay": "There is no reason at all to believe that White Wine is any different to water when it comes to removing Red Wine stains.",
+      "DadJokeOfTheDay": "What animal is always at a game of cricket? A bat.",
+      "IsTodayChristmas?": "No",
+      "IsTodayMyBirthday?": "Not this time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/8x9bjr.jpg"
    }
 }
 ```
