@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Firehouses have circular stairways originating from the old days when the engines were pulled by horses. The horses were stabled on the ground floor and figured out how to walk up straight staircases.",
-      "CoolAdviceOfTheDay": "You don't need to floss all of your teeth. Only the ones you want to keep.",
-      "DadJokeOfTheDay": "People saying 'boo! to their friends has risen by 85% in the last year.... That's a frightening statistic.",
-      "IsTodayChristmas?": "Ask me tomorrow",
-      "IsTodayMyBirthday?": "Ask me in one hour",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/8x0os2.jpg"
+      "FunFactOfTheDay": "Donald Duck comics were banned from Finland because he doesn`t wear pants!",
+      "CoolAdviceOfTheDay": "Do something selfless.",
+      "DadJokeOfTheDay": "What kind of dog lives in a particle accelerator? A Fermilabrador Retriever.",
+      "IsTodayChristmas?": "Ask me in one hour",
+      "IsTodayMyBirthday?": "I dont know",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/8x4hdh.jpg"
    }
 }
 ```
