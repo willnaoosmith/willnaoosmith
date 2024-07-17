@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "It`s possible to lead a cow upstairs but not downstairs.",
-      "CoolAdviceOfTheDay": "There is no reason at all to believe that White Wine is any different to water when it comes to removing Red Wine stains.",
-      "DadJokeOfTheDay": "What animal is always at a game of cricket? A bat.",
-      "IsTodayChristmas?": "No",
-      "IsTodayMyBirthday?": "Not this time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/8x9bjr.jpg"
+      "FunFactOfTheDay": "In space, astronauts are unable to cry, because there is no gravity and the tears won`t flow.",
+      "CoolAdviceOfTheDay": "If you've nothing nice to say, say nothing.",
+      "DadJokeOfTheDay": "Without geometry life is pointless.",
+      "IsTodayChristmas?": "Unfortunately, not",
+      "IsTodayMyBirthday?": "Ask me in one hour",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/8xae2x.jpg"
    }
 }
 ```
