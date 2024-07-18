@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "In space, astronauts are unable to cry, because there is no gravity and the tears won`t flow.",
-      "CoolAdviceOfTheDay": "If you've nothing nice to say, say nothing.",
-      "DadJokeOfTheDay": "Without geometry life is pointless.",
-      "IsTodayChristmas?": "Unfortunately, not",
-      "IsTodayMyBirthday?": "Ask me in one hour",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/8xae2x.jpg"
+      "FunFactOfTheDay": "The average person`s left hand does 56% of the typing.",
+      "CoolAdviceOfTheDay": "Mercy is the better part of justice.",
+      "DadJokeOfTheDay": "I asked a frenchman if he played video games. He said 'Wii'",
+      "IsTodayChristmas?": "No say I",
+      "IsTodayMyBirthday?": "No",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/8xe9s4.jpg"
    }
 }
 ```
