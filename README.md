@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The average person`s left hand does 56% of the typing.",
-      "CoolAdviceOfTheDay": "Mercy is the better part of justice.",
-      "DadJokeOfTheDay": "I asked a frenchman if he played video games. He said 'Wii'",
+      "FunFactOfTheDay": "Chewing gum while peeling onions will keep you from crying.",
+      "CoolAdviceOfTheDay": "If you have grandparents or parents - Talk to them more. Ask them about their life experiences.",
+      "DadJokeOfTheDay": "Did you know that ghosts call their true love their ghoul-friend?",
       "IsTodayChristmas?": "No say I",
-      "IsTodayMyBirthday?": "No",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/8xe9s4.jpg"
+      "IsTodayMyBirthday?": "Nope",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/8xih9p.jpg"
    }
 }
 ```
