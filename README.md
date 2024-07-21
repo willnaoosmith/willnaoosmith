@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "5,840 people with pillow related injuries checked into U.S. emergency rooms in 1992.",
-      "CoolAdviceOfTheDay": "The person who never made a mistake never made anything.",
-      "DadJokeOfTheDay": "My sister bet me $15 that I couldn't build a car out of spaghetti. You should have seen the look on her face as I drove pasta.",
-      "IsTodayChristmas?": "Not quite",
-      "IsTodayMyBirthday?": "One day",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/8xmue2.jpg"
+      "FunFactOfTheDay": "Coca-Cola was originally green.",
+      "CoolAdviceOfTheDay": "Don't take it personally.",
+      "DadJokeOfTheDay": "When do doctors get angry? When they run out of patients.",
+      "IsTodayChristmas?": "No",
+      "IsTodayMyBirthday?": "Unfortunately, not",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/8xpgkj.jpg"
    }
 }
 ```
