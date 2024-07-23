@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "More people are killed annually by donkeys than airplane crashes.",
-      "CoolAdviceOfTheDay": "The quieter you become, the more you can hear.",
-      "DadJokeOfTheDay": "Never take advice from electrons. They are always negative.",
-      "IsTodayChristmas?": "Ask me in a year",
-      "IsTodayMyBirthday?": "Not yet",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/8xspc7.jpg"
+      "FunFactOfTheDay": "The expression `to get fired` comes from long ago Clans that wanted to get rid of unwanted people, so they would burn their houses instead of killing them, creating the term `Got fired`.",
+      "CoolAdviceOfTheDay": "When the cistern is filling, the seat is probably still warm.",
+      "DadJokeOfTheDay": "What did the Zen Buddist say to the hotdog vendor? Make me one with everything.",
+      "IsTodayChristmas?": "Maybe another time",
+      "IsTodayMyBirthday?": "Maybe",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/8xwi9p.jpg"
    }
 }
 ```
