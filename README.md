@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The expression `to get fired` comes from long ago Clans that wanted to get rid of unwanted people, so they would burn their houses instead of killing them, creating the term `Got fired`.",
-      "CoolAdviceOfTheDay": "When the cistern is filling, the seat is probably still warm.",
-      "DadJokeOfTheDay": "What did the Zen Buddist say to the hotdog vendor? Make me one with everything.",
-      "IsTodayChristmas?": "Maybe another time",
-      "IsTodayMyBirthday?": "Maybe",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/8xwi9p.jpg"
+      "FunFactOfTheDay": "Owls are one of the only birds who can see the color blue!",
+      "CoolAdviceOfTheDay": "Always get two ciders.",
+      "DadJokeOfTheDay": "Did you hear that David lost his ID in prague? Now we just have to call him Dav.",
+      "IsTodayChristmas?": "Ask me in a year",
+      "IsTodayMyBirthday?": "Not yet",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/8y0e5m.jpg"
    }
 }
 ```
