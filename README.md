@@ -123,7 +123,7 @@
 
 </br>
 <p align="center">
-	<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=12181824518&cover_image=true&theme=default&show_offline=true&background_color=0d1117&interchange=true)](https://github.com/kittinan/spotify-github-profile" />
+	<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=12181824518&cover_image=true&theme=default&show_offline=true&background_color=0d1117&interchange=true)](https://github.com/kittinan/spotify-github-profile&redirect=true" />
 </p>
 
 </br>
