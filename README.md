@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Owls are one of the only birds who can see the color blue!",
-      "CoolAdviceOfTheDay": "Always get two ciders.",
-      "DadJokeOfTheDay": "Did you hear that David lost his ID in prague? Now we just have to call him Dav.",
-      "IsTodayChristmas?": "Ask me in a year",
-      "IsTodayMyBirthday?": "Not yet",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/8y0e5m.jpg"
+      "FunFactOfTheDay": "Most dust particles in your house are made from dead skin.",
+      "CoolAdviceOfTheDay": "Don't ever name files or folders using the word 'Final'.",
+      "DadJokeOfTheDay": "Breaking news! Energizer Bunny arrested – charged with battery.",
+      "IsTodayChristmas?": "Yes'nt",
+      "IsTodayMyBirthday?": "Maybe",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/8y4ffw.jpg"
    }
 }
 ```
