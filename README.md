@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Most dust particles in your house are made from dead skin.",
-      "CoolAdviceOfTheDay": "Don't ever name files or folders using the word 'Final'.",
-      "DadJokeOfTheDay": "Breaking news! Energizer Bunny arrested – charged with battery.",
-      "IsTodayChristmas?": "Yes'nt",
-      "IsTodayMyBirthday?": "Maybe",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/8y4ffw.jpg"
+      "FunFactOfTheDay": "Firehouses have circular stairways originating from the old days when the engines were pulled by horses. The horses were stabled on the ground floor and figured out how to walk up straight staircases.",
+      "CoolAdviceOfTheDay": "Don't take it personally.",
+      "DadJokeOfTheDay": "Two peanuts were walking down the street. One was a salted.",
+      "IsTodayChristmas?": "Maybe another time",
+      "IsTodayMyBirthday?": "Unfortunately, not",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/8y8f85.jpg"
    }
 }
 ```
