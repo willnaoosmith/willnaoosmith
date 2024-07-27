@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Firehouses have circular stairways originating from the old days when the engines were pulled by horses. The horses were stabled on the ground floor and figured out how to walk up straight staircases.",
-      "CoolAdviceOfTheDay": "Don't take it personally.",
-      "DadJokeOfTheDay": "Two peanuts were walking down the street. One was a salted.",
-      "IsTodayChristmas?": "Maybe another time",
-      "IsTodayMyBirthday?": "Unfortunately, not",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/8y8f85.jpg"
+      "FunFactOfTheDay": "If Texas were a country, its GNP would be the fifth largest of any country in the world.",
+      "CoolAdviceOfTheDay": "Sarcasm is the lowest form of wit. Employ correctly with apt timing.",
+      "DadJokeOfTheDay": "I used to hate facial hair, but then it grew on me.",
+      "IsTodayChristmas?": "One day",
+      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/8yeu34.jpg"
    }
 }
 ```
