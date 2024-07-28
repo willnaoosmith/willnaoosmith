@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "If Texas were a country, its GNP would be the fifth largest of any country in the world.",
-      "CoolAdviceOfTheDay": "Sarcasm is the lowest form of wit. Employ correctly with apt timing.",
-      "DadJokeOfTheDay": "I used to hate facial hair, but then it grew on me.",
-      "IsTodayChristmas?": "One day",
-      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/8yeu34.jpg"
+      "FunFactOfTheDay": "A full-loaded supertanker traveling at normal speed takes at least 20 minutes to stop.",
+      "CoolAdviceOfTheDay": "Don't put off breaking up with someone when you know you want to. Prolonging the situation only makes it worse.",
+      "DadJokeOfTheDay": "How do you make a water bed more bouncy. You use Spring Water",
+      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
+      "IsTodayMyBirthday?": "No say I",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/8yiy85.jpg"
    }
 }
 ```
