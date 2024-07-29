@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "A full-loaded supertanker traveling at normal speed takes at least 20 minutes to stop.",
-      "CoolAdviceOfTheDay": "Don't put off breaking up with someone when you know you want to. Prolonging the situation only makes it worse.",
-      "DadJokeOfTheDay": "How do you make a water bed more bouncy. You use Spring Water",
-      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
-      "IsTodayMyBirthday?": "No say I",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/8yiy85.jpg"
+      "FunFactOfTheDay": "%60 of all people using the Internet, use it for pornography.",
+      "CoolAdviceOfTheDay": "Visitors are like fish: As much as you might like them, after three days they start to smell.",
+      "DadJokeOfTheDay": "I used to work for an origami company but they folded.",
+      "IsTodayChristmas?": "No say I",
+      "IsTodayMyBirthday?": "Unfortunately, not",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/8yltza.jpg"
    }
 }
 ```
