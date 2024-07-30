@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "%60 of all people using the Internet, use it for pornography.",
-      "CoolAdviceOfTheDay": "Visitors are like fish: As much as you might like them, after three days they start to smell.",
-      "DadJokeOfTheDay": "I used to work for an origami company but they folded.",
-      "IsTodayChristmas?": "No say I",
-      "IsTodayMyBirthday?": "Unfortunately, not",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/8yltza.jpg"
+      "FunFactOfTheDay": "The shortest war in history was between Zanzibar and England in 1896. Zanzibar surrendered after 38 minutes.",
+      "CoolAdviceOfTheDay": "It's always the quiet ones.",
+      "DadJokeOfTheDay": "I used to think I was indecisive, but now I'm not sure.",
+      "IsTodayChristmas?": "One day",
+      "IsTodayMyBirthday?": "Ask me in one hour",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/8yphxs.jpg"
    }
 }
 ```
