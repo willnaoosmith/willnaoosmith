@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The shortest war in history was between Zanzibar and England in 1896. Zanzibar surrendered after 38 minutes.",
-      "CoolAdviceOfTheDay": "It's always the quiet ones.",
-      "DadJokeOfTheDay": "I used to think I was indecisive, but now I'm not sure.",
-      "IsTodayChristmas?": "One day",
-      "IsTodayMyBirthday?": "Ask me in one hour",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/8yphxs.jpg"
+      "FunFactOfTheDay": "Almonds are a member of the peach family.",
+      "CoolAdviceOfTheDay": "Learn from your mistakes.",
+      "DadJokeOfTheDay": "Why is it a bad idea to iron your four-leaf clover? Cause you shouldn't press your luck.",
+      "IsTodayChristmas?": "Unfortunately, not",
+      "IsTodayMyBirthday?": "!Yes",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/8yt8zc.jpg"
    }
 }
 ```
