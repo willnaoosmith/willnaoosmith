@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Almonds are a member of the peach family.",
-      "CoolAdviceOfTheDay": "Learn from your mistakes.",
-      "DadJokeOfTheDay": "Why is it a bad idea to iron your four-leaf clover? Cause you shouldn't press your luck.",
-      "IsTodayChristmas?": "Unfortunately, not",
-      "IsTodayMyBirthday?": "!Yes",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/8yt8zc.jpg"
+      "FunFactOfTheDay": "Elephants are the only animals that can`t jump.",
+      "CoolAdviceOfTheDay": "Everything in moderation, including moderation itself.",
+      "DadJokeOfTheDay": "People saying 'boo! to their friends has risen by 85% in the last year.... That's a frightening statistic.",
+      "IsTodayChristmas?": "Ask me tomorrow",
+      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/8yx47k.jpg"
    }
 }
 ```
