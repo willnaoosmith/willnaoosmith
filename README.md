@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The shape of plant collenchyma’s cells and the shape of the bubbles in beer foam are the same - they are orthotetrachidecahedrons.",
-      "CoolAdviceOfTheDay": "Don't use Excel or Powerpoint documents for your basic word processing needs.",
-      "DadJokeOfTheDay": "Where do bees go to the bathroom?  The BP station.",
-      "IsTodayChristmas?": "No say I",
-      "IsTodayMyBirthday?": "Not quite",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/8z4v47.jpg"
+      "FunFactOfTheDay": "In the last 4000 years, no new animals have been domesticated.",
+      "CoolAdviceOfTheDay": "Measure twice, cut once.",
+      "DadJokeOfTheDay": "What's blue and not very heavy?  Light blue.",
+      "IsTodayChristmas?": "Nah",
+      "IsTodayMyBirthday?": "Nope",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/8z7lgj.jpg"
    }
 }
 ```
