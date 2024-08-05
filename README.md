@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "In the last 4000 years, no new animals have been domesticated.",
-      "CoolAdviceOfTheDay": "Measure twice, cut once.",
-      "DadJokeOfTheDay": "What's blue and not very heavy?  Light blue.",
-      "IsTodayChristmas?": "Nah",
+      "FunFactOfTheDay": "101 Dalmatians, Peter Pan, Lady and the Tramp, and Mulan are the only Disney cartoons where both parents are present and don`t die throughout the movie.",
+      "CoolAdviceOfTheDay": "If you don't like the opinion you've been given, get another one.",
+      "DadJokeOfTheDay": "‘Put the cat out’ … ‘I didn’t realize it was on fire",
+      "IsTodayChristmas?": "Ask me in a year",
       "IsTodayMyBirthday?": "Nope",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/8z7lgj.jpg"
+      "RandomMemeOfTheDay": "https://i.imgflip.com/8zac13.jpg"
    }
 }
 ```
