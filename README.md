@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "101 Dalmatians, Peter Pan, Lady and the Tramp, and Mulan are the only Disney cartoons where both parents are present and don`t die throughout the movie.",
-      "CoolAdviceOfTheDay": "If you don't like the opinion you've been given, get another one.",
-      "DadJokeOfTheDay": "‘Put the cat out’ … ‘I didn’t realize it was on fire",
-      "IsTodayChristmas?": "Ask me in a year",
-      "IsTodayMyBirthday?": "Nope",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/8zac13.jpg"
+      "FunFactOfTheDay": "Count the number of cricket chirps in a 15-second period, add 37 to the total, and your result will be very close to the actual outdoor Fahrenheit temperature.",
+      "CoolAdviceOfTheDay": "If you have grandparents or parents - Talk to them more. Ask them about their life experiences.",
+      "DadJokeOfTheDay": "My sea sickness comes in waves.",
+      "IsTodayChristmas?": "Ask me in one hour",
+      "IsTodayMyBirthday?": "Maybe another time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/8ze0m1.jpg"
    }
 }
 ```
