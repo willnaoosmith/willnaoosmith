@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Count the number of cricket chirps in a 15-second period, add 37 to the total, and your result will be very close to the actual outdoor Fahrenheit temperature.",
-      "CoolAdviceOfTheDay": "If you have grandparents or parents - Talk to them more. Ask them about their life experiences.",
-      "DadJokeOfTheDay": "My sea sickness comes in waves.",
-      "IsTodayChristmas?": "Ask me in one hour",
+      "FunFactOfTheDay": "Jupiter is bigger than all the other planets in our solar system combined.",
+      "CoolAdviceOfTheDay": "Giving someone a hug can be mutually rewarding. Try to give at least one hug a day to someone.",
+      "DadJokeOfTheDay": "They laughed when I said I wanted to be a comedian – they’re not laughing now.",
+      "IsTodayChristmas?": "No",
       "IsTodayMyBirthday?": "Maybe another time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/8ze0m1.jpg"
+      "RandomMemeOfTheDay": "https://i.imgflip.com/8zht7h.jpg"
    }
 }
 ```
