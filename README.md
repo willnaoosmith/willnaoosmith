@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "3.6 cans of Spam are consumed each second.",
-      "CoolAdviceOfTheDay": "You will always regret the round of JÃ¤germeister.",
-      "DadJokeOfTheDay": "Why do trees seem suspicious on sunny days? Dunno, they're just a bit shady.",
-      "IsTodayChristmas?": "Ask me in one hour",
-      "IsTodayMyBirthday?": "Nah",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/8zlnug.jpg"
+      "FunFactOfTheDay": "The pupils of a goat`s eyes are square.",
+      "CoolAdviceOfTheDay": "Try to pay at least one person a compliment every day.",
+      "DadJokeOfTheDay": "At the boxing match, the dad got into the popcorn line and the line for hot dogs, but he wanted to stay out of the punchline.",
+      "IsTodayChristmas?": "Not quite",
+      "IsTodayMyBirthday?": "Ask me tomorrow",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/8zpjqt.jpg"
    }
 }
 ```
