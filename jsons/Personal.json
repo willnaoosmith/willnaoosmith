@@ -1,0 +1,16 @@
+{
+    "Will": {
+        "CurrentFocus": "Being the best version of me",
+        "HowDoISeeMyselfIn5Years": "Living my own dreams as a reality",
+        "Favorites": {
+            "OperationalSystem": "Arch Linux",
+            "GUI": "XFCE",
+            "Kernel": "Zen",
+            "Interpreter": "ZSH",
+            "IDE": "Sublime text",
+            "Language": "Python",
+            "MobileOS": "Android",
+            "Games": ["Chrono Trigger", "Driver: Parallel Lines", "Watch Dogs"]
+        }
+    }
+}
