@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The average American butt is 14.9 inches long.",
-      "CoolAdviceOfTheDay": "Never cut your own fringe.",
-      "DadJokeOfTheDay": "Why did the octopus beat the shark in a fight? Because it was well armed.",
-      "IsTodayChristmas?": "No say I",
-      "IsTodayMyBirthday?": "Ask me in one hour",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/94qx2v.jpg"
+      "FunFactOfTheDay": "The value of Pi will be officially 'rounded down' to 3.14 from 3.14159265359 on December 31, 1999.",
+      "CoolAdviceOfTheDay": "Take time once in a while to look up at the stars for at least 5 minutes, in order to comprehend your cosmic significance.",
+      "DadJokeOfTheDay": "Why do fish live in salt water? Because pepper makes them sneeze!",
+      "IsTodayChristmas?": "Maybe another time",
+      "IsTodayMyBirthday?": "Not quite",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/94y86e.jpg"
    }
 }
 ```
