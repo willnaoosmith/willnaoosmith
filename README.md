@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The value of Pi will be officially 'rounded down' to 3.14 from 3.14159265359 on December 31, 1999.",
-      "CoolAdviceOfTheDay": "Take time once in a while to look up at the stars for at least 5 minutes, in order to comprehend your cosmic significance.",
-      "DadJokeOfTheDay": "Why do fish live in salt water? Because pepper makes them sneeze!",
-      "IsTodayChristmas?": "Maybe another time",
-      "IsTodayMyBirthday?": "Not quite",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/94y86e.jpg"
+      "FunFactOfTheDay": "A cat has 32 muscles in each ear.",
+      "CoolAdviceOfTheDay": "If you cannot unscrew the lid of a jar, try placing a rubber band around its circumference for extra grip.",
+      "DadJokeOfTheDay": "Where does batman go to the bathroom? The batroom.",
+      "IsTodayChristmas?": "Ask me in a year",
+      "IsTodayMyBirthday?": "I dont know",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/95108x.jpg"
    }
 }
 ```
