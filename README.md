@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "A cat has 32 muscles in each ear.",
-      "CoolAdviceOfTheDay": "If you cannot unscrew the lid of a jar, try placing a rubber band around its circumference for extra grip.",
-      "DadJokeOfTheDay": "Where does batman go to the bathroom? The batroom.",
-      "IsTodayChristmas?": "Ask me in a year",
-      "IsTodayMyBirthday?": "I dont know",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/95108x.jpg"
+      "FunFactOfTheDay": "In the marriage ceremony of the ancient Inca Indians of Peru, the couple was considered officially wed when they took off their sandals and handed them to each other.",
+      "CoolAdviceOfTheDay": "When faced with a choice, do both.",
+      "DadJokeOfTheDay": "They tried to make a diamond shaped like a duck. It quacked under the pressure.",
+      "IsTodayChristmas?": "Maybe",
+      "IsTodayMyBirthday?": "Not this time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/953wvq.jpg"
    }
 }
 ```
