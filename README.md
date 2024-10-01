@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "In the marriage ceremony of the ancient Inca Indians of Peru, the couple was considered officially wed when they took off their sandals and handed them to each other.",
-      "CoolAdviceOfTheDay": "When faced with a choice, do both.",
-      "DadJokeOfTheDay": "They tried to make a diamond shaped like a duck. It quacked under the pressure.",
-      "IsTodayChristmas?": "Maybe",
+      "FunFactOfTheDay": "'Dreamt' is the only English word that ends in the letters 'mt.'",
+      "CoolAdviceOfTheDay": "If you have the chance, take it!",
+      "DadJokeOfTheDay": "What has a bed that you can’t sleep in? A river.",
+      "IsTodayChristmas?": "No say I",
       "IsTodayMyBirthday?": "Not this time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/953wvq.jpg"
+      "RandomMemeOfTheDay": "https://i.imgflip.com/957yuk.jpg"
    }
 }
 ```
