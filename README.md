@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "'Dreamt' is the only English word that ends in the letters 'mt.'",
-      "CoolAdviceOfTheDay": "If you have the chance, take it!",
-      "DadJokeOfTheDay": "What has a bed that you can’t sleep in? A river.",
-      "IsTodayChristmas?": "No say I",
-      "IsTodayMyBirthday?": "Not this time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/957yuk.jpg"
+      "FunFactOfTheDay": "Intelligent people have more zinc and copper in their hair.",
+      "CoolAdviceOfTheDay": "What could you increase? What could you reduce?",
+      "DadJokeOfTheDay": "How do you get two whales in a car? Start in England and drive West.",
+      "IsTodayChristmas?": "Unfortunately, not",
+      "IsTodayMyBirthday?": "Maybe another time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/95c881.jpg"
    }
 }
 ```
