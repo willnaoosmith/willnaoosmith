@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Intelligent people have more zinc and copper in their hair.",
-      "CoolAdviceOfTheDay": "What could you increase? What could you reduce?",
-      "DadJokeOfTheDay": "How do you get two whales in a car? Start in England and drive West.",
-      "IsTodayChristmas?": "Unfortunately, not",
-      "IsTodayMyBirthday?": "Maybe another time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/95c881.jpg"
+      "FunFactOfTheDay": "3.9% of all women do not wear underwear.",
+      "CoolAdviceOfTheDay": "If you don't like the opinion you've been given, get another one.",
+      "DadJokeOfTheDay": "What kind of music do mummy's like? Rap",
+      "IsTodayChristmas?": "Yes'nt",
+      "IsTodayMyBirthday?": "No say I",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/95gmmj.jpg"
    }
 }
 ```
