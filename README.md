@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "3.9% of all women do not wear underwear.",
-      "CoolAdviceOfTheDay": "If you don't like the opinion you've been given, get another one.",
-      "DadJokeOfTheDay": "What kind of music do mummy's like? Rap",
-      "IsTodayChristmas?": "Yes'nt",
-      "IsTodayMyBirthday?": "No say I",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/95gmmj.jpg"
+      "FunFactOfTheDay": "In Aspen Colorado, you can have a maximum income of $104,000 and still receive government subsidized housing.",
+      "CoolAdviceOfTheDay": "Always seek out advice or opinions when making a decision.",
+      "DadJokeOfTheDay": "Why are skeletons so calm? Because nothing gets under their skin.",
+      "IsTodayChristmas?": "Unfortunately, not",
+      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/95l6hq.jpg"
    }
 }
 ```
