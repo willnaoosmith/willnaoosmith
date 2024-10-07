@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Jupiter is bigger than all the other planets in our solar system combined.",
-      "CoolAdviceOfTheDay": "You're not that important; it's what you do that counts.",
-      "DadJokeOfTheDay": "I started a new business making yachts in my attic this year...the sails are going through the roof",
-      "IsTodayChristmas?": "Ask me in a year",
-      "IsTodayMyBirthday?": "Not yet",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/95s66c.jpg"
+      "FunFactOfTheDay": "Leonardo da Vinci could write with one hand while drawing with the other",
+      "CoolAdviceOfTheDay": "Don't eat anything your grandparents wouldn't recognise as food.",
+      "DadJokeOfTheDay": "I don’t play soccer because I enjoy the sport. I’m just doing it for kicks.",
+      "IsTodayChristmas?": "Not this time",
+      "IsTodayMyBirthday?": "Ask me in one hour",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/95v4m8.jpg"
    }
 }
 ```
