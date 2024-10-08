@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Leonardo da Vinci could write with one hand while drawing with the other",
-      "CoolAdviceOfTheDay": "Don't eat anything your grandparents wouldn't recognise as food.",
-      "DadJokeOfTheDay": "I don’t play soccer because I enjoy the sport. I’m just doing it for kicks.",
-      "IsTodayChristmas?": "Not this time",
-      "IsTodayMyBirthday?": "Ask me in one hour",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/95v4m8.jpg"
+      "FunFactOfTheDay": "All US Presidents have worn glasses; some just didn`t like being seen wearing them in public.",
+      "CoolAdviceOfTheDay": "Take time once in a while to look up at the stars for at least 5 minutes, in order to comprehend your cosmic significance.",
+      "DadJokeOfTheDay": "I saw an ad in a shop window, 'Television for sale, $1, volume stuck on full', I thought, 'I can't turn that down'.",
+      "IsTodayChristmas?": "Nope",
+      "IsTodayMyBirthday?": "Maybe",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/95zcoh.jpg"
    }
 }
 ```
