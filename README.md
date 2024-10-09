@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "All US Presidents have worn glasses; some just didn`t like being seen wearing them in public.",
-      "CoolAdviceOfTheDay": "Take time once in a while to look up at the stars for at least 5 minutes, in order to comprehend your cosmic significance.",
-      "DadJokeOfTheDay": "I saw an ad in a shop window, 'Television for sale, $1, volume stuck on full', I thought, 'I can't turn that down'.",
-      "IsTodayChristmas?": "Nope",
-      "IsTodayMyBirthday?": "Maybe",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/95zcoh.jpg"
+      "FunFactOfTheDay": "The first contraceptive was crocodile dung used by the ancient Egyptians.",
+      "CoolAdviceOfTheDay": "If it ain't broke don't fix it.",
+      "DadJokeOfTheDay": "How does a penguin build it’s house? Igloos it together.",
+      "IsTodayChristmas?": "Nah",
+      "IsTodayMyBirthday?": "Maybe another time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/963jcg.jpg"
    }
 }
 ```
