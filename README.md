@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The first contraceptive was crocodile dung used by the ancient Egyptians.",
-      "CoolAdviceOfTheDay": "If it ain't broke don't fix it.",
-      "DadJokeOfTheDay": "How does a penguin build it’s house? Igloos it together.",
-      "IsTodayChristmas?": "Nah",
-      "IsTodayMyBirthday?": "Maybe another time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/963jcg.jpg"
+      "FunFactOfTheDay": "Texas is also the only state that is allowed to fly its state flag at the same height as the U.S. flag.",
+      "CoolAdviceOfTheDay": "A problem shared is a problem halved.",
+      "DadJokeOfTheDay": "Why did the banana go to the doctor? He was not 'peeling' well.",
+      "IsTodayChristmas?": "Ask me in a year",
+      "IsTodayMyBirthday?": "No",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/967tu4.jpg"
    }
 }
 ```
