@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "'Underground' is the only word in the English language that begins and ends with the letters 'und'",
-      "CoolAdviceOfTheDay": "Most things are not as bad as you think they are.",
-      "DadJokeOfTheDay": "My dentist is the best, he even has a little plaque!",
-      "IsTodayChristmas?": "Maybe another time",
-      "IsTodayMyBirthday?": "Maybe another time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/96c3oh.jpg"
+      "FunFactOfTheDay": "All of the clocks in the movie 'Pulp Fiction' are stuck on 4:20, a national pot-smokers hour.",
+      "CoolAdviceOfTheDay": "The most delicious cocktails often have the highest alcohol content. Always pace yourself to preserve your dignity.",
+      "DadJokeOfTheDay": "In my career as a lumberjack I cut down exactly 52,487 trees. I know because I kept a log.",
+      "IsTodayChristmas?": "Not this time",
+      "IsTodayMyBirthday?": "One day",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/96g2q8.jpg"
    }
 }
 ```
