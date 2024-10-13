@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "All of the clocks in the movie 'Pulp Fiction' are stuck on 4:20, a national pot-smokers hour.",
-      "CoolAdviceOfTheDay": "The most delicious cocktails often have the highest alcohol content. Always pace yourself to preserve your dignity.",
-      "DadJokeOfTheDay": "In my career as a lumberjack I cut down exactly 52,487 trees. I know because I kept a log.",
-      "IsTodayChristmas?": "Not this time",
-      "IsTodayMyBirthday?": "One day",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/96g2q8.jpg"
+      "FunFactOfTheDay": "The muzzle of a lion is like a fingerprint - no two lions have the same pattern of whiskers.  ",
+      "CoolAdviceOfTheDay": "Don't waste food.",
+      "DadJokeOfTheDay": "Doctor you've got you help me, I'm addicted to twitter. Doctor: I don't follow you.",
+      "IsTodayChristmas?": "Ask me in one hour",
+      "IsTodayMyBirthday?": "Not yet",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/96is2s.jpg"
    }
 }
 ```
