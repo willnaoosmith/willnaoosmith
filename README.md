@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Pearls melt in vinegar.",
-      "CoolAdviceOfTheDay": "Walking is a perfectly valid solution to traffic congestion problems.",
-      "DadJokeOfTheDay": "What kind of dinosaur loves to sleep? A stega-snore-us.",
-      "IsTodayChristmas?": "No",
+      "FunFactOfTheDay": "Mike Nesmith`s (the guitarist of The Monkeys) mom invented White Out.",
+      "CoolAdviceOfTheDay": "It always seems impossible, until it's done.",
+      "DadJokeOfTheDay": "Why did the cookie cry? It was feeling crumby.",
+      "IsTodayChristmas?": "Not yet",
       "IsTodayMyBirthday?": "Maybe",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/96ln8k.jpg"
+      "RandomMemeOfTheDay": "https://i.imgflip.com/96phiq.jpg"
    }
 }
 ```
