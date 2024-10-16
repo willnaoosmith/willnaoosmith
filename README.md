@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Mike Nesmith`s (the guitarist of The Monkeys) mom invented White Out.",
-      "CoolAdviceOfTheDay": "It always seems impossible, until it's done.",
-      "DadJokeOfTheDay": "Why did the cookie cry? It was feeling crumby.",
-      "IsTodayChristmas?": "Not yet",
-      "IsTodayMyBirthday?": "Maybe",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/96phiq.jpg"
+      "FunFactOfTheDay": "The earth weighs around 6,588,000,000,000,000,000,000,000,000 tons.",
+      "CoolAdviceOfTheDay": "Most things look better when you put them in a circle.",
+      "DadJokeOfTheDay": "Why is it always hot in the corner of a room? Because a corner is 90 degrees.",
+      "IsTodayChristmas?": "Maybe",
+      "IsTodayMyBirthday?": "Ask me in one hour",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/96v1v1.jpg"
    }
 }
 ```
