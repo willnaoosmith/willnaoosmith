@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The earth weighs around 6,588,000,000,000,000,000,000,000,000 tons.",
-      "CoolAdviceOfTheDay": "Most things look better when you put them in a circle.",
-      "DadJokeOfTheDay": "Why is it always hot in the corner of a room? Because a corner is 90 degrees.",
-      "IsTodayChristmas?": "Maybe",
-      "IsTodayMyBirthday?": "Ask me in one hour",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/96v1v1.jpg"
+      "FunFactOfTheDay": "In medieval France, unfaithful wives were made to chase a chicken through town naked.",
+      "CoolAdviceOfTheDay": "You can fail at what you don't want. So you might as well take a chance on doing what you love.",
+      "DadJokeOfTheDay": "If you want a job in the moisturizer industry, the best advice I can give is to apply daily.",
+      "IsTodayChristmas?": "!Yes",
+      "IsTodayMyBirthday?": "Nah",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/96zp5n.jpg"
    }
 }
 ```
