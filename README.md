@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The most common street name in the U.S. is Second Street.",
-      "CoolAdviceOfTheDay": "Remedy tickly coughs with a drink of honey, lemon and water as hot as you can take.",
-      "DadJokeOfTheDay": "I got fired from a florist, apparently I took too many leaves.",
-      "IsTodayChristmas?": "Not quite",
-      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9780ex.jpg"
+      "FunFactOfTheDay": "Tigers not only have striped fur, they have striped skin!",
+      "CoolAdviceOfTheDay": "A nod is as good as a wink to a blind horse.",
+      "DadJokeOfTheDay": "I got fired from the transmission factor, turns out I didn't put on enough shifts...",
+      "IsTodayChristmas?": "Yes'nt",
+      "IsTodayMyBirthday?": "Ask me in one hour",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/97aqpm.jpg"
    }
 }
 ```
