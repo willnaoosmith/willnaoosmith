@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Tigers not only have striped fur, they have striped skin!",
-      "CoolAdviceOfTheDay": "A nod is as good as a wink to a blind horse.",
+      "FunFactOfTheDay": "The serial number of the first MAC ever produced was 2001.",
+      "CoolAdviceOfTheDay": "The hardest things to say are usually the most important.",
       "DadJokeOfTheDay": "I got fired from the transmission factor, turns out I didn't put on enough shifts...",
-      "IsTodayChristmas?": "Yes'nt",
-      "IsTodayMyBirthday?": "Ask me in one hour",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/97aqpm.jpg"
+      "IsTodayChristmas?": "Maybe",
+      "IsTodayMyBirthday?": "Unfortunately, not",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/97do81.jpg"
    }
 }
 ```
