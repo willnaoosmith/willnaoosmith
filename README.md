@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The serial number of the first MAC ever produced was 2001.",
-      "CoolAdviceOfTheDay": "The hardest things to say are usually the most important.",
-      "DadJokeOfTheDay": "I got fired from the transmission factor, turns out I didn't put on enough shifts...",
-      "IsTodayChristmas?": "Maybe",
-      "IsTodayMyBirthday?": "Unfortunately, not",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/97do81.jpg"
+      "FunFactOfTheDay": "A literal translation of a standard traffic sign in China: 'Give large space to the festive dog that makes sport in the roadway.'",
+      "CoolAdviceOfTheDay": "Don't be afraid to ask questions.",
+      "DadJokeOfTheDay": "Yesterday, I accidentally swallowed some food coloring. The doctor says I’m okay, but I feel like I’ve dyed a little inside.",
+      "IsTodayChristmas?": "Yes'nt",
+      "IsTodayMyBirthday?": "Not quite",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/97hx8h.jpg"
    }
 }
 ```
