@@ -153,11 +153,11 @@
    },
    "RandomStuff": {
       "FunFactOfTheDay": "A literal translation of a standard traffic sign in China: 'Give large space to the festive dog that makes sport in the roadway.'",
-      "CoolAdviceOfTheDay": "Don't be afraid to ask questions.",
-      "DadJokeOfTheDay": "Yesterday, I accidentally swallowed some food coloring. The doctor says I’m okay, but I feel like I’ve dyed a little inside.",
-      "IsTodayChristmas?": "Yes'nt",
-      "IsTodayMyBirthday?": "Not quite",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/97hx8h.jpg"
+      "CoolAdviceOfTheDay": "You have as many hours in a day as the people you admire most.",
+      "DadJokeOfTheDay": "Which side of the chicken has more feathers? The outside.",
+      "IsTodayChristmas?": "One day",
+      "IsTodayMyBirthday?": "One day",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/97m91d.jpg"
    }
 }
 ```
