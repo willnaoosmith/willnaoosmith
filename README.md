@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "A literal translation of a standard traffic sign in China: 'Give large space to the festive dog that makes sport in the roadway.'",
-      "CoolAdviceOfTheDay": "You have as many hours in a day as the people you admire most.",
-      "DadJokeOfTheDay": "Which side of the chicken has more feathers? The outside.",
-      "IsTodayChristmas?": "One day",
-      "IsTodayMyBirthday?": "One day",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/97m91d.jpg"
+      "FunFactOfTheDay": "The characters Bert and Ernie on Sesame Street were named after Bert the cop and Ernie the taxi driver in Frank Capra`s 'Its A Wonderful Life.'",
+      "CoolAdviceOfTheDay": "Never run a marathon in Crocs.",
+      "DadJokeOfTheDay": "Why did the melons plan a big wedding? Because they cantaloupe!",
+      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
+      "IsTodayMyBirthday?": "Yes'nt",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/97qm7c.jpg"
    }
 }
 ```
