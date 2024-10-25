@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The characters Bert and Ernie on Sesame Street were named after Bert the cop and Ernie the taxi driver in Frank Capra`s 'Its A Wonderful Life.'",
-      "CoolAdviceOfTheDay": "Never run a marathon in Crocs.",
-      "DadJokeOfTheDay": "Why did the melons plan a big wedding? Because they cantaloupe!",
-      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
-      "IsTodayMyBirthday?": "Yes'nt",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/97qm7c.jpg"
+      "FunFactOfTheDay": "There are 336 dimples on a regulation golf ball.",
+      "CoolAdviceOfTheDay": "It's wrong to be right.",
+      "DadJokeOfTheDay": "How many South Americans does it take to change a lightbulb? A Brazilian",
+      "IsTodayChristmas?": "Maybe another time",
+      "IsTodayMyBirthday?": "Nope",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/97v3ol.jpg"
    }
 }
 ```
