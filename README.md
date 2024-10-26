@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "There are 336 dimples on a regulation golf ball.",
-      "CoolAdviceOfTheDay": "It's wrong to be right.",
-      "DadJokeOfTheDay": "How many South Americans does it take to change a lightbulb? A Brazilian",
-      "IsTodayChristmas?": "Maybe another time",
-      "IsTodayMyBirthday?": "Nope",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/97v3ol.jpg"
+      "FunFactOfTheDay": "Los Angeles` full name `El Pueblo de Nuestra Senora la Reina de Los Angeles de Porciuncula` is reduced to 3.63% of its size in the abbreviation `L.A.`.",
+      "CoolAdviceOfTheDay": "Never buy cheap cling film.",
+      "DadJokeOfTheDay": "I knew i shouldn’t have ate that seafood. Because now i’m feeling a little… Eel",
+      "IsTodayChristmas?": "Unfortunately, not",
+      "IsTodayMyBirthday?": "Ask me tomorrow",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/97z71j.jpg"
    }
 }
 ```
