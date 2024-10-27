@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Los Angeles` full name `El Pueblo de Nuestra Senora la Reina de Los Angeles de Porciuncula` is reduced to 3.63% of its size in the abbreviation `L.A.`.",
-      "CoolAdviceOfTheDay": "Never buy cheap cling film.",
-      "DadJokeOfTheDay": "I knew i shouldn’t have ate that seafood. Because now i’m feeling a little… Eel",
-      "IsTodayChristmas?": "Unfortunately, not",
-      "IsTodayMyBirthday?": "Ask me tomorrow",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/97z71j.jpg"
+      "FunFactOfTheDay": "Seattle’s Fremont Bridge rises up and down more than any drawbridge in the world.",
+      "CoolAdviceOfTheDay": "A problem shared is a problem halved.",
+      "DadJokeOfTheDay": "I have the heart of a lion... and a lifetime ban from the San Diego Zoo.",
+      "IsTodayChristmas?": "!Yes",
+      "IsTodayMyBirthday?": "Maybe",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/981wvo.jpg"
    }
 }
 ```
