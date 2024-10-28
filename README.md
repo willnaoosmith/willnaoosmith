@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Seattle’s Fremont Bridge rises up and down more than any drawbridge in the world.",
-      "CoolAdviceOfTheDay": "A problem shared is a problem halved.",
-      "DadJokeOfTheDay": "I have the heart of a lion... and a lifetime ban from the San Diego Zoo.",
-      "IsTodayChristmas?": "!Yes",
-      "IsTodayMyBirthday?": "Maybe",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/981wvo.jpg"
+      "FunFactOfTheDay": "Donald Duck`s middle name is Fauntleroy.  ",
+      "CoolAdviceOfTheDay": "The most important thing is the thing most easily forgotten.",
+      "DadJokeOfTheDay": "A man was caught stealing in a supermarket today while balanced on the shoulders of a couple of vampires. He was charged with shoplifting on two counts. ",
+      "IsTodayChristmas?": "Ask me tomorrow",
+      "IsTodayMyBirthday?": "Not quite",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/984suv.jpg"
    }
 }
 ```
