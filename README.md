@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The the U.S. you dial `911`. In Stockholm, Sweden you dial 90000",
-      "CoolAdviceOfTheDay": "Sing in the shower.",
-      "DadJokeOfTheDay": "You will never guess what Elsa did to the balloon. She let it go.",
-      "IsTodayChristmas?": "Maybe another time",
-      "IsTodayMyBirthday?": "No say I",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/98m43m.jpg"
+      "FunFactOfTheDay": "Cats have over one hundred vocal sounds, while dogs only have about ten.",
+      "CoolAdviceOfTheDay": "A nod is as good as a wink to a blind horse.",
+      "DadJokeOfTheDay": "Slept like a log last night … woke up in the fireplace.",
+      "IsTodayChristmas?": "No",
+      "IsTodayMyBirthday?": "Yes'nt",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/98pmij.jpg"
    }
 }
 ```
