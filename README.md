@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "When you sneeze, air and particles travel through the nostrils at speeds over100 mph.  During this time, all bodily functions stop, including your heart, contributing to the impossibility of keeping one`s eyes open during a sneeze.",
-      "CoolAdviceOfTheDay": "Don't give to others advice which you wouldn't follow.",
-      "DadJokeOfTheDay": "I finally bought the limited edition Thesaurus that I've always wanted. When I opened it, all the pages were blank. I have no words to describe how angry I am.",
-      "IsTodayChristmas?": "Not quite",
-      "IsTodayMyBirthday?": "Nah",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/98sehr.jpg"
+      "FunFactOfTheDay": "Studies have shown that children laugh an average of 300 times/day and adults 17 times/day, making the average child more optimistic, curious, and creative than the adult.",
+      "CoolAdviceOfTheDay": "Opinions are like arseholes, everyone has one.",
+      "DadJokeOfTheDay": "Every morning when I go out, I get hit by bicycle. Every morning!  It's a vicious cycle.",
+      "IsTodayChristmas?": "No",
+      "IsTodayMyBirthday?": "Unfortunately, not",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/98vcxj.jpg"
    }
 }
 ```
