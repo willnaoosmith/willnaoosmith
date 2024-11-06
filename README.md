@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "To escape the grip of a crocodile`s jaws, push your thumbs into its eyeballs - it will let you go instantly.",
-      "CoolAdviceOfTheDay": "Don't take life too seriously.",
-      "DadJokeOfTheDay": "Did you know that ghosts call their true love their ghoul-friend?",
-      "IsTodayChristmas?": "Not quite",
-      "IsTodayMyBirthday?": "Maybe another time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/997d2r.jpg"
+      "FunFactOfTheDay": "A giraffe can go without water longer than a camel.",
+      "CoolAdviceOfTheDay": "Put a piece of kitchen roll in with your bag of leaves to make them last longer.",
+      "DadJokeOfTheDay": "What do you call a careful wolf? Aware wolf.",
+      "IsTodayChristmas?": "One day",
+      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/99dpa4.jpg"
    }
 }
 ```
