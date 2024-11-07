@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "A giraffe can go without water longer than a camel.",
-      "CoolAdviceOfTheDay": "Put a piece of kitchen roll in with your bag of leaves to make them last longer.",
-      "DadJokeOfTheDay": "What do you call a careful wolf? Aware wolf.",
-      "IsTodayChristmas?": "One day",
-      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/99dpa4.jpg"
+      "FunFactOfTheDay": "A piece of paper can be folded no more then 9 times.",
+      "CoolAdviceOfTheDay": "No 'brand' is your friend.",
+      "DadJokeOfTheDay": "The best time on a clock is 6:30--hands down.",
+      "IsTodayChristmas?": "!Yes",
+      "IsTodayMyBirthday?": "Ask me in one hour",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/99ipsj.jpg"
    }
 }
 ```
