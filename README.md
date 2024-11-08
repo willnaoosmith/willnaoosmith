@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "A piece of paper can be folded no more then 9 times.",
-      "CoolAdviceOfTheDay": "No 'brand' is your friend.",
-      "DadJokeOfTheDay": "The best time on a clock is 6:30--hands down.",
-      "IsTodayChristmas?": "!Yes",
-      "IsTodayMyBirthday?": "Ask me in one hour",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/99ipsj.jpg"
+      "FunFactOfTheDay": "The only 15-letter word that can be spelled without repeating a letter is uncopyrightable.",
+      "CoolAdviceOfTheDay": "Don't always believe what you think.",
+      "DadJokeOfTheDay": "Bad at golf? Join the club.",
+      "IsTodayChristmas?": "Not yet",
+      "IsTodayMyBirthday?": "Maybe another time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/99nedp.jpg"
    }
 }
 ```
