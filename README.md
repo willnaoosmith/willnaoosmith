@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The only 15-letter word that can be spelled without repeating a letter is uncopyrightable.",
-      "CoolAdviceOfTheDay": "Don't always believe what you think.",
-      "DadJokeOfTheDay": "Bad at golf? Join the club.",
-      "IsTodayChristmas?": "Not yet",
-      "IsTodayMyBirthday?": "Maybe another time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/99nedp.jpg"
+      "FunFactOfTheDay": "All of the clocks in the movie 'Pulp Fiction' are stuck on 4:20, a national pot-smokers hour.",
+      "CoolAdviceOfTheDay": "Do not seek praise, seek criticism.",
+      "DadJokeOfTheDay": "What do you get when you cross a chicken with a skunk? A fowl smell!",
+      "IsTodayChristmas?": "Ask me in a year",
+      "IsTodayMyBirthday?": "No",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/99rpbg.jpg"
    }
 }
 ```
