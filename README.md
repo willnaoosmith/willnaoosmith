@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "All of the clocks in the movie 'Pulp Fiction' are stuck on 4:20, a national pot-smokers hour.",
-      "CoolAdviceOfTheDay": "Do not seek praise, seek criticism.",
-      "DadJokeOfTheDay": "What do you get when you cross a chicken with a skunk? A fowl smell!",
-      "IsTodayChristmas?": "Ask me in a year",
-      "IsTodayMyBirthday?": "No",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/99rpbg.jpg"
+      "FunFactOfTheDay": "Recycling one glass jar, saves enough energy to watch T.V for 3 hours!",
+      "CoolAdviceOfTheDay": "If you can't do anything about it, there's no point in worrying about it.",
+      "DadJokeOfTheDay": "It doesn't matter how much you push the envelope. It will still be stationary.",
+      "IsTodayChristmas?": "!Yes",
+      "IsTodayMyBirthday?": "Nope",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/99un0o.jpg"
    }
 }
 ```
