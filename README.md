@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Recycling one glass jar, saves enough energy to watch T.V for 3 hours!",
-      "CoolAdviceOfTheDay": "If you can't do anything about it, there's no point in worrying about it.",
-      "DadJokeOfTheDay": "It doesn't matter how much you push the envelope. It will still be stationary.",
-      "IsTodayChristmas?": "!Yes",
-      "IsTodayMyBirthday?": "Nope",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/99un0o.jpg"
+      "FunFactOfTheDay": "Worcestershire sauce in essentially an Anchovy Ketchup.",
+      "CoolAdviceOfTheDay": "Step 1. Give a shit. Step 2. Don't be a dick. Step 3. Know when to let go.",
+      "DadJokeOfTheDay": "If I could name myself after any Egyptian god, I'd be Set.",
+      "IsTodayChristmas?": "No",
+      "IsTodayMyBirthday?": "Ask me in one hour",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/99xr1t.jpg"
    }
 }
 ```
