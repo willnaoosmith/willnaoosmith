@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Worcestershire sauce in essentially an Anchovy Ketchup.",
-      "CoolAdviceOfTheDay": "Step 1. Give a shit. Step 2. Don't be a dick. Step 3. Know when to let go.",
-      "DadJokeOfTheDay": "If I could name myself after any Egyptian god, I'd be Set.",
-      "IsTodayChristmas?": "No",
-      "IsTodayMyBirthday?": "Ask me in one hour",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/99xr1t.jpg"
+      "FunFactOfTheDay": "The average North American will eat 35,000 cookies during their life span.",
+      "CoolAdviceOfTheDay": "Always bet on black.",
+      "DadJokeOfTheDay": "What do you call a duck that gets all A's? A wise quacker.",
+      "IsTodayChristmas?": "I dont know",
+      "IsTodayMyBirthday?": "Maybe",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9a1n95.jpg"
    }
 }
 ```
