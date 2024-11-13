@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The average North American will eat 35,000 cookies during their life span.",
-      "CoolAdviceOfTheDay": "Always bet on black.",
-      "DadJokeOfTheDay": "What do you call a duck that gets all A's? A wise quacker.",
-      "IsTodayChristmas?": "I dont know",
-      "IsTodayMyBirthday?": "Maybe",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9a1n95.jpg"
+      "FunFactOfTheDay": "The average talker sprays about 300 microscopic saliva droplets per minute, about 2.5 droplets per word.",
+      "CoolAdviceOfTheDay": "No 'brand' is your friend.",
+      "DadJokeOfTheDay": "Why do bananas have to put on sunscreen before they go to the beach? Because they might peel!",
+      "IsTodayChristmas?": "Not yet",
+      "IsTodayMyBirthday?": "Nah",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9a60xz.jpg"
    }
 }
 ```
