@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The average talker sprays about 300 microscopic saliva droplets per minute, about 2.5 droplets per word.",
-      "CoolAdviceOfTheDay": "No 'brand' is your friend.",
-      "DadJokeOfTheDay": "Why do bananas have to put on sunscreen before they go to the beach? Because they might peel!",
-      "IsTodayChristmas?": "Not yet",
-      "IsTodayMyBirthday?": "Nah",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9a60xz.jpg"
+      "FunFactOfTheDay": "Men can read smaller print than women; women can hear better.",
+      "CoolAdviceOfTheDay": "The hardest things to say are usually the most important.",
+      "DadJokeOfTheDay": "A magician was driving down the street and then he turned into a driveway.",
+      "IsTodayChristmas?": "No",
+      "IsTodayMyBirthday?": "Unfortunately, not",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9aakgw.jpg"
    }
 }
 ```
