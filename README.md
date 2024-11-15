@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Men can read smaller print than women; women can hear better.",
-      "CoolAdviceOfTheDay": "The hardest things to say are usually the most important.",
-      "DadJokeOfTheDay": "A magician was driving down the street and then he turned into a driveway.",
+      "FunFactOfTheDay": "If you went out into space, you would explode before you suffocated because there`s no air pressure.",
+      "CoolAdviceOfTheDay": "When hugging, hug with both arms and apply reasonable, affectionate pressure.",
+      "DadJokeOfTheDay": "What did one snowman say to the other snow man? Do you smell carrot?",
       "IsTodayChristmas?": "No",
-      "IsTodayMyBirthday?": "Unfortunately, not",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9aakgw.jpg"
+      "IsTodayMyBirthday?": "No say I",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9af7rw.jpg"
    }
 }
 ```
