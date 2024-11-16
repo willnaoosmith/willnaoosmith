@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "If you went out into space, you would explode before you suffocated because there`s no air pressure.",
-      "CoolAdviceOfTheDay": "When hugging, hug with both arms and apply reasonable, affectionate pressure.",
-      "DadJokeOfTheDay": "What did one snowman say to the other snow man? Do you smell carrot?",
-      "IsTodayChristmas?": "No",
-      "IsTodayMyBirthday?": "No say I",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9af7rw.jpg"
+      "FunFactOfTheDay": "Tehran is the most expensive city on earth.",
+      "CoolAdviceOfTheDay": "One of the top five regrets people have is that they didn't stay in contact with friends.",
+      "DadJokeOfTheDay": "Two muffins were sitting in an oven, and the first looks over to the second, and says, “man, it’s really hot in here”. The second looks over at the first with a surprised look, and answers, “WHOA, a talking muffin!”",
+      "IsTodayChristmas?": "Not quite",
+      "IsTodayMyBirthday?": "Maybe another time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9ajhma.jpg"
    }
 }
 ```
