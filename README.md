@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The king of hearts is the only king without a mustache.",
-      "CoolAdviceOfTheDay": "Try making a list.",
-      "DadJokeOfTheDay": "What's black and white and read all over? The newspaper.",
-      "IsTodayChristmas?": "Ask me in a year",
-      "IsTodayMyBirthday?": "!Yes",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9apsg5.jpg"
+      "FunFactOfTheDay": "Peanuts are one of the ingredients of dynamite.",
+      "CoolAdviceOfTheDay": "As things get closer to the light, the shadows get darker.",
+      "DadJokeOfTheDay": "Why do pirates not know the alphabet? They always get stuck at 'C'.",
+      "IsTodayChristmas?": "Ask me in one hour",
+      "IsTodayMyBirthday?": "Not yet",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9au5gj.jpg"
    }
 }
 ```
