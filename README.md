@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Peanuts are one of the ingredients of dynamite.",
-      "CoolAdviceOfTheDay": "As things get closer to the light, the shadows get darker.",
-      "DadJokeOfTheDay": "Why do pirates not know the alphabet? They always get stuck at 'C'.",
-      "IsTodayChristmas?": "Ask me in one hour",
-      "IsTodayMyBirthday?": "Not yet",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9au5gj.jpg"
+      "FunFactOfTheDay": "Mozart wrote the nursery rhyme `twinkle, twinkle, little star` at the age of 5.",
+      "CoolAdviceOfTheDay": "Sarcasm is the lowest form of wit. Employ correctly with apt timing.",
+      "DadJokeOfTheDay": "A butcher accidentally backed into his meat grinder and got a little behind in his work that day.",
+      "IsTodayChristmas?": "Not this time",
+      "IsTodayMyBirthday?": "I dont know",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9ayr9z.jpg"
    }
 }
 ```
