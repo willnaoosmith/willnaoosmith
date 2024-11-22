@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Since 1978, 37 people have died by Vending Machine`s falling on them.  13 people are killed annually.  All this while trying to shake merchandise out of them. 113 people have been injured.",
-      "CoolAdviceOfTheDay": "It is easy to sit up and take notice, what's difficult is getting up and taking action.",
-      "DadJokeOfTheDay": "Wife told me to take the spider out instead of killing it... We had some drinks, cool guy, wants to be a web developer.",
-      "IsTodayChristmas?": "Unfortunately, not",
-      "IsTodayMyBirthday?": "Not quite",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9b3gfv.jpg"
+      "FunFactOfTheDay": "The San Francisco Cable cars are the only mobile National Monuments.",
+      "CoolAdviceOfTheDay": "If you're squashed close to strangers on public transport, try not to be rude to them. No one likes those situations.",
+      "DadJokeOfTheDay": "What do you call a careful wolf? Aware wolf.",
+      "IsTodayChristmas?": "Nah",
+      "IsTodayMyBirthday?": "Not yet",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9b87xj.jpg"
    }
 }
 ```
