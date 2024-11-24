@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Walt Disney was afraid of mice.",
-      "CoolAdviceOfTheDay": "It's not about who likes you, it's about who you like.",
-      "DadJokeOfTheDay": "Why don’t skeletons ever go trick or treating? Because they have nobody to go with.",
-      "IsTodayChristmas?": "One day",
-      "IsTodayMyBirthday?": "Not quite",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9bcpz4.jpg"
+      "FunFactOfTheDay": "February 1865 is the only month in recorded history not to have a full moon.",
+      "CoolAdviceOfTheDay": "Sarcasm is the lowest form of wit. Employ correctly with apt timing.",
+      "DadJokeOfTheDay": "Have you heard the story about the magic tractor? It drove down the road and turned into a field.",
+      "IsTodayChristmas?": "Not quite",
+      "IsTodayMyBirthday?": "Yes'nt",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9bftom.jpg"
    }
 }
 ```
