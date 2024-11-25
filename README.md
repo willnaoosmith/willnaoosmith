@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "February 1865 is the only month in recorded history not to have a full moon.",
-      "CoolAdviceOfTheDay": "Sarcasm is the lowest form of wit. Employ correctly with apt timing.",
-      "DadJokeOfTheDay": "Have you heard the story about the magic tractor? It drove down the road and turned into a field.",
-      "IsTodayChristmas?": "Not quite",
-      "IsTodayMyBirthday?": "Yes'nt",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9bftom.jpg"
+      "FunFactOfTheDay": "In the early 1940s, the FCC assigned television`s Channel 1 to mobile services (like two-way radios in taxis) but did not re-number the other channel assignments.",
+      "CoolAdviceOfTheDay": "Be a good lover.",
+      "DadJokeOfTheDay": "What has three letters and starts with gas? A Car.",
+      "IsTodayChristmas?": "Not this time",
+      "IsTodayMyBirthday?": "Not yet",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9bj1g5.jpg"
    }
 }
 ```
