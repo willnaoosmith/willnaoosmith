@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Odds of being killed by lightening? 1 in 2million/killed in a car crash? 1 in 5,000/killed by falling out of bed? 1 in 2million/killed in a plane crash? 1 in 25 million.",
-      "CoolAdviceOfTheDay": "Never regret. If it's good, it's wonderful. If it's bad, it's experience.",
-      "DadJokeOfTheDay": "As I get older, I think of all the people I lost along the way. Maybe a career as a tour guide wasn't such a good idea.",
-      "IsTodayChristmas?": "Not this time",
-      "IsTodayMyBirthday?": "Maybe another time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9bs3sx.jpg"
+      "FunFactOfTheDay": "If you go blind in one eye you only lose about one fifth of your vision but all your sense of depth.",
+      "CoolAdviceOfTheDay": "Value the people in your life.",
+      "DadJokeOfTheDay": "What do you call a duck that gets all A's? A wise quacker.",
+      "IsTodayChristmas?": "Not quite",
+      "IsTodayMyBirthday?": "Not quite",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9bwgbv.jpg"
    }
 }
 ```
