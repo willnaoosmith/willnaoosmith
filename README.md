@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "If you go blind in one eye you only lose about one fifth of your vision but all your sense of depth.",
-      "CoolAdviceOfTheDay": "Value the people in your life.",
-      "DadJokeOfTheDay": "What do you call a duck that gets all A's? A wise quacker.",
-      "IsTodayChristmas?": "Not quite",
-      "IsTodayMyBirthday?": "Not quite",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9bwgbv.jpg"
+      "FunFactOfTheDay": "'Underground' is the only word in the English language that begins and ends with the letters 'und'",
+      "CoolAdviceOfTheDay": "Most things look better when you put them in a circle.",
+      "DadJokeOfTheDay": "I went to the zoo the other day, there was only one dog in it. It was a shitzu.",
+      "IsTodayChristmas?": "No",
+      "IsTodayMyBirthday?": "Ask me tomorrow",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9c0g94.jpg"
    }
 }
 ```
