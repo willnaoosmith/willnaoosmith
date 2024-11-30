@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "'Underground' is the only word in the English language that begins and ends with the letters 'und'",
-      "CoolAdviceOfTheDay": "Most things look better when you put them in a circle.",
-      "DadJokeOfTheDay": "I went to the zoo the other day, there was only one dog in it. It was a shitzu.",
-      "IsTodayChristmas?": "No",
-      "IsTodayMyBirthday?": "Ask me tomorrow",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9c0g94.jpg"
+      "FunFactOfTheDay": "Weatherman Willard Scott was the first original Ronald McDonald.",
+      "CoolAdviceOfTheDay": "Accept advice.",
+      "DadJokeOfTheDay": "I was at the library and asked if they have any books on 'paranoia', the librarian replied, 'yes, they are right behind you'",
+      "IsTodayChristmas?": "Nah",
+      "IsTodayMyBirthday?": "Unfortunately, not",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9c44jq.jpg"
    }
 }
 ```
