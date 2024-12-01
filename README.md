@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Weatherman Willard Scott was the first original Ronald McDonald.",
-      "CoolAdviceOfTheDay": "Accept advice.",
-      "DadJokeOfTheDay": "I was at the library and asked if they have any books on 'paranoia', the librarian replied, 'yes, they are right behind you'",
-      "IsTodayChristmas?": "Nah",
-      "IsTodayMyBirthday?": "Unfortunately, not",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9c44jq.jpg"
+      "FunFactOfTheDay": "Larry Lewis ran the 100-yard dash in 17.8 seconds in 1969, thereby setting a new world`s record for runners in the 100-years-or-older class. He was 101.",
+      "CoolAdviceOfTheDay": "Put a piece of kitchen roll in with your bag of leaves to make them last longer.",
+      "DadJokeOfTheDay": "What do you call a fish wearing a bowtie? Sofishticated.",
+      "IsTodayChristmas?": "Ask me in one hour",
+      "IsTodayMyBirthday?": "Maybe another time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9c73kh.jpg"
    }
 }
 ```
