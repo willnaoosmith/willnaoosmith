@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Men can read smaller print than women; women can hear better.",
-      "CoolAdviceOfTheDay": "Never waste an opportunity to tell someone you love them.",
-      "DadJokeOfTheDay": "My New Years resolution is to stop leaving things so late.",
-      "IsTodayChristmas?": "Not this time",
-      "IsTodayMyBirthday?": "Not yet",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9cehxf.jpg"
+      "FunFactOfTheDay": "'I am.' is the shortest complete sentence in the English language.",
+      "CoolAdviceOfTheDay": "Some people would be better off if they took their own advice.",
+      "DadJokeOfTheDay": "Why did the man put his money in the freezer? He wanted cold hard cash!",
+      "IsTodayChristmas?": "Maybe",
+      "IsTodayMyBirthday?": "Not quite",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9cj7n2.jpg"
    }
 }
 ```
