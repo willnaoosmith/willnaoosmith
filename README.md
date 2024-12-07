@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "PEZ candy even comes in a Coffee flavor.",
-      "CoolAdviceOfTheDay": "Don't promise what you can't deliver.",
-      "DadJokeOfTheDay": "I hate perforated lines, they're tearable.",
-      "IsTodayChristmas?": "I dont know",
-      "IsTodayMyBirthday?": "Maybe",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9csy4o.jpg"
+      "FunFactOfTheDay": "Elephants are the only animals that can`t jump.",
+      "CoolAdviceOfTheDay": "Always block trolls.",
+      "DadJokeOfTheDay": "What did the shy pebble wish for? That she was a little boulder.",
+      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
+      "IsTodayMyBirthday?": "Ask me in one hour",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9cxn1s.jpg"
    }
 }
 ```
