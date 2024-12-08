@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Elephants are the only animals that can`t jump.",
-      "CoolAdviceOfTheDay": "Always block trolls.",
-      "DadJokeOfTheDay": "What did the shy pebble wish for? That she was a little boulder.",
+      "FunFactOfTheDay": "To 'testify' was based on men in the Roman court swearing to a statement made by swearing on their testicles.",
+      "CoolAdviceOfTheDay": "If you get stuck, try doing the opposite of what the solution requires.",
+      "DadJokeOfTheDay": "Americans can't switch from pounds to kilograms overnight. That would cause mass confusion.",
       "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
-      "IsTodayMyBirthday?": "Ask me in one hour",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9cxn1s.jpg"
+      "IsTodayMyBirthday?": "!Yes",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9d0mcu.jpg"
    }
 }
 ```
