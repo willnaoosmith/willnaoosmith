@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "To 'testify' was based on men in the Roman court swearing to a statement made by swearing on their testicles.",
-      "CoolAdviceOfTheDay": "If you get stuck, try doing the opposite of what the solution requires.",
-      "DadJokeOfTheDay": "Americans can't switch from pounds to kilograms overnight. That would cause mass confusion.",
-      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
-      "IsTodayMyBirthday?": "!Yes",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9d0mcu.jpg"
+      "FunFactOfTheDay": "The fingerprints of koala bears are virtually indistinguishable from those of humans, so much so that they can be easily confused at a crime scene.",
+      "CoolAdviceOfTheDay": "Play is the true mother of invention.",
+      "DadJokeOfTheDay": "Why is it always hot in the corner of a room? Because a corner is 90 degrees.",
+      "IsTodayChristmas?": "No",
+      "IsTodayMyBirthday?": "No say I",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9d3tco.jpg"
    }
 }
 ```
