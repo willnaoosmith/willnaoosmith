@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The fingerprints of koala bears are virtually indistinguishable from those of humans, so much so that they can be easily confused at a crime scene.",
-      "CoolAdviceOfTheDay": "Play is the true mother of invention.",
-      "DadJokeOfTheDay": "Why is it always hot in the corner of a room? Because a corner is 90 degrees.",
-      "IsTodayChristmas?": "No",
+      "FunFactOfTheDay": "The mask worn by Michael Myers in the original 'Halloween' was actually a Captain Kirk mask painted white.",
+      "CoolAdviceOfTheDay": "Today, do not use the words 'Kind of', 'Sort of' or 'Maybe'. It either is or it isn't.",
+      "DadJokeOfTheDay": "It's been months since I bought the book 'how to scam people online'. It still hasn't turned up.",
+      "IsTodayChristmas?": "Not this time",
       "IsTodayMyBirthday?": "No say I",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9d3tco.jpg"
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9d88dt.jpg"
    }
 }
 ```
