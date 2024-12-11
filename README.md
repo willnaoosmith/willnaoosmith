@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The mask worn by Michael Myers in the original 'Halloween' was actually a Captain Kirk mask painted white.",
-      "CoolAdviceOfTheDay": "Today, do not use the words 'Kind of', 'Sort of' or 'Maybe'. It either is or it isn't.",
-      "DadJokeOfTheDay": "It's been months since I bought the book 'how to scam people online'. It still hasn't turned up.",
-      "IsTodayChristmas?": "Not this time",
-      "IsTodayMyBirthday?": "No say I",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9d88dt.jpg"
+      "FunFactOfTheDay": "A palindrome is a sentence or group of sentences that reads the same backwards as it does forward: Ex:  `Red rum, sir, is murder.` `Ma is as selfless as I am.` `Nurse, I spy gypsies. Run!`  `A man, a plan, a canal - Panama.` `He lived as a devil, eh?`",
+      "CoolAdviceOfTheDay": "Life is short enough, don't race to the finish.",
+      "DadJokeOfTheDay": "If at first you don't succeed, sky diving is not for you!",
+      "IsTodayChristmas?": "Nope",
+      "IsTodayMyBirthday?": "No",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9dcy3s.jpg"
    }
 }
 ```
