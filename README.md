@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Average life span of a major league baseball: 7 pitches.",
-      "CoolAdviceOfTheDay": "If you have grandparents or parents - Talk to them more. Ask them about their life experiences.",
-      "DadJokeOfTheDay": "Never take advice from electrons. They are always negative.",
-      "IsTodayChristmas?": "Yes'nt",
-      "IsTodayMyBirthday?": "!Yes",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9dhk1e.jpg"
+      "FunFactOfTheDay": "If one places a tiny amount of liquor on a scorpion, it will instantly go mad and sting itself to death.",
+      "CoolAdviceOfTheDay": "Quality beats quantity.",
+      "DadJokeOfTheDay": "What do you call a fish wearing a bowtie? Sofishticated.",
+      "IsTodayChristmas?": "Maybe",
+      "IsTodayMyBirthday?": "No say I",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9dm604.jpg"
    }
 }
 ```
