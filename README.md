@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "If one places a tiny amount of liquor on a scorpion, it will instantly go mad and sting itself to death.",
-      "CoolAdviceOfTheDay": "Quality beats quantity.",
-      "DadJokeOfTheDay": "What do you call a fish wearing a bowtie? Sofishticated.",
-      "IsTodayChristmas?": "Maybe",
-      "IsTodayMyBirthday?": "No say I",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9dm604.jpg"
+      "FunFactOfTheDay": "There are two credit cards for every person in the United States.",
+      "CoolAdviceOfTheDay": "It's not about who likes you, it's about who you like.",
+      "DadJokeOfTheDay": "Why did the knife dress up in a suit? Because it wanted to look sharp",
+      "IsTodayChristmas?": "Not yet",
+      "IsTodayMyBirthday?": "Ask me tomorrow",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9dqf2x.jpg"
    }
 }
 ```
