@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "There are two credit cards for every person in the United States.",
-      "CoolAdviceOfTheDay": "It's not about who likes you, it's about who you like.",
-      "DadJokeOfTheDay": "Why did the knife dress up in a suit? Because it wanted to look sharp",
-      "IsTodayChristmas?": "Not yet",
-      "IsTodayMyBirthday?": "Ask me tomorrow",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9dqf2x.jpg"
+      "FunFactOfTheDay": "The letters KGB stand for Komitet Gosudarstvennoy Bezopasnosti.  ",
+      "CoolAdviceOfTheDay": "If you think your headphones are dying, check the socket for fluff with a straightened paperclip.",
+      "DadJokeOfTheDay": "Did you know that ghosts call their true love their ghoul-friend?",
+      "IsTodayChristmas?": "Yes'nt",
+      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9dt9cr.jpg"
    }
 }
 ```
