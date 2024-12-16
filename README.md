@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The letters KGB stand for Komitet Gosudarstvennoy Bezopasnosti.  ",
-      "CoolAdviceOfTheDay": "If you think your headphones are dying, check the socket for fluff with a straightened paperclip.",
-      "DadJokeOfTheDay": "Did you know that ghosts call their true love their ghoul-friend?",
-      "IsTodayChristmas?": "Yes'nt",
-      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9dt9cr.jpg"
+      "FunFactOfTheDay": "Telly Savalas and Louis Armstrong died on their birthdays.  ",
+      "CoolAdviceOfTheDay": "Build something out of LEGO.",
+      "DadJokeOfTheDay": "What creature is smarter than a talking parrot? A spelling bee.",
+      "IsTodayChristmas?": "Maybe another time",
+      "IsTodayMyBirthday?": "No",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9dw70t.jpg"
    }
 }
 ```
