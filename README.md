@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Telly Savalas and Louis Armstrong died on their birthdays.  ",
-      "CoolAdviceOfTheDay": "Build something out of LEGO.",
-      "DadJokeOfTheDay": "What creature is smarter than a talking parrot? A spelling bee.",
-      "IsTodayChristmas?": "Maybe another time",
-      "IsTodayMyBirthday?": "No",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9dw70t.jpg"
+      "FunFactOfTheDay": "Mosquito repellents don`t repel. They hide you. The spray blocks the mosquito`s sensors so they don`t know you`re there.",
+      "CoolAdviceOfTheDay": "Why wait until valentines day for a romantic gesture?",
+      "DadJokeOfTheDay": "How many bones are in the human hand? A handful of them.",
+      "IsTodayChristmas?": "I dont know",
+      "IsTodayMyBirthday?": "Nope",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9e0flo.jpg"
    }
 }
 ```
