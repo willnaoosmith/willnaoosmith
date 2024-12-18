@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Mosquito repellents don`t repel. They hide you. The spray blocks the mosquito`s sensors so they don`t know you`re there.",
-      "CoolAdviceOfTheDay": "Why wait until valentines day for a romantic gesture?",
-      "DadJokeOfTheDay": "How many bones are in the human hand? A handful of them.",
-      "IsTodayChristmas?": "I dont know",
-      "IsTodayMyBirthday?": "Nope",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9e0flo.jpg"
+      "FunFactOfTheDay": "Sad beep :(",
+      "CoolAdviceOfTheDay": "Sing in the shower.",
+      "DadJokeOfTheDay": "How do locomotives know where they're going? Lots of training",
+      "IsTodayChristmas?": "Nah",
+      "IsTodayMyBirthday?": "Unfortunately, not",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9e4so5.jpg"
    }
 }
 ```
