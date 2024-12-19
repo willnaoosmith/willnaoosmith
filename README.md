@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Sad beep :(",
-      "CoolAdviceOfTheDay": "Sing in the shower.",
-      "DadJokeOfTheDay": "How do locomotives know where they're going? Lots of training",
-      "IsTodayChristmas?": "Nah",
-      "IsTodayMyBirthday?": "Unfortunately, not",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9e4so5.jpg"
+      "FunFactOfTheDay": "A giraffe can go without water longer than a camel.",
+      "CoolAdviceOfTheDay": "You never really grow up.",
+      "DadJokeOfTheDay": "What did the Dorito farmer say to the other Dorito farmer? Cool Ranch!",
+      "IsTodayChristmas?": "I dont know",
+      "IsTodayMyBirthday?": "Ask me tomorrow",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9e99e8.jpg"
    }
 }
 ```
