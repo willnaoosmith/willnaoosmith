@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "A giraffe can go without water longer than a camel.",
-      "CoolAdviceOfTheDay": "You never really grow up.",
-      "DadJokeOfTheDay": "What did the Dorito farmer say to the other Dorito farmer? Cool Ranch!",
+      "FunFactOfTheDay": "A literal translation of a standard traffic sign in China: 'Give large space to the festive dog that makes sport in the roadway.'",
+      "CoolAdviceOfTheDay": "Always double check you actually attached the file to the email.",
+      "DadJokeOfTheDay": "What do you call a cow with two legs? Lean beef.",
       "IsTodayChristmas?": "I dont know",
-      "IsTodayMyBirthday?": "Ask me tomorrow",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9e99e8.jpg"
+      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9ednk0.jpg"
    }
 }
 ```
