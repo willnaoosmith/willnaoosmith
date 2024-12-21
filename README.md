@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "A literal translation of a standard traffic sign in China: 'Give large space to the festive dog that makes sport in the roadway.'",
-      "CoolAdviceOfTheDay": "Always double check you actually attached the file to the email.",
-      "DadJokeOfTheDay": "What do you call a cow with two legs? Lean beef.",
-      "IsTodayChristmas?": "I dont know",
-      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9ednk0.jpg"
+      "FunFactOfTheDay": "The the U.S. you dial `911`. In Stockholm, Sweden you dial 90000",
+      "CoolAdviceOfTheDay": "If you can't do anything about it, there's no point in worrying about it.",
+      "DadJokeOfTheDay": "What kind of bagel can fly? A plain bagel.",
+      "IsTodayChristmas?": "Unfortunately, not",
+      "IsTodayMyBirthday?": "No",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9ehiv8.jpg"
    }
 }
 ```
