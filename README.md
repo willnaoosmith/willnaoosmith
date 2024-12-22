@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The the U.S. you dial `911`. In Stockholm, Sweden you dial 90000",
-      "CoolAdviceOfTheDay": "If you can't do anything about it, there's no point in worrying about it.",
-      "DadJokeOfTheDay": "What kind of bagel can fly? A plain bagel.",
-      "IsTodayChristmas?": "Unfortunately, not",
-      "IsTodayMyBirthday?": "No",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9ehiv8.jpg"
+      "FunFactOfTheDay": "Babies are most likely to be born on Tuesdays.",
+      "CoolAdviceOfTheDay": "It always seems impossible, until it's done.",
+      "DadJokeOfTheDay": "Why do nurses carry around red crayons? Sometimes they need to draw blood.",
+      "IsTodayChristmas?": "Maybe",
+      "IsTodayMyBirthday?": "!Yes",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9ekc7h.jpg"
    }
 }
 ```
