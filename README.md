@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Babies are most likely to be born on Tuesdays.",
-      "CoolAdviceOfTheDay": "It always seems impossible, until it's done.",
-      "DadJokeOfTheDay": "Why do nurses carry around red crayons? Sometimes they need to draw blood.",
-      "IsTodayChristmas?": "Maybe",
-      "IsTodayMyBirthday?": "!Yes",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9ekc7h.jpg"
+      "FunFactOfTheDay": "CBS` '60 Minutes' is the only TV show without a theme song/music.",
+      "CoolAdviceOfTheDay": "If you don't ask, you don't get.",
+      "DadJokeOfTheDay": "How do you find Will Smith in the snow?  Look for fresh prints.",
+      "IsTodayChristmas?": "Ask me in one hour",
+      "IsTodayMyBirthday?": "Ask me tomorrow",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9en3ld.jpg"
    }
 }
 ```
