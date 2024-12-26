@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The human tongue tastes bitter things with the taste buds toward the back. Salty and pungent flavors are tasted in the middle of the tongue, sweet flavors at the tip!",
-      "CoolAdviceOfTheDay": "Take time once in a while to look up at the stars for at least 5 minutes, in order to comprehend your cosmic significance.",
-      "DadJokeOfTheDay": "What musical instrument is found in the bathroom? A tuba toothpaste.",
-      "IsTodayChristmas?": "Ask me in one hour",
-      "IsTodayMyBirthday?": "One day",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9etk0y.jpg"
+      "FunFactOfTheDay": "In 1980, a Las Vegas hospital suspended workers for betting on when patients would die.",
+      "CoolAdviceOfTheDay": "To improve productivity, always have a shittier task to put off.",
+      "DadJokeOfTheDay": "Where do you learn to make banana splits? At sundae school.",
+      "IsTodayChristmas?": "No say I",
+      "IsTodayMyBirthday?": "Ask me in one hour",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9ew0n8.jpg"
    }
 }
 ```
