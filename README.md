@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "In 1980, a Las Vegas hospital suspended workers for betting on when patients would die.",
-      "CoolAdviceOfTheDay": "To improve productivity, always have a shittier task to put off.",
-      "DadJokeOfTheDay": "Where do you learn to make banana splits? At sundae school.",
-      "IsTodayChristmas?": "No say I",
-      "IsTodayMyBirthday?": "Ask me in one hour",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9ew0n8.jpg"
+      "FunFactOfTheDay": "The name Wendy was made up for the book 'Peter Pan.'",
+      "CoolAdviceOfTheDay": "If you've nothing nice to say, say nothing.",
+      "DadJokeOfTheDay": "What do vegetarian zombies eat? Grrrrrainnnnnssss.",
+      "IsTodayChristmas?": "!Yes",
+      "IsTodayMyBirthday?": "Nah",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9eyid9.jpg"
    }
 }
 ```
