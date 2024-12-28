@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The name Wendy was made up for the book 'Peter Pan.'",
-      "CoolAdviceOfTheDay": "If you've nothing nice to say, say nothing.",
-      "DadJokeOfTheDay": "What do vegetarian zombies eat? Grrrrrainnnnnssss.",
+      "FunFactOfTheDay": "A full-loaded supertanker traveling at normal speed takes at least 20 minutes to stop.",
+      "CoolAdviceOfTheDay": "Always get two ciders.",
+      "DadJokeOfTheDay": "What do you get when you cross a pig and a pineapple? A porky pine",
       "IsTodayChristmas?": "!Yes",
-      "IsTodayMyBirthday?": "Nah",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9eyid9.jpg"
+      "IsTodayMyBirthday?": "Not quite",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9f19ic.jpg"
    }
 }
 ```
