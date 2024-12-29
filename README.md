@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "A full-loaded supertanker traveling at normal speed takes at least 20 minutes to stop.",
-      "CoolAdviceOfTheDay": "Always get two ciders.",
-      "DadJokeOfTheDay": "What do you get when you cross a pig and a pineapple? A porky pine",
-      "IsTodayChristmas?": "!Yes",
-      "IsTodayMyBirthday?": "Not quite",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9f19ic.jpg"
+      "FunFactOfTheDay": "In every episode of Seinfeld there is a Superman somewhere.",
+      "CoolAdviceOfTheDay": "If you're feeling tired or anxious, a pint of water will almost always make you feel better.",
+      "DadJokeOfTheDay": "Thanks for explaining the word 'many' to me. It means a lot.",
+      "IsTodayChristmas?": "Not this time",
+      "IsTodayMyBirthday?": "Nah",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9f413t.jpg"
    }
 }
 ```
