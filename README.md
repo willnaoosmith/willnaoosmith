@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "It`s against the law to doze off under a hair dryer in Florida/against the law to slap an old friend on the back in Georgia/against the law to Play hopscotch on a Sunday in Missouri.",
-      "CoolAdviceOfTheDay": "One of the top five regrets people have is that they didn't stay in contact with friends.",
-      "DadJokeOfTheDay": "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor.",
-      "IsTodayChristmas?": "Unfortunately, not",
-      "IsTodayMyBirthday?": "I dont know",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9f6r6q.jpg"
+      "FunFactOfTheDay": "The name of the girl on the statue of liberty is Mother of Exiles.",
+      "CoolAdviceOfTheDay": "Lemon and salt works wonders on tarnished brass.",
+      "DadJokeOfTheDay": "Why can't a bicycle stand on its own? It's two-tired.",
+      "IsTodayChristmas?": "Ask me in one hour",
+      "IsTodayMyBirthday?": "Ask me in a year",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9f9ukc.jpg"
    }
 }
 ```
