@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The name of the girl on the statue of liberty is Mother of Exiles.",
-      "CoolAdviceOfTheDay": "Lemon and salt works wonders on tarnished brass.",
-      "DadJokeOfTheDay": "Why can't a bicycle stand on its own? It's two-tired.",
-      "IsTodayChristmas?": "Ask me in one hour",
-      "IsTodayMyBirthday?": "Ask me in a year",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9f9ukc.jpg"
+      "FunFactOfTheDay": "Honeybees have a type of hair on their eyes!",
+      "CoolAdviceOfTheDay": "Good advice is something a man gives when he is too old to set a bad example.",
+      "DadJokeOfTheDay": "What do prisoners use to call each other? Cell phones.",
+      "IsTodayChristmas?": "Not quite",
+      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9fd3uz.jpg"
    }
 }
 ```
