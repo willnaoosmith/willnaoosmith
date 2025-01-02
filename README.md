@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Honeybees have a type of hair on their eyes!",
-      "CoolAdviceOfTheDay": "Good advice is something a man gives when he is too old to set a bad example.",
-      "DadJokeOfTheDay": "What do prisoners use to call each other? Cell phones.",
-      "IsTodayChristmas?": "Not quite",
-      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9fd3uz.jpg"
+      "FunFactOfTheDay": "Hot water is heavier than cold.",
+      "CoolAdviceOfTheDay": "Learn to handle criticism.",
+      "DadJokeOfTheDay": "People are making apocalypse jokes like there’s no tomorrow.",
+      "IsTodayChristmas?": "No say I",
+      "IsTodayMyBirthday?": "Ask me in a year",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9ffqv6.jpg"
    }
 }
 ```
