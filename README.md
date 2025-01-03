@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Hot water is heavier than cold.",
-      "CoolAdviceOfTheDay": "Learn to handle criticism.",
-      "DadJokeOfTheDay": "People are making apocalypse jokes like there’s no tomorrow.",
-      "IsTodayChristmas?": "No say I",
-      "IsTodayMyBirthday?": "Ask me in a year",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9ffqv6.jpg"
+      "FunFactOfTheDay": "Deborah Winger did the voice of E.T.",
+      "CoolAdviceOfTheDay": "Quality beats quantity.",
+      "DadJokeOfTheDay": "“Doctor, I’ve broken my arm in several places” Doctor “Well don’t go to those places.”",
+      "IsTodayChristmas?": "Not this time",
+      "IsTodayMyBirthday?": "Unfortunately, not",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9fitiz.jpg"
    }
 }
 ```
