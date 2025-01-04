@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Deborah Winger did the voice of E.T.",
-      "CoolAdviceOfTheDay": "Quality beats quantity.",
-      "DadJokeOfTheDay": "“Doctor, I’ve broken my arm in several places” Doctor “Well don’t go to those places.”",
-      "IsTodayChristmas?": "Not this time",
-      "IsTodayMyBirthday?": "Unfortunately, not",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9fitiz.jpg"
+      "FunFactOfTheDay": "Every time you lick a stamp, you consume 1/10 of a calorie.",
+      "CoolAdviceOfTheDay": "One of the top five regrets people have is that they didn't stay in contact with friends.",
+      "DadJokeOfTheDay": "What do you do on a remote island? Try and find the TV island it belongs to.",
+      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
+      "IsTodayMyBirthday?": "Ask me in a year",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9flzfk.jpg"
    }
 }
 ```
