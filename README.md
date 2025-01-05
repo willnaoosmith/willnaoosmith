@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Every time you lick a stamp, you consume 1/10 of a calorie.",
-      "CoolAdviceOfTheDay": "One of the top five regrets people have is that they didn't stay in contact with friends.",
-      "DadJokeOfTheDay": "What do you do on a remote island? Try and find the TV island it belongs to.",
-      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
+      "FunFactOfTheDay": "It is illegal to eat oranges while bathing in California.",
+      "CoolAdviceOfTheDay": "When in doubt, just take the next small step.",
+      "DadJokeOfTheDay": "What do you call a troublesome Canadian high schooler? A poutine.",
+      "IsTodayChristmas?": "Yes'nt",
       "IsTodayMyBirthday?": "Ask me in a year",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9flzfk.jpg"
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9fomao.jpg"
    }
 }
 ```
