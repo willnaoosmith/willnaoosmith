@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "It is illegal to eat oranges while bathing in California.",
-      "CoolAdviceOfTheDay": "When in doubt, just take the next small step.",
-      "DadJokeOfTheDay": "What do you call a troublesome Canadian high schooler? A poutine.",
-      "IsTodayChristmas?": "Yes'nt",
-      "IsTodayMyBirthday?": "Ask me in a year",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9fomao.jpg"
+      "FunFactOfTheDay": "In a lifetime the average human produces enough quarts of spit to fill 2 swimming pools.",
+      "CoolAdviceOfTheDay": "Try making a list.",
+      "DadJokeOfTheDay": "I just got fired from a florist, apparently I took too many leaves.",
+      "IsTodayChristmas?": "Ask me in one hour",
+      "IsTodayMyBirthday?": "No",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9frem2.jpg"
    }
 }
 ```
