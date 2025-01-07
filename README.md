@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "In a lifetime the average human produces enough quarts of spit to fill 2 swimming pools.",
-      "CoolAdviceOfTheDay": "Try making a list.",
-      "DadJokeOfTheDay": "I just got fired from a florist, apparently I took too many leaves.",
-      "IsTodayChristmas?": "Ask me in one hour",
-      "IsTodayMyBirthday?": "No",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9frem2.jpg"
+      "FunFactOfTheDay": "The serial number of the first MAC ever produced was 2001.",
+      "CoolAdviceOfTheDay": "If your hair is thinning, try dying your hair a similar tone to your scalp.",
+      "DadJokeOfTheDay": "Do you know where you can get chicken broth in bulk? The stock market.",
+      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
+      "IsTodayMyBirthday?": "One day",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9fv1ak.jpg"
    }
 }
 ```
