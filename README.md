@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The sperm of a mouse is actually longer than the sperm of an elephant.",
-      "CoolAdviceOfTheDay": "Always the burrito.",
-      "DadJokeOfTheDay": "Americans can't switch from pounds to kilograms overnight. That would cause mass confusion.",
-      "IsTodayChristmas?": "I dont know",
-      "IsTodayMyBirthday?": "Ask me in a year",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9fyz8p.jpg"
+      "FunFactOfTheDay": "James Bond`s car had three different license plates in Goldfinger",
+      "CoolAdviceOfTheDay": "What's stopping you?",
+      "DadJokeOfTheDay": "A ghost walks into a bar and asks for a glass of vodka but the bar tender says, “sorry we don’t serve spirits”",
+      "IsTodayChristmas?": "Ask me in one hour",
+      "IsTodayMyBirthday?": "Maybe another time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9fzo7g.jpg"
    }
 }
 ```
