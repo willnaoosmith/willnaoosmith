@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The serial number of the first MAC ever produced was 2001.",
-      "CoolAdviceOfTheDay": "If your hair is thinning, try dying your hair a similar tone to your scalp.",
-      "DadJokeOfTheDay": "Do you know where you can get chicken broth in bulk? The stock market.",
-      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
-      "IsTodayMyBirthday?": "One day",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9fv1ak.jpg"
+      "FunFactOfTheDay": "The sperm of a mouse is actually longer than the sperm of an elephant.",
+      "CoolAdviceOfTheDay": "Always the burrito.",
+      "DadJokeOfTheDay": "Americans can't switch from pounds to kilograms overnight. That would cause mass confusion.",
+      "IsTodayChristmas?": "I dont know",
+      "IsTodayMyBirthday?": "Ask me in a year",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9fyz8p.jpg"
    }
 }
 ```
