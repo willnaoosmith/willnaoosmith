@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "James Bond`s car had three different license plates in Goldfinger",
-      "CoolAdviceOfTheDay": "What's stopping you?",
-      "DadJokeOfTheDay": "A ghost walks into a bar and asks for a glass of vodka but the bar tender says, “sorry we don’t serve spirits”",
-      "IsTodayChristmas?": "Ask me in one hour",
+      "FunFactOfTheDay": "The katydid bug hears through holes in its hind legs!",
+      "CoolAdviceOfTheDay": "A nod is as good as a wink to a blind horse.",
+      "DadJokeOfTheDay": "When do doctors get angry? When they run out of patients.",
+      "IsTodayChristmas?": "Not quite",
       "IsTodayMyBirthday?": "Maybe another time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9fzo7g.jpg"
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9g31kj.jpg"
    }
 }
 ```
