@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The katydid bug hears through holes in its hind legs!",
-      "CoolAdviceOfTheDay": "A nod is as good as a wink to a blind horse.",
-      "DadJokeOfTheDay": "When do doctors get angry? When they run out of patients.",
-      "IsTodayChristmas?": "Not quite",
-      "IsTodayMyBirthday?": "Maybe another time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9g31kj.jpg"
+      "FunFactOfTheDay": "Any free-moving liquid in outer space will form itself into a sphere, because of its surface tension.",
+      "CoolAdviceOfTheDay": "Learn from your mistakes.",
+      "DadJokeOfTheDay": "What's red and bad for your teeth? A Brick.",
+      "IsTodayChristmas?": "Unfortunately, not",
+      "IsTodayMyBirthday?": "Ask me in a year",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9g77kp.jpg"
    }
 }
 ```
