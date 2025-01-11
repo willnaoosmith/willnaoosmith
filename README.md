@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Any free-moving liquid in outer space will form itself into a sphere, because of its surface tension.",
-      "CoolAdviceOfTheDay": "Learn from your mistakes.",
-      "DadJokeOfTheDay": "What's red and bad for your teeth? A Brick.",
-      "IsTodayChristmas?": "Unfortunately, not",
-      "IsTodayMyBirthday?": "Ask me in a year",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9g77kp.jpg"
+      "FunFactOfTheDay": "You burn more calories sleeping than you do watching TV.",
+      "CoolAdviceOfTheDay": "Gratitude is said to be the secret to happiness.",
+      "DadJokeOfTheDay": "What do you call a fly without wings? A walk.",
+      "IsTodayChristmas?": "Not quite",
+      "IsTodayMyBirthday?": "Maybe another time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9gbeii.jpg"
    }
 }
 ```
