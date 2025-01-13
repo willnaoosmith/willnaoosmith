@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "When possums are playing `possum`, they are not 'playing.' They actually pass out from sheer terror.",
-      "CoolAdviceOfTheDay": "Never regret. If it's good, it's wonderful. If it's bad, it's experience.",
-      "DadJokeOfTheDay": "I used to work for an origami company but they folded.",
+      "FunFactOfTheDay": "Alfred Hitchcock didn`t have a belly button. It was eliminated when he was sewn up after surgery.",
+      "CoolAdviceOfTheDay": "If you don't ask, you don't get.",
+      "DadJokeOfTheDay": "Did you hear about the chameleon who couldn't change color? They had a reptile dysfunction.",
       "IsTodayChristmas?": "Maybe another time",
       "IsTodayMyBirthday?": "Maybe",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9gefx8.jpg"
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9ghdlo.jpg"
    }
 }
 ```
