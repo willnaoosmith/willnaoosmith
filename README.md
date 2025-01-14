@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Alfred Hitchcock didn`t have a belly button. It was eliminated when he was sewn up after surgery.",
-      "CoolAdviceOfTheDay": "If you don't ask, you don't get.",
-      "DadJokeOfTheDay": "Did you hear about the chameleon who couldn't change color? They had a reptile dysfunction.",
-      "IsTodayChristmas?": "Maybe another time",
-      "IsTodayMyBirthday?": "Maybe",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9ghdlo.jpg"
+      "FunFactOfTheDay": "Lawn darts are illegal in Canada.",
+      "CoolAdviceOfTheDay": "If you cannot unscrew the lid of a jar, try placing a rubber band around its circumference for extra grip.",
+      "DadJokeOfTheDay": "Why does a chicken coop only have two doors? Because if it had four doors it would be a chicken sedan.",
+      "IsTodayChristmas?": "Ask me in a year",
+      "IsTodayMyBirthday?": "Unfortunately, not",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9gldrm.jpg"
    }
 }
 ```
