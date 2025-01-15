@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Lawn darts are illegal in Canada.",
-      "CoolAdviceOfTheDay": "If you cannot unscrew the lid of a jar, try placing a rubber band around its circumference for extra grip.",
-      "DadJokeOfTheDay": "Why does a chicken coop only have two doors? Because if it had four doors it would be a chicken sedan.",
-      "IsTodayChristmas?": "Ask me in a year",
-      "IsTodayMyBirthday?": "Unfortunately, not",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9gldrm.jpg"
+      "FunFactOfTheDay": "Venus is the only planet that rotates clockwise.",
+      "CoolAdviceOfTheDay": "Sarcasm is the lowest form of wit. Employ correctly with apt timing.",
+      "DadJokeOfTheDay": "What biscuit does a short person like? Shortbread. ",
+      "IsTodayChristmas?": "Ask me tomorrow",
+      "IsTodayMyBirthday?": "Nope",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9gpl22.jpg"
    }
 }
 ```
