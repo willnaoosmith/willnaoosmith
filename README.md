@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Venus is the only planet that rotates clockwise.",
-      "CoolAdviceOfTheDay": "Sarcasm is the lowest form of wit. Employ correctly with apt timing.",
-      "DadJokeOfTheDay": "What biscuit does a short person like? Shortbread. ",
-      "IsTodayChristmas?": "Ask me tomorrow",
-      "IsTodayMyBirthday?": "Nope",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9gpl22.jpg"
+      "FunFactOfTheDay": "Shakespeare is quoted 33,150 times in the Oxford English dictionary.",
+      "CoolAdviceOfTheDay": "Don't eat anything your grandparents wouldn't recognise as food.",
+      "DadJokeOfTheDay": "In the news a courtroom artist was arrested today, I'm not surprised, he always seemed sketchy.",
+      "IsTodayChristmas?": "Maybe another time",
+      "IsTodayMyBirthday?": "No",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9gty1l.jpg"
    }
 }
 ```
