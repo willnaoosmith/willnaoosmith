@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Shakespeare is quoted 33,150 times in the Oxford English dictionary.",
-      "CoolAdviceOfTheDay": "Don't eat anything your grandparents wouldn't recognise as food.",
-      "DadJokeOfTheDay": "In the news a courtroom artist was arrested today, I'm not surprised, he always seemed sketchy.",
-      "IsTodayChristmas?": "Maybe another time",
-      "IsTodayMyBirthday?": "No",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9gty1l.jpg"
+      "FunFactOfTheDay": "The word 'samba' means 'to rub navels together.'",
+      "CoolAdviceOfTheDay": "You're not that important; it's what you do that counts.",
+      "DadJokeOfTheDay": "How do robots eat guacamole? With computer chips.",
+      "IsTodayChristmas?": "Ask me tomorrow",
+      "IsTodayMyBirthday?": "One day",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9gyocl.jpg"
    }
 }
 ```
