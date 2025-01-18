@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The word 'samba' means 'to rub navels together.'",
-      "CoolAdviceOfTheDay": "You're not that important; it's what you do that counts.",
-      "DadJokeOfTheDay": "How do robots eat guacamole? With computer chips.",
-      "IsTodayChristmas?": "Ask me tomorrow",
-      "IsTodayMyBirthday?": "One day",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9gyocl.jpg"
+      "FunFactOfTheDay": "The state of Florida is bigger than England!",
+      "CoolAdviceOfTheDay": "Learn from your mistakes.",
+      "DadJokeOfTheDay": "Why are oranges the smartest fruit? Because they are made to concentrate. ",
+      "IsTodayChristmas?": "Not quite",
+      "IsTodayMyBirthday?": "Nope",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9h39xh.jpg"
    }
 }
 ```
