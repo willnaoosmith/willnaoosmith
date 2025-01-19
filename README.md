@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The state of Florida is bigger than England!",
-      "CoolAdviceOfTheDay": "Learn from your mistakes.",
-      "DadJokeOfTheDay": "Why are oranges the smartest fruit? Because they are made to concentrate. ",
-      "IsTodayChristmas?": "Not quite",
-      "IsTodayMyBirthday?": "Nope",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9h39xh.jpg"
+      "FunFactOfTheDay": "When the University of Nebraska Cornhuskers play football at home, the stadium becomes the state`s third largest city.",
+      "CoolAdviceOfTheDay": "Try making a list.",
+      "DadJokeOfTheDay": "Never take advice from electrons. They are always negative.",
+      "IsTodayChristmas?": "No say I",
+      "IsTodayMyBirthday?": "No say I",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9h6gkh.jpg"
    }
 }
 ```
