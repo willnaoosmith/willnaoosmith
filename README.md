@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The scene where Indiana Jones shoots the swordsman in Raider’s of the Lost Ark was Harrison Ford's idea so that he could take a bathroom break.",
-      "CoolAdviceOfTheDay": "If you're going bald, don't comb your hair over your bald patch.",
-      "DadJokeOfTheDay": "What’s E.T. short for? He’s only got little legs.",
-      "IsTodayChristmas?": "Unfortunately, not",
-      "IsTodayMyBirthday?": "No say I",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9hilrj.jpg"
+      "FunFactOfTheDay": "A cat has 32 muscles in each ear.",
+      "CoolAdviceOfTheDay": "A common regret in life is wishing one had the courage to be ones true self.",
+      "DadJokeOfTheDay": "Why did the tree go to the dentist? It needed a root canal.",
+      "IsTodayChristmas?": "Maybe",
+      "IsTodayMyBirthday?": "Ask me in a year",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9hn19w.jpg"
    }
 }
 ```
