@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "A cat has 32 muscles in each ear.",
-      "CoolAdviceOfTheDay": "A common regret in life is wishing one had the courage to be ones true self.",
-      "DadJokeOfTheDay": "Why did the tree go to the dentist? It needed a root canal.",
-      "IsTodayChristmas?": "Maybe",
-      "IsTodayMyBirthday?": "Ask me in a year",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9hn19w.jpg"
+      "FunFactOfTheDay": "There are 1,792 steps in the Eiffel Tower",
+      "CoolAdviceOfTheDay": "Drink a glass of water before meals.",
+      "DadJokeOfTheDay": "A girl once asked me what my heart desired, apparently blood, oxygen and neural messages were all wrong answers",
+      "IsTodayChristmas?": "Nah",
+      "IsTodayMyBirthday?": "Not this time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9hrhnr.jpg"
    }
 }
 ```
