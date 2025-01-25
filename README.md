@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "There are 1,792 steps in the Eiffel Tower",
-      "CoolAdviceOfTheDay": "Drink a glass of water before meals.",
-      "DadJokeOfTheDay": "A girl once asked me what my heart desired, apparently blood, oxygen and neural messages were all wrong answers",
-      "IsTodayChristmas?": "Nah",
-      "IsTodayMyBirthday?": "Not this time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9hrhnr.jpg"
+      "FunFactOfTheDay": "Jefferson invented the dumbwaiter, the monetary system, and the folding attic ladder.",
+      "CoolAdviceOfTheDay": "You spend half your life asleep or in bed. It's worth spending money on a good mattress, decent pillows and a comfy duvet.",
+      "DadJokeOfTheDay": "How do you teach a kid to climb stairs? There is a step by step guide.",
+      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
+      "IsTodayMyBirthday?": "Nope",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9hvubd.jpg"
    }
 }
 ```
