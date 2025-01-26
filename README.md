@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Jefferson invented the dumbwaiter, the monetary system, and the folding attic ladder.",
-      "CoolAdviceOfTheDay": "You spend half your life asleep or in bed. It's worth spending money on a good mattress, decent pillows and a comfy duvet.",
-      "DadJokeOfTheDay": "How do you teach a kid to climb stairs? There is a step by step guide.",
-      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
-      "IsTodayMyBirthday?": "Nope",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9hvubd.jpg"
+      "FunFactOfTheDay": "The word 'samba' means 'to rub navels together.'",
+      "CoolAdviceOfTheDay": "Don't always believe what you think.",
+      "DadJokeOfTheDay": "What's blue and not very heavy?  Light blue.",
+      "IsTodayChristmas?": "Unfortunately, not",
+      "IsTodayMyBirthday?": "Not yet",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9hyuv0.jpg"
    }
 }
 ```
