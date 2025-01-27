@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The word 'samba' means 'to rub navels together.'",
-      "CoolAdviceOfTheDay": "Don't always believe what you think.",
-      "DadJokeOfTheDay": "What's blue and not very heavy?  Light blue.",
-      "IsTodayChristmas?": "Unfortunately, not",
-      "IsTodayMyBirthday?": "Not yet",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9hyuv0.jpg"
+      "FunFactOfTheDay": "Maine is the only state whose name is just one syllable.",
+      "CoolAdviceOfTheDay": "Try to not compliment people on things they don't control.",
+      "DadJokeOfTheDay": "When my wife told me to stop impersonating a flamingo, I had to put my foot down.",
+      "IsTodayChristmas?": "Ask me in a year",
+      "IsTodayMyBirthday?": "One day",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9i2105.jpg"
    }
 }
 ```
