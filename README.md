@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The cruise liner, Queen Elizabeth II, moves only six inches for each gallon of diesel that it burns.",
-      "CoolAdviceOfTheDay": "Keep it simple.",
-      "DadJokeOfTheDay": "You know what they say about cliffhangers...",
-      "IsTodayChristmas?": "Maybe",
-      "IsTodayMyBirthday?": "Nah",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9i6fbf.jpg"
+      "FunFactOfTheDay": "A signature is called a John Hancock because he signed the Declaration of Independence. Only 2 people signed the declaration of independence on July 4. The Last person signed 2 years later.",
+      "CoolAdviceOfTheDay": "A common regret in life is wishing one hadn't worked so hard.",
+      "DadJokeOfTheDay": "Why don't skeletons ride roller coasters? They don't have the stomach for it.",
+      "IsTodayChristmas?": "Not yet",
+      "IsTodayMyBirthday?": "No say I",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9iawqd.jpg"
    }
 }
 ```
