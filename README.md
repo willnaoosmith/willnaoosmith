@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The HyperMart outside of Garland Texas has 58 check-outs.",
-      "CoolAdviceOfTheDay": "Enjoy a little nonsense now and then.",
-      "DadJokeOfTheDay": "What do you call a pile of cats?  A Meowtain.",
-      "IsTodayChristmas?": "Unfortunately, not",
-      "IsTodayMyBirthday?": "Maybe",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9iffs3.jpg"
+      "FunFactOfTheDay": "The cruise liner, Queen Elizabeth II, moves only six inches for each gallon of diesel that it burns.",
+      "CoolAdviceOfTheDay": "Try to do the things that you're incapable of.",
+      "DadJokeOfTheDay": "Mahatma Gandhi, as you know, walked barefoot most of the time, which produced an impressive set of calluses on his feet.  He also ate very little, which made him rather frail and with his odd diet, he suffered from bad breath.  This made him a super calloused fragile mystic hexed by halitosis.",
+      "IsTodayChristmas?": "Not yet",
+      "IsTodayMyBirthday?": "Maybe another time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9ik1iq.jpg"
    }
 }
 ```
