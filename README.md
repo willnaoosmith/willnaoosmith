@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The cruise liner, Queen Elizabeth II, moves only six inches for each gallon of diesel that it burns.",
-      "CoolAdviceOfTheDay": "Try to do the things that you're incapable of.",
-      "DadJokeOfTheDay": "Mahatma Gandhi, as you know, walked barefoot most of the time, which produced an impressive set of calluses on his feet.  He also ate very little, which made him rather frail and with his odd diet, he suffered from bad breath.  This made him a super calloused fragile mystic hexed by halitosis.",
-      "IsTodayChristmas?": "Not yet",
-      "IsTodayMyBirthday?": "Maybe another time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9ik1iq.jpg"
+      "FunFactOfTheDay": "A rainbow can be seen only in the morning or late afternoon. It can occur only when the sun is 40 degrees or less above the horizon.",
+      "CoolAdviceOfTheDay": "Look people in the eye.",
+      "DadJokeOfTheDay": "Why did the cookie cry? It was feeling crumby.",
+      "IsTodayChristmas?": "Not quite",
+      "IsTodayMyBirthday?": "Not quite",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9ioj24.jpg"
    }
 }
 ```
