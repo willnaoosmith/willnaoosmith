@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "A rainbow can be seen only in the morning or late afternoon. It can occur only when the sun is 40 degrees or less above the horizon.",
-      "CoolAdviceOfTheDay": "Look people in the eye.",
-      "DadJokeOfTheDay": "Why did the cookie cry? It was feeling crumby.",
-      "IsTodayChristmas?": "Not quite",
-      "IsTodayMyBirthday?": "Not quite",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9ioj24.jpg"
+      "FunFactOfTheDay": "Nearly 80% of all animals on earth have six legs.",
+      "CoolAdviceOfTheDay": "You can have too much of a good thing.",
+      "DadJokeOfTheDay": "What do you call a cow with no legs? Ground beef.",
+      "IsTodayChristmas?": "Maybe another time",
+      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9irk69.jpg"
    }
 }
 ```
