@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "A signature is called a John Hancock because he signed the Declaration of Independence. Only 2 people signed the declaration of independence on July 4. The Last person signed 2 years later.",
-      "CoolAdviceOfTheDay": "Keep it simple.",
-      "DadJokeOfTheDay": "Why are fish easy to weigh? Because they have their own scales.",
-      "IsTodayChristmas?": "Maybe",
-      "IsTodayMyBirthday?": "Not yet",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9iusy0.jpg"
+      "FunFactOfTheDay": "A duck`s quack doesn`t echo, and no one knows why.",
+      "CoolAdviceOfTheDay": "Big things have small beginnings.",
+      "DadJokeOfTheDay": "It was raining cats and dogs the other day. I almost stepped in a poodle.",
+      "IsTodayChristmas?": "Ask me tomorrow",
+      "IsTodayMyBirthday?": "Maybe",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9iz48s.jpg"
    }
 }
 ```
