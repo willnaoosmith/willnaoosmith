@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "A duck`s quack doesn`t echo, and no one knows why.",
-      "CoolAdviceOfTheDay": "Big things have small beginnings.",
-      "DadJokeOfTheDay": "It was raining cats and dogs the other day. I almost stepped in a poodle.",
-      "IsTodayChristmas?": "Ask me tomorrow",
-      "IsTodayMyBirthday?": "Maybe",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9iz48s.jpg"
+      "FunFactOfTheDay": "The average person spends about two years on the phone in a lifetime.",
+      "CoolAdviceOfTheDay": "Don't judge a book by its cover, unless it has a synopsis on the back.",
+      "DadJokeOfTheDay": "There are two types of people in this world, those who can extrapolate from incomplete data...",
+      "IsTodayChristmas?": "Ask me in a year",
+      "IsTodayMyBirthday?": "Yes'nt",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9j3m0c.jpg"
    }
 }
 ```
