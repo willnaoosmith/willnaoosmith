@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The average person spends about two years on the phone in a lifetime.",
-      "CoolAdviceOfTheDay": "Don't judge a book by its cover, unless it has a synopsis on the back.",
-      "DadJokeOfTheDay": "There are two types of people in this world, those who can extrapolate from incomplete data...",
-      "IsTodayChristmas?": "Ask me in a year",
-      "IsTodayMyBirthday?": "Yes'nt",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9j3m0c.jpg"
+      "FunFactOfTheDay": "The three most recognized Western names in China are Jesus Christ, Richard Nixon, & Elvis Presley.",
+      "CoolAdviceOfTheDay": "Hold the door open for the next person.",
+      "DadJokeOfTheDay": "What did the left eye say to the right eye? Between us, something smells!",
+      "IsTodayChristmas?": "I dont know",
+      "IsTodayMyBirthday?": "Maybe",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9j88a1.jpg"
    }
 }
 ```
