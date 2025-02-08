@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The very first song played on MTV was `Video Killed The Radio Star` by the Buggles.",
-      "CoolAdviceOfTheDay": "Never run a marathon in Crocs.",
-      "DadJokeOfTheDay": "Why are snake races so exciting? They're always neck and neck.",
-      "IsTodayChristmas?": "Unfortunately, not",
-      "IsTodayMyBirthday?": "I dont know",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9jd5i0.jpg"
+      "FunFactOfTheDay": "WWII fighter pilots in the South Pacific armed their airplanes while stationed with .50 caliber machine gun ammo belts measuring 27 feet before being loaded into the fuselage. If the pilots fired all their ammo at a target, he went through 'the whole 9 yards', hence the term.",
+      "CoolAdviceOfTheDay": "You will always regret the round of Tequila.",
+      "DadJokeOfTheDay": "I boiled a funny bone last night and had a laughing stock",
+      "IsTodayChristmas?": "Ask me tomorrow",
+      "IsTodayMyBirthday?": "Not this time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9jhnum.jpg"
    }
 }
 ```
