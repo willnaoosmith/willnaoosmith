@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "In Vermont, the ratio of cows to people is 10:1",
-      "CoolAdviceOfTheDay": "Be brave. Even if you're not, pretend to be. No one can tell the difference.",
-      "DadJokeOfTheDay": "What do you call a fish with no eyes? A fsh.",
-      "IsTodayChristmas?": "Nah",
-      "IsTodayMyBirthday?": "Not this time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9jkq79.jpg"
+      "FunFactOfTheDay": "The symbol on the 'pound' key (#) is called an octothorpe..  ",
+      "CoolAdviceOfTheDay": "Try buying a coffee for the creator of a free public API, now and then.",
+      "DadJokeOfTheDay": "I couldn't get a reservation at the library. They were completely booked.",
+      "IsTodayChristmas?": "I dont know",
+      "IsTodayMyBirthday?": "No",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9jo17t.jpg"
    }
 }
 ```
