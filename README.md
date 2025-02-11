@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The symbol on the 'pound' key (#) is called an octothorpe..  ",
-      "CoolAdviceOfTheDay": "Try buying a coffee for the creator of a free public API, now and then.",
-      "DadJokeOfTheDay": "I couldn't get a reservation at the library. They were completely booked.",
-      "IsTodayChristmas?": "I dont know",
-      "IsTodayMyBirthday?": "No",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9jo17t.jpg"
+      "FunFactOfTheDay": "2,000 pounds of space dust and other space debris fall on the Earth every day.",
+      "CoolAdviceOfTheDay": "As things get closer to the light, the shadows get darker.",
+      "DadJokeOfTheDay": "Why do nurses carry around red crayons? Sometimes they need to draw blood.",
+      "IsTodayChristmas?": "Maybe",
+      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9jseu4.jpg"
    }
 }
 ```
