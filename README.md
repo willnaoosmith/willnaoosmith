@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "A full-loaded supertanker traveling at normal speed takes at least 20 minutes to stop.",
-      "CoolAdviceOfTheDay": "You're not that important; it's what you do that counts.",
-      "DadJokeOfTheDay": "What’s E.T. short for? He’s only got little legs.",
-      "IsTodayChristmas?": "Nah",
-      "IsTodayMyBirthday?": "No say I",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9jwz8q.jpg"
+      "FunFactOfTheDay": "Length of beard an average man would grow if he never shaved 27.5 feet",
+      "CoolAdviceOfTheDay": "Don't take it personally.",
+      "DadJokeOfTheDay": "Why did the sentence fail the driving test? It never came to a full stop.",
+      "IsTodayChristmas?": "Not quite",
+      "IsTodayMyBirthday?": "Nah",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9k1r0f.jpg"
    }
 }
 ```
