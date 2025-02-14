@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Length of beard an average man would grow if he never shaved 27.5 feet",
-      "CoolAdviceOfTheDay": "Don't take it personally.",
-      "DadJokeOfTheDay": "Why did the sentence fail the driving test? It never came to a full stop.",
-      "IsTodayChristmas?": "Not quite",
-      "IsTodayMyBirthday?": "Nah",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9k1r0f.jpg"
+      "FunFactOfTheDay": "Pinocchio is Italian for 'pine head.'",
+      "CoolAdviceOfTheDay": "What could you increase? What could you reduce?",
+      "DadJokeOfTheDay": "Why did the cowboy have a weiner dog? Somebody told him to get a long little doggy.",
+      "IsTodayChristmas?": "!Yes",
+      "IsTodayMyBirthday?": "One day",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9k6ggp.jpg"
    }
 }
 ```
