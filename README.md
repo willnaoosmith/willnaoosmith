@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Pinocchio is Italian for 'pine head.'",
-      "CoolAdviceOfTheDay": "What could you increase? What could you reduce?",
-      "DadJokeOfTheDay": "Why did the cowboy have a weiner dog? Somebody told him to get a long little doggy.",
-      "IsTodayChristmas?": "!Yes",
-      "IsTodayMyBirthday?": "One day",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9k6ggp.jpg"
+      "FunFactOfTheDay": "Weatherman Willard Scott was the first original Ronald McDonald.",
+      "CoolAdviceOfTheDay": "Avoid mixing Ginger Nuts with other biscuits, they contaminate. Keep separated.",
+      "DadJokeOfTheDay": "Wife: Honey I’m pregnant.  Me: Well…. what do we do now?  Wife: Well, I guess we should go to a baby doctor.  Me: Hm.. I think I’d be a lot more comfortable going to an adult doctor.",
+      "IsTodayChristmas?": "One day",
+      "IsTodayMyBirthday?": "Maybe another time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9kb1c2.jpg"
    }
 }
 ```
