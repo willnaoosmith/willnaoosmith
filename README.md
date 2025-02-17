@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "There is approximately one chicken for every human being in the world.",
-      "CoolAdviceOfTheDay": "Your smile could make someone's day, don't forget to wear it.",
-      "DadJokeOfTheDay": "I remember when I was a kid, I opened my fridge and noticed one of my vegetables were crying. I guess I have some emotional cabbage.",
-      "IsTodayChristmas?": "Not this time",
-      "IsTodayMyBirthday?": "One day",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9kdyyk.jpg"
+      "FunFactOfTheDay": "The fingerprints of koala bears are virtually indistinguishable from those of humans, so much so that they can be easily confused at a crime scene.",
+      "CoolAdviceOfTheDay": "Repeat people's names when you meet them.",
+      "DadJokeOfTheDay": "I gave my friend 10 puns hoping that one of them would make him laugh. Sadly, no pun in ten did.",
+      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
+      "IsTodayMyBirthday?": "Not quite",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9kh34c.jpg"
    }
 }
 ```
