@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The fingerprints of koala bears are virtually indistinguishable from those of humans, so much so that they can be easily confused at a crime scene.",
-      "CoolAdviceOfTheDay": "Repeat people's names when you meet them.",
-      "DadJokeOfTheDay": "I gave my friend 10 puns hoping that one of them would make him laugh. Sadly, no pun in ten did.",
-      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
-      "IsTodayMyBirthday?": "Not quite",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9kh34c.jpg"
+      "FunFactOfTheDay": "Length of beard an average man would grow if he never shaved 27.5 feet",
+      "CoolAdviceOfTheDay": "Learn to handle criticism.",
+      "DadJokeOfTheDay": "What kind of music do planets listen to? Nep-tunes.",
+      "IsTodayChristmas?": "I dont know",
+      "IsTodayMyBirthday?": "Not this time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9kl12r.jpg"
    }
 }
 ```
