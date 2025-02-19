@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Length of beard an average man would grow if he never shaved 27.5 feet",
-      "CoolAdviceOfTheDay": "Learn to handle criticism.",
-      "DadJokeOfTheDay": "What kind of music do planets listen to? Nep-tunes.",
-      "IsTodayChristmas?": "I dont know",
-      "IsTodayMyBirthday?": "Not this time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9kl12r.jpg"
+      "FunFactOfTheDay": "If you go blind in one eye you only lose about one fifth of your vision but all your sense of depth.",
+      "CoolAdviceOfTheDay": "It's always the quiet ones.",
+      "DadJokeOfTheDay": "Scientists finally did a study on forks. It's about tine!",
+      "IsTodayChristmas?": "Unfortunately, not",
+      "IsTodayMyBirthday?": "Yes'nt",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9kpf93.jpg"
    }
 }
 ```
