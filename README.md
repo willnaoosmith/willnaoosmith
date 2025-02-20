@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "If you go blind in one eye you only lose about one fifth of your vision but all your sense of depth.",
-      "CoolAdviceOfTheDay": "It's always the quiet ones.",
-      "DadJokeOfTheDay": "Scientists finally did a study on forks. It's about tine!",
-      "IsTodayChristmas?": "Unfortunately, not",
-      "IsTodayMyBirthday?": "Yes'nt",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9kpf93.jpg"
+      "FunFactOfTheDay": "In the last 3,500 years, there have been approximately 230 years of peace throughout the civilized world.",
+      "CoolAdviceOfTheDay": "If you're squashed close to strangers on public transport, try not to be rude to them. No one likes those situations.",
+      "DadJokeOfTheDay": "Ever wondered why bees hum? It's because they don't know the words.",
+      "IsTodayChristmas?": "Yes'nt",
+      "IsTodayMyBirthday?": "Not this time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9ktyej.jpg"
    }
 }
 ```
