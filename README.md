@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "It is illegal to hunt camels in the state of Arizona.",
-      "CoolAdviceOfTheDay": "When hugging, hug with both arms and apply reasonable, affectionate pressure.",
-      "DadJokeOfTheDay": "Why are ghosts bad liars? Because you can see right through them!",
-      "IsTodayChristmas?": "I dont know",
-      "IsTodayMyBirthday?": "Unfortunately, not",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9kyjaz.jpg"
+      "FunFactOfTheDay": "The longest word comprised of one row on the keyboard is: TYPEWRITER",
+      "CoolAdviceOfTheDay": "If you can't do anything about it, there's no point in worrying about it.",
+      "DadJokeOfTheDay": "My New Years resolution is to stop leaving things so late.",
+      "IsTodayChristmas?": "Ask me in a year",
+      "IsTodayMyBirthday?": "I dont know",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9l3sgj.jpg"
    }
 }
 ```
