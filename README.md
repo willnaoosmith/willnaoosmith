@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "'Evaluation and Parameterization of Stability and Safety Performance Characteristics of Two and Three Wheeled Vehicular Toys for Riding.' Title of a $230,000 research project proposed by the Department of Health, Education and Welfare, to study the various ways children fall off bicycles.",
-      "CoolAdviceOfTheDay": "As things get closer to the light, the shadows get darker.",
-      "DadJokeOfTheDay": "I’m on a whiskey diet. I’ve lost three days already.",
-      "IsTodayChristmas?": "Ask me in one hour",
-      "IsTodayMyBirthday?": "Ask me in one hour",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9lilnp.jpg"
+      "FunFactOfTheDay": "Oak trees do not produce acorns until they are fifty years of age or older.",
+      "CoolAdviceOfTheDay": "The best nights out are when people around you are simply having fun.",
+      "DadJokeOfTheDay": "Bad at golf? Join the club.",
+      "IsTodayChristmas?": "Yes'nt",
+      "IsTodayMyBirthday?": "Nope",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9ln69c.jpg"
    }
 }
 ```
