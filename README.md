@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Oak trees do not produce acorns until they are fifty years of age or older.",
-      "CoolAdviceOfTheDay": "The best nights out are when people around you are simply having fun.",
-      "DadJokeOfTheDay": "Bad at golf? Join the club.",
-      "IsTodayChristmas?": "Yes'nt",
-      "IsTodayMyBirthday?": "Nope",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9ln69c.jpg"
+      "FunFactOfTheDay": "The first song played on Armed Forces Radio during operation Desert Shield was 'Rock the Casba' by the Clash.",
+      "CoolAdviceOfTheDay": "Have a firm handshake.",
+      "DadJokeOfTheDay": "Two parrots are sitting on a perch. One turns to the other and asks, 'do you smell fish?'",
+      "IsTodayChristmas?": "No say I",
+      "IsTodayMyBirthday?": "Yes'nt",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9lrrey.jpg"
    }
 }
 ```
