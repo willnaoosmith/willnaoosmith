@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The first song played on Armed Forces Radio during operation Desert Shield was 'Rock the Casba' by the Clash.",
-      "CoolAdviceOfTheDay": "Have a firm handshake.",
-      "DadJokeOfTheDay": "Two parrots are sitting on a perch. One turns to the other and asks, 'do you smell fish?'",
-      "IsTodayChristmas?": "No say I",
-      "IsTodayMyBirthday?": "Yes'nt",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9lrrey.jpg"
+      "FunFactOfTheDay": "In The Empire Strikes Back there is a potato hidden in the asteroid field",
+      "CoolAdviceOfTheDay": "To improve productivity, always have a shittier task to put off.",
+      "DadJokeOfTheDay": "Why are fish so smart? Because they live in schools!",
+      "IsTodayChristmas?": "One day",
+      "IsTodayMyBirthday?": "Ask me in one hour",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9lw7qx.jpg"
    }
 }
 ```
