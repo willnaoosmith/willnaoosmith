@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "In The Empire Strikes Back there is a potato hidden in the asteroid field",
-      "CoolAdviceOfTheDay": "To improve productivity, always have a shittier task to put off.",
-      "DadJokeOfTheDay": "Why are fish so smart? Because they live in schools!",
-      "IsTodayChristmas?": "One day",
-      "IsTodayMyBirthday?": "Ask me in one hour",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9lw7qx.jpg"
+      "FunFactOfTheDay": "In the last 3,500 years, there have been approximately 230 years of peace throughout the civilized world.",
+      "CoolAdviceOfTheDay": "Alway do anything for love, but don't do that.",
+      "DadJokeOfTheDay": "If at first you don't succeed, sky diving is not for you!",
+      "IsTodayChristmas?": "Yes'nt",
+      "IsTodayMyBirthday?": "Maybe another time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9lzaup.jpg"
    }
 }
 ```
