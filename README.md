@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "In the last 3,500 years, there have been approximately 230 years of peace throughout the civilized world.",
-      "CoolAdviceOfTheDay": "Alway do anything for love, but don't do that.",
-      "DadJokeOfTheDay": "If at first you don't succeed, sky diving is not for you!",
+      "FunFactOfTheDay": "Mel Blanc (the voice of Bugs Bunny) was allergic to carrots.",
+      "CoolAdviceOfTheDay": "The more ideas that you give away, the more ideas that will come to you.",
+      "DadJokeOfTheDay": "So, I heard this pun about cows, but it’s kinda offensive so I won’t say it. I don’t want there to be any beef between us. ",
       "IsTodayChristmas?": "Yes'nt",
-      "IsTodayMyBirthday?": "Maybe another time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9lzaup.jpg"
+      "IsTodayMyBirthday?": "No",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9m29i4.jpg"
    }
 }
 ```
