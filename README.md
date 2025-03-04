@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Mel Blanc (the voice of Bugs Bunny) was allergic to carrots.",
-      "CoolAdviceOfTheDay": "The more ideas that you give away, the more ideas that will come to you.",
-      "DadJokeOfTheDay": "So, I heard this pun about cows, but it’s kinda offensive so I won’t say it. I don’t want there to be any beef between us. ",
-      "IsTodayChristmas?": "Yes'nt",
-      "IsTodayMyBirthday?": "No",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9m29i4.jpg"
+      "FunFactOfTheDay": "Each of us generates about 3.5 pounds of rubbish a day, most of it paper.",
+      "CoolAdviceOfTheDay": "Play is the true mother of invention.",
+      "DadJokeOfTheDay": "Why did the kid throw the clock out the window? He wanted to see time fly!",
+      "IsTodayChristmas?": "Ask me in one hour",
+      "IsTodayMyBirthday?": "Not yet",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9m6c04.jpg"
    }
 }
 ```
