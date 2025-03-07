@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "'Evaluation and Parameterization of Stability and Safety Performance Characteristics of Two and Three Wheeled Vehicular Toys for Riding.' Title of a $230,000 research project proposed by the Department of Health, Education and Welfare, to study the various ways children fall off bicycles.",
-      "CoolAdviceOfTheDay": "A nod is as good as a wink to a blind horse.",
-      "DadJokeOfTheDay": "Have you heard of the band 1023MB? They haven't got a gig yet.",
-      "IsTodayChristmas?": "One day",
-      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9mf1o0.jpg"
+      "FunFactOfTheDay": "The average person will accidentally eat just under a pound of insects every year.",
+      "CoolAdviceOfTheDay": "Don't assume anything is possible or impossible until you've asked the people who will be doing the work.",
+      "DadJokeOfTheDay": "Where do young cows eat lunch? In the calf-ateria.",
+      "IsTodayChristmas?": "I dont know",
+      "IsTodayMyBirthday?": "Ask me tomorrow",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9mjkh4.jpg"
    }
 }
 ```
