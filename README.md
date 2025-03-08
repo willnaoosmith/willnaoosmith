@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The average person will accidentally eat just under a pound of insects every year.",
-      "CoolAdviceOfTheDay": "Don't assume anything is possible or impossible until you've asked the people who will be doing the work.",
-      "DadJokeOfTheDay": "Where do young cows eat lunch? In the calf-ateria.",
-      "IsTodayChristmas?": "I dont know",
-      "IsTodayMyBirthday?": "Ask me tomorrow",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9mjkh4.jpg"
+      "FunFactOfTheDay": "Honey is the only food which does not spoil.",
+      "CoolAdviceOfTheDay": "You can fail at what you don't want. So you might as well take a chance on doing what you love.",
+      "DadJokeOfTheDay": "Q: What did the spaghetti say to the other spaghetti? A: Pasta la vista, baby!",
+      "IsTodayChristmas?": "Not quite",
+      "IsTodayMyBirthday?": "Not this time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9mnv9i.jpg"
    }
 }
 ```
