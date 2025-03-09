@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Honey is the only food which does not spoil.",
-      "CoolAdviceOfTheDay": "You can fail at what you don't want. So you might as well take a chance on doing what you love.",
-      "DadJokeOfTheDay": "Q: What did the spaghetti say to the other spaghetti? A: Pasta la vista, baby!",
-      "IsTodayChristmas?": "Not quite",
-      "IsTodayMyBirthday?": "Not this time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9mnv9i.jpg"
+      "FunFactOfTheDay": "One-fourth of the world`s population lives on less than $200 a year.  Ninety million people survive on less than $75 a year.",
+      "CoolAdviceOfTheDay": "Always block trolls.",
+      "DadJokeOfTheDay": "Who did the wizard marry? His ghoul-friend",
+      "IsTodayChristmas?": "I dont know",
+      "IsTodayMyBirthday?": "!Yes",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9mqqu1.jpg"
    }
 }
 ```
