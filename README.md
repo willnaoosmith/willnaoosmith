@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "One-fourth of the world`s population lives on less than $200 a year.  Ninety million people survive on less than $75 a year.",
-      "CoolAdviceOfTheDay": "Always block trolls.",
-      "DadJokeOfTheDay": "Who did the wizard marry? His ghoul-friend",
-      "IsTodayChristmas?": "I dont know",
-      "IsTodayMyBirthday?": "!Yes",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9mqqu1.jpg"
+      "FunFactOfTheDay": "Prince Charles is an avid collecter of toilet seats.",
+      "CoolAdviceOfTheDay": "Life can be a lot more interesting inside your head.",
+      "DadJokeOfTheDay": "What's a ninja's favorite type of shoes? Sneakers!",
+      "IsTodayChristmas?": "Ask me in one hour",
+      "IsTodayMyBirthday?": "Nope",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9mtny7.jpg"
    }
 }
 ```
