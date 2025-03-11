@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Prince Charles is an avid collecter of toilet seats.",
-      "CoolAdviceOfTheDay": "Life can be a lot more interesting inside your head.",
-      "DadJokeOfTheDay": "What's a ninja's favorite type of shoes? Sneakers!",
-      "IsTodayChristmas?": "Ask me in one hour",
-      "IsTodayMyBirthday?": "Nope",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9mtny7.jpg"
+      "FunFactOfTheDay": "The verb 'cleave' is the only English word with two synonyms which are antonyms of each other: adhere and separate.",
+      "CoolAdviceOfTheDay": "Sarcasm is the lowest form of wit. Employ correctly with apt timing.",
+      "DadJokeOfTheDay": "It's only a murder of crows if there's probable caws.",
+      "IsTodayChristmas?": "Maybe another time",
+      "IsTodayMyBirthday?": "Maybe another time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9mxxpv.jpg"
    }
 }
 ```
