@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The verb 'cleave' is the only English word with two synonyms which are antonyms of each other: adhere and separate.",
-      "CoolAdviceOfTheDay": "Sarcasm is the lowest form of wit. Employ correctly with apt timing.",
-      "DadJokeOfTheDay": "It's only a murder of crows if there's probable caws.",
-      "IsTodayChristmas?": "Maybe another time",
+      "FunFactOfTheDay": "'Underground' is the only word in the English language that begins and ends with the letters 'und'",
+      "CoolAdviceOfTheDay": "Learn from your mistakes.",
+      "DadJokeOfTheDay": "Breaking news! Energizer Bunny arrested – charged with battery.",
+      "IsTodayChristmas?": "Unfortunately, not",
       "IsTodayMyBirthday?": "Maybe another time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9mxxpv.jpg"
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9n2ohy.jpg"
    }
 }
 ```
