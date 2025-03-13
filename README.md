@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "'Underground' is the only word in the English language that begins and ends with the letters 'und'",
-      "CoolAdviceOfTheDay": "Learn from your mistakes.",
-      "DadJokeOfTheDay": "Breaking news! Energizer Bunny arrested – charged with battery.",
-      "IsTodayChristmas?": "Unfortunately, not",
-      "IsTodayMyBirthday?": "Maybe another time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9n2ohy.jpg"
+      "FunFactOfTheDay": "NBA superstar Michael Jordan was originally cut from his high school basketball team.",
+      "CoolAdviceOfTheDay": "Everybody makes mistakes.",
+      "DadJokeOfTheDay": "Don't trust atoms. They make up everything.",
+      "IsTodayChristmas?": "Not quite",
+      "IsTodayMyBirthday?": "I dont know",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9n7g2e.jpg"
    }
 }
 ```
