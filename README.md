@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The average lifespan of an eyelash is five months.",
-      "CoolAdviceOfTheDay": "If you're going bald, don't comb your hair over your bald patch.",
-      "DadJokeOfTheDay": "What do you call a pile of cats?  A Meowtain.",
-      "IsTodayChristmas?": "Nah",
+      "FunFactOfTheDay": "A `jiffy` is a unit of time for 1/100th of a second.",
+      "CoolAdviceOfTheDay": "Try to pay at least one person a compliment every day.",
+      "DadJokeOfTheDay": "Why is it so windy inside an arena? All those fans.",
+      "IsTodayChristmas?": "Not quite",
       "IsTodayMyBirthday?": "Maybe",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9ngb7o.jpg"
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9njar1.jpg"
    }
 }
 ```
