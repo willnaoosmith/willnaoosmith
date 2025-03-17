@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "A `jiffy` is a unit of time for 1/100th of a second.",
-      "CoolAdviceOfTheDay": "Try to pay at least one person a compliment every day.",
-      "DadJokeOfTheDay": "Why is it so windy inside an arena? All those fans.",
-      "IsTodayChristmas?": "Not quite",
-      "IsTodayMyBirthday?": "Maybe",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9njar1.jpg"
+      "FunFactOfTheDay": "A raisin dropped in a glass of fresh champagne will bounce up and down continually from the bottom of the glass to the top.",
+      "CoolAdviceOfTheDay": "Do, or do not. There is no try.",
+      "DadJokeOfTheDay": "The shovel was a ground-breaking invention.",
+      "IsTodayChristmas?": "Ask me in a year",
+      "IsTodayMyBirthday?": "No",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9nmbfo.jpg"
    }
 }
 ```
