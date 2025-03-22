@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "When the French Academy was preparing its first dictionary, it defined 'crab' as, 'A small red fish, which walks backwards.' This definition was sent with a number of others to the naturalist Cuvier for his approval. The scientist wrote back, 'Your definition, gentlemen, would be perfect, only for three exceptions. The crab is not a fish, it is not red and it does not walk backwards.'",
-      "CoolAdviceOfTheDay": "Do something selfless.",
-      "DadJokeOfTheDay": "Did you hear about the kidnapping at school? It's ok, he woke up.",
-      "IsTodayChristmas?": "Ask me in a year",
-      "IsTodayMyBirthday?": "Unfortunately, not",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9o3shr.jpg"
+      "FunFactOfTheDay": "NBA superstar Michael Jordan was originally cut from his high school basketball team.",
+      "CoolAdviceOfTheDay": "When you look around and don't see anyone you respect, its time to leave.",
+      "DadJokeOfTheDay": "I used to work at a stationery store.  But, I didn't feel like I was going anywhere.  So, I got a job at a travel agency.  Now, I know I'll be going places.",
+      "IsTodayChristmas?": "Not yet",
+      "IsTodayMyBirthday?": "I dont know",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9o8fth.jpg"
    }
 }
 ```
