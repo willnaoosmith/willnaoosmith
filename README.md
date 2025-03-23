@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "NBA superstar Michael Jordan was originally cut from his high school basketball team.",
-      "CoolAdviceOfTheDay": "When you look around and don't see anyone you respect, its time to leave.",
-      "DadJokeOfTheDay": "I used to work at a stationery store.  But, I didn't feel like I was going anywhere.  So, I got a job at a travel agency.  Now, I know I'll be going places.",
-      "IsTodayChristmas?": "Not yet",
-      "IsTodayMyBirthday?": "I dont know",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9o8fth.jpg"
+      "FunFactOfTheDay": "Tom Sawyer was the first novel written on a typewriter.",
+      "CoolAdviceOfTheDay": "One of the top five regrets people have is that they didn't have the courage to be their true self.",
+      "DadJokeOfTheDay": "What is bread's favorite number?  Leaven.",
+      "IsTodayChristmas?": "One day",
+      "IsTodayMyBirthday?": "Maybe",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9obdv9.jpg"
    }
 }
 ```
