@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Tom Sawyer was the first novel written on a typewriter.",
-      "CoolAdviceOfTheDay": "One of the top five regrets people have is that they didn't have the courage to be their true self.",
-      "DadJokeOfTheDay": "What is bread's favorite number?  Leaven.",
-      "IsTodayChristmas?": "One day",
-      "IsTodayMyBirthday?": "Maybe",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9obdv9.jpg"
+      "FunFactOfTheDay": "When possums are playing `possum`, they are not 'playing.' They actually pass out from sheer terror.",
+      "CoolAdviceOfTheDay": "Try to pay at least one person a compliment every day.",
+      "DadJokeOfTheDay": "I bought shoes from a drug dealer once. I don't know what he laced them with, but I was tripping all day.",
+      "IsTodayChristmas?": "Not this time",
+      "IsTodayMyBirthday?": "Maybe another time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9oef2y.jpg"
    }
 }
 ```
