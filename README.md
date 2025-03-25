@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "When possums are playing `possum`, they are not 'playing.' They actually pass out from sheer terror.",
-      "CoolAdviceOfTheDay": "Try to pay at least one person a compliment every day.",
-      "DadJokeOfTheDay": "I bought shoes from a drug dealer once. I don't know what he laced them with, but I was tripping all day.",
-      "IsTodayChristmas?": "Not this time",
-      "IsTodayMyBirthday?": "Maybe another time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9oef2y.jpg"
+      "FunFactOfTheDay": "You can sail all the way around the world at latitude 60 degrees south.",
+      "CoolAdviceOfTheDay": "The more ideas that you give away, the more ideas that will come to you.",
+      "DadJokeOfTheDay": "How many South Americans does it take to change a lightbulb? A Brazilian",
+      "IsTodayChristmas?": "Nah",
+      "IsTodayMyBirthday?": "Nah",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9oio88.jpg"
    }
 }
 ```
