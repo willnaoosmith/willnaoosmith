@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "You can sail all the way around the world at latitude 60 degrees south.",
-      "CoolAdviceOfTheDay": "The more ideas that you give away, the more ideas that will come to you.",
-      "DadJokeOfTheDay": "How many South Americans does it take to change a lightbulb? A Brazilian",
-      "IsTodayChristmas?": "Nah",
-      "IsTodayMyBirthday?": "Nah",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9oio88.jpg"
+      "FunFactOfTheDay": "The pop you hear when you crack your knuckles is actually a bubble of gas burning.",
+      "CoolAdviceOfTheDay": "Walking is a perfectly valid solution to traffic congestion problems.",
+      "DadJokeOfTheDay": "Someone broke into my house last night and stole my limbo trophy. How low can you go?",
+      "IsTodayChristmas?": "No",
+      "IsTodayMyBirthday?": "Maybe",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9on6mh.jpg"
    }
 }
 ```
