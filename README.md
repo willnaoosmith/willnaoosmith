@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The pop you hear when you crack your knuckles is actually a bubble of gas burning.",
-      "CoolAdviceOfTheDay": "Walking is a perfectly valid solution to traffic congestion problems.",
-      "DadJokeOfTheDay": "Someone broke into my house last night and stole my limbo trophy. How low can you go?",
-      "IsTodayChristmas?": "No",
-      "IsTodayMyBirthday?": "Maybe",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9on6mh.jpg"
+      "FunFactOfTheDay": "In space, astronauts are unable to cry, because there is no gravity and the tears won`t flow.",
+      "CoolAdviceOfTheDay": "Never regret. If it's good, it's wonderful. If it's bad, it's experience.",
+      "DadJokeOfTheDay": "What do you call a fish wearing a bowtie? Sofishticated.",
+      "IsTodayChristmas?": "Ask me tomorrow",
+      "IsTodayMyBirthday?": "Yes'nt",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9orzlk.jpg"
    }
 }
 ```
