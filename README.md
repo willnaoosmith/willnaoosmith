@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "In space, astronauts are unable to cry, because there is no gravity and the tears won`t flow.",
-      "CoolAdviceOfTheDay": "Never regret. If it's good, it's wonderful. If it's bad, it's experience.",
-      "DadJokeOfTheDay": "What do you call a fish wearing a bowtie? Sofishticated.",
+      "FunFactOfTheDay": "The Black Death reduced the population of Europe by one third in the period from 1347 to 1351.",
+      "CoolAdviceOfTheDay": "Exercise in the rain can really make you feel alive.",
+      "DadJokeOfTheDay": "How do you make holy water? You boil the hell out of it.",
       "IsTodayChristmas?": "Ask me tomorrow",
       "IsTodayMyBirthday?": "Yes'nt",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9orzlk.jpg"
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9owohj.jpg"
    }
 }
 ```
