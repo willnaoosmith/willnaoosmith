@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The Black Death reduced the population of Europe by one third in the period from 1347 to 1351.",
-      "CoolAdviceOfTheDay": "Exercise in the rain can really make you feel alive.",
-      "DadJokeOfTheDay": "How do you make holy water? You boil the hell out of it.",
-      "IsTodayChristmas?": "Ask me tomorrow",
-      "IsTodayMyBirthday?": "Yes'nt",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9owohj.jpg"
+      "FunFactOfTheDay": "Tehran is the most expensive city on earth.",
+      "CoolAdviceOfTheDay": "If you get stuck, try doing the opposite of what the solution requires.",
+      "DadJokeOfTheDay": "What did the Red light say to the Green light? Don't look at me I'm changing!",
+      "IsTodayChristmas?": "Yes'nt",
+      "IsTodayMyBirthday?": "No",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9p10up.jpg"
    }
 }
 ```
