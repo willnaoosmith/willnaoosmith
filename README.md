@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Tehran is the most expensive city on earth.",
-      "CoolAdviceOfTheDay": "If you get stuck, try doing the opposite of what the solution requires.",
-      "DadJokeOfTheDay": "What did the Red light say to the Green light? Don't look at me I'm changing!",
-      "IsTodayChristmas?": "Yes'nt",
-      "IsTodayMyBirthday?": "No",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9p10up.jpg"
+      "FunFactOfTheDay": "A pig`s orgasm lasts for 30 minutes.",
+      "CoolAdviceOfTheDay": "You will always regret the round of JÃ¤germeister.",
+      "DadJokeOfTheDay": "As I suspected, someone has been adding soil to my garden. The plot thickens.",
+      "IsTodayChristmas?": "Unfortunately, not",
+      "IsTodayMyBirthday?": "No say I",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9p3wpa.jpg"
    }
 }
 ```
