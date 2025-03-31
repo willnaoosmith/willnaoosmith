@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "A pig`s orgasm lasts for 30 minutes.",
-      "CoolAdviceOfTheDay": "You will always regret the round of JÃ¤germeister.",
-      "DadJokeOfTheDay": "As I suspected, someone has been adding soil to my garden. The plot thickens.",
-      "IsTodayChristmas?": "Unfortunately, not",
-      "IsTodayMyBirthday?": "No say I",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9p3wpa.jpg"
+      "FunFactOfTheDay": "You spend 7 years of your life in the bathroom.",
+      "CoolAdviceOfTheDay": "If you are feeling down, try holding a pencil between your top lip and your nose for five minutes.",
+      "DadJokeOfTheDay": "What's the difference between a rooster and a crow? A rooster can crow but a crow cannot rooster.",
+      "IsTodayChristmas?": "Maybe",
+      "IsTodayMyBirthday?": "No",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9p6uy9.jpg"
    }
 }
 ```
