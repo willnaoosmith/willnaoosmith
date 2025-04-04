@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "'Evaluation and Parameterization of Stability and Safety Performance Characteristics of Two and Three Wheeled Vehicular Toys for Riding.' Title of a $230,000 research project proposed by the Department of Health, Education and Welfare, to study the various ways children fall off bicycles.",
-      "CoolAdviceOfTheDay": "To cleanly remove the seed from an Avocado, lay a knife firmly across it, and twist.",
-      "DadJokeOfTheDay": "When Dad drops a pea off of his plate ‘oh dear I’ve pee’d on the table!",
-      "IsTodayChristmas?": "Ask me in a year",
-      "IsTodayMyBirthday?": "Not quite",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9pk5co.jpg"
+      "FunFactOfTheDay": "Thirty-five percent of people who use personal ads for dating are already married.",
+      "CoolAdviceOfTheDay": "Giving someone a hug can be mutually rewarding. Try to give at least one hug a day to someone.",
+      "DadJokeOfTheDay": "“Hold on, I have something in my shoe”  “I’m pretty sure it’s a foot”",
+      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
+      "IsTodayMyBirthday?": "Maybe another time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9porf0.jpg"
    }
 }
 ```
