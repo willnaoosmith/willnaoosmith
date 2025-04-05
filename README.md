@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Thirty-five percent of people who use personal ads for dating are already married.",
-      "CoolAdviceOfTheDay": "Giving someone a hug can be mutually rewarding. Try to give at least one hug a day to someone.",
-      "DadJokeOfTheDay": "“Hold on, I have something in my shoe”  “I’m pretty sure it’s a foot”",
-      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
-      "IsTodayMyBirthday?": "Maybe another time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9porf0.jpg"
+      "FunFactOfTheDay": "A whale`s penis is called a dork.",
+      "CoolAdviceOfTheDay": "It's not the dev fault",
+      "DadJokeOfTheDay": "I'd like to start a diet, but I've got too much on my plate right now.",
+      "IsTodayChristmas?": "Nah",
+      "IsTodayMyBirthday?": "One day",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9pt2nn.jpg"
    }
 }
 ```
