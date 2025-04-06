@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "A whale`s penis is called a dork.",
-      "CoolAdviceOfTheDay": "It's not the dev fault",
-      "DadJokeOfTheDay": "I'd like to start a diet, but I've got too much on my plate right now.",
-      "IsTodayChristmas?": "Nah",
+      "FunFactOfTheDay": "A `jiffy` is a unit of time for 1/100th of a second.",
+      "CoolAdviceOfTheDay": "Not beep boop :(",
+      "DadJokeOfTheDay": "I dreamed about drowning in an ocean made out of orange soda last night. It took me a while to work out it was just a Fanta sea.",
+      "IsTodayChristmas?": "Maybe",
       "IsTodayMyBirthday?": "One day",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9pt2nn.jpg"
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9pvzj2.jpg"
    }
 }
 ```
