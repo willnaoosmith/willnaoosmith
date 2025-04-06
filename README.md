@@ -169,32 +169,16 @@
 <h4 align="left">My weekly programming languages per time spent</h4>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C276%20hrs%2055%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.1%20million%20lines%20of%20code-blue)
+```txt
+Total Time: 6 hrs 18 mins
 
-**🐱 My GitHub Data** 
-
-> 📦 111.8 kB Used in GitHub's Storage 
- > 
-> 🏆 130 Contributions in the Year 2025
- > 
-> 💼 Opted to Hire
- > 
-> 📜 41 Public Repositories 
- > 
-> 🔑 24 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                279 commits         ███████░░░░░░░░░░░░░░░░░░   29.34 % 
-🌆 Daytime                427 commits         ███████████░░░░░░░░░░░░░░   44.90 % 
-🌃 Evening                197 commits         █████░░░░░░░░░░░░░░░░░░░░   20.72 % 
-🌙 Night                  48 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
+Text            4 hrs 42 mins   ██████████████████▓░░░░░░   74.57 %
+Other           27 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.17 %
+ASP.NET         26 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.10 %
+PHP             15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 %
+JavaScript      14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
 ```
-
-
 
 <!--END_SECTION:waka-->
 
