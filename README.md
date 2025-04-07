@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "A `jiffy` is a unit of time for 1/100th of a second.",
-      "CoolAdviceOfTheDay": "Not beep boop :(",
-      "DadJokeOfTheDay": "I dreamed about drowning in an ocean made out of orange soda last night. It took me a while to work out it was just a Fanta sea.",
-      "IsTodayChristmas?": "Maybe",
-      "IsTodayMyBirthday?": "One day",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9pvzj2.jpg"
+      "FunFactOfTheDay": "Giraffes have no vocal cords.",
+      "CoolAdviceOfTheDay": "It's not a bug, it's a feature",
+      "DadJokeOfTheDay": "I asked my date to go to the gym the other day. They never showed up. That's when I knew we wouldn't work out.",
+      "IsTodayChristmas?": "One day",
+      "IsTodayMyBirthday?": "Not this time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9pyyg4.jpg"
    }
 }
 ```
