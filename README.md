@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Giraffes have no vocal cords.",
-      "CoolAdviceOfTheDay": "It's not a bug, it's a feature",
-      "DadJokeOfTheDay": "I asked my date to go to the gym the other day. They never showed up. That's when I knew we wouldn't work out.",
-      "IsTodayChristmas?": "One day",
-      "IsTodayMyBirthday?": "Not this time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9pyyg4.jpg"
+      "FunFactOfTheDay": "The citrus soda 7-UP was created in 1929; `7` was selected after the original 7-ounce containers and `UP` for the direction of the bubbles.",
+      "CoolAdviceOfTheDay": "Well well well, if i didn't put a try/except here",
+      "DadJokeOfTheDay": "Did you hear about the cheese who saved the world? It was Legend-dairy!",
+      "IsTodayChristmas?": "Ask me tomorrow",
+      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9q37mw.jpg"
    }
 }
 ```
