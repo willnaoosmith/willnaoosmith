@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The citrus soda 7-UP was created in 1929; `7` was selected after the original 7-ounce containers and `UP` for the direction of the bubbles.",
-      "CoolAdviceOfTheDay": "Well well well, if i didn't put a try/except here",
-      "DadJokeOfTheDay": "Did you hear about the cheese who saved the world? It was Legend-dairy!",
-      "IsTodayChristmas?": "Ask me tomorrow",
-      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9q37mw.jpg"
+      "FunFactOfTheDay": "If one places a tiny amount of liquor on a scorpion, it will instantly go mad and sting itself to death.",
+      "CoolAdviceOfTheDay": "It's not the dev fault",
+      "DadJokeOfTheDay": "I saw a documentary on TV last night about how they put ships together.  It was rivetting.",
+      "IsTodayChristmas?": "Not this time",
+      "IsTodayMyBirthday?": "!Yes",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9q7kbw.jpg"
    }
 }
 ```
