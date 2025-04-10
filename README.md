@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "If one places a tiny amount of liquor on a scorpion, it will instantly go mad and sting itself to death.",
-      "CoolAdviceOfTheDay": "It's not the dev fault",
-      "DadJokeOfTheDay": "I saw a documentary on TV last night about how they put ships together.  It was rivetting.",
-      "IsTodayChristmas?": "Not this time",
-      "IsTodayMyBirthday?": "!Yes",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9q7kbw.jpg"
+      "FunFactOfTheDay": "Elephants are the only animals that can`t jump.",
+      "CoolAdviceOfTheDay": "Share positive energy.",
+      "DadJokeOfTheDay": "Whoever invented the knock-knock joke should get a no bell prize.",
+      "IsTodayChristmas?": "Nope",
+      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9qbzok.jpg"
    }
 }
 ```
