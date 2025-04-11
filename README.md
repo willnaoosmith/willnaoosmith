@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Elephants are the only animals that can`t jump.",
-      "CoolAdviceOfTheDay": "Share positive energy.",
-      "DadJokeOfTheDay": "Whoever invented the knock-knock joke should get a no bell prize.",
-      "IsTodayChristmas?": "Nope",
+      "FunFactOfTheDay": "The first contraceptive was crocodile dung used by the ancient Egyptians.",
+      "CoolAdviceOfTheDay": "The hardest things to say are usually the most important.",
+      "DadJokeOfTheDay": "I have kleptomania, but when it gets bad, I take something for it.",
+      "IsTodayChristmas?": "Ask me in one hour",
       "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9qbzok.jpg"
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9qgf4p.jpg"
    }
 }
 ```
