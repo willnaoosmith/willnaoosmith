@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Leonardo Da Vinci invented the scissors.",
-      "CoolAdviceOfTheDay": "Everybody makes mistakes.",
-      "DadJokeOfTheDay": "I used to work at a stationery store.  But, I didn't feel like I was going anywhere.  So, I got a job at a travel agency.  Now, I know I'll be going places.",
-      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
-      "IsTodayMyBirthday?": "Yes'nt",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9qnh11.jpg"
+      "FunFactOfTheDay": "In Bangladesh, kids as young as 15 can be jailed for cheating on their finals!",
+      "CoolAdviceOfTheDay": "Quality beats quantity.",
+      "DadJokeOfTheDay": "I just read a book about Stockholm syndrome. It was pretty bad at first, but by the end I liked it.",
+      "IsTodayChristmas?": "Not quite",
+      "IsTodayMyBirthday?": "Maybe another time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9qq9sp.jpg"
    }
 }
 ```
