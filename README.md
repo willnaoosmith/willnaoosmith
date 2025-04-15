@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "In Bangladesh, kids as young as 15 can be jailed for cheating on their finals!",
-      "CoolAdviceOfTheDay": "Quality beats quantity.",
-      "DadJokeOfTheDay": "I just read a book about Stockholm syndrome. It was pretty bad at first, but by the end I liked it.",
-      "IsTodayChristmas?": "Not quite",
-      "IsTodayMyBirthday?": "Maybe another time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9qq9sp.jpg"
+      "FunFactOfTheDay": "Coca-Cola was originally green.",
+      "CoolAdviceOfTheDay": "Never regret. If it's good, it's wonderful. If it's bad, it's experience.",
+      "DadJokeOfTheDay": "What has three letters and starts with gas? A Car.",
+      "IsTodayChristmas?": "I dont know",
+      "IsTodayMyBirthday?": "No",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9qu9hn.jpg"
    }
 }
 ```
