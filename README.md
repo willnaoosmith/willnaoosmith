@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "100% of lottery winners do gain weight",
-      "CoolAdviceOfTheDay": "You can fail at what you don't want. So you might as well take a chance on doing what you love.",
-      "DadJokeOfTheDay": "What is bread's favorite number?  Leaven.",
-      "IsTodayChristmas?": "Not quite",
-      "IsTodayMyBirthday?": "No say I",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9r2lkl.jpg"
+      "FunFactOfTheDay": "The 'save' icon on Microsoft Word shows a floppy disk with the shutter on backwards.",
+      "CoolAdviceOfTheDay": "It is easy to sit up and take notice, what's difficult is getting up and taking action.",
+      "DadJokeOfTheDay": "If two vegans are having an argument, is it still considered beef?",
+      "IsTodayChristmas?": "Ask me in a year",
+      "IsTodayMyBirthday?": "Yes'nt",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9r6ny7.jpg"
    }
 }
 ```
