@@ -153,11 +153,11 @@
    },
    "RandomStuff": {
       "FunFactOfTheDay": "The 'save' icon on Microsoft Word shows a floppy disk with the shutter on backwards.",
-      "CoolAdviceOfTheDay": "It is easy to sit up and take notice, what's difficult is getting up and taking action.",
-      "DadJokeOfTheDay": "If two vegans are having an argument, is it still considered beef?",
+      "CoolAdviceOfTheDay": "Always bet on black.",
+      "DadJokeOfTheDay": "Why is it always hot in the corner of a room? Because a corner is 90 degrees.",
       "IsTodayChristmas?": "Ask me in a year",
-      "IsTodayMyBirthday?": "Yes'nt",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9r6ny7.jpg"
+      "IsTodayMyBirthday?": "Nope",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9ra04k.jpg"
    }
 }
 ```
