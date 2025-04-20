@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The 'save' icon on Microsoft Word shows a floppy disk with the shutter on backwards.",
-      "CoolAdviceOfTheDay": "Always bet on black.",
-      "DadJokeOfTheDay": "Why is it always hot in the corner of a room? Because a corner is 90 degrees.",
-      "IsTodayChristmas?": "Ask me in a year",
-      "IsTodayMyBirthday?": "Nope",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9ra04k.jpg"
+      "FunFactOfTheDay": "5,840 people with pillow related injuries checked into U.S. emergency rooms in 1992.",
+      "CoolAdviceOfTheDay": "Accept advice.",
+      "DadJokeOfTheDay": "What do you call a sheep with no legs? A cloud.",
+      "IsTodayChristmas?": "Not yet",
+      "IsTodayMyBirthday?": "Not yet",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9rcpxg.jpg"
    }
 }
 ```
