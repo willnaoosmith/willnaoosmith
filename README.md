@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "5,840 people with pillow related injuries checked into U.S. emergency rooms in 1992.",
-      "CoolAdviceOfTheDay": "Accept advice.",
-      "DadJokeOfTheDay": "What do you call a sheep with no legs? A cloud.",
-      "IsTodayChristmas?": "Not yet",
-      "IsTodayMyBirthday?": "Not yet",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9rcpxg.jpg"
+      "FunFactOfTheDay": "When the University of Nebraska Cornhuskers play football at home, the stadium becomes the state`s third largest city.",
+      "CoolAdviceOfTheDay": "Fail. Fail again. Fail better.",
+      "DadJokeOfTheDay": "What did the sea say to the sand? 'We have to stop meeting like this.'",
+      "IsTodayChristmas?": "Nah",
+      "IsTodayMyBirthday?": "!Yes",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9rfjgl.jpg"
    }
 }
 ```
