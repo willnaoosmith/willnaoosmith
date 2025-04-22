@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "When the University of Nebraska Cornhuskers play football at home, the stadium becomes the state`s third largest city.",
-      "CoolAdviceOfTheDay": "Fail. Fail again. Fail better.",
-      "DadJokeOfTheDay": "What did the sea say to the sand? 'We have to stop meeting like this.'",
-      "IsTodayChristmas?": "Nah",
-      "IsTodayMyBirthday?": "!Yes",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9rfjgl.jpg"
+      "FunFactOfTheDay": "Humans are the only primates that don`t have pigment in the palms of their hands.",
+      "CoolAdviceOfTheDay": "For every complex problem there is an answer that is clear, simple, and wrong.",
+      "DadJokeOfTheDay": "What kind of bagel can fly? A plain bagel.",
+      "IsTodayChristmas?": "Maybe",
+      "IsTodayMyBirthday?": "Ask me tomorrow",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9rj0d0.jpg"
    }
 }
 ```
