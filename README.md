@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Humans are the only primates that don`t have pigment in the palms of their hands.",
-      "CoolAdviceOfTheDay": "For every complex problem there is an answer that is clear, simple, and wrong.",
-      "DadJokeOfTheDay": "What kind of bagel can fly? A plain bagel.",
-      "IsTodayChristmas?": "Maybe",
-      "IsTodayMyBirthday?": "Ask me tomorrow",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9rj0d0.jpg"
+      "FunFactOfTheDay": "Most toilets flush in E flat.",
+      "CoolAdviceOfTheDay": "If you don't like the opinion you've been given, get another one.",
+      "DadJokeOfTheDay": "What did the scarf say to the hat? You go on ahead, I am going to hang around a bit longer.",
+      "IsTodayChristmas?": "Not quite",
+      "IsTodayMyBirthday?": "Maybe another time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9rn479.jpg"
    }
 }
 ```
