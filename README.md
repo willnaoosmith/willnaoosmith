@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "In space, astronauts are unable to cry, because there is no gravity and the tears won`t flow.",
-      "CoolAdviceOfTheDay": "Most things look better when you put them in a circle.",
-      "DadJokeOfTheDay": "Can February march? No, but April may.",
-      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
-      "IsTodayMyBirthday?": "One day",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9rr7hx.jpg"
+      "FunFactOfTheDay": "You burn more calories sleeping than you do watching TV.",
+      "CoolAdviceOfTheDay": "Don't eat non-snow-coloured snow.",
+      "DadJokeOfTheDay": "What’s the longest word in the dictionary? Smiles. Because there’s a mile between the two S’s.",
+      "IsTodayChristmas?": "Nah",
+      "IsTodayMyBirthday?": "Nah",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9rvemi.jpg"
    }
 }
 ```
