@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "You burn more calories sleeping than you do watching TV.",
-      "CoolAdviceOfTheDay": "Don't eat non-snow-coloured snow.",
-      "DadJokeOfTheDay": "What’s the longest word in the dictionary? Smiles. Because there’s a mile between the two S’s.",
-      "IsTodayChristmas?": "Nah",
-      "IsTodayMyBirthday?": "Nah",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9rvemi.jpg"
+      "FunFactOfTheDay": "There are only four words in the English language which end in 'dous': tremendous, horrendous, stupendous, and  hazardous.",
+      "CoolAdviceOfTheDay": "Never waste an opportunity to tell someone you love them.",
+      "DadJokeOfTheDay": "What do you call an old snowman? Water.",
+      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
+      "IsTodayMyBirthday?": "One day",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9rzf0v.jpg"
    }
 }
 ```
