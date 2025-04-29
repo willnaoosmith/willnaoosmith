@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Nearly 80% of all animals on earth have six legs.",
-      "CoolAdviceOfTheDay": "Taking photos with tablet devices looks weird.",
-      "DadJokeOfTheDay": "Hear about the new restaurant called Karma? There’s no menu: You get what you deserve.",
+      "FunFactOfTheDay": "Tom Sawyer was the first novel written on a typewriter.",
+      "CoolAdviceOfTheDay": "The more ideas that you give away, the more ideas that will come to you.",
+      "DadJokeOfTheDay": "As I get older, I think of all the people I lost along the way. Maybe a career as a tour guide wasn't such a good idea.",
       "IsTodayChristmas?": "Yes'nt",
-      "IsTodayMyBirthday?": "No say I",
-      "RandomMemeOfTheDay": "Well well well, if i didn't put a try/except here"
+      "IsTodayMyBirthday?": "!Yes",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9sa4ru.jpg"
    }
 }
 ```
