@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Tom Sawyer was the first novel written on a typewriter.",
-      "CoolAdviceOfTheDay": "The more ideas that you give away, the more ideas that will come to you.",
-      "DadJokeOfTheDay": "As I get older, I think of all the people I lost along the way. Maybe a career as a tour guide wasn't such a good idea.",
-      "IsTodayChristmas?": "Yes'nt",
-      "IsTodayMyBirthday?": "!Yes",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9sa4ru.jpg"
+      "FunFactOfTheDay": "The three most recognized Western names in China are Jesus Christ, Richard Nixon, & Elvis Presley.",
+      "CoolAdviceOfTheDay": "If you get stuck, try doing the opposite of what the solution requires.",
+      "DadJokeOfTheDay": "Why did the kid throw the clock out the window? He wanted to see time fly!",
+      "IsTodayChristmas?": "I dont know",
+      "IsTodayMyBirthday?": "One day",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9seex7.jpg"
    }
 }
 ```
