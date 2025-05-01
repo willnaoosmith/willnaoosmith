@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The three most recognized Western names in China are Jesus Christ, Richard Nixon, & Elvis Presley.",
-      "CoolAdviceOfTheDay": "If you get stuck, try doing the opposite of what the solution requires.",
-      "DadJokeOfTheDay": "Why did the kid throw the clock out the window? He wanted to see time fly!",
-      "IsTodayChristmas?": "I dont know",
-      "IsTodayMyBirthday?": "One day",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9seex7.jpg"
+      "FunFactOfTheDay": "The KGB is headquartered at No. 2 Felix Dzerzhinsky Square, Moscow",
+      "CoolAdviceOfTheDay": "There is no reason at all to believe that White Wine is any different to water when it comes to removing Red Wine stains.",
+      "DadJokeOfTheDay": "What's red and bad for your teeth? A Brick.",
+      "IsTodayChristmas?": "Unfortunately, not",
+      "IsTodayMyBirthday?": "Not quite",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9siq8h.jpg"
    }
 }
 ```
