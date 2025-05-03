@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The Great Wall of China is the only man-made structure visible from space.",
-      "CoolAdviceOfTheDay": "A problem shared is a problem halved.",
-      "DadJokeOfTheDay": "If you walk into a forest and cut down a tree, but the tree doesn't understand why you cut it down, do you think it's stumped?",
+      "FunFactOfTheDay": "Right-handed people live, on average; nine years longer than left handed people.",
+      "CoolAdviceOfTheDay": "Turn jeans inside out when washing them to help preserve their colour.",
+      "DadJokeOfTheDay": "What do you call a pile of cats?  A Meowtain.",
       "IsTodayChristmas?": "No say I",
-      "IsTodayMyBirthday?": "Not this time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9smga3.jpg"
+      "IsTodayMyBirthday?": "No",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9sq72k.jpg"
    }
 }
 ```
