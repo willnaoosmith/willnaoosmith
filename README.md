@@ -152,12 +152,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Only female mosquito’s` bite and most are attracted to the color blue twice as much as to any other color.",
-      "CoolAdviceOfTheDay": "Never write in an email to someone, something which you wouldn't say to that person's face.",
-      "DadJokeOfTheDay": "Where do sheep go to get their hair cut? The baa-baa shop.",
-      "IsTodayChristmas?": "!Yes",
-      "IsTodayMyBirthday?": "Maybe another time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9svxdz.jpg"
+      "FunFactOfTheDay": "100% of lottery winners do gain weight",
+      "CoolAdviceOfTheDay": "Never waste an opportunity to tell someone you love them.",
+      "DadJokeOfTheDay": "How many South Americans does it take to change a lightbulb? A Brazilian",
+      "IsTodayChristmas?": "One day",
+      "IsTodayMyBirthday?": "Ask me tomorrow",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9szzv7.jpg"
    }
 }
 ```
