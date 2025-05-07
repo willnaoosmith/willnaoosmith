@@ -20,6 +20,13 @@
 
 <p align="center">
 <picture>
+	<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/godot%20-%23000.svg?&style=for-the-badge&logo=godotengine&logoColor=white">
+	<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/godot%20-%23000.svg?&style=for-the-badge&logo=godotengine&logoColor=white">
+	<img src="https://img.shields.io/badge/godot%20-%23000.svg?&style=for-the-badge&logo=godotengine&logoColor=white" alt="Godot" />
+</picture>
+<!--
+<span>Not worth it anymore. Time to change whats left.</span>
+<picture>
 	<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white">
 	<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white">
 	<img src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white" alt="flask" />
@@ -119,6 +126,8 @@
 	<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
 	<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
 </picture>
+-->
+
 </p>
 
 </br>
