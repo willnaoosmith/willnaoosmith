@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Every time you lick a stamp, you consume 1/10 of a calorie.",
-      "CoolAdviceOfTheDay": "A problem shared is a problem halved.",
-      "DadJokeOfTheDay": "What do you call a duck that gets all A's? A wise quacker.",
-      "IsTodayChristmas?": "Not this time",
-      "IsTodayMyBirthday?": "Nah",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9t49ml.jpg"
+      "FunFactOfTheDay": "Owls are one of the only birds who can see the color blue!",
+      "CoolAdviceOfTheDay": "Try making a list.",
+      "DadJokeOfTheDay": "Me: If humans lose the ability to hear high frequency volumes as they get older, can my 4 week old son hear a dog whistle?  Doctor: No, humans can never hear that high of a frequency no matter what age they are.  Me: Trick question... dogs can't whistle.",
+      "IsTodayChristmas?": "Not yet",
+      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9t8oca.jpg"
    }
 }
 ```
