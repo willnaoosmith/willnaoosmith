@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Babies are born without kneecaps. They don`t appear until the child reaches 2-6 years of age.",
-      "CoolAdviceOfTheDay": "Fail. Fail again. Fail better.",
-      "DadJokeOfTheDay": "I saw a documentary on TV last night about how they put ships together.  It was rivetting.",
-      "IsTodayChristmas?": "Nah",
-      "IsTodayMyBirthday?": "One day",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9td367.jpg"
+      "FunFactOfTheDay": "Tom Sawyer was the first novel written on a typewriter.",
+      "CoolAdviceOfTheDay": "Life can be a lot more interesting inside your head.",
+      "DadJokeOfTheDay": "I don't trust sushi, there's something fishy about it.",
+      "IsTodayChristmas?": "Ask me in a year",
+      "IsTodayMyBirthday?": "Maybe",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9th5yx.jpg"
    }
 }
 ```
