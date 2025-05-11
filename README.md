@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Tom Sawyer was the first novel written on a typewriter.",
-      "CoolAdviceOfTheDay": "Life can be a lot more interesting inside your head.",
-      "DadJokeOfTheDay": "I don't trust sushi, there's something fishy about it.",
-      "IsTodayChristmas?": "Ask me in a year",
-      "IsTodayMyBirthday?": "Maybe",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9th5yx.jpg"
+      "FunFactOfTheDay": "The placement of a donkey`s eyes in its` heads enables it to see all four feet at all times!",
+      "CoolAdviceOfTheDay": "Life is better when you sing about bananas.",
+      "DadJokeOfTheDay": "What's the difference between a hippo and a zippo? One is really heavy, the other is a little lighter.",
+      "IsTodayChristmas?": "Nah",
+      "IsTodayMyBirthday?": "One day",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9tjw5p.jpg"
    }
 }
 ```
