@@ -1,6 +1,6 @@
 <h1 align="center">William Brochensque Júnior</h1>
 
-<h5 align="center">Freelance Fullstack Developer, Cyber Security enthusiast</h5>
+<h5 align="center">Game Developer, Freelance Fullstack Developer, Cyber Security enthusiast</h5>
 
 <p align="center">
 	<a href="https://gist.github.com/willnaoosmith">
