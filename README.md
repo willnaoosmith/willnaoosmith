@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Between 25% and 33% of the population sneeze when exposed to light.",
-      "CoolAdviceOfTheDay": "If you're feeling tired or anxious, a pint of water will almost always make you feel better.",
-      "DadJokeOfTheDay": "Why do cows not have toes? They lactose!",
-      "IsTodayChristmas?": "No",
-      "IsTodayMyBirthday?": "Nah",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9txbiv.jpg"
+      "FunFactOfTheDay": "Shakespeare spelled his OWN name several different ways.",
+      "CoolAdviceOfTheDay": "Try buying a coffee for the creator of a free public API, now and then.",
+      "DadJokeOfTheDay": "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor.",
+      "IsTodayChristmas?": "Ask me in one hour",
+      "IsTodayMyBirthday?": "No",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9u1rcs.jpg"
    }
 }
 ```
