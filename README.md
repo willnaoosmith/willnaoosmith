@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Shakespeare spelled his OWN name several different ways.",
-      "CoolAdviceOfTheDay": "Try buying a coffee for the creator of a free public API, now and then.",
-      "DadJokeOfTheDay": "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor.",
-      "IsTodayChristmas?": "Ask me in one hour",
-      "IsTodayMyBirthday?": "No",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9u1rcs.jpg"
+      "FunFactOfTheDay": "The most common street name in the U.S. is Second Street.",
+      "CoolAdviceOfTheDay": "If your hair is thinning, try dying your hair a similar tone to your scalp.",
+      "DadJokeOfTheDay": "Doctor: Do you want to hear the good news or the bad news? Patient: Good news please. Doctor: we're naming a disease after you.",
+      "IsTodayChristmas?": "Nope",
+      "IsTodayMyBirthday?": "No say I",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9u66la.jpg"
    }
 }
 ```
