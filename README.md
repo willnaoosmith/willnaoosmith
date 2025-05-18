@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Hong Kong holds the most Rolls Royce’s per capita.",
-      "CoolAdviceOfTheDay": "If you have grandparents or parents - Talk to them more. Ask them about their life experiences.",
-      "DadJokeOfTheDay": "What do you call corn that joins the army? Kernel.",
-      "IsTodayChristmas?": "Ask me tomorrow",
+      "FunFactOfTheDay": "The world record for spitting a watermelon seed is 65 feet 4 inches.",
+      "CoolAdviceOfTheDay": "You don't need to floss all of your teeth. Only the ones you want to keep.",
+      "DadJokeOfTheDay": "If at first you don't succeed, sky diving is not for you!",
+      "IsTodayChristmas?": "Nah",
       "IsTodayMyBirthday?": "Not this time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9uahez.jpg"
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9uda39.jpg"
    }
 }
 ```
