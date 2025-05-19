@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The world record for spitting a watermelon seed is 65 feet 4 inches.",
-      "CoolAdviceOfTheDay": "You don't need to floss all of your teeth. Only the ones you want to keep.",
-      "DadJokeOfTheDay": "If at first you don't succeed, sky diving is not for you!",
-      "IsTodayChristmas?": "Nah",
-      "IsTodayMyBirthday?": "Not this time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9uda39.jpg"
+      "FunFactOfTheDay": "It has been estimated that humans use only 10% of their brain.",
+      "CoolAdviceOfTheDay": "If you don't want something to be public, don't post it on the Internet.",
+      "DadJokeOfTheDay": "What do you call a group of killer whales playing instruments? An Orca-stra.",
+      "IsTodayChristmas?": "Yes'nt",
+      "IsTodayMyBirthday?": "Nope",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9ug894.jpg"
    }
 }
 ```
