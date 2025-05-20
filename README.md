@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "It has been estimated that humans use only 10% of their brain.",
-      "CoolAdviceOfTheDay": "If you don't want something to be public, don't post it on the Internet.",
-      "DadJokeOfTheDay": "What do you call a group of killer whales playing instruments? An Orca-stra.",
-      "IsTodayChristmas?": "Yes'nt",
-      "IsTodayMyBirthday?": "Nope",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9ug894.jpg"
+      "FunFactOfTheDay": "Dueling is legal in Paraguay as long as both parties are registered blood donors.",
+      "CoolAdviceOfTheDay": "When you're at a concert or event, enjoy the moment, enjoy being there. Try leaving your camera in your pocket.",
+      "DadJokeOfTheDay": "What did the Buffalo say to his little boy when he dropped him off at school? Bison.",
+      "IsTodayChristmas?": "Maybe another time",
+      "IsTodayMyBirthday?": "Not this time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9ukbad.jpg"
    }
 }
 ```
