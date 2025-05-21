@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Dueling is legal in Paraguay as long as both parties are registered blood donors.",
-      "CoolAdviceOfTheDay": "When you're at a concert or event, enjoy the moment, enjoy being there. Try leaving your camera in your pocket.",
-      "DadJokeOfTheDay": "What did the Buffalo say to his little boy when he dropped him off at school? Bison.",
-      "IsTodayChristmas?": "Maybe another time",
-      "IsTodayMyBirthday?": "Not this time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9ukbad.jpg"
+      "FunFactOfTheDay": "Prince Charles is an avid collecter of toilet seats.",
+      "CoolAdviceOfTheDay": "Do a bit more for your friends.",
+      "DadJokeOfTheDay": "Atheism is a non-prophet organisation.",
+      "IsTodayChristmas?": "Unfortunately, not",
+      "IsTodayMyBirthday?": "Ask me in a year",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9uolhx.jpg"
    }
 }
 ```
