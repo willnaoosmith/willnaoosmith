@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Prince Charles is an avid collecter of toilet seats.",
-      "CoolAdviceOfTheDay": "Do a bit more for your friends.",
-      "DadJokeOfTheDay": "Atheism is a non-prophet organisation.",
-      "IsTodayChristmas?": "Unfortunately, not",
-      "IsTodayMyBirthday?": "Ask me in a year",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9uolhx.jpg"
+      "FunFactOfTheDay": "A pregnant goldfish is called a twit.",
+      "CoolAdviceOfTheDay": "Always bet on black.",
+      "DadJokeOfTheDay": "What’s the longest word in the dictionary? Smiles. Because there’s a mile between the two S’s.",
+      "IsTodayChristmas?": "No say I",
+      "IsTodayMyBirthday?": "Maybe another time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9usxga.jpg"
    }
 }
 ```
