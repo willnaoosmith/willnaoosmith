@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "A pregnant goldfish is called a twit.",
-      "CoolAdviceOfTheDay": "Always bet on black.",
-      "DadJokeOfTheDay": "What’s the longest word in the dictionary? Smiles. Because there’s a mile between the two S’s.",
-      "IsTodayChristmas?": "No say I",
-      "IsTodayMyBirthday?": "Maybe another time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9usxga.jpg"
+      "FunFactOfTheDay": "The average talker sprays about 300 microscopic saliva droplets per minute, about 2.5 droplets per word.",
+      "CoolAdviceOfTheDay": "You have as many hours in a day as the people you admire most.",
+      "DadJokeOfTheDay": "What did the ocean say to the shore? Nothing, it just waved.",
+      "IsTodayChristmas?": "Maybe",
+      "IsTodayMyBirthday?": "Nah",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9ux85d.jpg"
    }
 }
 ```
