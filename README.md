@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The average talker sprays about 300 microscopic saliva droplets per minute, about 2.5 droplets per word.",
-      "CoolAdviceOfTheDay": "You have as many hours in a day as the people you admire most.",
-      "DadJokeOfTheDay": "What did the ocean say to the shore? Nothing, it just waved.",
-      "IsTodayChristmas?": "Maybe",
-      "IsTodayMyBirthday?": "Nah",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9ux85d.jpg"
+      "FunFactOfTheDay": "The eyes of a donkey are positioned so that it can see all four feet at all times.",
+      "CoolAdviceOfTheDay": "The hardest things to say are usually the most important.",
+      "DadJokeOfTheDay": "What is the hardest part about sky diving? The ground.",
+      "IsTodayChristmas?": "Unfortunately, not",
+      "IsTodayMyBirthday?": "Not yet",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9v1851.jpg"
    }
 }
 ```
