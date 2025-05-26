@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The the U.S. you dial `911`. In Stockholm, Sweden you dial 90000",
-      "CoolAdviceOfTheDay": "A common regret in life is wishing one had the courage to be ones true self.",
-      "DadJokeOfTheDay": "What animal is always at a game of cricket? A bat.",
-      "IsTodayChristmas?": "Ask me in one hour",
-      "IsTodayMyBirthday?": "Unfortunately, not",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9v3uuc.jpg"
+      "FunFactOfTheDay": "The average American looks at eight houses before buying one.",
+      "CoolAdviceOfTheDay": "Winter is coming.",
+      "DadJokeOfTheDay": "A magician was driving down the street and then he turned into a driveway.",
+      "IsTodayChristmas?": "I dont know",
+      "IsTodayMyBirthday?": "Not this time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9v6ogi.jpg"
    }
 }
 ```
