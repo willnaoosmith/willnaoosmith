@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The average American looks at eight houses before buying one.",
-      "CoolAdviceOfTheDay": "Winter is coming.",
-      "DadJokeOfTheDay": "A magician was driving down the street and then he turned into a driveway.",
-      "IsTodayChristmas?": "I dont know",
-      "IsTodayMyBirthday?": "Not this time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9v6ogi.jpg"
+      "FunFactOfTheDay": "One-fourth of the world`s population lives on less than $200 a year.  Ninety million people survive on less than $75 a year.",
+      "CoolAdviceOfTheDay": "Sometimes it's best to ignore other people's advice.",
+      "DadJokeOfTheDay": "I was just looking at my ceiling. Not sure if it’s the best ceiling in the world, but it’s definitely up there.",
+      "IsTodayChristmas?": "Not yet",
+      "IsTodayMyBirthday?": "Unfortunately, not",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9va5uh.jpg"
    }
 }
 ```
