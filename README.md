@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "One-fourth of the world`s population lives on less than $200 a year.  Ninety million people survive on less than $75 a year.",
-      "CoolAdviceOfTheDay": "Sometimes it's best to ignore other people's advice.",
-      "DadJokeOfTheDay": "I was just looking at my ceiling. Not sure if it’s the best ceiling in the world, but it’s definitely up there.",
-      "IsTodayChristmas?": "Not yet",
-      "IsTodayMyBirthday?": "Unfortunately, not",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9va5uh.jpg"
+      "FunFactOfTheDay": "One third of all cancers are sun related.",
+      "CoolAdviceOfTheDay": "Turn jeans inside out when washing them to help preserve their colour.",
+      "DadJokeOfTheDay": "I have kleptomania, but when it gets bad, I take something for it.",
+      "IsTodayChristmas?": "!Yes",
+      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9veflo.jpg"
    }
 }
 ```
