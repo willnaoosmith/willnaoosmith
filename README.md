@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "One third of all cancers are sun related.",
-      "CoolAdviceOfTheDay": "Turn jeans inside out when washing them to help preserve their colour.",
-      "DadJokeOfTheDay": "I have kleptomania, but when it gets bad, I take something for it.",
-      "IsTodayChristmas?": "!Yes",
-      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9veflo.jpg"
+      "FunFactOfTheDay": "Daylight Saving Time is not observed in most of the state of Arizona and parts of Indiana.",
+      "CoolAdviceOfTheDay": "Never regret. If it's good, it's wonderful. If it's bad, it's experience.",
+      "DadJokeOfTheDay": "I was going to get a brain transplant, but I changed my mind",
+      "IsTodayChristmas?": "Not this time",
+      "IsTodayMyBirthday?": "Not quite",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9viy1b.jpg"
    }
 }
 ```
