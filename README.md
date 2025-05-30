@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Daylight Saving Time is not observed in most of the state of Arizona and parts of Indiana.",
-      "CoolAdviceOfTheDay": "Never regret. If it's good, it's wonderful. If it's bad, it's experience.",
-      "DadJokeOfTheDay": "I was going to get a brain transplant, but I changed my mind",
-      "IsTodayChristmas?": "Not this time",
-      "IsTodayMyBirthday?": "Not quite",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9viy1b.jpg"
+      "FunFactOfTheDay": "Butterflies taste with their hind feet.",
+      "CoolAdviceOfTheDay": "Drink a glass of water before meals.",
+      "DadJokeOfTheDay": "Why is Peter Pan always flying? Because he Neverlands.",
+      "IsTodayChristmas?": "Ask me in a year",
+      "IsTodayMyBirthday?": "Maybe",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9vmwcx.jpg"
    }
 }
 ```
