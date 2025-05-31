@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Butterflies taste with their hind feet.",
-      "CoolAdviceOfTheDay": "Drink a glass of water before meals.",
-      "DadJokeOfTheDay": "Why is Peter Pan always flying? Because he Neverlands.",
-      "IsTodayChristmas?": "Ask me in a year",
-      "IsTodayMyBirthday?": "Maybe",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9vmwcx.jpg"
+      "FunFactOfTheDay": "The characters Bert and Ernie on Sesame Street were named after Bert the cop and Ernie the taxi driver in Frank Capra`s 'Its A Wonderful Life.'",
+      "CoolAdviceOfTheDay": "Don't burn bridges.",
+      "DadJokeOfTheDay": "R.I.P. boiled water. You will be mist.",
+      "IsTodayChristmas?": "Maybe another time",
+      "IsTodayMyBirthday?": "No say I",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9vqqbj.jpg"
    }
 }
 ```
