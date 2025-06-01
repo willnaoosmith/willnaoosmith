@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The characters Bert and Ernie on Sesame Street were named after Bert the cop and Ernie the taxi driver in Frank Capra`s 'Its A Wonderful Life.'",
-      "CoolAdviceOfTheDay": "Don't burn bridges.",
-      "DadJokeOfTheDay": "R.I.P. boiled water. You will be mist.",
-      "IsTodayChristmas?": "Maybe another time",
-      "IsTodayMyBirthday?": "No say I",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9vqqbj.jpg"
+      "FunFactOfTheDay": "Lorne Greene had one of his nipples bitten off by an alligator while he was host of 'Lorne Greene`s Wild Kingdom.'",
+      "CoolAdviceOfTheDay": "Enjoy a little nonsense now and then.",
+      "DadJokeOfTheDay": "The best time on a clock is 6:30--hands down.",
+      "IsTodayChristmas?": "Yes'nt",
+      "IsTodayMyBirthday?": "Ask me in a year",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9vtpiz.jpg"
    }
 }
 ```
