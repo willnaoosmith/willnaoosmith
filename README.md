@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Lorne Greene had one of his nipples bitten off by an alligator while he was host of 'Lorne Greene`s Wild Kingdom.'",
-      "CoolAdviceOfTheDay": "Enjoy a little nonsense now and then.",
-      "DadJokeOfTheDay": "The best time on a clock is 6:30--hands down.",
-      "IsTodayChristmas?": "Yes'nt",
+      "FunFactOfTheDay": "NBA superstar Michael Jordan was originally cut from his high school basketball team.",
+      "CoolAdviceOfTheDay": "True happiness always resides in the quest.",
+      "DadJokeOfTheDay": "My boss told me to have a good day. So I went home...",
+      "IsTodayChristmas?": "!Yes",
       "IsTodayMyBirthday?": "Ask me in a year",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9vtpiz.jpg"
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9vwmne.jpg"
    }
 }
 ```
