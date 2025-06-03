@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "NBA superstar Michael Jordan was originally cut from his high school basketball team.",
-      "CoolAdviceOfTheDay": "True happiness always resides in the quest.",
-      "DadJokeOfTheDay": "My boss told me to have a good day. So I went home...",
-      "IsTodayChristmas?": "!Yes",
-      "IsTodayMyBirthday?": "Ask me in a year",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9vwmne.jpg"
+      "FunFactOfTheDay": "`Obsession` is the most popular boat name.",
+      "CoolAdviceOfTheDay": "If you're feeling tired or anxious, a pint of water will almost always make you feel better.",
+      "DadJokeOfTheDay": "How many hipsters does it take to change a lightbulb? Oh, it's a really obscure number. You've probably never heard of it.",
+      "IsTodayChristmas?": "Ask me in a year",
+      "IsTodayMyBirthday?": "No say I",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9w0v4u.jpg"
    }
 }
 ```
