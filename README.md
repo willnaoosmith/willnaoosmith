@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "`Obsession` is the most popular boat name.",
-      "CoolAdviceOfTheDay": "If you're feeling tired or anxious, a pint of water will almost always make you feel better.",
-      "DadJokeOfTheDay": "How many hipsters does it take to change a lightbulb? Oh, it's a really obscure number. You've probably never heard of it.",
-      "IsTodayChristmas?": "Ask me in a year",
-      "IsTodayMyBirthday?": "No say I",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9w0v4u.jpg"
+      "FunFactOfTheDay": "In Miconesia, coins are 12 feet across.",
+      "CoolAdviceOfTheDay": "Good advice is something a man gives when he is too old to set a bad example.",
+      "DadJokeOfTheDay": "Never take advice from electrons. They are always negative.",
+      "IsTodayChristmas?": "Not yet",
+      "IsTodayMyBirthday?": "Yes'nt",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9w560i.jpg"
    }
 }
 ```
