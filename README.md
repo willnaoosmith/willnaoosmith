@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "In Miconesia, coins are 12 feet across.",
-      "CoolAdviceOfTheDay": "Good advice is something a man gives when he is too old to set a bad example.",
-      "DadJokeOfTheDay": "Never take advice from electrons. They are always negative.",
-      "IsTodayChristmas?": "Not yet",
-      "IsTodayMyBirthday?": "Yes'nt",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9w560i.jpg"
+      "FunFactOfTheDay": "The katydid bug hears through holes in its hind legs!",
+      "CoolAdviceOfTheDay": "Don't try and bump start a motorcycle on an icy road.",
+      "DadJokeOfTheDay": "Breaking news! Energizer Bunny arrested – charged with battery.",
+      "IsTodayChristmas?": "Maybe",
+      "IsTodayMyBirthday?": "Maybe another time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9wabbu.jpg"
    }
 }
 ```
