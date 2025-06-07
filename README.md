@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "the bird is the word",
-      "CoolAdviceOfTheDay": "Don't drink bleach.",
-      "DadJokeOfTheDay": "To the person who stole my anti-depressant pills: I hope you're happy now.",
-      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
+      "FunFactOfTheDay": "The only nation whose name begins with an 'A', but doesn`t end in an 'A' is Afghanistan.",
+      "CoolAdviceOfTheDay": "Life can be a lot more interesting inside your head.",
+      "DadJokeOfTheDay": "I accidentally drank a bottle of invisible ink. Now I’m in hospital, waiting to be seen.",
+      "IsTodayChristmas?": "Unfortunately, not",
       "IsTodayMyBirthday?": "Ask me tomorrow",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9werko.jpg"
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9wj0zt.jpg"
    }
 }
 ```
