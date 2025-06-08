@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The only nation whose name begins with an 'A', but doesn`t end in an 'A' is Afghanistan.",
-      "CoolAdviceOfTheDay": "Life can be a lot more interesting inside your head.",
-      "DadJokeOfTheDay": "I accidentally drank a bottle of invisible ink. Now I’m in hospital, waiting to be seen.",
+      "FunFactOfTheDay": "You can be fined up to $1,000 for whistling on Sunday in Salt Lake City, Utah.",
+      "CoolAdviceOfTheDay": "Don't feed Mogwais after midnight.",
+      "DadJokeOfTheDay": "The other day, my wife asked me to pass her lipstick but I accidentally passed her a glue stick. She still isn't talking to me.",
       "IsTodayChristmas?": "Unfortunately, not",
-      "IsTodayMyBirthday?": "Ask me tomorrow",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9wj0zt.jpg"
+      "IsTodayMyBirthday?": "Maybe another time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9wln4n.jpg"
    }
 }
 ```
