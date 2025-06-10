@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Eating the heart of a male Partridge was the cure for impotence in ancient Babylon.",
-      "CoolAdviceOfTheDay": "State the problem in words as clearly as possible.",
-      "DadJokeOfTheDay": "A man tried to sell me a coffin today. I told him that's the last thing I need.",
-      "IsTodayChristmas?": "No say I",
-      "IsTodayMyBirthday?": "No",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9wog3p.jpg"
+      "FunFactOfTheDay": "A person cannot taste food unless it is mixed with saliva. For example, if a strong-tasting substance like salt is placed on a dry tongue, the taste buds will not be able to taste it. As soon as a drop of saliva is added and the salt is dissolved, however, a definite taste sensation results. This is true for all foods.",
+      "CoolAdviceOfTheDay": "Eat food. Not too much, mostly plants.",
+      "DadJokeOfTheDay": "What do you call a fashionable lawn statue with an excellent sense of rhythmn? A metro-gnome",
+      "IsTodayChristmas?": "Maybe another time",
+      "IsTodayMyBirthday?": "Unfortunately, not",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9ws2nk.jpg"
    }
 }
 ```
