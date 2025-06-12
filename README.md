@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Oh no, this is akward",
-      "CoolAdviceOfTheDay": "Play is the true mother of invention.",
-      "DadJokeOfTheDay": "Hear about the new restaurant called Karma? There’s no menu: You get what you deserve.",
+      "FunFactOfTheDay": "Los Angeles` full name `El Pueblo de Nuestra Senora la Reina de Los Angeles de Porciuncula` is reduced to 3.63% of its size in the abbreviation `L.A.`.",
+      "CoolAdviceOfTheDay": "It always seems impossible, until it's done.",
+      "DadJokeOfTheDay": "Sore throats are a pain in the neck!",
       "IsTodayChristmas?": "Not quite",
       "IsTodayMyBirthday?": "!Yes",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9wxwfo.jpg"
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9x38w2.jpg"
    }
 }
 ```
