@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "A pig`s orgasm lasts for 30 minutes.",
-      "CoolAdviceOfTheDay": "Build something out of LEGO.",
-      "DadJokeOfTheDay": "What is a tornado's favorite game to play? Twister!",
-      "IsTodayChristmas?": "Yes'nt",
-      "IsTodayMyBirthday?": "I dont know",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9x7gk9.jpg"
+      "FunFactOfTheDay": "There are 1,792 steps in the Eiffel Tower",
+      "CoolAdviceOfTheDay": "The hardest things to say are usually the most important.",
+      "DadJokeOfTheDay": "'Hey, dad, did you get a haircut?' 'No, I got them all cut.'",
+      "IsTodayChristmas?": "Not quite",
+      "IsTodayMyBirthday?": "Unfortunately, not",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9xd268.jpg"
    }
 }
 ```
