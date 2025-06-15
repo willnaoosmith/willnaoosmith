@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "There are 1,792 steps in the Eiffel Tower",
-      "CoolAdviceOfTheDay": "The hardest things to say are usually the most important.",
-      "DadJokeOfTheDay": "'Hey, dad, did you get a haircut?' 'No, I got them all cut.'",
-      "IsTodayChristmas?": "Not quite",
-      "IsTodayMyBirthday?": "Unfortunately, not",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9xd268.jpg"
+      "FunFactOfTheDay": "The ant always falls over on its right side when intoxicated.",
+      "CoolAdviceOfTheDay": "You're not as fat as you think you are.",
+      "DadJokeOfTheDay": "I invented a new word! Plagiarism!",
+      "IsTodayChristmas?": "Maybe another time",
+      "IsTodayMyBirthday?": "Yes'nt",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9xg2zb.jpg"
    }
 }
 ```
