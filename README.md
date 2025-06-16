@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The ant always falls over on its right side when intoxicated.",
-      "CoolAdviceOfTheDay": "You're not as fat as you think you are.",
-      "DadJokeOfTheDay": "I invented a new word! Plagiarism!",
-      "IsTodayChristmas?": "Maybe another time",
-      "IsTodayMyBirthday?": "Yes'nt",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9xg2zb.jpg"
+      "FunFactOfTheDay": "Most toilets flush in E flat.",
+      "CoolAdviceOfTheDay": "Happiness is a journey, not a destination.",
+      "DadJokeOfTheDay": "Why is the new Kindle screen textured to look like paper? So you feel write at home.",
+      "IsTodayChristmas?": "Maybe",
+      "IsTodayMyBirthday?": "Nope",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9xj0lo.jpg"
    }
 }
 ```
