@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Most toilets flush in E flat.",
-      "CoolAdviceOfTheDay": "Happiness is a journey, not a destination.",
-      "DadJokeOfTheDay": "Why is the new Kindle screen textured to look like paper? So you feel write at home.",
-      "IsTodayChristmas?": "Maybe",
-      "IsTodayMyBirthday?": "Nope",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9xj0lo.jpg"
+      "FunFactOfTheDay": "In Vermont, the ratio of cows to people is 10:1",
+      "CoolAdviceOfTheDay": "Take time once in a while to look up at the stars for at least 5 minutes, in order to comprehend your cosmic significance.",
+      "DadJokeOfTheDay": "Do you know where you can get chicken broth in bulk? The stock market.",
+      "IsTodayChristmas?": "Ask me in one hour",
+      "IsTodayMyBirthday?": "Not quite",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9xmrrt.jpg"
    }
 }
 ```
