@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Jefferson invented the dumbwaiter, the monetary system, and the folding attic ladder.",
-      "CoolAdviceOfTheDay": "Don't let the bastards grind you down.",
-      "DadJokeOfTheDay": "Why did Mozart kill all his chickens? Because when he asked them who the best composer was, they'd all say 'Bach bach bach!' ",
-      "IsTodayChristmas?": "Maybe",
-      "IsTodayMyBirthday?": "Yes'nt",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9xqr3h.jpg"
+      "FunFactOfTheDay": "In the marriage ceremony of the ancient Inca Indians of Peru, the couple was considered officially wed when they took off their sandals and handed them to each other.",
+      "CoolAdviceOfTheDay": "If you're feeling tired or anxious, a pint of water will almost always make you feel better.",
+      "DadJokeOfTheDay": "Why is it always hot in the corner of a room? Because a corner is 90 degrees.",
+      "IsTodayChristmas?": "Ask me tomorrow",
+      "IsTodayMyBirthday?": "Ask me in a year",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9xurbi.jpg"
    }
 }
 ```
