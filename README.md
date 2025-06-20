@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "In the marriage ceremony of the ancient Inca Indians of Peru, the couple was considered officially wed when they took off their sandals and handed them to each other.",
-      "CoolAdviceOfTheDay": "If you're feeling tired or anxious, a pint of water will almost always make you feel better.",
-      "DadJokeOfTheDay": "Why is it always hot in the corner of a room? Because a corner is 90 degrees.",
-      "IsTodayChristmas?": "Ask me tomorrow",
-      "IsTodayMyBirthday?": "Ask me in a year",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9xurbi.jpg"
+      "FunFactOfTheDay": "Most American car horns honk in the key of F.",
+      "CoolAdviceOfTheDay": "You don't need to floss all of your teeth. Only the ones you want to keep.",
+      "DadJokeOfTheDay": "Why is no one friends with Dracula? Because he's a pain in the neck.",
+      "IsTodayChristmas?": "Nope",
+      "IsTodayMyBirthday?": "Not yet",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9xyu5s.jpg"
    }
 }
 ```
