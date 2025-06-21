@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Most American car horns honk in the key of F.",
-      "CoolAdviceOfTheDay": "You don't need to floss all of your teeth. Only the ones you want to keep.",
-      "DadJokeOfTheDay": "Why is no one friends with Dracula? Because he's a pain in the neck.",
-      "IsTodayChristmas?": "Nope",
-      "IsTodayMyBirthday?": "Not yet",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9xyu5s.jpg"
+      "FunFactOfTheDay": "The average American/Canadian will eat about 11.9 pounds of cereal per year!",
+      "CoolAdviceOfTheDay": "Life is short enough, don't race to the finish.",
+      "DadJokeOfTheDay": "I saw my husband trip and fall while carrying a laundry basket full of ironed clothes. I watched it all unfold.",
+      "IsTodayChristmas?": "Nah",
+      "IsTodayMyBirthday?": "Yes'nt",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9y2g4t.jpg"
    }
 }
 ```
