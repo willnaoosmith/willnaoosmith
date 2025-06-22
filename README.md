@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The average American/Canadian will eat about 11.9 pounds of cereal per year!",
-      "CoolAdviceOfTheDay": "Life is short enough, don't race to the finish.",
-      "DadJokeOfTheDay": "I saw my husband trip and fall while carrying a laundry basket full of ironed clothes. I watched it all unfold.",
-      "IsTodayChristmas?": "Nah",
-      "IsTodayMyBirthday?": "Yes'nt",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9y2g4t.jpg"
+      "FunFactOfTheDay": "Each king in a deck of playing cards represents a great king from history. Spades - King David, Clubs - Alexander the Great, Hearts - Charlemagne, and Diamonds - Julius Caesar.",
+      "CoolAdviceOfTheDay": "Cars are bad investments.",
+      "DadJokeOfTheDay": "I wanted to be a tailor but I didn't suit the job",
+      "IsTodayChristmas?": "Ask me in one hour",
+      "IsTodayMyBirthday?": "Maybe",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9y54gi.jpg"
    }
 }
 ```
