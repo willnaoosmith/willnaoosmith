@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Each king in a deck of playing cards represents a great king from history. Spades - King David, Clubs - Alexander the Great, Hearts - Charlemagne, and Diamonds - Julius Caesar.",
-      "CoolAdviceOfTheDay": "Cars are bad investments.",
-      "DadJokeOfTheDay": "I wanted to be a tailor but I didn't suit the job",
-      "IsTodayChristmas?": "Ask me in one hour",
-      "IsTodayMyBirthday?": "Maybe",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9y54gi.jpg"
+      "FunFactOfTheDay": "If one places a tiny amount of liquor on a scorpion, it will instantly go mad and sting itself to death.",
+      "CoolAdviceOfTheDay": "Don't cross the streams.",
+      "DadJokeOfTheDay": "What did the left eye say to the right eye? Between us, something smells!",
+      "IsTodayChristmas?": "Maybe another time",
+      "IsTodayMyBirthday?": "Not quite",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9y809k.jpg"
    }
 }
 ```
