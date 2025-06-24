@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "If one places a tiny amount of liquor on a scorpion, it will instantly go mad and sting itself to death.",
-      "CoolAdviceOfTheDay": "Don't cross the streams.",
-      "DadJokeOfTheDay": "What did the left eye say to the right eye? Between us, something smells!",
-      "IsTodayChristmas?": "Maybe another time",
-      "IsTodayMyBirthday?": "Not quite",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9y809k.jpg"
+      "FunFactOfTheDay": "A horse can look forward with one eye and back with the other.",
+      "CoolAdviceOfTheDay": "Pedantry is fine, unless you're on the receiving end. And not a pedant.",
+      "DadJokeOfTheDay": "A man walked in to a bar with some asphalt on his arm. He said “Two beers please, one for me and one for the road.”",
+      "IsTodayChristmas?": "Not quite",
+      "IsTodayMyBirthday?": "Nah",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9ybrh8.jpg"
    }
 }
 ```
