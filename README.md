@@ -178,13 +178,32 @@
 <h4 align="left">My weekly programming languages per time spent</h4>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C331%20hrs%2046%20mins-blue)
 
-```txt
-Total Time: 1 hr 57 mins
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.0%20million%20lines%20of%20code-blue)
 
-Liquid   1 hr 57 mins    █████████████████████████   99.97 %
-Text     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+**🐱 My GitHub Data** 
+
+> 📦 112.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 288 Contributions in the Year 2025
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 42 Public Repositories 
+ > 
+> 🔑 24 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                360 commits         ████████░░░░░░░░░░░░░░░░░   30.41 % 
+🌆 Daytime                511 commits         ███████████░░░░░░░░░░░░░░   43.16 % 
+🌃 Evening                260 commits         █████░░░░░░░░░░░░░░░░░░░░   21.96 % 
+🌙 Night                  53 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
 ```
+
+
 
 <!--END_SECTION:waka-->
 
