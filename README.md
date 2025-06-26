@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The only 15-letter word that can be spelled without repeating a letter is uncopyrightable.",
-      "CoolAdviceOfTheDay": "Everything in moderation, including moderation itself.",
-      "DadJokeOfTheDay": "Why do nurses carry around red crayons? Sometimes they need to draw blood.",
-      "IsTodayChristmas?": "Maybe another time",
-      "IsTodayMyBirthday?": "Maybe",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9yfx8n.jpg"
+      "FunFactOfTheDay": "Dueling is legal in Paraguay as long as both parties are registered blood donors.",
+      "CoolAdviceOfTheDay": "If you get stuck, try doing the opposite of what the solution requires.",
+      "DadJokeOfTheDay": "I thought my wife was joking when she said she'd leave me if I didn't stop signing 'I'm A Believer'... Then I saw her face.",
+      "IsTodayChristmas?": "Not this time",
+      "IsTodayMyBirthday?": "Nah",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9yjugn.jpg"
    }
 }
 ```
