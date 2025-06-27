@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Dueling is legal in Paraguay as long as both parties are registered blood donors.",
-      "CoolAdviceOfTheDay": "If you get stuck, try doing the opposite of what the solution requires.",
-      "DadJokeOfTheDay": "I thought my wife was joking when she said she'd leave me if I didn't stop signing 'I'm A Believer'... Then I saw her face.",
+      "FunFactOfTheDay": "Jupiter is bigger than all the other planets in our solar system combined.",
+      "CoolAdviceOfTheDay": "One of the top five regrets people have is that they didn't stay in contact with friends.",
+      "DadJokeOfTheDay": "What's orange and sounds like a parrot? A Carrot.",
       "IsTodayChristmas?": "Not this time",
-      "IsTodayMyBirthday?": "Nah",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9yjugn.jpg"
+      "IsTodayMyBirthday?": "Ask me in one hour",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9ynou5.jpg"
    }
 }
 ```
