@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Jupiter is bigger than all the other planets in our solar system combined.",
-      "CoolAdviceOfTheDay": "One of the top five regrets people have is that they didn't stay in contact with friends.",
-      "DadJokeOfTheDay": "What's orange and sounds like a parrot? A Carrot.",
-      "IsTodayChristmas?": "Not this time",
-      "IsTodayMyBirthday?": "Ask me in one hour",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9ynou5.jpg"
+      "FunFactOfTheDay": "A whale`s penis is called a dork.",
+      "CoolAdviceOfTheDay": "Always get two ciders.",
+      "DadJokeOfTheDay": "When my wife told me to stop impersonating a flamingo, I had to put my foot down.",
+      "IsTodayChristmas?": "Unfortunately, not",
+      "IsTodayMyBirthday?": "No",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9yrdtu.jpg"
    }
 }
 ```
