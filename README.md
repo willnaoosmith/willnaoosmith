@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The dot over the letter `i` is called a tittle.  ",
-      "CoolAdviceOfTheDay": "Never waste an opportunity to tell someone you love them.",
-      "DadJokeOfTheDay": "Why does Waldo only wear stripes? Because he doesn't want to be spotted.",
-      "IsTodayChristmas?": "!Yes",
-      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9ywjfw.jpg"
+      "FunFactOfTheDay": "On the ground, a group of geese is a gaggle, in the sky it is a skein.",
+      "CoolAdviceOfTheDay": "If you have grandparents or parents - Talk to them more. Ask them about their life experiences.",
+      "DadJokeOfTheDay": "Astronomers got tired watching the moon go around the earth for 24 hours. They decided to call it a day.",
+      "IsTodayChristmas?": "Not yet",
+      "IsTodayMyBirthday?": "Ask me in one hour",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9z04su.jpg"
    }
 }
 ```
