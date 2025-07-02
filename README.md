@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "On the ground, a group of geese is a gaggle, in the sky it is a skein.",
-      "CoolAdviceOfTheDay": "If you have grandparents or parents - Talk to them more. Ask them about their life experiences.",
-      "DadJokeOfTheDay": "Astronomers got tired watching the moon go around the earth for 24 hours. They decided to call it a day.",
-      "IsTodayChristmas?": "Not yet",
-      "IsTodayMyBirthday?": "Ask me in one hour",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9z04su.jpg"
+      "FunFactOfTheDay": "I crashed",
+      "CoolAdviceOfTheDay": "Once in a while, eat some sweets you used to enjoy when you were younger.",
+      "DadJokeOfTheDay": "Why was the robot angry? Because someone kept pressing his buttons!",
+      "IsTodayChristmas?": "I dont know",
+      "IsTodayMyBirthday?": "Not this time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9z3sk3.jpg"
    }
 }
 ```
