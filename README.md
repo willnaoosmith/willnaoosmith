@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "I crashed",
-      "CoolAdviceOfTheDay": "Once in a while, eat some sweets you used to enjoy when you were younger.",
-      "DadJokeOfTheDay": "Why was the robot angry? Because someone kept pressing his buttons!",
-      "IsTodayChristmas?": "I dont know",
-      "IsTodayMyBirthday?": "Not this time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9z3sk3.jpg"
+      "FunFactOfTheDay": "There are more psychoanalysts per capita in Buenos Aires than any other place in the world.",
+      "CoolAdviceOfTheDay": "Never waste an opportunity to tell someone you love them.",
+      "DadJokeOfTheDay": "I've got a joke about vegetables for you... but it's a bit corny.",
+      "IsTodayChristmas?": "Nope",
+      "IsTodayMyBirthday?": "Not yet",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9z7u7f.jpg"
    }
 }
 ```
