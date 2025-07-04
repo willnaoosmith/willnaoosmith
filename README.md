@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "There are more psychoanalysts per capita in Buenos Aires than any other place in the world.",
-      "CoolAdviceOfTheDay": "Never waste an opportunity to tell someone you love them.",
-      "DadJokeOfTheDay": "I've got a joke about vegetables for you... but it's a bit corny.",
-      "IsTodayChristmas?": "Nope",
-      "IsTodayMyBirthday?": "Not yet",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9z7u7f.jpg"
+      "FunFactOfTheDay": "Since 1978, 37 people have died by Vending Machine`s falling on them.  13 people are killed annually.  All this while trying to shake merchandise out of them. 113 people have been injured.",
+      "CoolAdviceOfTheDay": "The hardest things to say are usually the most important.",
+      "DadJokeOfTheDay": "What do you call a magician who has lost their magic? Ian.",
+      "IsTodayChristmas?": "No",
+      "IsTodayMyBirthday?": "Not quite",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9zbw5r.jpg"
    }
 }
 ```
