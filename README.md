@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Since 1978, 37 people have died by Vending Machine`s falling on them.  13 people are killed annually.  All this while trying to shake merchandise out of them. 113 people have been injured.",
-      "CoolAdviceOfTheDay": "The hardest things to say are usually the most important.",
-      "DadJokeOfTheDay": "What do you call a magician who has lost their magic? Ian.",
-      "IsTodayChristmas?": "No",
-      "IsTodayMyBirthday?": "Not quite",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9zbw5r.jpg"
+      "FunFactOfTheDay": "Average number of days a West German goes without washing his underwear: 7",
+      "CoolAdviceOfTheDay": "I crashed",
+      "DadJokeOfTheDay": "What are the strongest days of the week? Saturday and Sunday...the rest are weekdays.",
+      "IsTodayChristmas?": "I dont know",
+      "IsTodayMyBirthday?": "Yes'nt",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9zf07k.jpg"
    }
 }
 ```
