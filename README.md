@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Average number of days a West German goes without washing his underwear: 7",
-      "CoolAdviceOfTheDay": "I crashed",
-      "DadJokeOfTheDay": "What are the strongest days of the week? Saturday and Sunday...the rest are weekdays.",
-      "IsTodayChristmas?": "I dont know",
-      "IsTodayMyBirthday?": "Yes'nt",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9zf07k.jpg"
+      "FunFactOfTheDay": "Researchers at the Texas Department of Highways in Fort Worth determined the cow population of the U.S. burps some 50 million tons of valuable hydrocarbons into the atmosphere each year.  The accumulated burps of ten average cows could keep a small house adequately heated and its stove operating for a year.",
+      "CoolAdviceOfTheDay": "It's not a bug, it's a feature",
+      "DadJokeOfTheDay": "Why do crabs never give to charity? Because they’re shellfish.",
+      "IsTodayChristmas?": "Unfortunately, not",
+      "IsTodayMyBirthday?": "Unfortunately, not",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9zhcq4.jpg"
    }
 }
 ```
