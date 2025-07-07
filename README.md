@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Researchers at the Texas Department of Highways in Fort Worth determined the cow population of the U.S. burps some 50 million tons of valuable hydrocarbons into the atmosphere each year.  The accumulated burps of ten average cows could keep a small house adequately heated and its stove operating for a year.",
-      "CoolAdviceOfTheDay": "It's not a bug, it's a feature",
-      "DadJokeOfTheDay": "Why do crabs never give to charity? Because they’re shellfish.",
-      "IsTodayChristmas?": "Unfortunately, not",
-      "IsTodayMyBirthday?": "Unfortunately, not",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9zhcq4.jpg"
+      "FunFactOfTheDay": "Cats have over one hundred vocal sounds, while dogs only have about ten.",
+      "CoolAdviceOfTheDay": "It's always the quiet ones.",
+      "DadJokeOfTheDay": "How do hens stay fit? They always egg-cercise!",
+      "IsTodayChristmas?": "Not this time",
+      "IsTodayMyBirthday?": "Maybe",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9zjuzz.jpg"
    }
 }
 ```
