@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Cats have over one hundred vocal sounds, while dogs only have about ten.",
-      "CoolAdviceOfTheDay": "It's always the quiet ones.",
-      "DadJokeOfTheDay": "How do hens stay fit? They always egg-cercise!",
-      "IsTodayChristmas?": "Not this time",
-      "IsTodayMyBirthday?": "Maybe",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9zjuzz.jpg"
+      "FunFactOfTheDay": "Men can read smaller print than women; women can hear better.",
+      "CoolAdviceOfTheDay": "Make choices and dont look back.",
+      "DadJokeOfTheDay": "How come the stadium got hot after the game? Because all of the fans left.",
+      "IsTodayChristmas?": "Ask me tomorrow",
+      "IsTodayMyBirthday?": "Ask me in a year",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9zn9xy.jpg"
    }
 }
 ```
