@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "In a test performed by Canadian scientists, using various different styles of music, it was determined that chickens lay the most eggs when pop music was played.",
-      "CoolAdviceOfTheDay": "What's stopping you?",
-      "DadJokeOfTheDay": "What is the best way to carve? Whittle by whittle.",
-      "IsTodayChristmas?": "Nope",
+      "FunFactOfTheDay": "In the United States, a pound of potato chips costs two hundred times more than a pound of potatoes.",
+      "CoolAdviceOfTheDay": "It's not a bug, it's a feature",
+      "DadJokeOfTheDay": "I made a belt out of watches once... It was a waist of time.",
+      "IsTodayChristmas?": "Ask me in one hour",
       "IsTodayMyBirthday?": "Not quite",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9zqw5m.jpg"
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9zujgd.jpg"
    }
 }
 ```
