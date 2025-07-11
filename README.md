@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "In the United States, a pound of potato chips costs two hundred times more than a pound of potatoes.",
-      "CoolAdviceOfTheDay": "It's not a bug, it's a feature",
-      "DadJokeOfTheDay": "I made a belt out of watches once... It was a waist of time.",
-      "IsTodayChristmas?": "Ask me in one hour",
-      "IsTodayMyBirthday?": "Not quite",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9zujgd.jpg"
+      "FunFactOfTheDay": "When you sneeze, air and particles travel through the nostrils at speeds over100 mph.  During this time, all bodily functions stop, including your heart, contributing to the impossibility of keeping one`s eyes open during a sneeze.",
+      "CoolAdviceOfTheDay": "Don't feed Mogwais after midnight.",
+      "DadJokeOfTheDay": "Which is the fastest growing city in the world? Dublin'",
+      "IsTodayChristmas?": "No",
+      "IsTodayMyBirthday?": "One day",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/9zy8fs.jpg"
    }
 }
 ```
