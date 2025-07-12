@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "When you sneeze, air and particles travel through the nostrils at speeds over100 mph.  During this time, all bodily functions stop, including your heart, contributing to the impossibility of keeping one`s eyes open during a sneeze.",
-      "CoolAdviceOfTheDay": "Don't feed Mogwais after midnight.",
-      "DadJokeOfTheDay": "Which is the fastest growing city in the world? Dublin'",
-      "IsTodayChristmas?": "No",
-      "IsTodayMyBirthday?": "One day",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/9zy8fs.jpg"
+      "FunFactOfTheDay": "Length of beard an average man would grow if he never shaved 27.5 feet",
+      "CoolAdviceOfTheDay": "Oh no",
+      "DadJokeOfTheDay": "Why do pumpkins sit on people’s porches?  They have no hands to knock on the door.",
+      "IsTodayChristmas?": "Nah",
+      "IsTodayMyBirthday?": "Not this time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/a01vjs.jpg"
    }
 }
 ```
