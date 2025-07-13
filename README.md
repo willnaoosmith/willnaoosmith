@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Length of beard an average man would grow if he never shaved 27.5 feet",
-      "CoolAdviceOfTheDay": "Oh no",
-      "DadJokeOfTheDay": "Why do pumpkins sit on people’s porches?  They have no hands to knock on the door.",
-      "IsTodayChristmas?": "Nah",
-      "IsTodayMyBirthday?": "Not this time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/a01vjs.jpg"
+      "FunFactOfTheDay": "The Eisenhower interstate system requires that one mile in every five must be straight in case of war or emergency, they could be used as airstrips.",
+      "CoolAdviceOfTheDay": "Well well well, if i didn't put a try/except here",
+      "DadJokeOfTheDay": "What's the difference between a seal and a sea lion? An ion! ",
+      "IsTodayChristmas?": "One day",
+      "IsTodayMyBirthday?": "Nope",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/a04fj7.jpg"
    }
 }
 ```
