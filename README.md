@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The Eisenhower interstate system requires that one mile in every five must be straight in case of war or emergency, they could be used as airstrips.",
-      "CoolAdviceOfTheDay": "Well well well, if i didn't put a try/except here",
-      "DadJokeOfTheDay": "What's the difference between a seal and a sea lion? An ion! ",
-      "IsTodayChristmas?": "One day",
-      "IsTodayMyBirthday?": "Nope",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/a04fj7.jpg"
+      "FunFactOfTheDay": "Rhode Island is the only state which the hammer throw is a legal high school sport.",
+      "CoolAdviceOfTheDay": "Oh no, this is akward",
+      "DadJokeOfTheDay": "Two muffins were sitting in an oven, and the first looks over to the second, and says, “man, it’s really hot in here”. The second looks over at the first with a surprised look, and answers, “WHOA, a talking muffin!”",
+      "IsTodayChristmas?": "Nope",
+      "IsTodayMyBirthday?": "Maybe",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/a070i9.jpg"
    }
 }
 ```
