@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Rhode Island is the only state which the hammer throw is a legal high school sport.",
-      "CoolAdviceOfTheDay": "Oh no, this is akward",
-      "DadJokeOfTheDay": "Two muffins were sitting in an oven, and the first looks over to the second, and says, “man, it’s really hot in here”. The second looks over at the first with a surprised look, and answers, “WHOA, a talking muffin!”",
-      "IsTodayChristmas?": "Nope",
+      "FunFactOfTheDay": "The Black Death reduced the population of Europe by one third in the period from 1347 to 1351.",
+      "CoolAdviceOfTheDay": "Sarcasm is the lowest form of wit. Employ correctly with apt timing.",
+      "DadJokeOfTheDay": "Why did the A go to the bathroom and come out as an E? Because he had a vowel movement.",
+      "IsTodayChristmas?": "Ask me in one hour",
       "IsTodayMyBirthday?": "Maybe",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/a070i9.jpg"
+      "RandomMemeOfTheDay": "https://i.imgflip.com/a0ahbm.jpg"
    }
 }
 ```
