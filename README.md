@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Only 6 people in the whole world have died from moshing.",
-      "CoolAdviceOfTheDay": "When hugging, hug with both arms and apply reasonable, affectionate pressure.",
-      "DadJokeOfTheDay": "Where did Captain Hook get his hook? From a second hand store.",
-      "IsTodayChristmas?": "Unfortunately, not",
-      "IsTodayMyBirthday?": "No",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/a0e26q.jpg"
+      "FunFactOfTheDay": "Since 1978, 37 people have died by Vending Machine`s falling on them.  13 people are killed annually.  All this while trying to shake merchandise out of them. 113 people have been injured.",
+      "CoolAdviceOfTheDay": "You don't need to floss all of your teeth. Only the ones you want to keep.",
+      "DadJokeOfTheDay": "What do you call a pig that knows karate? A pork chop!",
+      "IsTodayChristmas?": "No",
+      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/a0hqul.jpg"
    }
 }
 ```
