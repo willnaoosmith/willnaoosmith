@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Since 1978, 37 people have died by Vending Machine`s falling on them.  13 people are killed annually.  All this while trying to shake merchandise out of them. 113 people have been injured.",
-      "CoolAdviceOfTheDay": "You don't need to floss all of your teeth. Only the ones you want to keep.",
-      "DadJokeOfTheDay": "What do you call a pig that knows karate? A pork chop!",
-      "IsTodayChristmas?": "No",
-      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/a0hqul.jpg"
+      "FunFactOfTheDay": "Blueberry Jelly Bellies were created especially for Ronald Reagan.",
+      "CoolAdviceOfTheDay": "Stop procrastinating.",
+      "DadJokeOfTheDay": "A doll was recently found dead in a rice paddy. It's the only known instance of a nick nack paddy wack.",
+      "IsTodayChristmas?": "Not this time",
+      "IsTodayMyBirthday?": "Unfortunately, not",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/a0lhs6.jpg"
    }
 }
 ```
