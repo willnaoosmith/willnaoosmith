@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Blueberry Jelly Bellies were created especially for Ronald Reagan.",
-      "CoolAdviceOfTheDay": "Stop procrastinating.",
-      "DadJokeOfTheDay": "A doll was recently found dead in a rice paddy. It's the only known instance of a nick nack paddy wack.",
-      "IsTodayChristmas?": "Not this time",
-      "IsTodayMyBirthday?": "Unfortunately, not",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/a0lhs6.jpg"
+      "FunFactOfTheDay": "The average person`s left hand does 56% of the typing.",
+      "CoolAdviceOfTheDay": "A long walk alone with some time to think, can work wonders.",
+      "DadJokeOfTheDay": "What did the pirate say on his 80th birthday? Aye Matey!",
+      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
+      "IsTodayMyBirthday?": "One day",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/a0p4sa.jpg"
    }
 }
 ```
