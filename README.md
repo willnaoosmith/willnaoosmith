@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The average person`s left hand does 56% of the typing.",
-      "CoolAdviceOfTheDay": "A long walk alone with some time to think, can work wonders.",
-      "DadJokeOfTheDay": "What did the pirate say on his 80th birthday? Aye Matey!",
-      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
-      "IsTodayMyBirthday?": "One day",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/a0p4sa.jpg"
+      "FunFactOfTheDay": "If you yelled for 8 years, 7 months and 6 days, you will have produced enough sound energy to heat one cup of coffee.",
+      "CoolAdviceOfTheDay": "Don't take it personally.",
+      "DadJokeOfTheDay": "Did you hear the one about the guy with the broken hearing aid? Neither did he.",
+      "IsTodayChristmas?": "Not yet",
+      "IsTodayMyBirthday?": "Ask me in one hour",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/a0rnb7.jpg"
    }
 }
 ```
