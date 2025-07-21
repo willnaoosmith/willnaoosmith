@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "If you yelled for 8 years, 7 months and 6 days, you will have produced enough sound energy to heat one cup of coffee.",
-      "CoolAdviceOfTheDay": "Don't take it personally.",
-      "DadJokeOfTheDay": "Did you hear the one about the guy with the broken hearing aid? Neither did he.",
-      "IsTodayChristmas?": "Not yet",
-      "IsTodayMyBirthday?": "Ask me in one hour",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/a0rnb7.jpg"
+      "FunFactOfTheDay": "Worcestershire sauce in essentially an Anchovy Ketchup.",
+      "CoolAdviceOfTheDay": "Don't burn bridges.",
+      "DadJokeOfTheDay": "What do you call a pig that knows karate? A pork chop!",
+      "IsTodayChristmas?": "Ask me in one hour",
+      "IsTodayMyBirthday?": "Not quite",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/a0ucqs.jpg"
    }
 }
 ```
