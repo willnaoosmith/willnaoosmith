@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Worcestershire sauce in essentially an Anchovy Ketchup.",
-      "CoolAdviceOfTheDay": "Don't burn bridges.",
-      "DadJokeOfTheDay": "What do you call a pig that knows karate? A pork chop!",
-      "IsTodayChristmas?": "Ask me in one hour",
-      "IsTodayMyBirthday?": "Not quite",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/a0ucqs.jpg"
+      "FunFactOfTheDay": "The dot over the letter `i` is called a tittle.  ",
+      "CoolAdviceOfTheDay": "If you don't ask, you don't get.",
+      "DadJokeOfTheDay": "A horse walks into a bar. The bar tender says 'Hey.' The horse says 'Sure.'",
+      "IsTodayChristmas?": "Not quite",
+      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/a0xvx7.jpg"
    }
 }
 ```
