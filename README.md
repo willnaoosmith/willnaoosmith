@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The dot over the letter `i` is called a tittle.  ",
-      "CoolAdviceOfTheDay": "If you don't ask, you don't get.",
-      "DadJokeOfTheDay": "A horse walks into a bar. The bar tender says 'Hey.' The horse says 'Sure.'",
-      "IsTodayChristmas?": "Not quite",
-      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/a0xvx7.jpg"
+      "FunFactOfTheDay": "The praying mantis is the only insect that can turn its head",
+      "CoolAdviceOfTheDay": "A common regret in life is wishing one hadn't worked so hard.",
+      "DadJokeOfTheDay": "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand...",
+      "IsTodayChristmas?": "No",
+      "IsTodayMyBirthday?": "Nope",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/a11k6l.jpg"
    }
 }
 ```
