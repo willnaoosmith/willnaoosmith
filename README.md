@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The praying mantis is the only insect that can turn its head",
-      "CoolAdviceOfTheDay": "A common regret in life is wishing one hadn't worked so hard.",
-      "DadJokeOfTheDay": "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand...",
-      "IsTodayChristmas?": "No",
-      "IsTodayMyBirthday?": "Nope",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/a11k6l.jpg"
+      "FunFactOfTheDay": "The only 15-letter word that can be spelled without repeating a letter is uncopyrightable.",
+      "CoolAdviceOfTheDay": "If you are ever in doubt about whether or not to wash your hair: Wash it.",
+      "DadJokeOfTheDay": "Don't buy flowers at a monastery. Because only you can prevent florist friars.",
+      "IsTodayChristmas?": "Maybe",
+      "IsTodayMyBirthday?": "Ask me in a year",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/a15aps.jpg"
    }
 }
 ```
