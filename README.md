@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The only 15-letter word that can be spelled without repeating a letter is uncopyrightable.",
-      "CoolAdviceOfTheDay": "If you are ever in doubt about whether or not to wash your hair: Wash it.",
-      "DadJokeOfTheDay": "Don't buy flowers at a monastery. Because only you can prevent florist friars.",
-      "IsTodayChristmas?": "Maybe",
-      "IsTodayMyBirthday?": "Ask me in a year",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/a15aps.jpg"
+      "FunFactOfTheDay": "The world`s record for keeping a Lifesaver in the mouth with the hole intact is 7 hrs 10 min.",
+      "CoolAdviceOfTheDay": "What could you increase? What could you reduce?",
+      "DadJokeOfTheDay": "What's brown and sticky? A stick.",
+      "IsTodayChristmas?": "Unfortunately, not",
+      "IsTodayMyBirthday?": "No say I",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/a1942z.jpg"
    }
 }
 ```
