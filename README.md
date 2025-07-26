@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The world`s record for keeping a Lifesaver in the mouth with the hole intact is 7 hrs 10 min.",
-      "CoolAdviceOfTheDay": "What could you increase? What could you reduce?",
-      "DadJokeOfTheDay": "What's brown and sticky? A stick.",
-      "IsTodayChristmas?": "Unfortunately, not",
+      "FunFactOfTheDay": "The `Golden Arches` of fast food chain McDonalds is more recognized worldwide than the religious cross of Christianity.",
+      "CoolAdviceOfTheDay": "Gratitude is said to be the secret to happiness.",
+      "DadJokeOfTheDay": "Where does Fonzie like to go for lunch? Chick-Fil-Eyyyyyyyy.",
+      "IsTodayChristmas?": "Not yet",
       "IsTodayMyBirthday?": "No say I",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/a1942z.jpg"
+      "RandomMemeOfTheDay": "https://i.imgflip.com/a1cm2v.jpg"
    }
 }
 ```
