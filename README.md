@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The `Golden Arches` of fast food chain McDonalds is more recognized worldwide than the religious cross of Christianity.",
-      "CoolAdviceOfTheDay": "Gratitude is said to be the secret to happiness.",
-      "DadJokeOfTheDay": "Where does Fonzie like to go for lunch? Chick-Fil-Eyyyyyyyy.",
-      "IsTodayChristmas?": "Not yet",
-      "IsTodayMyBirthday?": "No say I",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/a1cm2v.jpg"
+      "FunFactOfTheDay": "The human tongue tastes bitter things with the taste buds toward the back. Salty and pungent flavors are tasted in the middle of the tongue, sweet flavors at the tip!",
+      "CoolAdviceOfTheDay": "Step 1. Give a shit. Step 2. Don't be a dick. Step 3. Know when to let go.",
+      "DadJokeOfTheDay": "Did you know you should always take an extra pair of pants golfing? Just in case you get a hole in one.",
+      "IsTodayChristmas?": "No say I",
+      "IsTodayMyBirthday?": "I dont know",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/a1f2q5.jpg"
    }
 }
 ```
