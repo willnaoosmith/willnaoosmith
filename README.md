@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Dentists have recommended that a toothbrush be kept at least 6 feet away from a toilet to avoid airborne particles resulting from the flush.",
-      "CoolAdviceOfTheDay": "Don't eat non-snow-coloured snow.",
-      "DadJokeOfTheDay": "Why did the cookie cry? Because his mother was a wafer so long",
-      "IsTodayChristmas?": "Yes'nt",
-      "IsTodayMyBirthday?": "Not this time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/a1hnft.jpg"
+      "FunFactOfTheDay": "The strongest muscle (Relative to size) in the body is the tongue.",
+      "CoolAdviceOfTheDay": "The most important thing is the thing most easily forgotten.",
+      "DadJokeOfTheDay": "Why do crabs never give to charity? Because they’re shellfish.",
+      "IsTodayChristmas?": "Unfortunately, not",
+      "IsTodayMyBirthday?": "Maybe",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/a1l3zz.jpg"
    }
 }
 ```
