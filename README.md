@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The strongest muscle (Relative to size) in the body is the tongue.",
-      "CoolAdviceOfTheDay": "The most important thing is the thing most easily forgotten.",
-      "DadJokeOfTheDay": "Why do crabs never give to charity? Because they’re shellfish.",
-      "IsTodayChristmas?": "Unfortunately, not",
-      "IsTodayMyBirthday?": "Maybe",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/a1l3zz.jpg"
+      "FunFactOfTheDay": "In eighteenth-century English gambling dens, there was an employee whose only job was to swallow the dice if there was a police raid.",
+      "CoolAdviceOfTheDay": "Vinegar is a powerful cleaning agent.",
+      "DadJokeOfTheDay": "Want to hear my pizza joke? Never mind, it's too cheesy.",
+      "IsTodayChristmas?": "Yes'nt",
+      "IsTodayMyBirthday?": "Nope",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/a1oprx.jpg"
    }
 }
 ```
