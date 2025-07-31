@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "In eighteenth-century English gambling dens, there was an employee whose only job was to swallow the dice if there was a police raid.",
-      "CoolAdviceOfTheDay": "Vinegar is a powerful cleaning agent.",
-      "DadJokeOfTheDay": "Want to hear my pizza joke? Never mind, it's too cheesy.",
-      "IsTodayChristmas?": "Yes'nt",
-      "IsTodayMyBirthday?": "Nope",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/a1oprx.jpg"
+      "FunFactOfTheDay": "The very first bomb dropped by the Allies on Berlin during World War II Killed the only elephant in the Berlin Zoo.",
+      "CoolAdviceOfTheDay": "Most things are not as bad as you think they are.",
+      "DadJokeOfTheDay": "Where do hamburgers go to dance? The meat-ball.",
+      "IsTodayChristmas?": "Not this time",
+      "IsTodayMyBirthday?": "Nah",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/a1sd0d.jpg"
    }
 }
 ```
