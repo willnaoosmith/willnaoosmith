@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The first owner of the Marlboro company died of lung cancer.",
-      "CoolAdviceOfTheDay": "There is no reason at all to believe that White Wine is any different to water when it comes to removing Red Wine stains.",
-      "DadJokeOfTheDay": "How do you know if there’s an elephant under your bed? Your head hits the ceiling!",
-      "IsTodayChristmas?": "Not yet",
+      "FunFactOfTheDay": "A signature is called a John Hancock because he signed the Declaration of Independence. Only 2 people signed the declaration of independence on July 4. The Last person signed 2 years later.",
+      "CoolAdviceOfTheDay": "The best nights out are when people around you are simply having fun.",
+      "DadJokeOfTheDay": "What’s the longest word in the dictionary? Smiles. Because there’s a mile between the two S’s.",
+      "IsTodayChristmas?": "Not quite",
       "IsTodayMyBirthday?": "Ask me tomorrow",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/a1zjdc.jpg"
+      "RandomMemeOfTheDay": "https://i.imgflip.com/a220fi.jpg"
    }
 }
 ```
