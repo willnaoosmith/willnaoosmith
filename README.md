@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The pop you hear when you crack your knuckles is actually a bubble of gas burning.",
-      "CoolAdviceOfTheDay": "Never regret. If it's good, it's wonderful. If it's bad, it's experience.",
-      "DadJokeOfTheDay": "Two dyslexics walk into a bra.",
-      "IsTodayChristmas?": "Ask me tomorrow",
-      "IsTodayMyBirthday?": "No say I",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/a24iyl.jpg"
+      "FunFactOfTheDay": "Dolphins sleep with one eye open!",
+      "CoolAdviceOfTheDay": "Be a good lover.",
+      "DadJokeOfTheDay": "You know what they say about cliffhangers...",
+      "IsTodayChristmas?": "Maybe",
+      "IsTodayMyBirthday?": "Maybe",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/a27rx1.jpg"
    }
 }
 ```
