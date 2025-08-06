@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Dolphins sleep with one eye open!",
-      "CoolAdviceOfTheDay": "Be a good lover.",
-      "DadJokeOfTheDay": "You know what they say about cliffhangers...",
-      "IsTodayChristmas?": "Maybe",
-      "IsTodayMyBirthday?": "Maybe",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/a27rx1.jpg"
+      "FunFactOfTheDay": "Shakespeare spelled his OWN name several different ways.",
+      "CoolAdviceOfTheDay": "It is easy to sit up and take notice, what's difficult is getting up and taking action.",
+      "DadJokeOfTheDay": "Bad at golf? Join the club.",
+      "IsTodayChristmas?": "Ask me tomorrow",
+      "IsTodayMyBirthday?": "!Yes",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/a2bb81.jpg"
    }
 }
 ```
