@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Shakespeare spelled his OWN name several different ways.",
-      "CoolAdviceOfTheDay": "It is easy to sit up and take notice, what's difficult is getting up and taking action.",
-      "DadJokeOfTheDay": "Bad at golf? Join the club.",
-      "IsTodayChristmas?": "Ask me tomorrow",
-      "IsTodayMyBirthday?": "!Yes",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/a2bb81.jpg"
+      "FunFactOfTheDay": "Meteorologists claim they`re right 85% of the time (think about that one!)",
+      "CoolAdviceOfTheDay": "A nod is as good as a wink to a blind horse.",
+      "DadJokeOfTheDay": "What type of music do balloons hate? Pop music!",
+      "IsTodayChristmas?": "!Yes",
+      "IsTodayMyBirthday?": "Not quite",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/a2ewm1.jpg"
    }
 }
 ```
