@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Meteorologists claim they`re right 85% of the time (think about that one!)",
-      "CoolAdviceOfTheDay": "A nod is as good as a wink to a blind horse.",
-      "DadJokeOfTheDay": "What type of music do balloons hate? Pop music!",
-      "IsTodayChristmas?": "!Yes",
-      "IsTodayMyBirthday?": "Not quite",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/a2ewm1.jpg"
+      "FunFactOfTheDay": "The expression `to get fired` comes from long ago Clans that wanted to get rid of unwanted people, so they would burn their houses instead of killing them, creating the term `Got fired`.",
+      "CoolAdviceOfTheDay": "Don't give a speech. Put on a show.",
+      "DadJokeOfTheDay": "What do computers and air conditioners have in common? They both become useless when you open windows.",
+      "IsTodayChristmas?": "Ask me tomorrow",
+      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/a2ikz4.jpg"
    }
 }
 ```
