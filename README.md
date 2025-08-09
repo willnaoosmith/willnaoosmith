@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The expression `to get fired` comes from long ago Clans that wanted to get rid of unwanted people, so they would burn their houses instead of killing them, creating the term `Got fired`.",
-      "CoolAdviceOfTheDay": "Don't give a speech. Put on a show.",
-      "DadJokeOfTheDay": "What do computers and air conditioners have in common? They both become useless when you open windows.",
-      "IsTodayChristmas?": "Ask me tomorrow",
-      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/a2ikz4.jpg"
+      "FunFactOfTheDay": "On an American one-dollar bill, there is an owl in the upper left-hand corner of the '1'encased in the 'shield' and a spider hidden in the front upper right-hand corner.",
+      "CoolAdviceOfTheDay": "Drink a glass of water before meals.",
+      "DadJokeOfTheDay": "Why is Peter Pan always flying? Because he Neverlands.",
+      "IsTodayChristmas?": "Unfortunately, not",
+      "IsTodayMyBirthday?": "Yes'nt",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/a2m165.jpg"
    }
 }
 ```
