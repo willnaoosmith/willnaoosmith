@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "On an American one-dollar bill, there is an owl in the upper left-hand corner of the '1'encased in the 'shield' and a spider hidden in the front upper right-hand corner.",
-      "CoolAdviceOfTheDay": "Drink a glass of water before meals.",
-      "DadJokeOfTheDay": "Why is Peter Pan always flying? Because he Neverlands.",
+      "FunFactOfTheDay": "Hershey`s Kisses are called that because the machine that makes them looks like it`s kissing the conveyor belt.",
+      "CoolAdviceOfTheDay": "A nod is as good as a wink to a blind horse.",
+      "DadJokeOfTheDay": "Whoever invented the knock-knock joke should get a no bell prize.",
       "IsTodayChristmas?": "Unfortunately, not",
-      "IsTodayMyBirthday?": "Yes'nt",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/a2m165.jpg"
+      "IsTodayMyBirthday?": "Nope",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/a2oi8e.jpg"
    }
 }
 ```
