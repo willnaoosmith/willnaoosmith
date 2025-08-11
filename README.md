@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Hershey`s Kisses are called that because the machine that makes them looks like it`s kissing the conveyor belt.",
-      "CoolAdviceOfTheDay": "A nod is as good as a wink to a blind horse.",
-      "DadJokeOfTheDay": "Whoever invented the knock-knock joke should get a no bell prize.",
-      "IsTodayChristmas?": "Unfortunately, not",
-      "IsTodayMyBirthday?": "Nope",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/a2oi8e.jpg"
+      "FunFactOfTheDay": "Intelligent people have more zinc and copper in their hair.",
+      "CoolAdviceOfTheDay": "Don't try and bump start a motorcycle on an icy road.",
+      "DadJokeOfTheDay": "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor.",
+      "IsTodayChristmas?": "One day",
+      "IsTodayMyBirthday?": "Not this time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/a2r201.jpg"
    }
 }
 ```
