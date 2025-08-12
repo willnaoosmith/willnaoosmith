@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Intelligent people have more zinc and copper in their hair.",
-      "CoolAdviceOfTheDay": "Don't try and bump start a motorcycle on an icy road.",
-      "DadJokeOfTheDay": "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor.",
-      "IsTodayChristmas?": "One day",
-      "IsTodayMyBirthday?": "Not this time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/a2r201.jpg"
+      "FunFactOfTheDay": "Al Capone`s business card said he was a used furniture dealer.",
+      "CoolAdviceOfTheDay": "Accept advice.",
+      "DadJokeOfTheDay": "Why did the man put his money in the freezer? He wanted cold hard cash!",
+      "IsTodayChristmas?": "Ask me in a year",
+      "IsTodayMyBirthday?": "I dont know",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/a2uh3a.jpg"
    }
 }
 ```
