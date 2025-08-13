@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Al Capone`s business card said he was a used furniture dealer.",
-      "CoolAdviceOfTheDay": "Accept advice.",
-      "DadJokeOfTheDay": "Why did the man put his money in the freezer? He wanted cold hard cash!",
-      "IsTodayChristmas?": "Ask me in a year",
-      "IsTodayMyBirthday?": "I dont know",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/a2uh3a.jpg"
+      "FunFactOfTheDay": "There is a seven letter word in the English language that contains ten words without rearranging any of its letters, 'therein': the, there, he, in, rein, her, here, ere, therein, herein.  ",
+      "CoolAdviceOfTheDay": "If you get stuck, try doing the opposite of what the solution requires.",
+      "DadJokeOfTheDay": "How did Darth Vader know what Luke was getting for Christmas? He felt his presents.",
+      "IsTodayChristmas?": "Not this time",
+      "IsTodayMyBirthday?": "Nah",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/a2y2zp.jpg"
    }
 }
 ```
