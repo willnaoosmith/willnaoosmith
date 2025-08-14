@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "There is a seven letter word in the English language that contains ten words without rearranging any of its letters, 'therein': the, there, he, in, rein, her, here, ere, therein, herein.  ",
-      "CoolAdviceOfTheDay": "If you get stuck, try doing the opposite of what the solution requires.",
-      "DadJokeOfTheDay": "How did Darth Vader know what Luke was getting for Christmas? He felt his presents.",
-      "IsTodayChristmas?": "Not this time",
-      "IsTodayMyBirthday?": "Nah",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/a2y2zp.jpg"
+      "FunFactOfTheDay": "The S in Harry S. Truman did not stand for anything.",
+      "CoolAdviceOfTheDay": "Don't use Excel or Powerpoint documents for your basic word processing needs.",
+      "DadJokeOfTheDay": "I started a new business making yachts in my attic this year...the sails are going through the roof",
+      "IsTodayChristmas?": "Nah",
+      "IsTodayMyBirthday?": "No",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/a31pl2.jpg"
    }
 }
 ```
