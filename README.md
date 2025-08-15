@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The S in Harry S. Truman did not stand for anything.",
-      "CoolAdviceOfTheDay": "Don't use Excel or Powerpoint documents for your basic word processing needs.",
-      "DadJokeOfTheDay": "I started a new business making yachts in my attic this year...the sails are going through the roof",
-      "IsTodayChristmas?": "Nah",
-      "IsTodayMyBirthday?": "No",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/a31pl2.jpg"
+      "FunFactOfTheDay": "The first episode of 'Joanie Loves Chachi' was the highest rated American program in the history of Korean television, a country where 'Chachi' translates to 'penis'.  ",
+      "CoolAdviceOfTheDay": "Giving someone a hug can be mutually rewarding. Try to give at least one hug a day to someone.",
+      "DadJokeOfTheDay": "People are making apocalypse jokes like there’s no tomorrow.",
+      "IsTodayChristmas?": "Ask me in a year",
+      "IsTodayMyBirthday?": "Ask me in one hour",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/a35elr.jpg"
    }
 }
 ```
