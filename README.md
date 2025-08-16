@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The first episode of 'Joanie Loves Chachi' was the highest rated American program in the history of Korean television, a country where 'Chachi' translates to 'penis'.  ",
-      "CoolAdviceOfTheDay": "Giving someone a hug can be mutually rewarding. Try to give at least one hug a day to someone.",
-      "DadJokeOfTheDay": "People are making apocalypse jokes like there’s no tomorrow.",
-      "IsTodayChristmas?": "Ask me in a year",
-      "IsTodayMyBirthday?": "Ask me in one hour",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/a35elr.jpg"
+      "FunFactOfTheDay": "The following sentence: `A rough-coated, dough-faced, thoughtful ploughman strode through the streets of Scarborough; after falling into a slough, he coughed and hiccoughed.` Contains the nine different pronunciations of 'ough' in the English Language.",
+      "CoolAdviceOfTheDay": "Walking is a perfectly valid solution to traffic congestion problems.",
+      "DadJokeOfTheDay": "Why can't eggs have love? They will break up too soon.",
+      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
+      "IsTodayMyBirthday?": "Unfortunately, not",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/a38s0b.jpg"
    }
 }
 ```
