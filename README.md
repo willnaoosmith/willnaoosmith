@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The following sentence: `A rough-coated, dough-faced, thoughtful ploughman strode through the streets of Scarborough; after falling into a slough, he coughed and hiccoughed.` Contains the nine different pronunciations of 'ough' in the English Language.",
-      "CoolAdviceOfTheDay": "Walking is a perfectly valid solution to traffic congestion problems.",
-      "DadJokeOfTheDay": "Why can't eggs have love? They will break up too soon.",
-      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
-      "IsTodayMyBirthday?": "Unfortunately, not",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/a38s0b.jpg"
+      "FunFactOfTheDay": "Barbie`s full name is Barbara Millicent Roberts.",
+      "CoolAdviceOfTheDay": "If you've nothing nice to say, say nothing.",
+      "DadJokeOfTheDay": "How do you find Will Smith in the snow?  Look for fresh prints.",
+      "IsTodayChristmas?": "No",
+      "IsTodayMyBirthday?": "Maybe",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/a3bd2m.jpg"
    }
 }
 ```
