@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Barbie`s full name is Barbara Millicent Roberts.",
-      "CoolAdviceOfTheDay": "If you've nothing nice to say, say nothing.",
-      "DadJokeOfTheDay": "How do you find Will Smith in the snow?  Look for fresh prints.",
-      "IsTodayChristmas?": "No",
+      "FunFactOfTheDay": "The 3 most valuable brand names on earth are Marlboro, Coca-Cola, and Budweiser (in that order).",
+      "CoolAdviceOfTheDay": "To cleanly remove the seed from an Avocado, lay a knife firmly across it, and twist.",
+      "DadJokeOfTheDay": "Dermatologists are always in a hurry. They spend all day making rash decisions. ",
+      "IsTodayChristmas?": "No say I",
       "IsTodayMyBirthday?": "Maybe",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/a3bd2m.jpg"
+      "RandomMemeOfTheDay": "https://i.imgflip.com/a3dyyc.jpg"
    }
 }
 ```
