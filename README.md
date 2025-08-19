@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The 3 most valuable brand names on earth are Marlboro, Coca-Cola, and Budweiser (in that order).",
-      "CoolAdviceOfTheDay": "To cleanly remove the seed from an Avocado, lay a knife firmly across it, and twist.",
-      "DadJokeOfTheDay": "Dermatologists are always in a hurry. They spend all day making rash decisions. ",
-      "IsTodayChristmas?": "No say I",
-      "IsTodayMyBirthday?": "Maybe",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/a3dyyc.jpg"
+      "FunFactOfTheDay": "Most dust particles in your house are made from dead skin.",
+      "CoolAdviceOfTheDay": "If it still itches after a week, go to the doctors.",
+      "DadJokeOfTheDay": "'Dad, do you think it's going to snow this winter?' 'I dont know, its all up in the air'",
+      "IsTodayChristmas?": "Maybe",
+      "IsTodayMyBirthday?": "Ask me in a year",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/a3hggk.jpg"
    }
 }
 ```
