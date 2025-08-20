@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Most dust particles in your house are made from dead skin.",
-      "CoolAdviceOfTheDay": "If it still itches after a week, go to the doctors.",
-      "DadJokeOfTheDay": "'Dad, do you think it's going to snow this winter?' 'I dont know, its all up in the air'",
-      "IsTodayChristmas?": "Maybe",
-      "IsTodayMyBirthday?": "Ask me in a year",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/a3hggk.jpg"
+      "FunFactOfTheDay": "Ninety percent of all species that have become extinct have been birds.",
+      "CoolAdviceOfTheDay": "The number of vampires in the average home, is directly proportional to the amount of garlic bread in the fridge.",
+      "DadJokeOfTheDay": "I cut my finger chopping cheese, but I think that I may have grater problems.",
+      "IsTodayChristmas?": "Ask me in one hour",
+      "IsTodayMyBirthday?": "Unfortunately, not",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/a3l5n3.jpg"
    }
 }
 ```
