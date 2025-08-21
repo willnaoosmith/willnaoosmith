@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Ninety percent of all species that have become extinct have been birds.",
-      "CoolAdviceOfTheDay": "The number of vampires in the average home, is directly proportional to the amount of garlic bread in the fridge.",
-      "DadJokeOfTheDay": "I cut my finger chopping cheese, but I think that I may have grater problems.",
-      "IsTodayChristmas?": "Ask me in one hour",
-      "IsTodayMyBirthday?": "Unfortunately, not",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/a3l5n3.jpg"
+      "FunFactOfTheDay": "Simplistic passwords contribute to over 80% of all computer password break-ins.",
+      "CoolAdviceOfTheDay": "For every complex problem there is an answer that is clear, simple, and wrong.",
+      "DadJokeOfTheDay": "Why couldn't the kid see the pirate movie? Because it was rated arrr!",
+      "IsTodayChristmas?": "Not quite",
+      "IsTodayMyBirthday?": "Ask me tomorrow",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/a3oy04.jpg"
    }
 }
 ```
