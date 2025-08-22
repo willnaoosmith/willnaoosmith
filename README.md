@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Simplistic passwords contribute to over 80% of all computer password break-ins.",
-      "CoolAdviceOfTheDay": "For every complex problem there is an answer that is clear, simple, and wrong.",
-      "DadJokeOfTheDay": "Why couldn't the kid see the pirate movie? Because it was rated arrr!",
-      "IsTodayChristmas?": "Not quite",
-      "IsTodayMyBirthday?": "Ask me tomorrow",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/a3oy04.jpg"
+      "FunFactOfTheDay": "The Vatican city registered 0 births in 1983",
+      "CoolAdviceOfTheDay": "Put a piece of kitchen roll in with your bag of leaves to make them last longer.",
+      "DadJokeOfTheDay": "How do locomotives know where they're going? Lots of training",
+      "IsTodayChristmas?": "Ask me in a year",
+      "IsTodayMyBirthday?": "Maybe another time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/a3sum3.jpg"
    }
 }
 ```
