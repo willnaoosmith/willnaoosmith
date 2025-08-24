@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "It`s possible to lead a cow upstairs but not downstairs.",
-      "CoolAdviceOfTheDay": "You can fail at what you don't want. So you might as well take a chance on doing what you love.",
-      "DadJokeOfTheDay": "What do you get when you cross a rabbit with a water hose? Hare spray.",
-      "IsTodayChristmas?": "Yes'nt",
+      "FunFactOfTheDay": "Nutmeg is extremely poisonous if injected intravenously.",
+      "CoolAdviceOfTheDay": "If you get stuck, try doing the opposite of what the solution requires.",
+      "DadJokeOfTheDay": "What did the traffic light say to the car as it passed? 'Don't look I'm changing!'",
+      "IsTodayChristmas?": "One day",
       "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/a3wisc.jpg"
+      "RandomMemeOfTheDay": "https://i.imgflip.com/a3z4sj.jpg"
    }
 }
 ```
