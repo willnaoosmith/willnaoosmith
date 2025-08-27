@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Poland is the 'stolen car capital of the world'.",
-      "CoolAdviceOfTheDay": "It's not about who likes you, it's about who you like.",
-      "DadJokeOfTheDay": "Why do crabs never give to charity? Because they’re shellfish.",
-      "IsTodayChristmas?": "Ask me tomorrow",
-      "IsTodayMyBirthday?": "Nah",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/a45duw.jpg"
+      "FunFactOfTheDay": "The 57 on Heinz ketchup bottles represents the number of varieties of pickles the company once had.",
+      "CoolAdviceOfTheDay": "The sun always shines above the clouds.",
+      "DadJokeOfTheDay": "Chances are if you' ve seen one shopping center, you've seen a mall.",
+      "IsTodayChristmas?": "Not quite",
+      "IsTodayMyBirthday?": "Maybe",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/a499pa.jpg"
    }
 }
 ```
