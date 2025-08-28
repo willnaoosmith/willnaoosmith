@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The 57 on Heinz ketchup bottles represents the number of varieties of pickles the company once had.",
-      "CoolAdviceOfTheDay": "The sun always shines above the clouds.",
-      "DadJokeOfTheDay": "Chances are if you' ve seen one shopping center, you've seen a mall.",
-      "IsTodayChristmas?": "Not quite",
-      "IsTodayMyBirthday?": "Maybe",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/a499pa.jpg"
+      "FunFactOfTheDay": "All 50 states are listed across the top of the Lincoln Memorial on the back of the $5 bill.",
+      "CoolAdviceOfTheDay": "State the problem in words as clearly as possible.",
+      "DadJokeOfTheDay": "The great thing about stationery shops is they're always in the same place...",
+      "IsTodayChristmas?": "No",
+      "IsTodayMyBirthday?": "Not yet",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/a4d803.jpg"
    }
 }
 ```
