@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "All 50 states are listed across the top of the Lincoln Memorial on the back of the $5 bill.",
-      "CoolAdviceOfTheDay": "State the problem in words as clearly as possible.",
-      "DadJokeOfTheDay": "The great thing about stationery shops is they're always in the same place...",
-      "IsTodayChristmas?": "No",
-      "IsTodayMyBirthday?": "Not yet",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/a4d803.jpg"
+      "FunFactOfTheDay": "The word 'samba' means 'to rub navels together.'",
+      "CoolAdviceOfTheDay": "To cleanly remove the seed from an Avocado, lay a knife firmly across it, and twist.",
+      "DadJokeOfTheDay": "I invented a new word! Plagiarism!",
+      "IsTodayChristmas?": "Ask me in one hour",
+      "IsTodayMyBirthday?": "Yes'nt",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/a4h7rd.jpg"
    }
 }
 ```
