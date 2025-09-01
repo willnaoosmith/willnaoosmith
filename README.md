@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "There are no clocks in Las Vegas gambling casinos.",
-      "CoolAdviceOfTheDay": "Have a firm handshake.",
-      "DadJokeOfTheDay": "What do you get when you cross a chicken with a skunk? A fowl smell!",
-      "IsTodayChristmas?": "Not yet",
-      "IsTodayMyBirthday?": "!Yes",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/a4noa0.jpg"
+      "FunFactOfTheDay": "The Minneapolis phone book has 21 pages of Andersons.",
+      "CoolAdviceOfTheDay": "Don't be afraid of silly ideas.",
+      "DadJokeOfTheDay": "Why did the tomato blush? Because it saw the salad dressing.",
+      "IsTodayChristmas?": "Nah",
+      "IsTodayMyBirthday?": "No",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/a4qg16.jpg"
    }
 }
 ```
