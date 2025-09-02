@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The Minneapolis phone book has 21 pages of Andersons.",
-      "CoolAdviceOfTheDay": "Don't be afraid of silly ideas.",
-      "DadJokeOfTheDay": "Why did the tomato blush? Because it saw the salad dressing.",
+      "FunFactOfTheDay": "Weatherman Willard Scott was the first original Ronald McDonald.",
+      "CoolAdviceOfTheDay": "You're not that important; it's what you do that counts.",
+      "DadJokeOfTheDay": "I adopted my dog from a blacksmith. As soon as we got home he made a bolt for the door.",
       "IsTodayChristmas?": "Nah",
-      "IsTodayMyBirthday?": "No",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/a4qg16.jpg"
+      "IsTodayMyBirthday?": "Maybe another time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/a4tppw.jpg"
    }
 }
 ```
