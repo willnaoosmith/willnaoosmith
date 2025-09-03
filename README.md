@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Weatherman Willard Scott was the first original Ronald McDonald.",
-      "CoolAdviceOfTheDay": "You're not that important; it's what you do that counts.",
-      "DadJokeOfTheDay": "I adopted my dog from a blacksmith. As soon as we got home he made a bolt for the door.",
-      "IsTodayChristmas?": "Nah",
-      "IsTodayMyBirthday?": "Maybe another time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/a4tppw.jpg"
+      "FunFactOfTheDay": "One of the reasons marijuana is illegal today is because cotton growers in the 1930s lobbied against hemp farmers they saw it as competition.",
+      "CoolAdviceOfTheDay": "Rule number 1: Try not to die. Rule number 2: Don't be a dick.",
+      "DadJokeOfTheDay": "Some people say that I never got over my obsession with Phil Collins. But take a look at me now.",
+      "IsTodayChristmas?": "Maybe another time",
+      "IsTodayMyBirthday?": "Yes'nt",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/a4xek5.jpg"
    }
 }
 ```
