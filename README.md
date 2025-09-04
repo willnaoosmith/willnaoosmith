@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "One of the reasons marijuana is illegal today is because cotton growers in the 1930s lobbied against hemp farmers they saw it as competition.",
-      "CoolAdviceOfTheDay": "Rule number 1: Try not to die. Rule number 2: Don't be a dick.",
-      "DadJokeOfTheDay": "Some people say that I never got over my obsession with Phil Collins. But take a look at me now.",
-      "IsTodayChristmas?": "Maybe another time",
-      "IsTodayMyBirthday?": "Yes'nt",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/a4xek5.jpg"
+      "FunFactOfTheDay": "Honeybees have a type of hair on their eyes!",
+      "CoolAdviceOfTheDay": "Gratitude is said to be the secret to happiness.",
+      "DadJokeOfTheDay": "My new thesaurus is terrible. In fact, it's so bad, I'd say it's terrible.",
+      "IsTodayChristmas?": "One day",
+      "IsTodayMyBirthday?": "Nope",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/a51b63.jpg"
    }
 }
 ```
