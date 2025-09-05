@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Honeybees have a type of hair on their eyes!",
-      "CoolAdviceOfTheDay": "Gratitude is said to be the secret to happiness.",
-      "DadJokeOfTheDay": "My new thesaurus is terrible. In fact, it's so bad, I'd say it's terrible.",
-      "IsTodayChristmas?": "One day",
-      "IsTodayMyBirthday?": "Nope",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/a51b63.jpg"
+      "FunFactOfTheDay": "Until 1994, world maps and globes sold in Albania only had Albania on them.",
+      "CoolAdviceOfTheDay": "Don't always rely on your comforts.",
+      "DadJokeOfTheDay": "They tried to make a diamond shaped like a duck. It quacked under the pressure.",
+      "IsTodayChristmas?": "Not this time",
+      "IsTodayMyBirthday?": "Nah",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/a55ftm.jpg"
    }
 }
 ```
