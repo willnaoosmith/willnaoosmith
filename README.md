@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Until 1994, world maps and globes sold in Albania only had Albania on them.",
-      "CoolAdviceOfTheDay": "Don't always rely on your comforts.",
-      "DadJokeOfTheDay": "They tried to make a diamond shaped like a duck. It quacked under the pressure.",
-      "IsTodayChristmas?": "Not this time",
-      "IsTodayMyBirthday?": "Nah",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/a55ftm.jpg"
+      "FunFactOfTheDay": "The amount of computer Memory required to run WordPerfect for Win95 is 8 times the amount needed aboard the space shuttle.",
+      "CoolAdviceOfTheDay": "Never cut your own fringe.",
+      "DadJokeOfTheDay": "You can't trust a ladder. It will always let you down",
+      "IsTodayChristmas?": "Ask me in a year",
+      "IsTodayMyBirthday?": "Yes'nt",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/a59cwd.jpg"
    }
 }
 ```
