@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The amount of computer Memory required to run WordPerfect for Win95 is 8 times the amount needed aboard the space shuttle.",
-      "CoolAdviceOfTheDay": "Never cut your own fringe.",
-      "DadJokeOfTheDay": "You can't trust a ladder. It will always let you down",
-      "IsTodayChristmas?": "Ask me in a year",
-      "IsTodayMyBirthday?": "Yes'nt",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/a59cwd.jpg"
+      "FunFactOfTheDay": "Average life span of a major league baseball: 7 pitches.",
+      "CoolAdviceOfTheDay": "True happiness always resides in the quest.",
+      "DadJokeOfTheDay": "What’s the difference between an African elephant and an Indian elephant? About 5000 miles.",
+      "IsTodayChristmas?": "No",
+      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/a5c1vv.jpg"
    }
 }
 ```
