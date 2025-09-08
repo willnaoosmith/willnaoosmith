@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Average life span of a major league baseball: 7 pitches.",
-      "CoolAdviceOfTheDay": "True happiness always resides in the quest.",
-      "DadJokeOfTheDay": "What’s the difference between an African elephant and an Indian elephant? About 5000 miles.",
-      "IsTodayChristmas?": "No",
-      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/a5c1vv.jpg"
+      "FunFactOfTheDay": "Crocodiles and alligators are surprisingly fast on land.  Although they are rapid, they are not agile.  So, if being chased by one, run in a zigzag line to lose him or her.",
+      "CoolAdviceOfTheDay": "Why wait until valentines day for a romantic gesture?",
+      "DadJokeOfTheDay": "Why don't you find hippopotamuses hiding in trees? They're really good at it.",
+      "IsTodayChristmas?": "One day",
+      "IsTodayMyBirthday?": "Not yet",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/a5eu65.jpg"
    }
 }
 ```
