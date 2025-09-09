@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Crocodiles and alligators are surprisingly fast on land.  Although they are rapid, they are not agile.  So, if being chased by one, run in a zigzag line to lose him or her.",
-      "CoolAdviceOfTheDay": "Why wait until valentines day for a romantic gesture?",
-      "DadJokeOfTheDay": "Why don't you find hippopotamuses hiding in trees? They're really good at it.",
-      "IsTodayChristmas?": "One day",
-      "IsTodayMyBirthday?": "Not yet",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/a5eu65.jpg"
+      "FunFactOfTheDay": "The average person spends 6 months of their life sitting at red lights.",
+      "CoolAdviceOfTheDay": "Always seek out advice or opinions when making a decision.",
+      "DadJokeOfTheDay": "Did you know that protons have mass? I didn't even know they were catholic.",
+      "IsTodayChristmas?": "!Yes",
+      "IsTodayMyBirthday?": "Maybe another time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/a5imcf.jpg"
    }
 }
 ```
