@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The average person spends 6 months of their life sitting at red lights.",
-      "CoolAdviceOfTheDay": "Always seek out advice or opinions when making a decision.",
-      "DadJokeOfTheDay": "Did you know that protons have mass? I didn't even know they were catholic.",
-      "IsTodayChristmas?": "!Yes",
+      "FunFactOfTheDay": "Texas is also the only state that is allowed to fly its state flag at the same height as the U.S. flag.",
+      "CoolAdviceOfTheDay": "Don't wear clean trousers when walking your dog in the park.",
+      "DadJokeOfTheDay": "What did the fish say when it swam into a wall? Damn!",
+      "IsTodayChristmas?": "I dont know",
       "IsTodayMyBirthday?": "Maybe another time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/a5imcf.jpg"
+      "RandomMemeOfTheDay": "https://i.imgflip.com/a5mim2.jpg"
    }
 }
 ```
