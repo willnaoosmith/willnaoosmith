@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Texas is also the only state that is allowed to fly its state flag at the same height as the U.S. flag.",
-      "CoolAdviceOfTheDay": "Don't wear clean trousers when walking your dog in the park.",
-      "DadJokeOfTheDay": "What did the fish say when it swam into a wall? Damn!",
-      "IsTodayChristmas?": "I dont know",
-      "IsTodayMyBirthday?": "Maybe another time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/a5mim2.jpg"
+      "FunFactOfTheDay": "'Dreamt' is the only English word that ends in the letters 'mt.'",
+      "CoolAdviceOfTheDay": "If it still itches after a week, go to the doctors.",
+      "DadJokeOfTheDay": "A police officer caught two kids playing with a firework and a car battery. He charged one and let the other one off.",
+      "IsTodayChristmas?": "Not this time",
+      "IsTodayMyBirthday?": "No",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/a5qqsm.jpg"
    }
 }
 ```
