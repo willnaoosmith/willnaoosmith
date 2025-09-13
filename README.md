@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "In 1778, fashionable women of Paris never went out in blustery weather without a lightning rod attached to their hats.",
-      "CoolAdviceOfTheDay": "Big things have small beginnings.",
-      "DadJokeOfTheDay": "Whats a penguins favorite relative? Aunt Arctica.",
-      "IsTodayChristmas?": "Not yet",
-      "IsTodayMyBirthday?": "I dont know",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/a5uq37.jpg"
+      "FunFactOfTheDay": "Napoleon`s penis was sold to an American Urologist for $40,000.",
+      "CoolAdviceOfTheDay": "Remember that spiders are more afraid of you, than you are of them.",
+      "DadJokeOfTheDay": "Today a girl said she recognized me from vegetarian club, but I’m sure I’ve never met herbivore.",
+      "IsTodayChristmas?": "Unfortunately, not",
+      "IsTodayMyBirthday?": "One day",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/a5yj2j.jpg"
    }
 }
 ```
