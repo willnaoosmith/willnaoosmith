@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Napoleon`s penis was sold to an American Urologist for $40,000.",
-      "CoolAdviceOfTheDay": "Remember that spiders are more afraid of you, than you are of them.",
-      "DadJokeOfTheDay": "Today a girl said she recognized me from vegetarian club, but I’m sure I’ve never met herbivore.",
-      "IsTodayChristmas?": "Unfortunately, not",
-      "IsTodayMyBirthday?": "One day",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/a5yj2j.jpg"
+      "FunFactOfTheDay": "A duck`s quack doesn`t echo, and no one knows why.",
+      "CoolAdviceOfTheDay": "Be brave. Even if you're not, pretend to be. No one can tell the difference.",
+      "DadJokeOfTheDay": "The great thing about stationery shops is they're always in the same place...",
+      "IsTodayChristmas?": "Not quite",
+      "IsTodayMyBirthday?": "Nah",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/a617ts.jpg"
    }
 }
 ```
