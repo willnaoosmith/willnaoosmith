@@ -161,12 +161,13 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "A duck`s quack doesn`t echo, and no one knows why.",
-      "CoolAdviceOfTheDay": "Be brave. Even if you're not, pretend to be. No one can tell the difference.",
-      "DadJokeOfTheDay": "The great thing about stationery shops is they're always in the same place...",
-      "IsTodayChristmas?": "Not quite",
-      "IsTodayMyBirthday?": "Nah",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/a617ts.jpg"
+      "FunFactOfTheDay": "Blueberry Jelly Bellies were created especially for Ronald Reagan.",
+      "CoolAdviceOfTheDay": "It's always the quiet ones.",
+      "DadJokeOfTheDay": "Why did the Clydesdale give the pony a glass of water? 
+Because he was a little horse!",
+      "IsTodayChristmas?": "Ask me in one hour",
+      "IsTodayMyBirthday?": "Maybe another time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/a6414u.jpg"
    }
 }
 ```
