@@ -161,13 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Blueberry Jelly Bellies were created especially for Ronald Reagan.",
-      "CoolAdviceOfTheDay": "It's always the quiet ones.",
-      "DadJokeOfTheDay": "Why did the Clydesdale give the pony a glass of water? 
-Because he was a little horse!",
-      "IsTodayChristmas?": "Ask me in one hour",
-      "IsTodayMyBirthday?": "Maybe another time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/a6414u.jpg"
+      "FunFactOfTheDay": "Firehouses have circular stairways originating from the old days when the engines were pulled by horses. The horses were stabled on the ground floor and figured out how to walk up straight staircases.",
+      "CoolAdviceOfTheDay": "Life is short enough, don't race to the finish.",
+      "DadJokeOfTheDay": "How does a penguin build it’s house? Igloos it together.",
+      "IsTodayChristmas?": "Not yet",
+      "IsTodayMyBirthday?": "No say I",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/a67rpf.jpg"
    }
 }
 ```
