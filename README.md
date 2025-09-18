@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Each of us generates about 3.5 pounds of rubbish a day, most of it paper.",
-      "CoolAdviceOfTheDay": "Life is short enough, don't race to the finish.",
-      "DadJokeOfTheDay": "How come the stadium got hot after the game? Because all of the fans left.",
-      "IsTodayChristmas?": "No say I",
-      "IsTodayMyBirthday?": "Not quite",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/a6bo08.jpg"
+      "FunFactOfTheDay": "The Minneapolis phone book has 21 pages of Andersons.",
+      "CoolAdviceOfTheDay": "Remember that spiders are more afraid of you, than you are of them.",
+      "DadJokeOfTheDay": "I started a new business making yachts in my attic this year...the sails are going through the roof",
+      "IsTodayChristmas?": "Unfortunately, not",
+      "IsTodayMyBirthday?": "No say I",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/a6fm0t.jpg"
    }
 }
 ```
