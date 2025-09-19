@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The Minneapolis phone book has 21 pages of Andersons.",
-      "CoolAdviceOfTheDay": "Remember that spiders are more afraid of you, than you are of them.",
-      "DadJokeOfTheDay": "I started a new business making yachts in my attic this year...the sails are going through the roof",
-      "IsTodayChristmas?": "Unfortunately, not",
+      "FunFactOfTheDay": "Pinocchio is Italian for 'pine head.'",
+      "CoolAdviceOfTheDay": "For every complex problem there is an answer that is clear, simple, and wrong.",
+      "DadJokeOfTheDay": "Today a man knocked on my door and asked for a small donation towards the local swimming pool. I gave him a glass of water.",
+      "IsTodayChristmas?": "No",
       "IsTodayMyBirthday?": "No say I",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/a6fm0t.jpg"
+      "RandomMemeOfTheDay": "https://i.imgflip.com/a6jnth.jpg"
    }
 }
 ```
