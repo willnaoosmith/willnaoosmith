@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Seattle’s Fremont Bridge rises up and down more than any drawbridge in the world.",
-      "CoolAdviceOfTheDay": "Hold the door open for the next person.",
-      "DadJokeOfTheDay": "I’m only familiar with 25 letters in the English language. I don’t know why.",
+      "FunFactOfTheDay": "The king of hearts is the only king without a mustache.",
+      "CoolAdviceOfTheDay": "Do not compare yourself with others.",
+      "DadJokeOfTheDay": "What did the doctor say to the gingerbread man who broke his leg? Try icing it.",
       "IsTodayChristmas?": "Not yet",
-      "IsTodayMyBirthday?": "I dont know",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/a6nhz0.jpg"
+      "IsTodayMyBirthday?": "One day",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/a6q5dc.jpg"
    }
 }
 ```
