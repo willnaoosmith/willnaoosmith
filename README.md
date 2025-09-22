@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The king of hearts is the only king without a mustache.",
-      "CoolAdviceOfTheDay": "Do not compare yourself with others.",
-      "DadJokeOfTheDay": "What did the doctor say to the gingerbread man who broke his leg? Try icing it.",
-      "IsTodayChristmas?": "Not yet",
+      "FunFactOfTheDay": "Some individuals express concern sharing their soap, rightly so, considering 75% of all people wash from top to bottom.",
+      "CoolAdviceOfTheDay": "Do a bit more for your friends.",
+      "DadJokeOfTheDay": "What is the hardest part about sky diving? The ground.",
+      "IsTodayChristmas?": "Not quite",
       "IsTodayMyBirthday?": "One day",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/a6q5dc.jpg"
+      "RandomMemeOfTheDay": "https://i.imgflip.com/a6t0x4.jpg"
    }
 }
 ```
