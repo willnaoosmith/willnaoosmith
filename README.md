@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Some individuals express concern sharing their soap, rightly so, considering 75% of all people wash from top to bottom.",
-      "CoolAdviceOfTheDay": "Do a bit more for your friends.",
-      "DadJokeOfTheDay": "What is the hardest part about sky diving? The ground.",
-      "IsTodayChristmas?": "Not quite",
-      "IsTodayMyBirthday?": "One day",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/a6t0x4.jpg"
+      "FunFactOfTheDay": "Kuwait is about 60% male (highest in the world). Latvia is about 54% female (highest in the world).",
+      "CoolAdviceOfTheDay": "If you need cheering up, try searching online for photos of kittens.",
+      "DadJokeOfTheDay": "Why can't your nose be 12 inches long? Because then it'd be a foot!",
+      "IsTodayChristmas?": "Not this time",
+      "IsTodayMyBirthday?": "I dont know",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/a6ww6f.jpg"
    }
 }
 ```
