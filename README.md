@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Kuwait is about 60% male (highest in the world). Latvia is about 54% female (highest in the world).",
-      "CoolAdviceOfTheDay": "If you need cheering up, try searching online for photos of kittens.",
-      "DadJokeOfTheDay": "Why can't your nose be 12 inches long? Because then it'd be a foot!",
-      "IsTodayChristmas?": "Not this time",
-      "IsTodayMyBirthday?": "I dont know",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/a6ww6f.jpg"
+      "FunFactOfTheDay": "The Nullarbor Plain of Australia covers 100,000 square miles (160,900 km) without a tree.",
+      "CoolAdviceOfTheDay": "Good things come to those who wait.",
+      "DadJokeOfTheDay": "I used to work at a stationery store.  But, I didn't feel like I was going anywhere.  So, I got a job at a travel agency.  Now, I know I'll be going places.",
+      "IsTodayChristmas?": "Maybe",
+      "IsTodayMyBirthday?": "!Yes",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/a70zhs.jpg"
    }
 }
 ```
