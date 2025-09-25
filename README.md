@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The Nullarbor Plain of Australia covers 100,000 square miles (160,900 km) without a tree.",
-      "CoolAdviceOfTheDay": "Good things come to those who wait.",
-      "DadJokeOfTheDay": "I used to work at a stationery store.  But, I didn't feel like I was going anywhere.  So, I got a job at a travel agency.  Now, I know I'll be going places.",
+      "FunFactOfTheDay": "Nepal is the only country that doesn’t have a rectangular flag.",
+      "CoolAdviceOfTheDay": "You never really grow up.",
+      "DadJokeOfTheDay": "What is worse then finding a worm in your Apple? Finding half a worm in your Apple.",
       "IsTodayChristmas?": "Maybe",
-      "IsTodayMyBirthday?": "!Yes",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/a70zhs.jpg"
+      "IsTodayMyBirthday?": "I dont know",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/a7511p.jpg"
    }
 }
 ```
