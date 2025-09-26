@@ -180,13 +180,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 4 hrs 55 mins
+Total Time: 6 hrs 39 mins
 
-Text         1 hr 56 mins    ██████████░░░░░░░░░░░░░░░   39.49 %
-Liquid       1 hr 32 mins    ████████░░░░░░░░░░░░░░░░░   31.42 %
-Other        35 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.99 %
-JSON         33 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.44 %
-JavaScript   9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
+Text         1 hr 58 mins    ███████▒░░░░░░░░░░░░░░░░░   29.68 %
+CSS          1 hr 22 mins    █████░░░░░░░░░░░░░░░░░░░░   20.57 %
+JavaScript   1 hr 20 mins    █████░░░░░░░░░░░░░░░░░░░░   20.18 %
+Liquid       40 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.05 %
+Other        35 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.92 %
 ```
 
 <!--END_SECTION:waka-->
