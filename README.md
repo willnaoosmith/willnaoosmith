@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Nepal is the only country that doesn’t have a rectangular flag.",
-      "CoolAdviceOfTheDay": "You never really grow up.",
-      "DadJokeOfTheDay": "What is worse then finding a worm in your Apple? Finding half a worm in your Apple.",
-      "IsTodayChristmas?": "Maybe",
-      "IsTodayMyBirthday?": "I dont know",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/a7511p.jpg"
+      "FunFactOfTheDay": "The San Francisco Cable cars are the only mobile National Monuments",
+      "CoolAdviceOfTheDay": "You have as many hours in a day as the people you admire most.",
+      "DadJokeOfTheDay": "What did the beaver say to the tree? It's been nice gnawing you.",
+      "IsTodayChristmas?": "Yes'nt",
+      "IsTodayMyBirthday?": "No say I",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/a794ln.jpg"
    }
 }
 ```
