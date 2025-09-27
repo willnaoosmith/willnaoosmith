@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The San Francisco Cable cars are the only mobile National Monuments",
-      "CoolAdviceOfTheDay": "You have as many hours in a day as the people you admire most.",
-      "DadJokeOfTheDay": "What did the beaver say to the tree? It's been nice gnawing you.",
-      "IsTodayChristmas?": "Yes'nt",
-      "IsTodayMyBirthday?": "No say I",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/a794ln.jpg"
+      "FunFactOfTheDay": "Hawaii is the only coffee producing state.",
+      "CoolAdviceOfTheDay": "You spend half your life asleep or in bed. It's worth spending money on a good mattress, decent pillows and a comfy duvet.",
+      "DadJokeOfTheDay": "What do you call a cow with no legs? Ground beef.",
+      "IsTodayChristmas?": "No",
+      "IsTodayMyBirthday?": "Nah",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/a7cz44.jpg"
    }
 }
 ```
