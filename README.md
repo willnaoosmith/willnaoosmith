@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Hawaii is the only coffee producing state.",
-      "CoolAdviceOfTheDay": "You spend half your life asleep or in bed. It's worth spending money on a good mattress, decent pillows and a comfy duvet.",
-      "DadJokeOfTheDay": "What do you call a cow with no legs? Ground beef.",
-      "IsTodayChristmas?": "No",
-      "IsTodayMyBirthday?": "Nah",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/a7cz44.jpg"
+      "FunFactOfTheDay": "There are 336 dimples on a regulation golf ball.",
+      "CoolAdviceOfTheDay": "Don't cross the streams.",
+      "DadJokeOfTheDay": "Why do bees have sticky hair? Because they use honey combs!",
+      "IsTodayChristmas?": "Ask me tomorrow",
+      "IsTodayMyBirthday?": "Not yet",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/a7fnu6.jpg"
    }
 }
 ```
