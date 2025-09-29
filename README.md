@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "There are 336 dimples on a regulation golf ball.",
-      "CoolAdviceOfTheDay": "Don't cross the streams.",
-      "DadJokeOfTheDay": "Why do bees have sticky hair? Because they use honey combs!",
-      "IsTodayChristmas?": "Ask me tomorrow",
-      "IsTodayMyBirthday?": "Not yet",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/a7fnu6.jpg"
+      "FunFactOfTheDay": "Statues in parks: If the horse has both front legs in the air, the person died in battle; if the horse has one front leg in the air, the person died as a result of wounds received in battle; if the horse has all four legs on the ground, the person died of natural causes.",
+      "CoolAdviceOfTheDay": "The quieter you become, the more you can hear.",
+      "DadJokeOfTheDay": "What did one wall say to the other wall? I'll meet you at the corner!",
+      "IsTodayChristmas?": "Maybe another time",
+      "IsTodayMyBirthday?": "Ask me in a year",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/a7ihg1.jpg"
    }
 }
 ```
