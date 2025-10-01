@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Beetles taste like apples, wasps like pine nuts, and worms like fried bacon.",
-      "CoolAdviceOfTheDay": "When in doubt, just take the next small step.",
-      "DadJokeOfTheDay": "What's red and bad for your teeth? A Brick.",
-      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
-      "IsTodayMyBirthday?": "Nope",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/a7me2f.jpg"
+      "FunFactOfTheDay": "10,000 Dutch cows pass through the Amsterdam airport each year.",
+      "CoolAdviceOfTheDay": "Always seek out advice or opinions when making a decision.",
+      "DadJokeOfTheDay": "I got an A on my origami assignment when I turned my paper into my teacher",
+      "IsTodayChristmas?": "Not yet",
+      "IsTodayMyBirthday?": "Ask me tomorrow",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/a7qd9z.jpg"
    }
 }
 ```
