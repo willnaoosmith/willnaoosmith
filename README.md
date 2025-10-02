@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "10,000 Dutch cows pass through the Amsterdam airport each year.",
-      "CoolAdviceOfTheDay": "Always seek out advice or opinions when making a decision.",
-      "DadJokeOfTheDay": "I got an A on my origami assignment when I turned my paper into my teacher",
-      "IsTodayChristmas?": "Not yet",
-      "IsTodayMyBirthday?": "Ask me tomorrow",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/a7qd9z.jpg"
+      "FunFactOfTheDay": "If you were to take a taxicab from New York City to Los Angeles, it would cost you $8,325.",
+      "CoolAdviceOfTheDay": "Life can be a lot more interesting inside your head.",
+      "DadJokeOfTheDay": "what do you call a dog that can do magic tricks? a labracadabrador",
+      "IsTodayChristmas?": "Not quite",
+      "IsTodayMyBirthday?": "One day",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/a7uexa.jpg"
    }
 }
 ```
