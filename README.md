@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "If you were to take a taxicab from New York City to Los Angeles, it would cost you $8,325.",
-      "CoolAdviceOfTheDay": "Life can be a lot more interesting inside your head.",
-      "DadJokeOfTheDay": "what do you call a dog that can do magic tricks? a labracadabrador",
-      "IsTodayChristmas?": "Not quite",
-      "IsTodayMyBirthday?": "One day",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/a7uexa.jpg"
+      "FunFactOfTheDay": "Cranberries are sorted for ripeness by bouncing them; a fully ripened cranberry can be dribbled like a basketball.  ",
+      "CoolAdviceOfTheDay": "Never let your Mother cut your hair.",
+      "DadJokeOfTheDay": "What did the shy pebble wish for? That she was a little boulder.",
+      "IsTodayChristmas?": "Maybe",
+      "IsTodayMyBirthday?": "Not this time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/a7yflj.jpg"
    }
 }
 ```
