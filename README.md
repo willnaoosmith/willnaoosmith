@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Cranberries are sorted for ripeness by bouncing them; a fully ripened cranberry can be dribbled like a basketball.  ",
-      "CoolAdviceOfTheDay": "Never let your Mother cut your hair.",
-      "DadJokeOfTheDay": "What did the shy pebble wish for? That she was a little boulder.",
-      "IsTodayChristmas?": "Maybe",
-      "IsTodayMyBirthday?": "Not this time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/a7yflj.jpg"
+      "FunFactOfTheDay": "Former basketball superstar Michael Jordan is the most recognized face in the world, more than the pope himself.",
+      "CoolAdviceOfTheDay": "Life is short enough, don't race to the finish.",
+      "DadJokeOfTheDay": "Why are mummys scared of vacation? They're afraid to unwind.",
+      "IsTodayChristmas?": "!Yes",
+      "IsTodayMyBirthday?": "Ask me in a year",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/a825ur.jpg"
    }
 }
 ```
