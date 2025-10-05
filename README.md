@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Former basketball superstar Michael Jordan is the most recognized face in the world, more than the pope himself.",
-      "CoolAdviceOfTheDay": "Life is short enough, don't race to the finish.",
-      "DadJokeOfTheDay": "Why are mummys scared of vacation? They're afraid to unwind.",
-      "IsTodayChristmas?": "!Yes",
-      "IsTodayMyBirthday?": "Ask me in a year",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/a825ur.jpg"
+      "FunFactOfTheDay": "Every year 11,000 Americans injure themselves while trying out bizarre sexual positions.",
+      "CoolAdviceOfTheDay": "No one knows anyone else in the way you do.",
+      "DadJokeOfTheDay": "This is my step ladder. I never knew my real ladder.",
+      "IsTodayChristmas?": "I dont know",
+      "IsTodayMyBirthday?": "Ask me in one hour",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/a84sm2.jpg"
    }
 }
 ```
