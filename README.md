@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Every year 11,000 Americans injure themselves while trying out bizarre sexual positions.",
-      "CoolAdviceOfTheDay": "No one knows anyone else in the way you do.",
-      "DadJokeOfTheDay": "This is my step ladder. I never knew my real ladder.",
-      "IsTodayChristmas?": "I dont know",
-      "IsTodayMyBirthday?": "Ask me in one hour",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/a84sm2.jpg"
+      "FunFactOfTheDay": "The male seahorse carries the eggs until they hatch instead of the female.",
+      "CoolAdviceOfTheDay": "Sarcasm is the lowest form of wit. Employ correctly with apt timing.",
+      "DadJokeOfTheDay": "My dog used to chase people on a bike a lot. It got so bad I had to take his bike away.",
+      "IsTodayChristmas?": "No say I",
+      "IsTodayMyBirthday?": "No say I",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/a87m4j.jpg"
    }
 }
 ```
