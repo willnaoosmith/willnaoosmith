@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The male seahorse carries the eggs until they hatch instead of the female.",
-      "CoolAdviceOfTheDay": "Sarcasm is the lowest form of wit. Employ correctly with apt timing.",
-      "DadJokeOfTheDay": "My dog used to chase people on a bike a lot. It got so bad I had to take his bike away.",
-      "IsTodayChristmas?": "No say I",
-      "IsTodayMyBirthday?": "No say I",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/a87m4j.jpg"
+      "FunFactOfTheDay": "In Utah, it is illegal to swear in front of a dead person.",
+      "CoolAdviceOfTheDay": "Try to do the things that you're incapable of.",
+      "DadJokeOfTheDay": "A magician was driving down the street and then he turned into a driveway.",
+      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
+      "IsTodayMyBirthday?": "Ask me in a year",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/a8bka2.jpg"
    }
 }
 ```
