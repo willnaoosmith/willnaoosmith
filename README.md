@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "In Utah, it is illegal to swear in front of a dead person.",
-      "CoolAdviceOfTheDay": "Try to do the things that you're incapable of.",
-      "DadJokeOfTheDay": "A magician was driving down the street and then he turned into a driveway.",
-      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
-      "IsTodayMyBirthday?": "Ask me in a year",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/a8bka2.jpg"
+      "FunFactOfTheDay": "During the chariot scene in 'Ben Hur,' a small red car can be seen in the distance.",
+      "CoolAdviceOfTheDay": "Do not check work email on your days off.",
+      "DadJokeOfTheDay": "I went to a book store and asked the saleswoman where the Self Help section was, she said if she told me it would defeat the purpose.",
+      "IsTodayChristmas?": "Ask me in a year",
+      "IsTodayMyBirthday?": "Ask me in one hour",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/a8fkeh.jpg"
    }
 }
 ```
