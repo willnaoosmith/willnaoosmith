@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "During the chariot scene in 'Ben Hur,' a small red car can be seen in the distance.",
-      "CoolAdviceOfTheDay": "Do not check work email on your days off.",
-      "DadJokeOfTheDay": "I went to a book store and asked the saleswoman where the Self Help section was, she said if she told me it would defeat the purpose.",
-      "IsTodayChristmas?": "Ask me in a year",
-      "IsTodayMyBirthday?": "Ask me in one hour",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/a8fkeh.jpg"
+      "FunFactOfTheDay": "A “2 by 4' is really 1 1/2 by 3 1/2.",
+      "CoolAdviceOfTheDay": "You can fail at what you don't want. So you might as well take a chance on doing what you love.",
+      "DadJokeOfTheDay": "Why do fish live in salt water? Because pepper makes them sneeze!",
+      "IsTodayChristmas?": "Yes'nt",
+      "IsTodayMyBirthday?": "No say I",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/a8jo2v.jpg"
    }
 }
 ```
