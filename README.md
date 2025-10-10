@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "A “2 by 4' is really 1 1/2 by 3 1/2.",
-      "CoolAdviceOfTheDay": "You can fail at what you don't want. So you might as well take a chance on doing what you love.",
-      "DadJokeOfTheDay": "Why do fish live in salt water? Because pepper makes them sneeze!",
-      "IsTodayChristmas?": "Yes'nt",
-      "IsTodayMyBirthday?": "No say I",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/a8jo2v.jpg"
+      "FunFactOfTheDay": "An American urologist bought Napoleon’s penis for $40,000.",
+      "CoolAdviceOfTheDay": "Don't wear clean trousers when walking your dog in the park.",
+      "DadJokeOfTheDay": "What did the hat say to the scarf? You can hang around. I'll just go on ahead. ",
+      "IsTodayChristmas?": "One day",
+      "IsTodayMyBirthday?": "Yes'nt",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/a8nuj7.jpg"
    }
 }
 ```
