@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "An American urologist bought Napoleon’s penis for $40,000.",
-      "CoolAdviceOfTheDay": "Don't wear clean trousers when walking your dog in the park.",
-      "DadJokeOfTheDay": "What did the hat say to the scarf? You can hang around. I'll just go on ahead. ",
-      "IsTodayChristmas?": "One day",
-      "IsTodayMyBirthday?": "Yes'nt",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/a8nuj7.jpg"
+      "FunFactOfTheDay": "111,111,111 x 111,111,111 = 12,345,678,987,654,321",
+      "CoolAdviceOfTheDay": "Don't take life too seriously.",
+      "DadJokeOfTheDay": "What has three letters and starts with gas? A Car.",
+      "IsTodayChristmas?": "Not yet",
+      "IsTodayMyBirthday?": "Not yet",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/a8rph8.jpg"
    }
 }
 ```
