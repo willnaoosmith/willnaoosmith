@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "111,111,111 x 111,111,111 = 12,345,678,987,654,321",
-      "CoolAdviceOfTheDay": "Don't take life too seriously.",
-      "DadJokeOfTheDay": "What has three letters and starts with gas? A Car.",
-      "IsTodayChristmas?": "Not yet",
-      "IsTodayMyBirthday?": "Not yet",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/a8rph8.jpg"
+      "FunFactOfTheDay": "The 'Dull Men's Hall of Fame' is located in Carroll, Wisconsin.",
+      "CoolAdviceOfTheDay": "Do something selfless.",
+      "DadJokeOfTheDay": "Can a kangaroo jump higher than the Empire State Building? Of course. The Empire State Building can't jump.",
+      "IsTodayChristmas?": "Ask me tomorrow",
+      "IsTodayMyBirthday?": "No",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/a8ud1c.jpg"
    }
 }
 ```
