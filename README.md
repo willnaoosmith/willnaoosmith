@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The 'Dull Men's Hall of Fame' is located in Carroll, Wisconsin.",
-      "CoolAdviceOfTheDay": "Do something selfless.",
-      "DadJokeOfTheDay": "Can a kangaroo jump higher than the Empire State Building? Of course. The Empire State Building can't jump.",
-      "IsTodayChristmas?": "Ask me tomorrow",
-      "IsTodayMyBirthday?": "No",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/a8ud1c.jpg"
+      "FunFactOfTheDay": "3.9% of all women do not wear underwear.",
+      "CoolAdviceOfTheDay": "Always the burrito.",
+      "DadJokeOfTheDay": "Me and my mates are in a band called Duvet. We're a cover band.",
+      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
+      "IsTodayMyBirthday?": "Not quite",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/a8x3g6.jpg"
    }
 }
 ```
