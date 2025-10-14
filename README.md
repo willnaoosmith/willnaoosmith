@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "3.9% of all women do not wear underwear.",
-      "CoolAdviceOfTheDay": "Always the burrito.",
-      "DadJokeOfTheDay": "Me and my mates are in a band called Duvet. We're a cover band.",
-      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
-      "IsTodayMyBirthday?": "Not quite",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/a8x3g6.jpg"
+      "FunFactOfTheDay": "The six official languages of the U.N. are: English, French, Arabic, Chinese, Russian and Spanish.",
+      "CoolAdviceOfTheDay": "Exercise in the rain can really make you feel alive.",
+      "DadJokeOfTheDay": "Two satellites decided to get married. The wedding wasn't much, but the reception was incredible.",
+      "IsTodayChristmas?": "Ask me in a year",
+      "IsTodayMyBirthday?": "Nah",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/a90q5n.jpg"
    }
 }
 ```
