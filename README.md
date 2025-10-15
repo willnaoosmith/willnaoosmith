@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The six official languages of the U.N. are: English, French, Arabic, Chinese, Russian and Spanish.",
-      "CoolAdviceOfTheDay": "Exercise in the rain can really make you feel alive.",
-      "DadJokeOfTheDay": "Two satellites decided to get married. The wedding wasn't much, but the reception was incredible.",
-      "IsTodayChristmas?": "Ask me in a year",
-      "IsTodayMyBirthday?": "Nah",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/a90q5n.jpg"
+      "FunFactOfTheDay": "John Lennon`s first girlfriend was named Thelma Pickles.",
+      "CoolAdviceOfTheDay": "Everyone has their down days. Don't take it out on innocent bystanders.",
+      "DadJokeOfTheDay": "What do you get when you cross a pig and a pineapple? A porky pine",
+      "IsTodayChristmas?": "Maybe another time",
+      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/a94krs.jpg"
    }
 }
 ```
