@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "What is called a 'French kiss' in the English speaking world is known as an 'English kiss' in France.",
-      "CoolAdviceOfTheDay": "Learn to handle criticism.",
-      "DadJokeOfTheDay": "How was the snow globe feeling after the storm? A little shaken.",
+      "FunFactOfTheDay": "The longest one-syllable word in the English language is 'screeched.' ",
+      "CoolAdviceOfTheDay": "You spend half your life asleep or in bed. It's worth spending money on a good mattress, decent pillows and a comfy duvet.",
+      "DadJokeOfTheDay": "This morning I was wondering where the sun was, but then it dawned on me.",
       "IsTodayChristmas?": "Nope",
-      "IsTodayMyBirthday?": "Maybe",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/a98l46.jpg"
+      "IsTodayMyBirthday?": "No",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/a9cm9q.jpg"
    }
 }
 ```
