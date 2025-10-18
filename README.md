@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The longest one-syllable word in the English language is 'screeched.' ",
-      "CoolAdviceOfTheDay": "You spend half your life asleep or in bed. It's worth spending money on a good mattress, decent pillows and a comfy duvet.",
-      "DadJokeOfTheDay": "This morning I was wondering where the sun was, but then it dawned on me.",
-      "IsTodayChristmas?": "Nope",
-      "IsTodayMyBirthday?": "No",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/a9cm9q.jpg"
+      "FunFactOfTheDay": "Humans use a total of 72 different muscles in speech.",
+      "CoolAdviceOfTheDay": "Play is the true mother of invention.",
+      "DadJokeOfTheDay": "Which side of the chicken has more feathers? The outside.",
+      "IsTodayChristmas?": "Ask me in one hour",
+      "IsTodayMyBirthday?": "One day",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/a9gf25.jpg"
    }
 }
 ```
