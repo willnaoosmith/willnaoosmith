@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Humans use a total of 72 different muscles in speech.",
-      "CoolAdviceOfTheDay": "Play is the true mother of invention.",
-      "DadJokeOfTheDay": "Which side of the chicken has more feathers? The outside.",
-      "IsTodayChristmas?": "Ask me in one hour",
-      "IsTodayMyBirthday?": "One day",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/a9gf25.jpg"
+      "FunFactOfTheDay": "Van Gogh only sold one painting when he was alive.",
+      "CoolAdviceOfTheDay": "A nod is as good as a wink to a blind horse.",
+      "DadJokeOfTheDay": "How many bones are in the human hand? A handful of them.",
+      "IsTodayChristmas?": "Nah",
+      "IsTodayMyBirthday?": "!Yes",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/a9j3nh.jpg"
    }
 }
 ```
