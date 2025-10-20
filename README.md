@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Van Gogh only sold one painting when he was alive.",
-      "CoolAdviceOfTheDay": "A nod is as good as a wink to a blind horse.",
-      "DadJokeOfTheDay": "How many bones are in the human hand? A handful of them.",
-      "IsTodayChristmas?": "Nah",
-      "IsTodayMyBirthday?": "!Yes",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/a9j3nh.jpg"
+      "FunFactOfTheDay": "An ostrich`s eye is bigger than its brain.  ",
+      "CoolAdviceOfTheDay": "If your hair is thinning, try dying your hair a similar tone to your scalp.",
+      "DadJokeOfTheDay": "I applied to be a doorman but didn't get the job due to lack of experience. That surprised me, I thought it was an entry level position.",
+      "IsTodayChristmas?": "Yes'nt",
+      "IsTodayMyBirthday?": "I dont know",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/a9lwik.jpg"
    }
 }
 ```
