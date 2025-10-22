@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Donald Duck comics were banned from Finland because he doesn`t wear pants!",
-      "CoolAdviceOfTheDay": "Life is better when you sing about bananas.",
-      "DadJokeOfTheDay": "Where do young cows eat lunch? In the calf-ateria.",
-      "IsTodayChristmas?": "One day",
-      "IsTodayMyBirthday?": "Maybe another time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/a9ps4p.jpg"
+      "FunFactOfTheDay": "Icelanders consume more Coca-Cola per Capita than any other nation.",
+      "CoolAdviceOfTheDay": "Don't always rely on your comforts.",
+      "DadJokeOfTheDay": "What do you call a boomerang that won't come back? A stick.",
+      "IsTodayChristmas?": "Not quite",
+      "IsTodayMyBirthday?": "No",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/a9trns.jpg"
    }
 }
 ```
