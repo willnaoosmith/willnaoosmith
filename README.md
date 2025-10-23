@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Icelanders consume more Coca-Cola per Capita than any other nation.",
-      "CoolAdviceOfTheDay": "Don't always rely on your comforts.",
-      "DadJokeOfTheDay": "What do you call a boomerang that won't come back? A stick.",
-      "IsTodayChristmas?": "Not quite",
-      "IsTodayMyBirthday?": "No",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/a9trns.jpg"
+      "FunFactOfTheDay": "Rodent's teeth never stop growing.",
+      "CoolAdviceOfTheDay": "Only those who attempt the impossible can achieve the absurd.",
+      "DadJokeOfTheDay": "What is the least spoken language in the world? Sign Language",
+      "IsTodayChristmas?": "I dont know",
+      "IsTodayMyBirthday?": "Yes'nt",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/a9xqyj.jpg"
    }
 }
 ```
