@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Rodent's teeth never stop growing.",
-      "CoolAdviceOfTheDay": "Only those who attempt the impossible can achieve the absurd.",
-      "DadJokeOfTheDay": "What is the least spoken language in the world? Sign Language",
-      "IsTodayChristmas?": "I dont know",
-      "IsTodayMyBirthday?": "Yes'nt",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/a9xqyj.jpg"
+      "FunFactOfTheDay": "Someone paid $14,000 for the bra worn by Marilyn Monroe in the film 'Some Like It Hot'.",
+      "CoolAdviceOfTheDay": "Share positive energy.",
+      "DadJokeOfTheDay": "What's blue and not very heavy?  Light blue.",
+      "IsTodayChristmas?": "One day",
+      "IsTodayMyBirthday?": "Ask me tomorrow",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/aa1qn8.jpg"
    }
 }
 ```
