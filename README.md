@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Someone paid $14,000 for the bra worn by Marilyn Monroe in the film 'Some Like It Hot'.",
-      "CoolAdviceOfTheDay": "Share positive energy.",
-      "DadJokeOfTheDay": "What's blue and not very heavy?  Light blue.",
-      "IsTodayChristmas?": "One day",
-      "IsTodayMyBirthday?": "Ask me tomorrow",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/aa1qn8.jpg"
+      "FunFactOfTheDay": "The longest recorded flight of a chicken is thirteen seconds.",
+      "CoolAdviceOfTheDay": "Don't be afraid to ask questions.",
+      "DadJokeOfTheDay": "You can't run through a camp site. You can only ran, because it's past tents.",
+      "IsTodayChristmas?": "Ask me in a year",
+      "IsTodayMyBirthday?": "!Yes",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/aa4bek.jpg"
    }
 }
 ```
