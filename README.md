@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Lorne Greene had one of his nipples bitten off by an alligator while he was host of 'Lorne Greene`s Wild Kingdom.'",
-      "CoolAdviceOfTheDay": "Never waste an opportunity to tell someone you love them.",
-      "DadJokeOfTheDay": "I dreamed about drowning in an ocean made out of orange soda last night. It took me a while to work out it was just a Fanta sea.",
+      "FunFactOfTheDay": "There are more than 10 million bricks in the Empire State Building!",
+      "CoolAdviceOfTheDay": "Value the people in your life.",
+      "DadJokeOfTheDay": "Why are basketball players messy eaters? Because they are always dribbling.",
       "IsTodayChristmas?": "I dont know",
-      "IsTodayMyBirthday?": "No say I",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/aa6xfn.jpg"
+      "IsTodayMyBirthday?": "Not yet",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/aa9pq1.jpg"
    }
 }
 ```
