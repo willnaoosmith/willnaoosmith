@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "There are more than 10 million bricks in the Empire State Building!",
-      "CoolAdviceOfTheDay": "Value the people in your life.",
-      "DadJokeOfTheDay": "Why are basketball players messy eaters? Because they are always dribbling.",
-      "IsTodayChristmas?": "I dont know",
-      "IsTodayMyBirthday?": "Not yet",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/aa9pq1.jpg"
+      "FunFactOfTheDay": "Bulgarians are known to be the biggest yogurt eaters in the world.",
+      "CoolAdviceOfTheDay": "It's always the quiet ones.",
+      "DadJokeOfTheDay": "What do you give a sick lemon? Lemonaid.",
+      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
+      "IsTodayMyBirthday?": "Ask me in a year",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/aadh12.jpg"
    }
 }
 ```
