@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "In ancient Greece 'idiot' meant a private citizen or layman.",
-      "CoolAdviceOfTheDay": "If you're feeling tired or anxious, a pint of water will almost always make you feel better.",
-      "DadJokeOfTheDay": "People saying 'boo! to their friends has risen by 85% in the last year.... That's a frightening statistic.",
+      "FunFactOfTheDay": "Only female mosquito’s` bite and most are attracted to the color blue twice as much as to any other color.",
+      "CoolAdviceOfTheDay": "Everybody makes mistakes.",
+      "DadJokeOfTheDay": "What's the difference between a rooster and a crow? A rooster can crow but a crow cannot rooster.",
       "IsTodayChristmas?": "Not this time",
-      "IsTodayMyBirthday?": "Not quite",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/aahe7o.jpg"
+      "IsTodayMyBirthday?": "One day",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/aalf8j.jpg"
    }
 }
 ```
