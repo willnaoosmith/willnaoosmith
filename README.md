@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Odds of being killed by lightening? 1 in 2million/killed in a car crash? 1 in 5,000/killed by falling out of bed? 1 in 2million/killed in a plane crash? 1 in 25 million.",
-      "CoolAdviceOfTheDay": "Don't eat non-snow-coloured snow.",
-      "DadJokeOfTheDay": "What concert costs only 45 cents? 50 cent featuring Nickelback.",
-      "IsTodayChristmas?": "Yes'nt",
-      "IsTodayMyBirthday?": "Unfortunately, not",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/aapgek.jpg"
+      "FunFactOfTheDay": "Adolf Hitler's mother seriously considered having an abortion but was talked out of it by her doctor.",
+      "CoolAdviceOfTheDay": "Accentuate the positive, eliminate the negative.",
+      "DadJokeOfTheDay": "This morning I was wondering where the sun was, but then it dawned on me.",
+      "IsTodayChristmas?": "Not yet",
+      "IsTodayMyBirthday?": "Not this time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/aat1o4.jpg"
    }
 }
 ```
