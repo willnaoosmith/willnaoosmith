@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Adolf Hitler's mother seriously considered having an abortion but was talked out of it by her doctor.",
-      "CoolAdviceOfTheDay": "Accentuate the positive, eliminate the negative.",
-      "DadJokeOfTheDay": "This morning I was wondering where the sun was, but then it dawned on me.",
-      "IsTodayChristmas?": "Not yet",
-      "IsTodayMyBirthday?": "Not this time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/aat1o4.jpg"
+      "FunFactOfTheDay": "A pound of houseflies contains more protein than a pound of beef",
+      "CoolAdviceOfTheDay": "Don't let the bastards grind you down.",
+      "DadJokeOfTheDay": "Why don't you find hippopotamuses hiding in trees? They're really good at it.",
+      "IsTodayChristmas?": "Unfortunately, not",
+      "IsTodayMyBirthday?": "Nope",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/aavhzs.jpg"
    }
 }
 ```
