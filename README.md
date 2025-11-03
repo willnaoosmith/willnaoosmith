@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "A pound of houseflies contains more protein than a pound of beef",
-      "CoolAdviceOfTheDay": "Don't let the bastards grind you down.",
-      "DadJokeOfTheDay": "Why don't you find hippopotamuses hiding in trees? They're really good at it.",
-      "IsTodayChristmas?": "Unfortunately, not",
+      "FunFactOfTheDay": "Cephalacaudal recapitulation is the reason our extremities develop faster than the rest of us. ",
+      "CoolAdviceOfTheDay": "Everyone has their down days. Don't take it out on innocent bystanders.",
+      "DadJokeOfTheDay": "What kind of pants do ghosts wear? Boo jeans.",
+      "IsTodayChristmas?": "Maybe",
       "IsTodayMyBirthday?": "Nope",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/aavhzs.jpg"
+      "RandomMemeOfTheDay": "https://i.imgflip.com/aay7ic.jpg"
    }
 }
 ```
