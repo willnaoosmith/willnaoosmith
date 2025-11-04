@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Cephalacaudal recapitulation is the reason our extremities develop faster than the rest of us. ",
-      "CoolAdviceOfTheDay": "Everyone has their down days. Don't take it out on innocent bystanders.",
-      "DadJokeOfTheDay": "What kind of pants do ghosts wear? Boo jeans.",
-      "IsTodayChristmas?": "Maybe",
-      "IsTodayMyBirthday?": "Nope",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/aay7ic.jpg"
+      "FunFactOfTheDay": "“Lassie” was played by a group of male dogs; the main one was named Pal.",
+      "CoolAdviceOfTheDay": "For every complex problem there is an answer that is clear, simple, and wrong.",
+      "DadJokeOfTheDay": "My pet mouse 'Elvis' died last night. He was caught in a trap..",
+      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
+      "IsTodayMyBirthday?": "Ask me in a year",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/ab1vmn.jpg"
    }
 }
 ```
