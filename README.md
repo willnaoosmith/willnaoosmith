@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The 57 on Heinz ketchup bottles represents the number of varieties of pickles the company once had.",
-      "CoolAdviceOfTheDay": "The quieter you become, the more you can hear.",
-      "DadJokeOfTheDay": "Why does Superman get invited to dinners? Because he is a Supperhero.",
-      "IsTodayChristmas?": "No say I",
-      "IsTodayMyBirthday?": "!Yes",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/ab9x3i.jpg"
+      "FunFactOfTheDay": "Hot water is heavier than cold.",
+      "CoolAdviceOfTheDay": "Don't give a speech. Put on a show.",
+      "DadJokeOfTheDay": "My cat was just sick on the carpet, I don’t think it’s feline well.",
+      "IsTodayChristmas?": "Ask me in a year",
+      "IsTodayMyBirthday?": "One day",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/abe1oi.jpg"
    }
 }
 ```
