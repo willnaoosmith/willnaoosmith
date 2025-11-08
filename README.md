@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Hot water is heavier than cold.",
-      "CoolAdviceOfTheDay": "Don't give a speech. Put on a show.",
-      "DadJokeOfTheDay": "My cat was just sick on the carpet, I don’t think it’s feline well.",
-      "IsTodayChristmas?": "Ask me in a year",
-      "IsTodayMyBirthday?": "One day",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/abe1oi.jpg"
+      "FunFactOfTheDay": "The state of Florida is bigger than England!",
+      "CoolAdviceOfTheDay": "No one knows anyone else in the way you do.",
+      "DadJokeOfTheDay": "The invention of the wheel was what got things rolling",
+      "IsTodayChristmas?": "Ask me in one hour",
+      "IsTodayMyBirthday?": "Not quite",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/abhywa.jpg"
    }
 }
 ```
