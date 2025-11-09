@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The state of Florida is bigger than England!",
-      "CoolAdviceOfTheDay": "No one knows anyone else in the way you do.",
-      "DadJokeOfTheDay": "The invention of the wheel was what got things rolling",
-      "IsTodayChristmas?": "Ask me in one hour",
-      "IsTodayMyBirthday?": "Not quite",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/abhywa.jpg"
+      "FunFactOfTheDay": "The Australian $5 to $100 notes are made of plastic.",
+      "CoolAdviceOfTheDay": "Build something out of LEGO.",
+      "DadJokeOfTheDay": "What do computers and air conditioners have in common? They both become useless when you open windows.",
+      "IsTodayChristmas?": "Maybe",
+      "IsTodayMyBirthday?": "Yes'nt",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/abkmcs.jpg"
    }
 }
 ```
