@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The Australian $5 to $100 notes are made of plastic.",
-      "CoolAdviceOfTheDay": "Build something out of LEGO.",
-      "DadJokeOfTheDay": "What do computers and air conditioners have in common? They both become useless when you open windows.",
-      "IsTodayChristmas?": "Maybe",
-      "IsTodayMyBirthday?": "Yes'nt",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/abkmcs.jpg"
+      "FunFactOfTheDay": "Los Angeles` full name `El Pueblo de Nuestra Senora la Reina de Los Angeles de Porciuncula` is reduced to 3.63% of its size in the abbreviation `L.A.`.",
+      "CoolAdviceOfTheDay": "When the cistern is filling, the seat is probably still warm.",
+      "DadJokeOfTheDay": "I just wrote a book on reverse psychology. Do not read it!",
+      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
+      "IsTodayMyBirthday?": "Maybe",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/abnevj.jpg"
    }
 }
 ```
