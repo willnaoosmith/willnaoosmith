@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Los Angeles` full name `El Pueblo de Nuestra Senora la Reina de Los Angeles de Porciuncula` is reduced to 3.63% of its size in the abbreviation `L.A.`.",
-      "CoolAdviceOfTheDay": "When the cistern is filling, the seat is probably still warm.",
-      "DadJokeOfTheDay": "I just wrote a book on reverse psychology. Do not read it!",
-      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
-      "IsTodayMyBirthday?": "Maybe",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/abnevj.jpg"
+      "FunFactOfTheDay": "Benjamin Franklin was the fifth in a series of the youngest son of the youngest son.",
+      "CoolAdviceOfTheDay": "Give up your seat for someone who needs it.",
+      "DadJokeOfTheDay": "A Sandwich walks into a bar, the bartender says “Sorry, we don’t serve food here”",
+      "IsTodayChristmas?": "Yes'nt",
+      "IsTodayMyBirthday?": "Unfortunately, not",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/abr5pk.jpg"
    }
 }
 ```
