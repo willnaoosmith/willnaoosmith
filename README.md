@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Benjamin Franklin was the fifth in a series of the youngest son of the youngest son.",
-      "CoolAdviceOfTheDay": "Give up your seat for someone who needs it.",
-      "DadJokeOfTheDay": "A Sandwich walks into a bar, the bartender says “Sorry, we don’t serve food here”",
-      "IsTodayChristmas?": "Yes'nt",
-      "IsTodayMyBirthday?": "Unfortunately, not",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/abr5pk.jpg"
+      "FunFactOfTheDay": "The giant squid has the largest eyes in the world.",
+      "CoolAdviceOfTheDay": "Today, do not use the words 'Kind of', 'Sort of' or 'Maybe'. It either is or it isn't.",
+      "DadJokeOfTheDay": "Man, I really love my furniture... me and my recliner go way back.",
+      "IsTodayChristmas?": "I dont know",
+      "IsTodayMyBirthday?": "No say I",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/abuu56.jpg"
    }
 }
 ```
