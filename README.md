@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The giant squid has the largest eyes in the world.",
-      "CoolAdviceOfTheDay": "Today, do not use the words 'Kind of', 'Sort of' or 'Maybe'. It either is or it isn't.",
-      "DadJokeOfTheDay": "Man, I really love my furniture... me and my recliner go way back.",
-      "IsTodayChristmas?": "I dont know",
+      "FunFactOfTheDay": "The glue on Israeli postage is certified kosher.",
+      "CoolAdviceOfTheDay": "If it ain't broke don't fix it.",
+      "DadJokeOfTheDay": "I was shocked when I was diagnosed as colorblind... It came out of the purple.",
+      "IsTodayChristmas?": "Not quite",
       "IsTodayMyBirthday?": "No say I",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/abuu56.jpg"
+      "RandomMemeOfTheDay": "https://i.imgflip.com/abyrue.jpg"
    }
 }
 ```
