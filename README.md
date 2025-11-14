@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The glue on Israeli postage is certified kosher.",
-      "CoolAdviceOfTheDay": "If it ain't broke don't fix it.",
-      "DadJokeOfTheDay": "I was shocked when I was diagnosed as colorblind... It came out of the purple.",
-      "IsTodayChristmas?": "Not quite",
-      "IsTodayMyBirthday?": "No say I",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/abyrue.jpg"
+      "FunFactOfTheDay": "Sailfish can leap out of the water and into the air at a speed of 50 miles (81 km) per hour.",
+      "CoolAdviceOfTheDay": "Accentuate the positive, eliminate the negative.",
+      "DadJokeOfTheDay": "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts.",
+      "IsTodayChristmas?": "One day",
+      "IsTodayMyBirthday?": "Not yet",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/ac2rfw.jpg"
    }
 }
 ```
