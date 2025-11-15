@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Sailfish can leap out of the water and into the air at a speed of 50 miles (81 km) per hour.",
-      "CoolAdviceOfTheDay": "Accentuate the positive, eliminate the negative.",
-      "DadJokeOfTheDay": "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts.",
-      "IsTodayChristmas?": "One day",
-      "IsTodayMyBirthday?": "Not yet",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/ac2rfw.jpg"
+      "FunFactOfTheDay": "Pinocchio is Italian for 'pine head.'",
+      "CoolAdviceOfTheDay": "Identify sources of happiness.",
+      "DadJokeOfTheDay": "How many kids with ADD does it take to change a lightbulb? Let's go ride bikes!",
+      "IsTodayChristmas?": "Maybe",
+      "IsTodayMyBirthday?": "One day",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/ac6nkm.jpg"
    }
 }
 ```
