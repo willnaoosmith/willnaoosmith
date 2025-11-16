@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Pinocchio is Italian for 'pine head.'",
-      "CoolAdviceOfTheDay": "Identify sources of happiness.",
-      "DadJokeOfTheDay": "How many kids with ADD does it take to change a lightbulb? Let's go ride bikes!",
-      "IsTodayChristmas?": "Maybe",
-      "IsTodayMyBirthday?": "One day",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/ac6nkm.jpg"
+      "FunFactOfTheDay": "Babies are born without kneecaps. They don`t appear until the child reaches 2-6 years of age.",
+      "CoolAdviceOfTheDay": "Always the burrito.",
+      "DadJokeOfTheDay": "When Dad drops a pea off of his plate ‘oh dear I’ve pee’d on the table!",
+      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
+      "IsTodayMyBirthday?": "Ask me tomorrow",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/ac9ane.jpg"
    }
 }
 ```
