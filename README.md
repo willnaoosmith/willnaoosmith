@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "In Miconesia, coins are 12 feet across.",
-      "CoolAdviceOfTheDay": "Being kind is more rewarding than being right.",
-      "DadJokeOfTheDay": "*Reversing the car* 'Ah, this takes me back'",
-      "IsTodayChristmas?": "Maybe",
-      "IsTodayMyBirthday?": "Maybe another time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/acftfh.jpg"
+      "FunFactOfTheDay": "The Earth experiences 50,000 Earth quakes per year and is hit by Lightning 100 times a second.",
+      "CoolAdviceOfTheDay": "Avoid mixing Ginger Nuts with other biscuits, they contaminate. Keep separated.",
+      "DadJokeOfTheDay": "Where do fish keep their money? In the riverbank",
+      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
+      "IsTodayMyBirthday?": "Maybe",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/acjwc9.jpg"
    }
 }
 ```
