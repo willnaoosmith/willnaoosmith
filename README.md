@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "In the average lifetime, a person will walk the equivalent of 5 times around the equator.",
-      "CoolAdviceOfTheDay": "You don't need to floss all of your teeth. Only the ones you want to keep.",
-      "DadJokeOfTheDay": "When my wife told me to stop impersonating a flamingo, I had to put my foot down.",
-      "IsTodayChristmas?": "Nope",
-      "IsTodayMyBirthday?": "Nah",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/acnvf0.jpg"
+      "FunFactOfTheDay": "During his entire life, Vincent Van Gogh sold exactly one painting, “Red Vineyard at Arles”.",
+      "CoolAdviceOfTheDay": "Everything matters, but nothing matters that much.",
+      "DadJokeOfTheDay": "If at first you don't succeed, sky diving is not for you!",
+      "IsTodayChristmas?": "Unfortunately, not",
+      "IsTodayMyBirthday?": "Ask me in a year",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/acrx1o.jpg"
    }
 }
 ```
