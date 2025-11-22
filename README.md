@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "During his entire life, Vincent Van Gogh sold exactly one painting, “Red Vineyard at Arles”.",
-      "CoolAdviceOfTheDay": "Everything matters, but nothing matters that much.",
-      "DadJokeOfTheDay": "If at first you don't succeed, sky diving is not for you!",
-      "IsTodayChristmas?": "Unfortunately, not",
-      "IsTodayMyBirthday?": "Ask me in a year",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/acrx1o.jpg"
+      "FunFactOfTheDay": "Your stomach needs to produce a new layer of mucus every two weeks or it would digest itself.",
+      "CoolAdviceOfTheDay": "Rule number 1: Try not to die. Rule number 2: Don't be a dick.",
+      "DadJokeOfTheDay": "Why are snake races so exciting? They're always neck and neck.",
+      "IsTodayChristmas?": "Nah",
+      "IsTodayMyBirthday?": "Unfortunately, not",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/acvoe2.jpg"
    }
 }
 ```
