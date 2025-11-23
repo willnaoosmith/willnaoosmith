@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Your stomach needs to produce a new layer of mucus every two weeks or it would digest itself.",
-      "CoolAdviceOfTheDay": "Rule number 1: Try not to die. Rule number 2: Don't be a dick.",
-      "DadJokeOfTheDay": "Why are snake races so exciting? They're always neck and neck.",
-      "IsTodayChristmas?": "Nah",
-      "IsTodayMyBirthday?": "Unfortunately, not",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/acvoe2.jpg"
+      "FunFactOfTheDay": "Sharon Stone was the first Star Search spokes model.",
+      "CoolAdviceOfTheDay": "Try to not compliment people on things they don't control.",
+      "DadJokeOfTheDay": "Why should you never trust a pig with a secret? Because it's bound to squeal.",
+      "IsTodayChristmas?": "Ask me tomorrow",
+      "IsTodayMyBirthday?": "Not this time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/acyali.jpg"
    }
 }
 ```
