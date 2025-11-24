@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Sharon Stone was the first Star Search spokes model.",
-      "CoolAdviceOfTheDay": "Try to not compliment people on things they don't control.",
-      "DadJokeOfTheDay": "Why should you never trust a pig with a secret? Because it's bound to squeal.",
-      "IsTodayChristmas?": "Ask me tomorrow",
-      "IsTodayMyBirthday?": "Not this time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/acyali.jpg"
+      "FunFactOfTheDay": "Ancient Egyptian priests would pluck every hair from their bodies.",
+      "CoolAdviceOfTheDay": "The more ideas that you give away, the more ideas that will come to you.",
+      "DadJokeOfTheDay": "It doesn't matter how much you push the envelope. It will still be stationary.",
+      "IsTodayChristmas?": "Nope",
+      "IsTodayMyBirthday?": "Nope",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/ad0zy9.jpg"
    }
 }
 ```
