@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Daffy Duck`s middle name is 'Dumas'",
-      "CoolAdviceOfTheDay": "Don't eat non-snow-coloured snow.",
-      "DadJokeOfTheDay": "Why can't you use 'Beef stew' as a password? Because it's not stroganoff.",
-      "IsTodayChristmas?": "Not yet",
-      "IsTodayMyBirthday?": "Ask me tomorrow",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/ad4nk2.jpg"
+      "FunFactOfTheDay": "President John F Kennedy could read 4 newspapers in 20 minutes.",
+      "CoolAdviceOfTheDay": "The person who never made a mistake never made anything.",
+      "DadJokeOfTheDay": "Leather is great for sneaking around because it's made of hide.",
+      "IsTodayChristmas?": "No",
+      "IsTodayMyBirthday?": "Maybe another time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/ad8e9l.jpg"
    }
 }
 ```
