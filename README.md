@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "President John F Kennedy could read 4 newspapers in 20 minutes.",
-      "CoolAdviceOfTheDay": "The person who never made a mistake never made anything.",
-      "DadJokeOfTheDay": "Leather is great for sneaking around because it's made of hide.",
-      "IsTodayChristmas?": "No",
-      "IsTodayMyBirthday?": "Maybe another time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/ad8e9l.jpg"
+      "FunFactOfTheDay": "Starfish have no brains.",
+      "CoolAdviceOfTheDay": "If you are feeling down, try holding a pencil between your top lip and your nose for five minutes.",
+      "DadJokeOfTheDay": "Why do valley girls hang out in odd numbered groups? Because they can't even.",
+      "IsTodayChristmas?": "Not yet",
+      "IsTodayMyBirthday?": "!Yes",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/adc00b.jpg"
    }
 }
 ```
