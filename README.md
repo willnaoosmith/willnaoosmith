@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Starfish have no brains.",
-      "CoolAdviceOfTheDay": "If you are feeling down, try holding a pencil between your top lip and your nose for five minutes.",
-      "DadJokeOfTheDay": "Why do valley girls hang out in odd numbered groups? Because they can't even.",
-      "IsTodayChristmas?": "Not yet",
-      "IsTodayMyBirthday?": "!Yes",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/adc00b.jpg"
+      "FunFactOfTheDay": "“Ithyphallophobia' is a morbid fear of seeing, thinking about or having an erect penis.",
+      "CoolAdviceOfTheDay": "Don't give a speech. Put on a show.",
+      "DadJokeOfTheDay": "My New Years resolution is to stop leaving things so late.",
+      "IsTodayChristmas?": "Ask me in one hour",
+      "IsTodayMyBirthday?": "I dont know",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/adfa1v.jpg"
    }
 }
 ```
