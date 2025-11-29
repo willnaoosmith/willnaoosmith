@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "“Ithyphallophobia' is a morbid fear of seeing, thinking about or having an erect penis.",
-      "CoolAdviceOfTheDay": "Don't give a speech. Put on a show.",
-      "DadJokeOfTheDay": "My New Years resolution is to stop leaving things so late.",
-      "IsTodayChristmas?": "Ask me in one hour",
-      "IsTodayMyBirthday?": "I dont know",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/adfa1v.jpg"
+      "FunFactOfTheDay": "A full-loaded supertanker traveling at normal speed takes at least 20 minutes to stop.",
+      "CoolAdviceOfTheDay": "There is no reason at all to believe that White Wine is any different to water when it comes to removing Red Wine stains.",
+      "DadJokeOfTheDay": "Do I enjoy making courthouse puns? Guilty",
+      "IsTodayChristmas?": "Ask me tomorrow",
+      "IsTodayMyBirthday?": "Maybe",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/adic27.jpg"
    }
 }
 ```
