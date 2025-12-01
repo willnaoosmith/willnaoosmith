@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The praying mantis is the only insect that can turn its head",
-      "CoolAdviceOfTheDay": "If you think your headphones are dying, check the socket for fluff with a straightened paperclip.",
-      "DadJokeOfTheDay": "Why are snake races so exciting? They're always neck and neck.",
-      "IsTodayChristmas?": "Maybe another time",
-      "IsTodayMyBirthday?": "Not quite",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/adkr40.jpg"
+      "FunFactOfTheDay": "Cats’ urine glows under a black light.",
+      "CoolAdviceOfTheDay": "Everyone has their down days. Don't take it out on innocent bystanders.",
+      "DadJokeOfTheDay": "What is the difference between ignorance and apathy?  I don't know and I don't care.",
+      "IsTodayChristmas?": "Not yet",
+      "IsTodayMyBirthday?": "Ask me tomorrow",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/adndgr.jpg"
    }
 }
 ```
