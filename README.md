@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Cats’ urine glows under a black light.",
-      "CoolAdviceOfTheDay": "Everyone has their down days. Don't take it out on innocent bystanders.",
-      "DadJokeOfTheDay": "What is the difference between ignorance and apathy?  I don't know and I don't care.",
-      "IsTodayChristmas?": "Not yet",
+      "FunFactOfTheDay": "On a Canadian two-dollar bill, the American flag is flying over the Parliament Building.",
+      "CoolAdviceOfTheDay": "You don't need to floss all of your teeth. Only the ones you want to keep.",
+      "DadJokeOfTheDay": "Conjunctivitis.com – now that’s a site for sore eyes.",
+      "IsTodayChristmas?": "No say I",
       "IsTodayMyBirthday?": "Ask me tomorrow",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/adndgr.jpg"
+      "RandomMemeOfTheDay": "https://i.imgflip.com/adr0y0.jpg"
    }
 }
 ```
