@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "On a Canadian two-dollar bill, the American flag is flying over the Parliament Building.",
-      "CoolAdviceOfTheDay": "You don't need to floss all of your teeth. Only the ones you want to keep.",
-      "DadJokeOfTheDay": "Conjunctivitis.com – now that’s a site for sore eyes.",
-      "IsTodayChristmas?": "No say I",
-      "IsTodayMyBirthday?": "Ask me tomorrow",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/adr0y0.jpg"
+      "FunFactOfTheDay": "Babies are born without kneecaps. They don`t appear until the child reaches 2-6 years of age.",
+      "CoolAdviceOfTheDay": "Be brave. Even if you're not, pretend to be. No one can tell the difference.",
+      "DadJokeOfTheDay": "Two peanuts were walking down the street. One was a salted.",
+      "IsTodayChristmas?": "I dont know",
+      "IsTodayMyBirthday?": "Maybe",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/aduu5l.jpg"
    }
 }
 ```
