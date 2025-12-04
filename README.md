@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Babies are born without kneecaps. They don`t appear until the child reaches 2-6 years of age.",
-      "CoolAdviceOfTheDay": "Be brave. Even if you're not, pretend to be. No one can tell the difference.",
-      "DadJokeOfTheDay": "Two peanuts were walking down the street. One was a salted.",
-      "IsTodayChristmas?": "I dont know",
-      "IsTodayMyBirthday?": "Maybe",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/aduu5l.jpg"
+      "FunFactOfTheDay": "The Philippines has about 7,100 islands, of which only about 460 are more than 1 square mile in area.",
+      "CoolAdviceOfTheDay": "Don't judge a book by its cover, unless it has a synopsis on the back.",
+      "DadJokeOfTheDay": " I never wanted to believe that my Dad was stealing from his job as a road worker. But when I got home, all the signs were there.  ",
+      "IsTodayChristmas?": "!Yes",
+      "IsTodayMyBirthday?": "Nope",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/adyr7n.jpg"
    }
 }
 ```
