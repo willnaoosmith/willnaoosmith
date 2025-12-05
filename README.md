@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The Philippines has about 7,100 islands, of which only about 460 are more than 1 square mile in area.",
-      "CoolAdviceOfTheDay": "Don't judge a book by its cover, unless it has a synopsis on the back.",
-      "DadJokeOfTheDay": " I never wanted to believe that my Dad was stealing from his job as a road worker. But when I got home, all the signs were there.  ",
-      "IsTodayChristmas?": "!Yes",
-      "IsTodayMyBirthday?": "Nope",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/adyr7n.jpg"
+      "FunFactOfTheDay": "A cat has 32 muscles in each ear.",
+      "CoolAdviceOfTheDay": "You will always regret the round of JÃ¤germeister.",
+      "DadJokeOfTheDay": "How does a scientist freshen their breath? With experi-mints!",
+      "IsTodayChristmas?": "Maybe another time",
+      "IsTodayMyBirthday?": "Not this time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/ae2pmb.jpg"
    }
 }
 ```
