@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "A cat has 32 muscles in each ear.",
-      "CoolAdviceOfTheDay": "You will always regret the round of JÃ¤germeister.",
-      "DadJokeOfTheDay": "How does a scientist freshen their breath? With experi-mints!",
-      "IsTodayChristmas?": "Maybe another time",
-      "IsTodayMyBirthday?": "Not this time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/ae2pmb.jpg"
+      "FunFactOfTheDay": "Sailfish can leap out of the water and into the air at a speed of 50 miles (81 km) per hour.",
+      "CoolAdviceOfTheDay": "Always double check you actually attached the file to the email.",
+      "DadJokeOfTheDay": "“My Dog has no nose.” “How does he smell?” “Awful”",
+      "IsTodayChristmas?": "Not quite",
+      "IsTodayMyBirthday?": "Ask me tomorrow",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/ae6b44.jpg"
    }
 }
 ```
