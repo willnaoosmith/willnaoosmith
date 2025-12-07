@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Sailfish can leap out of the water and into the air at a speed of 50 miles (81 km) per hour.",
-      "CoolAdviceOfTheDay": "Always double check you actually attached the file to the email.",
-      "DadJokeOfTheDay": "“My Dog has no nose.” “How does he smell?” “Awful”",
-      "IsTodayChristmas?": "Not quite",
-      "IsTodayMyBirthday?": "Ask me tomorrow",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/ae6b44.jpg"
+      "FunFactOfTheDay": "The average human eats 8 spiders in their lifetime at night.",
+      "CoolAdviceOfTheDay": "When you're looking up at birds flying overhead, keep your mouth closed.",
+      "DadJokeOfTheDay": "'I'm sorry.' 'Hi sorry, I'm dad'",
+      "IsTodayChristmas?": "Maybe another time",
+      "IsTodayMyBirthday?": "Ask me in a year",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/ae8sey.jpg"
    }
 }
 ```
