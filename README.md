@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The average human eats 8 spiders in their lifetime at night.",
-      "CoolAdviceOfTheDay": "When you're looking up at birds flying overhead, keep your mouth closed.",
-      "DadJokeOfTheDay": "'I'm sorry.' 'Hi sorry, I'm dad'",
+      "FunFactOfTheDay": "Koalas never drink water. They get fluids from the eucalyptus leaves they eat.",
+      "CoolAdviceOfTheDay": "It is easy to sit up and take notice, what's difficult is getting up and taking action.",
+      "DadJokeOfTheDay": "To be Frank, I'd have to change my name.",
       "IsTodayChristmas?": "Maybe another time",
-      "IsTodayMyBirthday?": "Ask me in a year",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/ae8sey.jpg"
+      "IsTodayMyBirthday?": "Yes'nt",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/aebdva.jpg"
    }
 }
 ```
