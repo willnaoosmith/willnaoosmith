@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Koalas never drink water. They get fluids from the eucalyptus leaves they eat.",
-      "CoolAdviceOfTheDay": "It is easy to sit up and take notice, what's difficult is getting up and taking action.",
-      "DadJokeOfTheDay": "To be Frank, I'd have to change my name.",
-      "IsTodayChristmas?": "Maybe another time",
-      "IsTodayMyBirthday?": "Yes'nt",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/aebdva.jpg"
+      "FunFactOfTheDay": "The people of France eat more cheese than any other country in the world.",
+      "CoolAdviceOfTheDay": "Winter is coming.",
+      "DadJokeOfTheDay": "Every machine in the coin factory broke down all of a sudden without explanation. It just doesn’t make any cents.",
+      "IsTodayChristmas?": "Nah",
+      "IsTodayMyBirthday?": "Unfortunately, not",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/aeeyum.jpg"
    }
 }
 ```
