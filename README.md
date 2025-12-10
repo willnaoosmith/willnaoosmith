@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The people of France eat more cheese than any other country in the world.",
-      "CoolAdviceOfTheDay": "Winter is coming.",
-      "DadJokeOfTheDay": "Every machine in the coin factory broke down all of a sudden without explanation. It just doesn’t make any cents.",
-      "IsTodayChristmas?": "Nah",
-      "IsTodayMyBirthday?": "Unfortunately, not",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/aeeyum.jpg"
+      "FunFactOfTheDay": "Human thighbones are stronger than concrete.",
+      "CoolAdviceOfTheDay": "Try using an old idea.",
+      "DadJokeOfTheDay": "A ghost walks into a bar and asks for a glass of vodka but the bar tender says, “sorry we don’t serve spirits”",
+      "IsTodayChristmas?": "No",
+      "IsTodayMyBirthday?": "Not yet",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/aeiteo.jpg"
    }
 }
 ```
