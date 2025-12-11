@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Human thighbones are stronger than concrete.",
-      "CoolAdviceOfTheDay": "Try using an old idea.",
-      "DadJokeOfTheDay": "A ghost walks into a bar and asks for a glass of vodka but the bar tender says, “sorry we don’t serve spirits”",
-      "IsTodayChristmas?": "No",
-      "IsTodayMyBirthday?": "Not yet",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/aeiteo.jpg"
+      "FunFactOfTheDay": "Each king in a deck of playing cards represents a great king from history. Spades - King David, Clubs - Alexander the Great, Hearts - Charlemagne, and Diamonds - Julius Caesar.",
+      "CoolAdviceOfTheDay": "Don't cross the streams.",
+      "DadJokeOfTheDay": "Why are fish so smart? Because they live in schools!",
+      "IsTodayChristmas?": "I dont know",
+      "IsTodayMyBirthday?": "!Yes",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/aemmru.jpg"
    }
 }
 ```
