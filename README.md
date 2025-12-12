@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Each king in a deck of playing cards represents a great king from history. Spades - King David, Clubs - Alexander the Great, Hearts - Charlemagne, and Diamonds - Julius Caesar.",
-      "CoolAdviceOfTheDay": "Don't cross the streams.",
-      "DadJokeOfTheDay": "Why are fish so smart? Because they live in schools!",
-      "IsTodayChristmas?": "I dont know",
-      "IsTodayMyBirthday?": "!Yes",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/aemmru.jpg"
+      "FunFactOfTheDay": "Fish that live more than 800 meters below the ocean surface don't have eyes.",
+      "CoolAdviceOfTheDay": "No one knows anyone else in the way you do.",
+      "DadJokeOfTheDay": "Did you hear about the new restaurant on the moon? The food is great, but there’s just no atmosphere.",
+      "IsTodayChristmas?": "Ask me tomorrow",
+      "IsTodayMyBirthday?": "Not quite",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/aeqhyj.jpg"
    }
 }
 ```
