@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Fish that live more than 800 meters below the ocean surface don't have eyes.",
-      "CoolAdviceOfTheDay": "No one knows anyone else in the way you do.",
-      "DadJokeOfTheDay": "Did you hear about the new restaurant on the moon? The food is great, but there’s just no atmosphere.",
-      "IsTodayChristmas?": "Ask me tomorrow",
-      "IsTodayMyBirthday?": "Not quite",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/aeqhyj.jpg"
+      "FunFactOfTheDay": "Jim Henson first coined the word “Muppet”. It is a combination of “marionette” and “puppet.”",
+      "CoolAdviceOfTheDay": "A problem shared is a problem halved.",
+      "DadJokeOfTheDay": "Did you hear about the cow who jumped over the barbed wire fence? It was udder destruction.",
+      "IsTodayChristmas?": "Not this time",
+      "IsTodayMyBirthday?": "Not yet",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/aeu1tf.jpg"
    }
 }
 ```
