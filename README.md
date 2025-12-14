@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Jim Henson first coined the word “Muppet”. It is a combination of “marionette” and “puppet.”",
-      "CoolAdviceOfTheDay": "A problem shared is a problem halved.",
-      "DadJokeOfTheDay": "Did you hear about the cow who jumped over the barbed wire fence? It was udder destruction.",
-      "IsTodayChristmas?": "Not this time",
-      "IsTodayMyBirthday?": "Not yet",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/aeu1tf.jpg"
+      "FunFactOfTheDay": "The town of Calma, Chile in the Atacama Desert has never had rain.",
+      "CoolAdviceOfTheDay": "If it ain't broke don't fix it.",
+      "DadJokeOfTheDay": "Why did Mozart kill all his chickens? Because when he asked them who the best composer was, they'd all say 'Bach bach bach!' ",
+      "IsTodayChristmas?": "Ask me in one hour",
+      "IsTodayMyBirthday?": "One day",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/aewd55.jpg"
    }
 }
 ```
