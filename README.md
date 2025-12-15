@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The town of Calma, Chile in the Atacama Desert has never had rain.",
-      "CoolAdviceOfTheDay": "If it ain't broke don't fix it.",
-      "DadJokeOfTheDay": "Why did Mozart kill all his chickens? Because when he asked them who the best composer was, they'd all say 'Bach bach bach!' ",
-      "IsTodayChristmas?": "Ask me in one hour",
-      "IsTodayMyBirthday?": "One day",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/aewd55.jpg"
+      "FunFactOfTheDay": "Blondes have more hair than dark-haired people do.",
+      "CoolAdviceOfTheDay": "Don't give to others advice which you wouldn't follow.",
+      "DadJokeOfTheDay": "What are the strongest days of the week? Saturday and Sunday...the rest are weekdays.",
+      "IsTodayChristmas?": "Maybe another time",
+      "IsTodayMyBirthday?": "Nah",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/aeyusq.jpg"
    }
 }
 ```
