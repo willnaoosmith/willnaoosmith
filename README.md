@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Blondes have more hair than dark-haired people do.",
-      "CoolAdviceOfTheDay": "Don't give to others advice which you wouldn't follow.",
-      "DadJokeOfTheDay": "What are the strongest days of the week? Saturday and Sunday...the rest are weekdays.",
-      "IsTodayChristmas?": "Maybe another time",
-      "IsTodayMyBirthday?": "Nah",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/aeyusq.jpg"
+      "FunFactOfTheDay": "Caesar salad has nothing to do with any of the Caesars. It was first concocted in a bar in Tijuana, Mexico, in the 1920`s.",
+      "CoolAdviceOfTheDay": "If you want to be happily married, marry a happy person.",
+      "DadJokeOfTheDay": "I applied to be a doorman but didn't get the job due to lack of experience. That surprised me, I thought it was an entry level position.",
+      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
+      "IsTodayMyBirthday?": "Maybe",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/af2crq.jpg"
    }
 }
 ```
