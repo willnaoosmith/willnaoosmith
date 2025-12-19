@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "THE MOST UNUSUAL CANNONBALL: On two occasions, Miss `Rita Thunderbird` remained inside the cannon despite a lot of gunpowder encouragement to do otherwise. She performed in a gold lamé bikini and on one of the two occasions (1977) Miss Thunderbird remained lodged in the cannon, while her bra was shot across the Thames River.",
-      "CoolAdviceOfTheDay": "A common regret in life is wishing one had the courage to be ones true self.",
-      "DadJokeOfTheDay": "How does Darth Vader like his toast? On the dark side.",
-      "IsTodayChristmas?": "Nah",
-      "IsTodayMyBirthday?": "Ask me tomorrow",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/af9ley.jpg"
+      "FunFactOfTheDay": "Only 6 people in the whole world have died from moshing.",
+      "CoolAdviceOfTheDay": "Most things done in secrecy are better left undone.",
+      "DadJokeOfTheDay": "What time did the man go to the dentist? Tooth hurt-y.",
+      "IsTodayChristmas?": "I dont know",
+      "IsTodayMyBirthday?": "One day",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/afd645.jpg"
    }
 }
 ```
