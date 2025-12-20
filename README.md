@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Only 6 people in the whole world have died from moshing.",
-      "CoolAdviceOfTheDay": "Most things done in secrecy are better left undone.",
-      "DadJokeOfTheDay": "What time did the man go to the dentist? Tooth hurt-y.",
-      "IsTodayChristmas?": "I dont know",
-      "IsTodayMyBirthday?": "One day",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/afd645.jpg"
+      "FunFactOfTheDay": "Every year 4 people in the UK die putting their trousers on.",
+      "CoolAdviceOfTheDay": "Life is better when you sing about bananas.",
+      "DadJokeOfTheDay": "I used to work for a soft drink can crusher. It was soda pressing.",
+      "IsTodayChristmas?": "Yes'nt",
+      "IsTodayMyBirthday?": "Ask me in one hour",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/afgczi.jpg"
    }
 }
 ```
