@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Every year 4 people in the UK die putting their trousers on.",
-      "CoolAdviceOfTheDay": "Life is better when you sing about bananas.",
-      "DadJokeOfTheDay": "I used to work for a soft drink can crusher. It was soda pressing.",
-      "IsTodayChristmas?": "Yes'nt",
-      "IsTodayMyBirthday?": "Ask me in one hour",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/afgczi.jpg"
+      "FunFactOfTheDay": "If done perfectly, a rubix cube combination can be solved in 17 turns.",
+      "CoolAdviceOfTheDay": "Don't waste food.",
+      "DadJokeOfTheDay": "I used to hate facial hair, but then it grew on me.",
+      "IsTodayChristmas?": "Ask me in a year",
+      "IsTodayMyBirthday?": "Ask me tomorrow",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/afiot4.jpg"
    }
 }
 ```
