@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "If done perfectly, a rubix cube combination can be solved in 17 turns.",
-      "CoolAdviceOfTheDay": "Don't waste food.",
-      "DadJokeOfTheDay": "I used to hate facial hair, but then it grew on me.",
-      "IsTodayChristmas?": "Ask me in a year",
-      "IsTodayMyBirthday?": "Ask me tomorrow",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/afiot4.jpg"
+      "FunFactOfTheDay": "Blondes have more hair than dark-haired people do.",
+      "CoolAdviceOfTheDay": "It's unlucky to be superstitious.",
+      "DadJokeOfTheDay": "I was shocked when I was diagnosed as colorblind... It came out of the purple.",
+      "IsTodayChristmas?": "Ask me in one hour",
+      "IsTodayMyBirthday?": "Yes'nt",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/afkzin.jpg"
    }
 }
 ```
