@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Blondes have more hair than dark-haired people do.",
-      "CoolAdviceOfTheDay": "It's unlucky to be superstitious.",
-      "DadJokeOfTheDay": "I was shocked when I was diagnosed as colorblind... It came out of the purple.",
-      "IsTodayChristmas?": "Ask me in one hour",
-      "IsTodayMyBirthday?": "Yes'nt",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/afkzin.jpg"
+      "FunFactOfTheDay": "The surface of the Earth is about 60% water and 10% ice.",
+      "CoolAdviceOfTheDay": "State the problem in words as clearly as possible.",
+      "DadJokeOfTheDay": "How many apples grow on a tree? All of them!",
+      "IsTodayChristmas?": "Unfortunately, not",
+      "IsTodayMyBirthday?": "Nah",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/afnqv9.jpg"
    }
 }
 ```
