@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "It was discovered on a space mission that a frog can throw up. The frog throws up its stomach first, so the stomach is dangling out of its mouth. Then the frog uses its forearms to dig out all of the stomach`s contents and then swallows the stomach back down.",
-      "CoolAdviceOfTheDay": "Once you find a really good friend don't do anything that could mess up your friendship.",
-      "DadJokeOfTheDay": "Camping is intense.",
-      "IsTodayChristmas?": "Ask me in a year",
-      "IsTodayMyBirthday?": "No",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/afqhdf.jpg"
+      "FunFactOfTheDay": "Lawn darts are illegal in Canada.",
+      "CoolAdviceOfTheDay": "One of the top five regrets people have is that they didn't stay in contact with friends.",
+      "DadJokeOfTheDay": "I tried to milk a cow today, but was unsuccessful. Udder failure.",
+      "IsTodayChristmas?": "No say I",
+      "IsTodayMyBirthday?": "Unfortunately, not",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/afsw4d.jpg"
    }
 }
 ```
