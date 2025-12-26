@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Lawn darts are illegal in Canada.",
-      "CoolAdviceOfTheDay": "One of the top five regrets people have is that they didn't stay in contact with friends.",
-      "DadJokeOfTheDay": "I tried to milk a cow today, but was unsuccessful. Udder failure.",
-      "IsTodayChristmas?": "No say I",
-      "IsTodayMyBirthday?": "Unfortunately, not",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/afsw4d.jpg"
+      "FunFactOfTheDay": "Present population of 5 billion plus people of the world is predicted to become 15 billion by 2080.",
+      "CoolAdviceOfTheDay": "Don't always rely on your comforts.",
+      "DadJokeOfTheDay": "Why is Peter Pan always flying? Because he Neverlands.",
+      "IsTodayChristmas?": "I dont know",
+      "IsTodayMyBirthday?": "No say I",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/afuv16.jpg"
    }
 }
 ```
