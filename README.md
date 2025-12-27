@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Present population of 5 billion plus people of the world is predicted to become 15 billion by 2080.",
-      "CoolAdviceOfTheDay": "Don't always rely on your comforts.",
-      "DadJokeOfTheDay": "Why is Peter Pan always flying? Because he Neverlands.",
-      "IsTodayChristmas?": "I dont know",
-      "IsTodayMyBirthday?": "No say I",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/afuv16.jpg"
+      "FunFactOfTheDay": "There is a seven letter word in the English language that contains ten words without rearranging any of its letters, 'therein': the, there, he, in, rein, her, here, ere, therein, herein.  ",
+      "CoolAdviceOfTheDay": "Things are just things. Don't get too attached to them.",
+      "DadJokeOfTheDay": "Where was the Declaration of Independence signed?  At the bottom! ",
+      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
+      "IsTodayMyBirthday?": "One day",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/afwufn.jpg"
    }
 }
 ```
