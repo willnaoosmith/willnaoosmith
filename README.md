@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "There is a seven letter word in the English language that contains ten words without rearranging any of its letters, 'therein': the, there, he, in, rein, her, here, ere, therein, herein.  ",
-      "CoolAdviceOfTheDay": "Things are just things. Don't get too attached to them.",
-      "DadJokeOfTheDay": "Where was the Declaration of Independence signed?  At the bottom! ",
-      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
-      "IsTodayMyBirthday?": "One day",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/afwufn.jpg"
+      "FunFactOfTheDay": "Only 6 people in the whole world have died from moshing.",
+      "CoolAdviceOfTheDay": "Never let your Mother cut your hair.",
+      "DadJokeOfTheDay": "I used to be addicted to the hokey pokey, but I turned myself around.",
+      "IsTodayChristmas?": "No",
+      "IsTodayMyBirthday?": "Ask me in one hour",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/afyyai.jpg"
    }
 }
 ```
