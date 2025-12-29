@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Only 6 people in the whole world have died from moshing.",
-      "CoolAdviceOfTheDay": "Never let your Mother cut your hair.",
-      "DadJokeOfTheDay": "I used to be addicted to the hokey pokey, but I turned myself around.",
-      "IsTodayChristmas?": "No",
-      "IsTodayMyBirthday?": "Ask me in one hour",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/afyyai.jpg"
+      "FunFactOfTheDay": "A horse can look forward with one eye and back with the other.",
+      "CoolAdviceOfTheDay": "Stop procrastinating.",
+      "DadJokeOfTheDay": "Doctor: Do you want to hear the good news or the bad news? Patient: Good news please. Doctor: we're naming a disease after you.",
+      "IsTodayChristmas?": "Not quite",
+      "IsTodayMyBirthday?": "Not yet",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/ag15gt.jpg"
    }
 }
 ```
