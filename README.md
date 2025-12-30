@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "A horse can look forward with one eye and back with the other.",
-      "CoolAdviceOfTheDay": "Stop procrastinating.",
-      "DadJokeOfTheDay": "Doctor: Do you want to hear the good news or the bad news? Patient: Good news please. Doctor: we're naming a disease after you.",
+      "FunFactOfTheDay": "Earth is the only planet not named after a god.",
+      "CoolAdviceOfTheDay": "You can have too much of a good thing.",
+      "DadJokeOfTheDay": "How do you know if there’s an elephant under your bed? Your head hits the ceiling!",
       "IsTodayChristmas?": "Not quite",
-      "IsTodayMyBirthday?": "Not yet",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/ag15gt.jpg"
+      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/ag3oa6.jpg"
    }
 }
 ```
