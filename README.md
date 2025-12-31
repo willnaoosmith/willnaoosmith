@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Earth is the only planet not named after a god.",
-      "CoolAdviceOfTheDay": "You can have too much of a good thing.",
-      "DadJokeOfTheDay": "How do you know if there’s an elephant under your bed? Your head hits the ceiling!",
-      "IsTodayChristmas?": "Not quite",
-      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/ag3oa6.jpg"
+      "FunFactOfTheDay": "The thyroid cartilage is more commonly known as the adams apple.",
+      "CoolAdviceOfTheDay": "Everyone has their down days. Don't take it out on innocent bystanders.",
+      "DadJokeOfTheDay": "What do you give a sick lemon? Lemonaid.",
+      "IsTodayChristmas?": "Yes'nt",
+      "IsTodayMyBirthday?": "Maybe another time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/ag6b5n.jpg"
    }
 }
 ```
