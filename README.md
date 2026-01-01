@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The thyroid cartilage is more commonly known as the adams apple.",
-      "CoolAdviceOfTheDay": "Everyone has their down days. Don't take it out on innocent bystanders.",
-      "DadJokeOfTheDay": "What do you give a sick lemon? Lemonaid.",
-      "IsTodayChristmas?": "Yes'nt",
+      "FunFactOfTheDay": "US Dollar bills are made out of cotton and linen.",
+      "CoolAdviceOfTheDay": "No one knows anyone else in the way you do.",
+      "DadJokeOfTheDay": "The invention of the wheel was what got things rolling",
+      "IsTodayChristmas?": "No say I",
       "IsTodayMyBirthday?": "Maybe another time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/ag6b5n.jpg"
+      "RandomMemeOfTheDay": "https://i.imgflip.com/ag90r4.jpg"
    }
 }
 ```
