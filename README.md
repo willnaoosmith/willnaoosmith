@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "US Dollar bills are made out of cotton and linen.",
-      "CoolAdviceOfTheDay": "No one knows anyone else in the way you do.",
-      "DadJokeOfTheDay": "The invention of the wheel was what got things rolling",
-      "IsTodayChristmas?": "No say I",
-      "IsTodayMyBirthday?": "Maybe another time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/ag90r4.jpg"
+      "FunFactOfTheDay": "A blue whales heart only beats nine times per minute.",
+      "CoolAdviceOfTheDay": "You can fail at what you don't want. So you might as well take a chance on doing what you love.",
+      "DadJokeOfTheDay": "How do you find Will Smith in the snow?  Look for fresh prints.",
+      "IsTodayChristmas?": "Not yet",
+      "IsTodayMyBirthday?": "Ask me in one hour",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/agb9og.jpg"
    }
 }
 ```
