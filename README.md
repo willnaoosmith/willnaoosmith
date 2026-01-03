@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "A blue whales heart only beats nine times per minute.",
-      "CoolAdviceOfTheDay": "You can fail at what you don't want. So you might as well take a chance on doing what you love.",
-      "DadJokeOfTheDay": "How do you find Will Smith in the snow?  Look for fresh prints.",
-      "IsTodayChristmas?": "Not yet",
+      "FunFactOfTheDay": "The 57 on the Heinz ketchup bottle represents the number of pickle types the company once had.",
+      "CoolAdviceOfTheDay": "Sing in the shower.",
+      "DadJokeOfTheDay": "What do you call a cow with two legs? Lean beef.",
+      "IsTodayChristmas?": "Not this time",
       "IsTodayMyBirthday?": "Ask me in one hour",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/agb9og.jpg"
+      "RandomMemeOfTheDay": "https://i.imgflip.com/agdpi1.jpg"
    }
 }
 ```
