@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The 57 on the Heinz ketchup bottle represents the number of pickle types the company once had.",
-      "CoolAdviceOfTheDay": "Sing in the shower.",
-      "DadJokeOfTheDay": "What do you call a cow with two legs? Lean beef.",
-      "IsTodayChristmas?": "Not this time",
-      "IsTodayMyBirthday?": "Ask me in one hour",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/agdpi1.jpg"
+      "FunFactOfTheDay": "In the United States, a pound of potato chips costs two hundred times more than a pound of potatoes.",
+      "CoolAdviceOfTheDay": "Pedantry is fine, unless you're on the receiving end. And not a pedant.",
+      "DadJokeOfTheDay": "“Doctor, I’ve broken my arm in several places” Doctor “Well don’t go to those places.”",
+      "IsTodayChristmas?": "Ask me tomorrow",
+      "IsTodayMyBirthday?": "Yes'nt",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/aggcs6.jpg"
    }
 }
 ```
