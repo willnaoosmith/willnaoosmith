@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "In the United States, a pound of potato chips costs two hundred times more than a pound of potatoes.",
-      "CoolAdviceOfTheDay": "Pedantry is fine, unless you're on the receiving end. And not a pedant.",
-      "DadJokeOfTheDay": "“Doctor, I’ve broken my arm in several places” Doctor “Well don’t go to those places.”",
-      "IsTodayChristmas?": "Ask me tomorrow",
-      "IsTodayMyBirthday?": "Yes'nt",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/aggcs6.jpg"
+      "FunFactOfTheDay": "The plastic things on the end of shoelaces are called aglets.",
+      "CoolAdviceOfTheDay": "Lemon and salt works wonders on tarnished brass.",
+      "DadJokeOfTheDay": "I remember when I was a kid, I opened my fridge and noticed one of my vegetables were crying. I guess I have some emotional cabbage.",
+      "IsTodayChristmas?": "Ask me in one hour",
+      "IsTodayMyBirthday?": "Unfortunately, not",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/agitx0.jpg"
    }
 }
 ```
