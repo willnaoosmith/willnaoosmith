@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "'Underground' is the only word in the English language that begins and ends with the letters 'und'",
-      "CoolAdviceOfTheDay": "No 'brand' is your friend.",
-      "DadJokeOfTheDay": "How do locomotives know where they're going? Lots of training",
-      "IsTodayChristmas?": "Ask me tomorrow",
-      "IsTodayMyBirthday?": "One day",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/agly80.jpg"
+      "FunFactOfTheDay": "1 in every 4 Americans has appeared someway or another on television.",
+      "CoolAdviceOfTheDay": "Good things come to those who wait.",
+      "DadJokeOfTheDay": "How does the moon cut his hair? Eclipse it.",
+      "IsTodayChristmas?": "Maybe another time",
+      "IsTodayMyBirthday?": "!Yes",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/agp4pp.jpg"
    }
 }
 ```
