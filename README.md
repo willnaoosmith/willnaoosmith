@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "1 in every 4 Americans has appeared someway or another on television.",
-      "CoolAdviceOfTheDay": "Good things come to those who wait.",
-      "DadJokeOfTheDay": "How does the moon cut his hair? Eclipse it.",
-      "IsTodayChristmas?": "Maybe another time",
-      "IsTodayMyBirthday?": "!Yes",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/agp4pp.jpg"
+      "FunFactOfTheDay": "A lion in the wild usually makes no more than 20 kills a year.",
+      "CoolAdviceOfTheDay": "State the problem in words as clearly as possible.",
+      "DadJokeOfTheDay": "I asked a frenchman if he played video games. He said 'Wii'",
+      "IsTodayChristmas?": "Ask me tomorrow",
+      "IsTodayMyBirthday?": "Maybe",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/agsjyj.jpg"
    }
 }
 ```
