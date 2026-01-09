@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "A lion in the wild usually makes no more than 20 kills a year.",
-      "CoolAdviceOfTheDay": "State the problem in words as clearly as possible.",
-      "DadJokeOfTheDay": "I asked a frenchman if he played video games. He said 'Wii'",
-      "IsTodayChristmas?": "Ask me tomorrow",
-      "IsTodayMyBirthday?": "Maybe",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/agsjyj.jpg"
+      "FunFactOfTheDay": "Nepal is the only country that has a non-rectangular flag. It is also asymmetrical.",
+      "CoolAdviceOfTheDay": "If it still itches after a week, go to the doctors.",
+      "DadJokeOfTheDay": "What's brown and sticky? A stick.",
+      "IsTodayChristmas?": "No say I",
+      "IsTodayMyBirthday?": "Ask me tomorrow",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/agw0dc.jpg"
    }
 }
 ```
