@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Nepal is the only country that has a non-rectangular flag. It is also asymmetrical.",
-      "CoolAdviceOfTheDay": "If it still itches after a week, go to the doctors.",
-      "DadJokeOfTheDay": "What's brown and sticky? A stick.",
-      "IsTodayChristmas?": "No say I",
-      "IsTodayMyBirthday?": "Ask me tomorrow",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/agw0dc.jpg"
+      "FunFactOfTheDay": "For every 230 cars that are made, 1 will be stolen.",
+      "CoolAdviceOfTheDay": "Fail. Fail again. Fail better.",
+      "DadJokeOfTheDay": "Want to hear a chimney joke? Got stacks of em! First one's on the house",
+      "IsTodayChristmas?": "No",
+      "IsTodayMyBirthday?": "Ask me in a year",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/agzh41.jpg"
    }
 }
 ```
