@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "For every 230 cars that are made, 1 will be stolen.",
-      "CoolAdviceOfTheDay": "Fail. Fail again. Fail better.",
-      "DadJokeOfTheDay": "Want to hear a chimney joke? Got stacks of em! First one's on the house",
-      "IsTodayChristmas?": "No",
-      "IsTodayMyBirthday?": "Ask me in a year",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/agzh41.jpg"
+      "FunFactOfTheDay": "Half of all bank robberies take place on a Friday.",
+      "CoolAdviceOfTheDay": "When something goes wrong in life, just shout 'plot twist!' and carry on.",
+      "DadJokeOfTheDay": "A boy dug three holes in the yard. When his mother saw, she exclaimed: 'well, well, well'",
+      "IsTodayChristmas?": "No say I",
+      "IsTodayMyBirthday?": "Maybe another time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/ah1wun.jpg"
    }
 }
 ```
