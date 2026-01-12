@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Half of all bank robberies take place on a Friday.",
-      "CoolAdviceOfTheDay": "When something goes wrong in life, just shout 'plot twist!' and carry on.",
-      "DadJokeOfTheDay": "A boy dug three holes in the yard. When his mother saw, she exclaimed: 'well, well, well'",
-      "IsTodayChristmas?": "No say I",
-      "IsTodayMyBirthday?": "Maybe another time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/ah1wun.jpg"
+      "FunFactOfTheDay": "Each year there is one ton of cement poured for each man woman and child in the world. ",
+      "CoolAdviceOfTheDay": "YOLO",
+      "DadJokeOfTheDay": "Why don't skeletons ride roller coasters? They don't have the stomach for it.",
+      "IsTodayChristmas?": "Not this time",
+      "IsTodayMyBirthday?": "Not this time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/ah4fhg.jpg"
    }
 }
 ```
