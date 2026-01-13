@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Each year there is one ton of cement poured for each man woman and child in the world. ",
-      "CoolAdviceOfTheDay": "YOLO",
-      "DadJokeOfTheDay": "Why don't skeletons ride roller coasters? They don't have the stomach for it.",
-      "IsTodayChristmas?": "Not this time",
-      "IsTodayMyBirthday?": "Not this time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/ah4fhg.jpg"
+      "FunFactOfTheDay": "98% of all murders and rapes are by a close family member or friend of the victim.",
+      "CoolAdviceOfTheDay": "You spend half your life asleep or in bed. It's worth spending money on a good mattress, decent pillows and a comfy duvet.",
+      "DadJokeOfTheDay": "I just wrote a book on reverse psychology. Do not read it!",
+      "IsTodayChristmas?": "Unfortunately, not",
+      "IsTodayMyBirthday?": "Unfortunately, not",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/ah7p69.jpg"
    }
 }
 ```
