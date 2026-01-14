@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "98% of all murders and rapes are by a close family member or friend of the victim.",
-      "CoolAdviceOfTheDay": "You spend half your life asleep or in bed. It's worth spending money on a good mattress, decent pillows and a comfy duvet.",
-      "DadJokeOfTheDay": "I just wrote a book on reverse psychology. Do not read it!",
-      "IsTodayChristmas?": "Unfortunately, not",
-      "IsTodayMyBirthday?": "Unfortunately, not",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/ah7p69.jpg"
+      "FunFactOfTheDay": "It's not the dev fault",
+      "CoolAdviceOfTheDay": "Walking is a perfectly valid solution to traffic congestion problems.",
+      "DadJokeOfTheDay": "Two guys walked into a bar, the third one ducked.",
+      "IsTodayChristmas?": "One day",
+      "IsTodayMyBirthday?": "No",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/ahb5zr.jpg"
    }
 }
 ```
