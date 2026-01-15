@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "It's not the dev fault",
-      "CoolAdviceOfTheDay": "Walking is a perfectly valid solution to traffic congestion problems.",
-      "DadJokeOfTheDay": "Two guys walked into a bar, the third one ducked.",
-      "IsTodayChristmas?": "One day",
-      "IsTodayMyBirthday?": "No",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/ahb5zr.jpg"
+      "FunFactOfTheDay": "Months that begin on a Sunday will always have a `Friday the 13th`.",
+      "CoolAdviceOfTheDay": "Don't judge a book by its cover, unless it has a synopsis on the back.",
+      "DadJokeOfTheDay": "What is the tallest building in the world? The library – it’s got the most stories!",
+      "IsTodayChristmas?": "Ask me tomorrow",
+      "IsTodayMyBirthday?": "Not quite",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/aheqmg.jpg"
    }
 }
 ```
