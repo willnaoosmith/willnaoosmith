@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Months that begin on a Sunday will always have a `Friday the 13th`.",
-      "CoolAdviceOfTheDay": "Don't judge a book by its cover, unless it has a synopsis on the back.",
-      "DadJokeOfTheDay": "What is the tallest building in the world? The library – it’s got the most stories!",
-      "IsTodayChristmas?": "Ask me tomorrow",
-      "IsTodayMyBirthday?": "Not quite",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/aheqmg.jpg"
+      "FunFactOfTheDay": "Astronaut Neil Armstrong first stepped on the moon with his left foot.",
+      "CoolAdviceOfTheDay": "What could you increase? What could you reduce?",
+      "DadJokeOfTheDay": "Have you heard of the band 1023MB? They haven't got a gig yet.",
+      "IsTodayChristmas?": "I dont know",
+      "IsTodayMyBirthday?": "No say I",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/ahiapw.jpg"
    }
 }
 ```
