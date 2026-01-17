@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Astronaut Neil Armstrong first stepped on the moon with his left foot.",
-      "CoolAdviceOfTheDay": "What could you increase? What could you reduce?",
-      "DadJokeOfTheDay": "Have you heard of the band 1023MB? They haven't got a gig yet.",
-      "IsTodayChristmas?": "I dont know",
-      "IsTodayMyBirthday?": "No say I",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/ahiapw.jpg"
+      "FunFactOfTheDay": "Cats have over one hundred vocal sounds, while dogs only have about ten.",
+      "CoolAdviceOfTheDay": "If you don't like the opinion you've been given, get another one.",
+      "DadJokeOfTheDay": "I cut my finger chopping cheese, but I think that I may have grater problems.",
+      "IsTodayChristmas?": "Ask me in a year",
+      "IsTodayMyBirthday?": "One day",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/ahlnsu.jpg"
    }
 }
 ```
