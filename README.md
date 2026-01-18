@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Cats have over one hundred vocal sounds, while dogs only have about ten.",
-      "CoolAdviceOfTheDay": "If you don't like the opinion you've been given, get another one.",
-      "DadJokeOfTheDay": "I cut my finger chopping cheese, but I think that I may have grater problems.",
-      "IsTodayChristmas?": "Ask me in a year",
-      "IsTodayMyBirthday?": "One day",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/ahlnsu.jpg"
+      "FunFactOfTheDay": "The San Francisco Cable cars are the only mobile National Monuments",
+      "CoolAdviceOfTheDay": "Always get two ciders.",
+      "DadJokeOfTheDay": "Why can't your nose be 12 inches long? Because then it'd be a foot!",
+      "IsTodayChristmas?": "Maybe",
+      "IsTodayMyBirthday?": "!Yes",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/aho4v1.jpg"
    }
 }
 ```
