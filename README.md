@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The San Francisco Cable cars are the only mobile National Monuments",
-      "CoolAdviceOfTheDay": "Always get two ciders.",
-      "DadJokeOfTheDay": "Why can't your nose be 12 inches long? Because then it'd be a foot!",
-      "IsTodayChristmas?": "Maybe",
-      "IsTodayMyBirthday?": "!Yes",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/aho4v1.jpg"
+      "FunFactOfTheDay": "Honey is the only food which does not spoil.",
+      "CoolAdviceOfTheDay": "Don't drink bleach.",
+      "DadJokeOfTheDay": "When you have a bladder infection, urine trouble.",
+      "IsTodayChristmas?": "Unfortunately, not",
+      "IsTodayMyBirthday?": "Nope",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/ahqmqy.jpg"
    }
 }
 ```
