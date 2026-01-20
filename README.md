@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Honey is the only food which does not spoil.",
+      "FunFactOfTheDay": "More people are afraid of open spaces (kenophobia) than of tight spaces (claustrophobia).",
       "CoolAdviceOfTheDay": "Don't drink bleach.",
-      "DadJokeOfTheDay": "When you have a bladder infection, urine trouble.",
-      "IsTodayChristmas?": "Unfortunately, not",
-      "IsTodayMyBirthday?": "Nope",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/ahqmqy.jpg"
+      "DadJokeOfTheDay": "How come the stadium got hot after the game? Because all of the fans left.",
+      "IsTodayChristmas?": "Nope",
+      "IsTodayMyBirthday?": "Ask me in one hour",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/ahtsb3.jpg"
    }
 }
 ```
