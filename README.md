@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "No word in the English language rhymes with month, orange, silver and purple.",
-      "CoolAdviceOfTheDay": "Don't feed Mogwais after midnight.",
-      "DadJokeOfTheDay": "Who is the coolest Doctor in the hospital? The hip Doctor!",
-      "IsTodayChristmas?": "Not yet",
-      "IsTodayMyBirthday?": "Maybe another time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/ai0rvo.jpg"
+      "FunFactOfTheDay": "Rats multiply so quickly that in 18 months, two rats could have over million descendants.",
+      "CoolAdviceOfTheDay": "When in doubt, just take the next small step.",
+      "DadJokeOfTheDay": "The biggest knight at King Arthur's round table was Sir Cumference. He acquired his size from eating too much pi.",
+      "IsTodayChristmas?": "Not this time",
+      "IsTodayMyBirthday?": "I dont know",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/ai4dub.jpg"
    }
 }
 ```
