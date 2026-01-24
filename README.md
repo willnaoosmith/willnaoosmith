@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Rats multiply so quickly that in 18 months, two rats could have over million descendants.",
-      "CoolAdviceOfTheDay": "When in doubt, just take the next small step.",
-      "DadJokeOfTheDay": "The biggest knight at King Arthur's round table was Sir Cumference. He acquired his size from eating too much pi.",
-      "IsTodayChristmas?": "Not this time",
-      "IsTodayMyBirthday?": "I dont know",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/ai4dub.jpg"
+      "FunFactOfTheDay": "The most common street name in the U.S. is Second Street.",
+      "CoolAdviceOfTheDay": "You don't need to floss all of your teeth. Only the ones you want to keep.",
+      "DadJokeOfTheDay": "I used to work for an origami company but they folded.",
+      "IsTodayChristmas?": "Nope",
+      "IsTodayMyBirthday?": "Maybe another time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/ai7vj1.jpg"
    }
 }
 ```
