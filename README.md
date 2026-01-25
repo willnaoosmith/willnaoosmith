@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The most common street name in the U.S. is Second Street.",
-      "CoolAdviceOfTheDay": "You don't need to floss all of your teeth. Only the ones you want to keep.",
-      "DadJokeOfTheDay": "I used to work for an origami company but they folded.",
-      "IsTodayChristmas?": "Nope",
-      "IsTodayMyBirthday?": "Maybe another time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/ai7vj1.jpg"
+      "FunFactOfTheDay": "It's impossible to sneeze with your eyes open.",
+      "CoolAdviceOfTheDay": "Everyone has their down days. Don't take it out on innocent bystanders.",
+      "DadJokeOfTheDay": "Why did the kid throw the clock out the window? He wanted to see time fly!",
+      "IsTodayChristmas?": "Unfortunately, not",
+      "IsTodayMyBirthday?": "Yes'nt",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/aiaeg0.jpg"
    }
 }
 ```
