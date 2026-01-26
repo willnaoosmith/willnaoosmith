@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "It's impossible to sneeze with your eyes open.",
-      "CoolAdviceOfTheDay": "Everyone has their down days. Don't take it out on innocent bystanders.",
-      "DadJokeOfTheDay": "Why did the kid throw the clock out the window? He wanted to see time fly!",
-      "IsTodayChristmas?": "Unfortunately, not",
-      "IsTodayMyBirthday?": "Yes'nt",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/aiaeg0.jpg"
+      "FunFactOfTheDay": "The Automated Teller Machine (ATM) was introduced in England in 1965.",
+      "CoolAdviceOfTheDay": "It's not a bug, it's a feature",
+      "DadJokeOfTheDay": "Don't trust atoms. They make up everything.",
+      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
+      "IsTodayMyBirthday?": "No say I",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/aid2tq.jpg"
    }
 }
 ```
