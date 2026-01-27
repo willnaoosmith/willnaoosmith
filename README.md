@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The Automated Teller Machine (ATM) was introduced in England in 1965.",
-      "CoolAdviceOfTheDay": "It's not a bug, it's a feature",
-      "DadJokeOfTheDay": "Don't trust atoms. They make up everything.",
-      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
-      "IsTodayMyBirthday?": "No say I",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/aid2tq.jpg"
+      "FunFactOfTheDay": "'Stewardesses' is the longest word typed with only the left hand.",
+      "CoolAdviceOfTheDay": "You're not as fat as you think you are.",
+      "DadJokeOfTheDay": "Why did the coffee file a police report? It got mugged.",
+      "IsTodayChristmas?": "Maybe",
+      "IsTodayMyBirthday?": "Maybe",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/aigf5o.jpg"
    }
 }
 ```
