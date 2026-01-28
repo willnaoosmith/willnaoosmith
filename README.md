@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "'Stewardesses' is the longest word typed with only the left hand.",
-      "CoolAdviceOfTheDay": "You're not as fat as you think you are.",
-      "DadJokeOfTheDay": "Why did the coffee file a police report? It got mugged.",
-      "IsTodayChristmas?": "Maybe",
-      "IsTodayMyBirthday?": "Maybe",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/aigf5o.jpg"
+      "FunFactOfTheDay": "Over 60% of all those who marry get divorced.",
+      "CoolAdviceOfTheDay": "Some of life's best lessons are learnt at the worst times.",
+      "DadJokeOfTheDay": "Toasters were the first form of pop-up notifications.",
+      "IsTodayChristmas?": "!Yes",
+      "IsTodayMyBirthday?": "Nope",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/aijznt.jpg"
    }
 }
 ```
