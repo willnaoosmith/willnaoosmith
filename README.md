@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Over 60% of all those who marry get divorced.",
-      "CoolAdviceOfTheDay": "Some of life's best lessons are learnt at the worst times.",
-      "DadJokeOfTheDay": "Toasters were the first form of pop-up notifications.",
-      "IsTodayChristmas?": "!Yes",
-      "IsTodayMyBirthday?": "Nope",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/aijznt.jpg"
+      "FunFactOfTheDay": "The thumbnail grows the slowest, the middle nail the fastest, nearly 4 times faster than toenails.",
+      "CoolAdviceOfTheDay": "If you have grandparents or parents - Talk to them more. Ask them about their life experiences.",
+      "DadJokeOfTheDay": "I boiled a funny bone last night and had a laughing stock",
+      "IsTodayChristmas?": "No say I",
+      "IsTodayMyBirthday?": "Maybe another time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/ainnp1.jpg"
    }
 }
 ```
