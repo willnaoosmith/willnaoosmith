@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The thumbnail grows the slowest, the middle nail the fastest, nearly 4 times faster than toenails.",
-      "CoolAdviceOfTheDay": "If you have grandparents or parents - Talk to them more. Ask them about their life experiences.",
-      "DadJokeOfTheDay": "I boiled a funny bone last night and had a laughing stock",
-      "IsTodayChristmas?": "No say I",
-      "IsTodayMyBirthday?": "Maybe another time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/ainnp1.jpg"
+      "FunFactOfTheDay": "The glue on Israeli postage is certified kosher.",
+      "CoolAdviceOfTheDay": "If it ain't broke don't fix it.",
+      "DadJokeOfTheDay": "What do you call a magician who has lost their magic? Ian.",
+      "IsTodayChristmas?": "Not quite",
+      "IsTodayMyBirthday?": "Ask me in one hour",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/aire1y.jpg"
    }
 }
 ```
