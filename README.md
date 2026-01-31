@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The glue on Israeli postage is certified kosher.",
-      "CoolAdviceOfTheDay": "If it ain't broke don't fix it.",
-      "DadJokeOfTheDay": "What do you call a magician who has lost their magic? Ian.",
-      "IsTodayChristmas?": "Not quite",
-      "IsTodayMyBirthday?": "Ask me in one hour",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/aire1y.jpg"
+      "FunFactOfTheDay": "CBS` '60 Minutes' is the only TV show without a theme song/music.",
+      "CoolAdviceOfTheDay": "The hardest things to say are usually the most important.",
+      "DadJokeOfTheDay": "What kind of dinosaur loves to sleep? A stega-snore-us.",
+      "IsTodayChristmas?": "One day",
+      "IsTodayMyBirthday?": "No say I",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/aiuybl.jpg"
    }
 }
 ```
