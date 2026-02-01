@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "CBS` '60 Minutes' is the only TV show without a theme song/music.",
-      "CoolAdviceOfTheDay": "The hardest things to say are usually the most important.",
-      "DadJokeOfTheDay": "What kind of dinosaur loves to sleep? A stega-snore-us.",
-      "IsTodayChristmas?": "One day",
-      "IsTodayMyBirthday?": "No say I",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/aiuybl.jpg"
+      "FunFactOfTheDay": "You can sail all the way around the world at latitude 60 degrees south.",
+      "CoolAdviceOfTheDay": "Learn from your mistakes.",
+      "DadJokeOfTheDay": "Two peanuts were walking down the street. One was a salted.",
+      "IsTodayChristmas?": "Not quite",
+      "IsTodayMyBirthday?": "I dont know",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/aixhvc.jpg"
    }
 }
 ```
