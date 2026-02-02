@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "You can sail all the way around the world at latitude 60 degrees south.",
-      "CoolAdviceOfTheDay": "Learn from your mistakes.",
-      "DadJokeOfTheDay": "Two peanuts were walking down the street. One was a salted.",
-      "IsTodayChristmas?": "Not quite",
-      "IsTodayMyBirthday?": "I dont know",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/aixhvc.jpg"
+      "FunFactOfTheDay": "The Michelin man is known as Mr. Bib. His name was Bibendum in the company’s first ads in 1896.",
+      "CoolAdviceOfTheDay": "Be brave. Even if you're not, pretend to be. No one can tell the difference.",
+      "DadJokeOfTheDay": "Have you heard about the owl sanctuary job opening? It’s all night shifts but they’re all a hoot over there.",
+      "IsTodayChristmas?": "Ask me tomorrow",
+      "IsTodayMyBirthday?": "Maybe",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/aizzw2.jpg"
    }
 }
 ```
