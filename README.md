@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The Michelin man is known as Mr. Bib. His name was Bibendum in the company’s first ads in 1896.",
-      "CoolAdviceOfTheDay": "Be brave. Even if you're not, pretend to be. No one can tell the difference.",
-      "DadJokeOfTheDay": "Have you heard about the owl sanctuary job opening? It’s all night shifts but they’re all a hoot over there.",
-      "IsTodayChristmas?": "Ask me tomorrow",
-      "IsTodayMyBirthday?": "Maybe",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/aizzw2.jpg"
+      "FunFactOfTheDay": "Approximately every seven minutes of every day, someone in an aerobics class pulls their hamstring.",
+      "CoolAdviceOfTheDay": "The sun always shines above the clouds.",
+      "DadJokeOfTheDay": "What do you get if you cross a turkey with a ghost? A poultry-geist!",
+      "IsTodayChristmas?": "!Yes",
+      "IsTodayMyBirthday?": "No say I",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/aj3hrl.jpg"
    }
 }
 ```
