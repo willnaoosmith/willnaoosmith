@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Approximately every seven minutes of every day, someone in an aerobics class pulls their hamstring.",
-      "CoolAdviceOfTheDay": "The sun always shines above the clouds.",
-      "DadJokeOfTheDay": "What do you get if you cross a turkey with a ghost? A poultry-geist!",
-      "IsTodayChristmas?": "!Yes",
-      "IsTodayMyBirthday?": "No say I",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/aj3hrl.jpg"
+      "FunFactOfTheDay": "When a Hawaiian woman wears a flower over her left ear, it means that she is not available.",
+      "CoolAdviceOfTheDay": "If it ain't broke don't fix it.",
+      "DadJokeOfTheDay": "Why do wizards clean their teeth three times a day? To prevent bat breath!",
+      "IsTodayChristmas?": "Not quite",
+      "IsTodayMyBirthday?": "No",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/aj710s.jpg"
    }
 }
 ```
