@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The expression `to get fired` comes from long ago Clans that wanted to get rid of unwanted people, so they would burn their houses instead of killing them, creating the term `Got fired`.",
-      "CoolAdviceOfTheDay": "Stop procrastinating.",
-      "DadJokeOfTheDay": "What did one nut say as he chased another nut?  I'm a cashew!",
+      "FunFactOfTheDay": "Rubber bands last longer when refrigerated.",
+      "CoolAdviceOfTheDay": "When painting a room, preparation is key. The actual painting should account for about 40% of the work.",
+      "DadJokeOfTheDay": "I thought about going on an all-almond diet. But that's just nuts.",
       "IsTodayChristmas?": "No",
-      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/ajaoq7.jpg"
+      "IsTodayMyBirthday?": "Not this time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/ajedzg.jpg"
    }
 }
 ```
