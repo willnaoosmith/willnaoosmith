@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Rubber bands last longer when refrigerated.",
-      "CoolAdviceOfTheDay": "When painting a room, preparation is key. The actual painting should account for about 40% of the work.",
-      "DadJokeOfTheDay": "I thought about going on an all-almond diet. But that's just nuts.",
-      "IsTodayChristmas?": "No",
-      "IsTodayMyBirthday?": "Not this time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/ajedzg.jpg"
+      "FunFactOfTheDay": "The longest recorded flight of a chicken is thirteen seconds.",
+      "CoolAdviceOfTheDay": "Never write in an email to someone, something which you wouldn't say to that person's face.",
+      "DadJokeOfTheDay": "What do you call a group of disorganized cats? A cat-tastrophe.",
+      "IsTodayChristmas?": "Ask me in a year",
+      "IsTodayMyBirthday?": "!Yes",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/ajhv7h.jpg"
    }
 }
 ```
