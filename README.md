@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The longest recorded flight of a chicken is thirteen seconds.",
-      "CoolAdviceOfTheDay": "Never write in an email to someone, something which you wouldn't say to that person's face.",
-      "DadJokeOfTheDay": "What do you call a group of disorganized cats? A cat-tastrophe.",
-      "IsTodayChristmas?": "Ask me in a year",
-      "IsTodayMyBirthday?": "!Yes",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/ajhv7h.jpg"
+      "FunFactOfTheDay": "Americans on average eat 18 acres of pizza every day.",
+      "CoolAdviceOfTheDay": "You will always regret the round of JÃ¤germeister.",
+      "DadJokeOfTheDay": "Why was the shirt happy to hang around the tank top? Because it was armless",
+      "IsTodayChristmas?": "Maybe",
+      "IsTodayMyBirthday?": "One day",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/ajk8fr.jpg"
    }
 }
 ```
