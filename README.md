@@ -161,12 +161,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "101 Dalmatians, Peter Pan, Lady and the Tramp, and Mulan are the only Disney cartoons where both parents are present and don`t die throughout the movie.",
-      "CoolAdviceOfTheDay": "State the problem in words as clearly as possible.",
-      "DadJokeOfTheDay": "What do you call a fake noodle? An impasta.",
-      "IsTodayChristmas?": "Yes'nt",
-      "IsTodayMyBirthday?": "Maybe",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/ajmvis.jpg"
+      "FunFactOfTheDay": "Elvis had a twin brother named Garon, who died at birth, which is why Elvis middle name was Aron.",
+      "CoolAdviceOfTheDay": "The best sex is fun.",
+      "DadJokeOfTheDay": "A beekeeper was indicted after he confessed to years of stealing at work. They charged him with emBEEzlement",
+      "IsTodayChristmas?": "One day",
+      "IsTodayMyBirthday?": "!Yes",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/ajq7x8.jpg"
    }
 }
 ```
