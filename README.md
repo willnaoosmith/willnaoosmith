@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Elvis had a twin brother named Garon, who died at birth, which is why Elvis middle name was Aron.",
-      "CoolAdviceOfTheDay": "The best sex is fun.",
-      "DadJokeOfTheDay": "A beekeeper was indicted after he confessed to years of stealing at work. They charged him with emBEEzlement",
-      "IsTodayChristmas?": "One day",
-      "IsTodayMyBirthday?": "!Yes",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/ajq7x8.jpg"
+      "FunFactOfTheDay": "Coca-Cola would be green if coloring weren’t added to it.",
+      "CoolAdviceOfTheDay": "When hugging, hug with both arms and apply reasonable, affectionate pressure.",
+      "DadJokeOfTheDay": "No matter how kind you are, German children are kinder.",
+      "IsTodayChristmas?": "Not yet",
+      "IsTodayMyBirthday?": "Not yet",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/ajqt3e.jpg"
    }
 }
 ```
