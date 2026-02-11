@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Coca-Cola would be green if coloring weren’t added to it.",
-      "CoolAdviceOfTheDay": "When hugging, hug with both arms and apply reasonable, affectionate pressure.",
-      "DadJokeOfTheDay": "No matter how kind you are, German children are kinder.",
-      "IsTodayChristmas?": "Not yet",
-      "IsTodayMyBirthday?": "Not yet",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/ajqt3e.jpg"
+      "FunFactOfTheDay": "The king of hearts is the only king without a mustache.",
+      "CoolAdviceOfTheDay": "Taking photos with tablet devices looks weird.",
+      "DadJokeOfTheDay": "I once lost a banana at court but then I appealed. ",
+      "IsTodayChristmas?": "No say I",
+      "IsTodayMyBirthday?": "Not this time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/ajtoe2.jpg"
    }
 }
 ```
