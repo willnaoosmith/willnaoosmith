@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Ants closely resemble human manners:  When they wake, they stretch & appear to yawn in a human manner before taking up the tasks of the day.",
-      "CoolAdviceOfTheDay": "Eat food. Not too much, mostly plants.",
-      "DadJokeOfTheDay": "What did one snowman say to the other snow man? Do you smell carrot?",
-      "IsTodayChristmas?": "No",
-      "IsTodayMyBirthday?": "No",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/ajx8qu.jpg"
+      "FunFactOfTheDay": "Chewing gum while peeling onions will keep you from crying.",
+      "CoolAdviceOfTheDay": "Do not compare yourself with others.",
+      "DadJokeOfTheDay": "Leather is great for sneaking around because it's made of hide.",
+      "IsTodayChristmas?": "I dont know",
+      "IsTodayMyBirthday?": "I dont know",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/ak0uhe.jpg"
    }
 }
 ```
