@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Chewing gum while peeling onions will keep you from crying.",
-      "CoolAdviceOfTheDay": "Do not compare yourself with others.",
-      "DadJokeOfTheDay": "Leather is great for sneaking around because it's made of hide.",
-      "IsTodayChristmas?": "I dont know",
-      "IsTodayMyBirthday?": "I dont know",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/ak0uhe.jpg"
+      "FunFactOfTheDay": "The first toilet ever seen on television was on 'Leave It to Beaver.'",
+      "CoolAdviceOfTheDay": "Never set an alarm clock unless you know how to switch it off",
+      "DadJokeOfTheDay": "You know what they say about cliffhangers...",
+      "IsTodayChristmas?": "Not quite",
+      "IsTodayMyBirthday?": "Not this time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/ak47gn.jpg"
    }
 }
 ```
