@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The first toilet ever seen on television was on 'Leave It to Beaver.'",
-      "CoolAdviceOfTheDay": "Never set an alarm clock unless you know how to switch it off",
-      "DadJokeOfTheDay": "You know what they say about cliffhangers...",
-      "IsTodayChristmas?": "Not quite",
-      "IsTodayMyBirthday?": "Not this time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/ak47gn.jpg"
+      "FunFactOfTheDay": "In 1386, a pig in France was executed by public hanging for the murder of a child",
+      "CoolAdviceOfTheDay": "A common regret in life is wishing one hadn't worked so hard.",
+      "DadJokeOfTheDay": "Did you hear about the cow who jumped over the barbed wire fence? It was udder destruction.",
+      "IsTodayChristmas?": "Not yet",
+      "IsTodayMyBirthday?": "Ask me tomorrow",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/ak6mq6.jpg"
    }
 }
 ```
