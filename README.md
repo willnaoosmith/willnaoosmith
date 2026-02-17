@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Most household dust is made of dead skin cells.",
-      "CoolAdviceOfTheDay": "You can fail at what you don't want. So you might as well take a chance on doing what you love.",
-      "DadJokeOfTheDay": "What kind of dog lives in a particle accelerator? A Fermilabrador Retriever.",
-      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
+      "FunFactOfTheDay": "Every day, 7% of the US eats at McDonald’s.",
+      "CoolAdviceOfTheDay": "Build something out of LEGO.",
+      "DadJokeOfTheDay": " I never wanted to believe that my Dad was stealing from his job as a road worker. But when I got home, all the signs were there.  ",
+      "IsTodayChristmas?": "Nah",
       "IsTodayMyBirthday?": "Not yet",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/ak8wuc.jpg"
+      "RandomMemeOfTheDay": "https://i.imgflip.com/akbt2a.jpg"
    }
 }
 ```
