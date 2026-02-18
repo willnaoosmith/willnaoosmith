@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Every day, 7% of the US eats at McDonald’s.",
-      "CoolAdviceOfTheDay": "Build something out of LEGO.",
-      "DadJokeOfTheDay": " I never wanted to believe that my Dad was stealing from his job as a road worker. But when I got home, all the signs were there.  ",
-      "IsTodayChristmas?": "Nah",
-      "IsTodayMyBirthday?": "Not yet",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/akbt2a.jpg"
+      "FunFactOfTheDay": "A spider has transparent blood.",
+      "CoolAdviceOfTheDay": "You can have too much of a good thing.",
+      "DadJokeOfTheDay": "What concert costs only 45 cents? 50 cent featuring Nickelback.",
+      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
+      "IsTodayMyBirthday?": "Nope",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/akf2p4.jpg"
    }
 }
 ```
