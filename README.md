@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "A spider has transparent blood.",
-      "CoolAdviceOfTheDay": "You can have too much of a good thing.",
-      "DadJokeOfTheDay": "What concert costs only 45 cents? 50 cent featuring Nickelback.",
-      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
-      "IsTodayMyBirthday?": "Nope",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/akf2p4.jpg"
+      "FunFactOfTheDay": "Ancient Egyptians shaved off their eyebrows to mourn the deaths of their cats.",
+      "CoolAdviceOfTheDay": "Do not compare yourself with others.",
+      "DadJokeOfTheDay": "I always wanted to look into why I procrastinate, but I keep putting it off. ",
+      "IsTodayChristmas?": "I dont know",
+      "IsTodayMyBirthday?": "Not yet",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/akig8f.jpg"
    }
 }
 ```
