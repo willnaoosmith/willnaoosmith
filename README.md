@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Ancient Egyptians shaved off their eyebrows to mourn the deaths of their cats.",
-      "CoolAdviceOfTheDay": "Do not compare yourself with others.",
-      "DadJokeOfTheDay": "I always wanted to look into why I procrastinate, but I keep putting it off. ",
-      "IsTodayChristmas?": "I dont know",
-      "IsTodayMyBirthday?": "Not yet",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/akig8f.jpg"
+      "FunFactOfTheDay": "Buckingham Palace has 602 rooms.",
+      "CoolAdviceOfTheDay": "Stop using the term 'busy' as an excuse.",
+      "DadJokeOfTheDay": "You know what they say about cliffhangers...",
+      "IsTodayChristmas?": "Unfortunately, not",
+      "IsTodayMyBirthday?": "Ask me tomorrow",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/akm04h.jpg"
    }
 }
 ```
