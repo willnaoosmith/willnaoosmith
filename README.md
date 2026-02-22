@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "In the marriage ceremony of the ancient Inca Indians of Peru, the couple was considered officially wed when they took off their sandals and handed them to each other.",
-      "CoolAdviceOfTheDay": "Quality beats quantity.",
-      "DadJokeOfTheDay": "What did the mountain climber name his son? Cliff.",
-      "IsTodayChristmas?": "Not quite",
-      "IsTodayMyBirthday?": "Not this time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/akpdei.jpg"
+      "FunFactOfTheDay": "The town of Calma, Chile in the Atacama Desert has never had rain.",
+      "CoolAdviceOfTheDay": "Why wait until valentines day for a romantic gesture?",
+      "DadJokeOfTheDay": "What do you get when you cross a pig and a pineapple? A porky pine",
+      "IsTodayChristmas?": "I dont know",
+      "IsTodayMyBirthday?": "Nah",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/akroy2.jpg"
    }
 }
 ```
