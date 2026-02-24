@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The sperm of a mouse is actually longer than the sperm of an elephant.",
-      "CoolAdviceOfTheDay": "Never regret. If it's good, it's wonderful. If it's bad, it's experience.",
-      "DadJokeOfTheDay": "Why does Han Solo like gum? It's chewy!",
-      "IsTodayChristmas?": "Not quite",
-      "IsTodayMyBirthday?": "No",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/aku5xf.jpg"
+      "FunFactOfTheDay": "A giraffe can clean its ears with its 21-inch tongue!",
+      "CoolAdviceOfTheDay": "Eliminate the unnecessary.",
+      "DadJokeOfTheDay": "You know what they say about cliffhangers...",
+      "IsTodayChristmas?": "One day",
+      "IsTodayMyBirthday?": "Nope",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/akxinv.jpg"
    }
 }
 ```
