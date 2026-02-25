@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "A giraffe can clean its ears with its 21-inch tongue!",
-      "CoolAdviceOfTheDay": "Eliminate the unnecessary.",
-      "DadJokeOfTheDay": "You know what they say about cliffhangers...",
-      "IsTodayChristmas?": "One day",
-      "IsTodayMyBirthday?": "Nope",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/akxinv.jpg"
+      "FunFactOfTheDay": "Thirty-five percent of the people who use personal ads for dating are already married.",
+      "CoolAdviceOfTheDay": "Always block trolls.",
+      "DadJokeOfTheDay": "My first time using an elevator was an uplifting experience. The second time let me down.",
+      "IsTodayChristmas?": "Yes'nt",
+      "IsTodayMyBirthday?": "I dont know",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/al118a.jpg"
    }
 }
 ```
