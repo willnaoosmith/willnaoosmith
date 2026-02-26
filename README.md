@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Thirty-five percent of the people who use personal ads for dating are already married.",
-      "CoolAdviceOfTheDay": "Always block trolls.",
-      "DadJokeOfTheDay": "My first time using an elevator was an uplifting experience. The second time let me down.",
+      "FunFactOfTheDay": "It has been estimated that humans use only 10% of their brain.",
+      "CoolAdviceOfTheDay": "Good things come to those who wait.",
+      "DadJokeOfTheDay": "How are false teeth like stars? They come out at night!",
       "IsTodayChristmas?": "Yes'nt",
-      "IsTodayMyBirthday?": "I dont know",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/al118a.jpg"
+      "IsTodayMyBirthday?": "Maybe another time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/al4l9k.jpg"
    }
 }
 ```
