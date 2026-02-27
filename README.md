@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "It has been estimated that humans use only 10% of their brain.",
-      "CoolAdviceOfTheDay": "Good things come to those who wait.",
-      "DadJokeOfTheDay": "How are false teeth like stars? They come out at night!",
+      "FunFactOfTheDay": "The highest per capita Jell-O comsumption in the US is Des Moines.",
+      "CoolAdviceOfTheDay": "Don't waste food.",
+      "DadJokeOfTheDay": "What do you call a fashionable lawn statue with an excellent sense of rhythmn? A metro-gnome",
       "IsTodayChristmas?": "Yes'nt",
-      "IsTodayMyBirthday?": "Maybe another time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/al4l9k.jpg"
+      "IsTodayMyBirthday?": "Nope",
+      "RandomMemeOfTheDay": "I crashed"
    }
 }
 ```
