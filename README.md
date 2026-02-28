@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The highest per capita Jell-O comsumption in the US is Des Moines.",
-      "CoolAdviceOfTheDay": "Don't waste food.",
-      "DadJokeOfTheDay": "What do you call a fashionable lawn statue with an excellent sense of rhythmn? A metro-gnome",
-      "IsTodayChristmas?": "Yes'nt",
-      "IsTodayMyBirthday?": "Nope",
-      "RandomMemeOfTheDay": "I crashed"
+      "FunFactOfTheDay": "Every year 4 people in the UK die putting their trousers on.",
+      "CoolAdviceOfTheDay": "Age is of no importance, unless you are a cheese.",
+      "DadJokeOfTheDay": "I think circles are pointless.",
+      "IsTodayChristmas?": "Maybe",
+      "IsTodayMyBirthday?": "I dont know",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/aldmgc.jpg"
    }
 }
 ```
