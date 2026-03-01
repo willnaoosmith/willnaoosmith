@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Every year 4 people in the UK die putting their trousers on.",
-      "CoolAdviceOfTheDay": "Age is of no importance, unless you are a cheese.",
-      "DadJokeOfTheDay": "I think circles are pointless.",
-      "IsTodayChristmas?": "Maybe",
-      "IsTodayMyBirthday?": "I dont know",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/aldmgc.jpg"
+      "FunFactOfTheDay": "Warren Beatty and Shirley McLaine are brother and sister.",
+      "CoolAdviceOfTheDay": "Never write in an email to someone, something which you wouldn't say to that person's face.",
+      "DadJokeOfTheDay": "A bartender broke up with her boyfriend, but he kept asking her for another shot.",
+      "IsTodayChristmas?": "Not this time",
+      "IsTodayMyBirthday?": "No say I",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/alg6kl.jpg"
    }
 }
 ```
