@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "When possums are playing `possum`, they are not 'playing.' They actually pass out from sheer terror.",
-      "CoolAdviceOfTheDay": "When the cistern is filling, the seat is probably still warm.",
-      "DadJokeOfTheDay": "I used to work for a soft drink can crusher. It was soda pressing.",
-      "IsTodayChristmas?": "Unfortunately, not",
+      "FunFactOfTheDay": "'Dreamt' is the only English word that ends in the letters 'mt.' ",
+      "CoolAdviceOfTheDay": "The more ideas that you give away, the more ideas that will come to you.",
+      "DadJokeOfTheDay": "I finally bought the limited edition Thesaurus that I've always wanted. When I opened it, all the pages were blank. I have no words to describe how angry I am.",
+      "IsTodayChristmas?": "Nope",
       "IsTodayMyBirthday?": "Ask me tomorrow",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/alim8a.jpg"
+      "RandomMemeOfTheDay": "https://i.imgflip.com/allz7c.jpg"
    }
 }
 ```
