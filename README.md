@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "'Dreamt' is the only English word that ends in the letters 'mt.' ",
-      "CoolAdviceOfTheDay": "The more ideas that you give away, the more ideas that will come to you.",
-      "DadJokeOfTheDay": "I finally bought the limited edition Thesaurus that I've always wanted. When I opened it, all the pages were blank. I have no words to describe how angry I am.",
-      "IsTodayChristmas?": "Nope",
-      "IsTodayMyBirthday?": "Ask me tomorrow",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/allz7c.jpg"
+      "FunFactOfTheDay": "In a survey of 200000 ostriches over 80 years, not one tried to bury its head in the sand.",
+      "CoolAdviceOfTheDay": "Respect other people's opinions, even when they differ from your own.",
+      "DadJokeOfTheDay": "Why did the octopus beat the shark in a fight? Because it was well armed.",
+      "IsTodayChristmas?": "One day",
+      "IsTodayMyBirthday?": "Maybe another time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/alpf9d.jpg"
    }
 }
 ```
