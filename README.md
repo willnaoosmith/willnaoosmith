@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "In a survey of 200000 ostriches over 80 years, not one tried to bury its head in the sand.",
-      "CoolAdviceOfTheDay": "Respect other people's opinions, even when they differ from your own.",
-      "DadJokeOfTheDay": "Why did the octopus beat the shark in a fight? Because it was well armed.",
-      "IsTodayChristmas?": "One day",
+      "FunFactOfTheDay": "Every person, including identical twins, has a unique eye & tongue print along with their finger print.",
+      "CoolAdviceOfTheDay": "Most things done in secrecy are better left undone.",
+      "DadJokeOfTheDay": "Shout out to my grandma, that's the only way she can hear.",
+      "IsTodayChristmas?": "Ask me in a year",
       "IsTodayMyBirthday?": "Maybe another time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/alpf9d.jpg"
+      "RandomMemeOfTheDay": "https://i.imgflip.com/alsy0c.jpg"
    }
 }
 ```
