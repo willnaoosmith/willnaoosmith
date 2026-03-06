@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Every person, including identical twins, has a unique eye & tongue print along with their finger print.",
-      "CoolAdviceOfTheDay": "Most things done in secrecy are better left undone.",
-      "DadJokeOfTheDay": "Shout out to my grandma, that's the only way she can hear.",
-      "IsTodayChristmas?": "Ask me in a year",
-      "IsTodayMyBirthday?": "Maybe another time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/alsy0c.jpg"
+      "FunFactOfTheDay": "10,000 Dutch cows pass through the Amsterdam airport each year.",
+      "CoolAdviceOfTheDay": "Never run with scissors.",
+      "DadJokeOfTheDay": "I used to have a job at a calendar factory but I got the sack because I took a couple of days off.",
+      "IsTodayChristmas?": "I dont know",
+      "IsTodayMyBirthday?": "No",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/alwivb.jpg"
    }
 }
 ```
