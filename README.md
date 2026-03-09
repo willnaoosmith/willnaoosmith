@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "There are 1,575 steps from the ground floor to the top of the Empire State building.",
-      "CoolAdviceOfTheDay": "Put a piece of kitchen roll in with your bag of leaves to make them last longer.",
-      "DadJokeOfTheDay": "Where do you take someone who’s been injured in a peek-a-boo accident? To the I.C.U.",
-      "IsTodayChristmas?": "Not yet",
-      "IsTodayMyBirthday?": "Not yet",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/am277f.jpg"
+      "FunFactOfTheDay": "Insects outnumber humans 100,000,000 to one.",
+      "CoolAdviceOfTheDay": "Don't waste food.",
+      "DadJokeOfTheDay": "I heard there was a new store called Moderation. They have everything there",
+      "IsTodayChristmas?": "Yes'nt",
+      "IsTodayMyBirthday?": "Unfortunately, not",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/am4l7m.jpg"
    }
 }
 ```
