@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Insects outnumber humans 100,000,000 to one.",
-      "CoolAdviceOfTheDay": "Don't waste food.",
-      "DadJokeOfTheDay": "I heard there was a new store called Moderation. They have everything there",
-      "IsTodayChristmas?": "Yes'nt",
-      "IsTodayMyBirthday?": "Unfortunately, not",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/am4l7m.jpg"
+      "FunFactOfTheDay": "The San Francisco Cable cars are the only mobile National Monuments.",
+      "CoolAdviceOfTheDay": "If you've nothing nice to say, say nothing.",
+      "DadJokeOfTheDay": "I ordered a chicken and an egg from Amazon. I'll let you know.",
+      "IsTodayChristmas?": "!Yes",
+      "IsTodayMyBirthday?": "No say I",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/am7v45.jpg"
    }
 }
 ```
