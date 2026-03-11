@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The San Francisco Cable cars are the only mobile National Monuments.",
-      "CoolAdviceOfTheDay": "If you've nothing nice to say, say nothing.",
-      "DadJokeOfTheDay": "I ordered a chicken and an egg from Amazon. I'll let you know.",
-      "IsTodayChristmas?": "!Yes",
-      "IsTodayMyBirthday?": "No say I",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/am7v45.jpg"
+      "FunFactOfTheDay": "The average Japanese household watches more than 10 hours of television a day.",
+      "CoolAdviceOfTheDay": "Try to not compliment people on things they don't control.",
+      "DadJokeOfTheDay": "Last night me and my girlfriend watched three DVDs back to back. Luckily I was the one facing the TV.",
+      "IsTodayChristmas?": "Nah",
+      "IsTodayMyBirthday?": "!Yes",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/amb965.jpg"
    }
 }
 ```
