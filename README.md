@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The average Japanese household watches more than 10 hours of television a day.",
-      "CoolAdviceOfTheDay": "Try to not compliment people on things they don't control.",
-      "DadJokeOfTheDay": "Last night me and my girlfriend watched three DVDs back to back. Luckily I was the one facing the TV.",
-      "IsTodayChristmas?": "Nah",
-      "IsTodayMyBirthday?": "!Yes",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/amb965.jpg"
+      "FunFactOfTheDay": "Johnny Appleseed planted apples so that people could use apple cider to make alcohol.",
+      "CoolAdviceOfTheDay": "YOLO",
+      "DadJokeOfTheDay": "Toasters were the first form of pop-up notifications.",
+      "IsTodayChristmas?": "One day",
+      "IsTodayMyBirthday?": "No",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/amerha.jpg"
    }
 }
 ```
