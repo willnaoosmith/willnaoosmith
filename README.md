@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Johnny Appleseed planted apples so that people could use apple cider to make alcohol.",
-      "CoolAdviceOfTheDay": "YOLO",
-      "DadJokeOfTheDay": "Toasters were the first form of pop-up notifications.",
+      "FunFactOfTheDay": "In the last 3,500 years, there have been approximately 230 years of peace throughout the civilized world.",
+      "CoolAdviceOfTheDay": "Things are just things. Don't get too attached to them.",
+      "DadJokeOfTheDay": "What do you call an old snowman? Water.",
       "IsTodayChristmas?": "One day",
-      "IsTodayMyBirthday?": "No",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/amerha.jpg"
+      "IsTodayMyBirthday?": "Ask me tomorrow",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/ami9y1.jpg"
    }
 }
 ```
