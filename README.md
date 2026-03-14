@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "In the last 3,500 years, there have been approximately 230 years of peace throughout the civilized world.",
-      "CoolAdviceOfTheDay": "Things are just things. Don't get too attached to them.",
-      "DadJokeOfTheDay": "What do you call an old snowman? Water.",
-      "IsTodayChristmas?": "One day",
-      "IsTodayMyBirthday?": "Ask me tomorrow",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/ami9y1.jpg"
+      "FunFactOfTheDay": "'I am.' is the shortest complete sentence in the English language.",
+      "CoolAdviceOfTheDay": "Always double check you actually attached the file to the email.",
+      "DadJokeOfTheDay": "I considered building the patio by myself. But I didn't have the stones.",
+      "IsTodayChristmas?": "Ask me tomorrow",
+      "IsTodayMyBirthday?": "Unfortunately, not",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/amlmim.jpg"
    }
 }
 ```
