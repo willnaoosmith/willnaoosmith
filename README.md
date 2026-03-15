@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "'I am.' is the shortest complete sentence in the English language.",
-      "CoolAdviceOfTheDay": "Always double check you actually attached the file to the email.",
-      "DadJokeOfTheDay": "I considered building the patio by myself. But I didn't have the stones.",
+      "FunFactOfTheDay": "A giraffe can clean its ears with its 21-inch tongue!",
+      "CoolAdviceOfTheDay": "You can have too much of a good thing.",
+      "DadJokeOfTheDay": "How many tickles does it take to tickle an octopus? Ten-tickles!",
       "IsTodayChristmas?": "Ask me tomorrow",
-      "IsTodayMyBirthday?": "Unfortunately, not",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/amlmim.jpg"
+      "IsTodayMyBirthday?": "Maybe",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/amnxtb.jpg"
    }
 }
 ```
