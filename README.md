@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "A giraffe can clean its ears with its 21-inch tongue!",
-      "CoolAdviceOfTheDay": "You can have too much of a good thing.",
-      "DadJokeOfTheDay": "How many tickles does it take to tickle an octopus? Ten-tickles!",
-      "IsTodayChristmas?": "Ask me tomorrow",
-      "IsTodayMyBirthday?": "Maybe",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/amnxtb.jpg"
+      "FunFactOfTheDay": "The giant red star Betelgeuse has a diameter larger than that of the Earth's orbit around the sun. ",
+      "CoolAdviceOfTheDay": "Sing in the shower.",
+      "DadJokeOfTheDay": "Why should you never trust a pig with a secret? Because it's bound to squeal.",
+      "IsTodayChristmas?": "Unfortunately, not",
+      "IsTodayMyBirthday?": "!Yes",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/amqbjq.jpg"
    }
 }
 ```
