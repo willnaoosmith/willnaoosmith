@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The giant red star Betelgeuse has a diameter larger than that of the Earth's orbit around the sun. ",
-      "CoolAdviceOfTheDay": "Sing in the shower.",
-      "DadJokeOfTheDay": "Why should you never trust a pig with a secret? Because it's bound to squeal.",
-      "IsTodayChristmas?": "Unfortunately, not",
-      "IsTodayMyBirthday?": "!Yes",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/amqbjq.jpg"
+      "FunFactOfTheDay": "315 entries in Webster’s 1996 dictionary were misspelled.",
+      "CoolAdviceOfTheDay": "State the problem in words as clearly as possible.",
+      "DadJokeOfTheDay": "Did you know crocodiles could grow up to 15 feet? But most just have 4.",
+      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
+      "IsTodayMyBirthday?": "No",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/amtm68.jpg"
    }
 }
 ```
