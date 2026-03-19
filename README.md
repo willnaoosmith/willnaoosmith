@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "A dime has 118 ridges around the edge. A quarter has 119.",
-      "CoolAdviceOfTheDay": "It's unlucky to be superstitious.",
-      "DadJokeOfTheDay": "What do you get when you cross a rabbit with a water hose? Hare spray.",
-      "IsTodayChristmas?": "Not quite",
-      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/amx3tl.jpg"
+      "FunFactOfTheDay": "Only female mosquitoes bite.",
+      "CoolAdviceOfTheDay": "Measure twice, cut once.",
+      "DadJokeOfTheDay": "What do you get when you cross a snowman with a vampire? Frostbite.",
+      "IsTodayChristmas?": "Not yet",
+      "IsTodayMyBirthday?": "Nah",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/an0jyj.jpg"
    }
 }
 ```
