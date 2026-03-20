@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Only female mosquitoes bite.",
-      "CoolAdviceOfTheDay": "Measure twice, cut once.",
-      "DadJokeOfTheDay": "What do you get when you cross a snowman with a vampire? Frostbite.",
-      "IsTodayChristmas?": "Not yet",
-      "IsTodayMyBirthday?": "Nah",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/an0jyj.jpg"
+      "FunFactOfTheDay": "The San Francisco Cable cars are the only mobile National Monuments",
+      "CoolAdviceOfTheDay": "Never write in an email to someone, something which you wouldn't say to that person's face.",
+      "DadJokeOfTheDay": "Have you heard about the film 'Constipation', you probably haven't because it's not out yet.",
+      "IsTodayChristmas?": "Ask me in a year",
+      "IsTodayMyBirthday?": "Ask me in a year",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/an3zu2.jpg"
    }
 }
 ```
