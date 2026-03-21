@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The San Francisco Cable cars are the only mobile National Monuments",
-      "CoolAdviceOfTheDay": "Never write in an email to someone, something which you wouldn't say to that person's face.",
-      "DadJokeOfTheDay": "Have you heard about the film 'Constipation', you probably haven't because it's not out yet.",
-      "IsTodayChristmas?": "Ask me in a year",
-      "IsTodayMyBirthday?": "Ask me in a year",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/an3zu2.jpg"
+      "FunFactOfTheDay": "The dot over the letter `i` is called a tittle.  ",
+      "CoolAdviceOfTheDay": "You can fail at what you don't want. So you might as well take a chance on doing what you love.",
+      "DadJokeOfTheDay": "So a duck walks into a pharmacy and says “Give me some chap-stick… and put it on my bill”",
+      "IsTodayChristmas?": "Yes'nt",
+      "IsTodayMyBirthday?": "Ask me in one hour",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/an7agd.jpg"
    }
 }
 ```
