@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The dot over the letter `i` is called a tittle.  ",
-      "CoolAdviceOfTheDay": "You can fail at what you don't want. So you might as well take a chance on doing what you love.",
-      "DadJokeOfTheDay": "So a duck walks into a pharmacy and says “Give me some chap-stick… and put it on my bill”",
+      "FunFactOfTheDay": "The catfish has over 27000 taste buds (more than any other animal)",
+      "CoolAdviceOfTheDay": "If your hair is thinning, try dying your hair a similar tone to your scalp.",
+      "DadJokeOfTheDay": "What’s the longest word in the dictionary? Smiles. Because there’s a mile between the two S’s.",
       "IsTodayChristmas?": "Yes'nt",
-      "IsTodayMyBirthday?": "Ask me in one hour",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/an7agd.jpg"
+      "IsTodayMyBirthday?": "Not quite",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/an9i7n.jpg"
    }
 }
 ```
