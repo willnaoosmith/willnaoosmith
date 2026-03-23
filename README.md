@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The catfish has over 27000 taste buds (more than any other animal)",
-      "CoolAdviceOfTheDay": "If your hair is thinning, try dying your hair a similar tone to your scalp.",
-      "DadJokeOfTheDay": "What’s the longest word in the dictionary? Smiles. Because there’s a mile between the two S’s.",
-      "IsTodayChristmas?": "Yes'nt",
-      "IsTodayMyBirthday?": "Not quite",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/an9i7n.jpg"
+      "FunFactOfTheDay": "The state of Maryland has no natural Lakes.",
+      "CoolAdviceOfTheDay": "Don't try and bump start a motorcycle on an icy road.",
+      "DadJokeOfTheDay": "Why did Dracula lie in the wrong coffin? He made a grave mistake.",
+      "IsTodayChristmas?": "Ask me in one hour",
+      "IsTodayMyBirthday?": "Not yet",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/anbtbx.jpg"
    }
 }
 ```
