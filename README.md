@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The state of Maryland has no natural Lakes.",
-      "CoolAdviceOfTheDay": "Don't try and bump start a motorcycle on an icy road.",
-      "DadJokeOfTheDay": "Why did Dracula lie in the wrong coffin? He made a grave mistake.",
-      "IsTodayChristmas?": "Ask me in one hour",
-      "IsTodayMyBirthday?": "Not yet",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/anbtbx.jpg"
+      "FunFactOfTheDay": "'Dreamt' is the only English word that ends in the letters 'mt.'",
+      "CoolAdviceOfTheDay": "Alway do anything for love, but don't do that.",
+      "DadJokeOfTheDay": "Why is it so windy inside an arena? All those fans.",
+      "IsTodayChristmas?": "Not quite",
+      "IsTodayMyBirthday?": "Ask me tomorrow",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/anf450.jpg"
    }
 }
 ```
