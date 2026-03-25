@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "'Dreamt' is the only English word that ends in the letters 'mt.'",
-      "CoolAdviceOfTheDay": "Alway do anything for love, but don't do that.",
-      "DadJokeOfTheDay": "Why is it so windy inside an arena? All those fans.",
-      "IsTodayChristmas?": "Not quite",
-      "IsTodayMyBirthday?": "Ask me tomorrow",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/anf450.jpg"
+      "FunFactOfTheDay": "Shakespeare invented the word `assassination` and `bump`.",
+      "CoolAdviceOfTheDay": "If you find yourself distressed about something, ask yourself if it will still matter tomorrow or next week or next month.",
+      "DadJokeOfTheDay": "The other day I was listening to a song about superglue, it’s been stuck in my head ever since.",
+      "IsTodayChristmas?": "Not this time",
+      "IsTodayMyBirthday?": "Maybe",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/aniljg.jpg"
    }
 }
 ```
