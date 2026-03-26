@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Shakespeare invented the word `assassination` and `bump`.",
-      "CoolAdviceOfTheDay": "If you find yourself distressed about something, ask yourself if it will still matter tomorrow or next week or next month.",
-      "DadJokeOfTheDay": "The other day I was listening to a song about superglue, it’s been stuck in my head ever since.",
-      "IsTodayChristmas?": "Not this time",
-      "IsTodayMyBirthday?": "Maybe",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/aniljg.jpg"
+      "FunFactOfTheDay": "The plastic things on the end of shoelaces are called aglets.",
+      "CoolAdviceOfTheDay": "Pedantry is fine, unless you're on the receiving end. And not a pedant.",
+      "DadJokeOfTheDay": "Why was Santa's little helper feeling depressed? Because he has low elf esteem. ",
+      "IsTodayChristmas?": "Unfortunately, not",
+      "IsTodayMyBirthday?": "Not quite",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/anm3vu.jpg"
    }
 }
 ```
