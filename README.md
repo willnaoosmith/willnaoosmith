@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The plastic things on the end of shoelaces are called aglets.",
-      "CoolAdviceOfTheDay": "Pedantry is fine, unless you're on the receiving end. And not a pedant.",
-      "DadJokeOfTheDay": "Why was Santa's little helper feeling depressed? Because he has low elf esteem. ",
-      "IsTodayChristmas?": "Unfortunately, not",
-      "IsTodayMyBirthday?": "Not quite",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/anm3vu.jpg"
+      "FunFactOfTheDay": "The pop you hear when you crack your knuckles is actually a bubble of gas burning.",
+      "CoolAdviceOfTheDay": "When something goes wrong in life, just shout 'plot twist!' and carry on.",
+      "DadJokeOfTheDay": "Why do ducks make great detectives? They always quack the case.",
+      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
+      "IsTodayMyBirthday?": "No",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/anpmrn.jpg"
    }
 }
 ```
