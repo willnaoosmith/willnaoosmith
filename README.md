@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The pop you hear when you crack your knuckles is actually a bubble of gas burning.",
-      "CoolAdviceOfTheDay": "When something goes wrong in life, just shout 'plot twist!' and carry on.",
-      "DadJokeOfTheDay": "Why do ducks make great detectives? They always quack the case.",
-      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
-      "IsTodayMyBirthday?": "No",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/anpmrn.jpg"
+      "FunFactOfTheDay": "The Michelin man is known as Mr. Bib. His name was Bibendum in the company’s first ads in 1896.",
+      "CoolAdviceOfTheDay": "If you are ever in doubt about whether or not to wash your hair: Wash it.",
+      "DadJokeOfTheDay": "Geology rocks, but Geography is where it's at!",
+      "IsTodayChristmas?": "One day",
+      "IsTodayMyBirthday?": "Maybe another time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/ansy6w.jpg"
    }
 }
 ```
