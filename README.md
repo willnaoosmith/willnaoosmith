@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The Michelin man is known as Mr. Bib. His name was Bibendum in the company’s first ads in 1896.",
-      "CoolAdviceOfTheDay": "If you are ever in doubt about whether or not to wash your hair: Wash it.",
-      "DadJokeOfTheDay": "Geology rocks, but Geography is where it's at!",
-      "IsTodayChristmas?": "One day",
-      "IsTodayMyBirthday?": "Maybe another time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/ansy6w.jpg"
+      "FunFactOfTheDay": "In the great fire of London in 1666 half of London was burnt down but only 6 people were injured.",
+      "CoolAdviceOfTheDay": "Always the burrito.",
+      "DadJokeOfTheDay": "Why does Han Solo like gum? It's chewy!",
+      "IsTodayChristmas?": "Not quite",
+      "IsTodayMyBirthday?": "Ask me in one hour",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/anv85v.jpg"
    }
 }
 ```
