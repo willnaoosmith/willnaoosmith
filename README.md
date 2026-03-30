@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "In the great fire of London in 1666 half of London was burnt down but only 6 people were injured.",
-      "CoolAdviceOfTheDay": "Always the burrito.",
-      "DadJokeOfTheDay": "Why does Han Solo like gum? It's chewy!",
+      "FunFactOfTheDay": "An average human scalp has 100,000 hairs.",
+      "CoolAdviceOfTheDay": "YOLO",
+      "DadJokeOfTheDay": "Breaking news! Energizer Bunny arrested – charged with battery.",
       "IsTodayChristmas?": "Not quite",
-      "IsTodayMyBirthday?": "Ask me in one hour",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/anv85v.jpg"
+      "IsTodayMyBirthday?": "Nope",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/anxjp8.jpg"
    }
 }
 ```
