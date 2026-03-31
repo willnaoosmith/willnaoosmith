@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "An average human scalp has 100,000 hairs.",
-      "CoolAdviceOfTheDay": "YOLO",
-      "DadJokeOfTheDay": "Breaking news! Energizer Bunny arrested – charged with battery.",
-      "IsTodayChristmas?": "Not quite",
-      "IsTodayMyBirthday?": "Nope",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/anxjp8.jpg"
+      "FunFactOfTheDay": "Leonardo Da Vinci invented the scissors, the helicopter, and many other present day items.",
+      "CoolAdviceOfTheDay": "Make choices and dont look back.",
+      "DadJokeOfTheDay": "Where do hamburgers go to dance? The meat-ball.",
+      "IsTodayChristmas?": "Not this time",
+      "IsTodayMyBirthday?": "Maybe",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/ao0qqu.jpg"
    }
 }
 ```
