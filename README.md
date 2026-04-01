@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Leonardo Da Vinci invented the scissors, the helicopter, and many other present day items.",
-      "CoolAdviceOfTheDay": "Make choices and dont look back.",
-      "DadJokeOfTheDay": "Where do hamburgers go to dance? The meat-ball.",
-      "IsTodayChristmas?": "Not this time",
-      "IsTodayMyBirthday?": "Maybe",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/ao0qqu.jpg"
+      "FunFactOfTheDay": "There is a city in Norway called 'Hell'",
+      "CoolAdviceOfTheDay": "Eat food. Not too much, mostly plants.",
+      "DadJokeOfTheDay": "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take.",
+      "IsTodayChristmas?": "Not quite",
+      "IsTodayMyBirthday?": "Maybe another time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/ao451o.jpg"
    }
 }
 ```
