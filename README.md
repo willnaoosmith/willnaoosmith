@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "There is a city in Norway called 'Hell'",
-      "CoolAdviceOfTheDay": "Eat food. Not too much, mostly plants.",
-      "DadJokeOfTheDay": "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take.",
-      "IsTodayChristmas?": "Not quite",
+      "FunFactOfTheDay": "The NY phone book had 22 Hitlers before WWII. The NY phone book had 0 Hitlers after WWII.",
+      "CoolAdviceOfTheDay": "When you look around and don't see anyone you respect, its time to leave.",
+      "DadJokeOfTheDay": "Which side of the chicken has more feathers? The outside.",
+      "IsTodayChristmas?": "Not this time",
       "IsTodayMyBirthday?": "Maybe another time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/ao451o.jpg"
+      "RandomMemeOfTheDay": "https://i.imgflip.com/ao7iyg.jpg"
    }
 }
 ```
