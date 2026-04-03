@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The NY phone book had 22 Hitlers before WWII. The NY phone book had 0 Hitlers after WWII.",
-      "CoolAdviceOfTheDay": "When you look around and don't see anyone you respect, its time to leave.",
-      "DadJokeOfTheDay": "Which side of the chicken has more feathers? The outside.",
-      "IsTodayChristmas?": "Not this time",
-      "IsTodayMyBirthday?": "Maybe another time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/ao7iyg.jpg"
+      "FunFactOfTheDay": "A full-loaded supertanker traveling at normal speed takes at least 20 minutes to stop.",
+      "CoolAdviceOfTheDay": "If you cannot unscrew the lid of a jar, try placing a rubber band around its circumference for extra grip.",
+      "DadJokeOfTheDay": "which flower is most fierce? Dandelion",
+      "IsTodayChristmas?": "No say I",
+      "IsTodayMyBirthday?": "No say I",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/aoaovk.jpg"
    }
 }
 ```
