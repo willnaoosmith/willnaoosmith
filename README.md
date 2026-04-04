@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "A full-loaded supertanker traveling at normal speed takes at least 20 minutes to stop.",
-      "CoolAdviceOfTheDay": "If you cannot unscrew the lid of a jar, try placing a rubber band around its circumference for extra grip.",
-      "DadJokeOfTheDay": "which flower is most fierce? Dandelion",
-      "IsTodayChristmas?": "No say I",
-      "IsTodayMyBirthday?": "No say I",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/aoaovk.jpg"
+      "FunFactOfTheDay": "The US has more personal computers than the next 7 countries combined.",
+      "CoolAdviceOfTheDay": "If you are feeling down, try holding a pencil between your top lip and your nose for five minutes.",
+      "DadJokeOfTheDay": "How do you make a hankie dance? Put a little boogie in it.",
+      "IsTodayChristmas?": "Nah",
+      "IsTodayMyBirthday?": "Not quite",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/aod9ee.jpg"
    }
 }
 ```
