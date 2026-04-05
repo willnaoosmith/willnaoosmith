@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The US has more personal computers than the next 7 countries combined.",
-      "CoolAdviceOfTheDay": "If you are feeling down, try holding a pencil between your top lip and your nose for five minutes.",
-      "DadJokeOfTheDay": "How do you make a hankie dance? Put a little boogie in it.",
-      "IsTodayChristmas?": "Nah",
-      "IsTodayMyBirthday?": "Not quite",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/aod9ee.jpg"
+      "FunFactOfTheDay": "Hair is made from the same substance as fingernails.",
+      "CoolAdviceOfTheDay": "If you've nothing nice to say, say nothing.",
+      "DadJokeOfTheDay": "My boss told me to have a good day. So I went home...",
+      "IsTodayChristmas?": "Not yet",
+      "IsTodayMyBirthday?": "I dont know",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/aofc8e.jpg"
    }
 }
 ```
