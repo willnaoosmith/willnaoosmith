@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Hair is made from the same substance as fingernails.",
-      "CoolAdviceOfTheDay": "If you've nothing nice to say, say nothing.",
-      "DadJokeOfTheDay": "My boss told me to have a good day. So I went home...",
+      "FunFactOfTheDay": "Ninety percent of New York City cabbies are recently arrived immigrants.",
+      "CoolAdviceOfTheDay": "Be a good lover.",
+      "DadJokeOfTheDay": "I don't trust sushi, there's something fishy about it.",
       "IsTodayChristmas?": "Not yet",
-      "IsTodayMyBirthday?": "I dont know",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/aofc8e.jpg"
+      "IsTodayMyBirthday?": "Ask me tomorrow",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/aohisi.jpg"
    }
 }
 ```
