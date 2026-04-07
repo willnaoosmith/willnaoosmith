@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Ninety percent of New York City cabbies are recently arrived immigrants.",
-      "CoolAdviceOfTheDay": "Be a good lover.",
-      "DadJokeOfTheDay": "I don't trust sushi, there's something fishy about it.",
-      "IsTodayChristmas?": "Not yet",
-      "IsTodayMyBirthday?": "Ask me tomorrow",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/aohisi.jpg"
+      "FunFactOfTheDay": "In England, the Speaker of the House is not allowed to speak. ",
+      "CoolAdviceOfTheDay": "Only those who attempt the impossible can achieve the absurd.",
+      "DadJokeOfTheDay": "Sgt.: Commissar! Commissar! The troops are revolting! Commissar: Well, you’re pretty repulsive yourself.",
+      "IsTodayChristmas?": "One day",
+      "IsTodayMyBirthday?": "I dont know",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/aok2gv.jpg"
    }
 }
 ```
