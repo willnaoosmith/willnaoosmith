@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The Hawaiian alphabet has only 12 letters.",
-      "CoolAdviceOfTheDay": "No one knows anyone else in the way you do.",
-      "DadJokeOfTheDay": "What do you call a troublesome Canadian high schooler? A poutine.",
-      "IsTodayChristmas?": "I dont know",
-      "IsTodayMyBirthday?": "No",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/aon64s.jpg"
+      "FunFactOfTheDay": "Bulgarians are known to be the biggest yogurt eaters in the world.",
+      "CoolAdviceOfTheDay": "Try going commando to an important meeting, NB: don't wear a skirt.",
+      "DadJokeOfTheDay": "I tried taking some high resolution photos of local farmland, but they all turned out a bit grainy.",
+      "IsTodayChristmas?": "Ask me tomorrow",
+      "IsTodayMyBirthday?": "Nah",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/aoqchi.jpg"
    }
 }
 ```
