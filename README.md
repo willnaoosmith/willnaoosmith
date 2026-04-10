@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Bulgarians are known to be the biggest yogurt eaters in the world.",
-      "CoolAdviceOfTheDay": "Try going commando to an important meeting, NB: don't wear a skirt.",
-      "DadJokeOfTheDay": "I tried taking some high resolution photos of local farmland, but they all turned out a bit grainy.",
-      "IsTodayChristmas?": "Ask me tomorrow",
-      "IsTodayMyBirthday?": "Nah",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/aoqchi.jpg"
+      "FunFactOfTheDay": "Deborah Winger did the voice of E.T.",
+      "CoolAdviceOfTheDay": "Eat food. Not too much, mostly plants.",
+      "DadJokeOfTheDay": "A man got hit in the head with a can of Coke, but he was alright because it was a soft drink.",
+      "IsTodayChristmas?": "Nope",
+      "IsTodayMyBirthday?": "No",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/aotmlb.jpg"
    }
 }
 ```
