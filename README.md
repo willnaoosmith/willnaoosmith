@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Deborah Winger did the voice of E.T.",
-      "CoolAdviceOfTheDay": "Eat food. Not too much, mostly plants.",
-      "DadJokeOfTheDay": "A man got hit in the head with a can of Coke, but he was alright because it was a soft drink.",
-      "IsTodayChristmas?": "Nope",
-      "IsTodayMyBirthday?": "No",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/aotmlb.jpg"
+      "FunFactOfTheDay": "In 10 minutes, a hurricane releases more energy than all of the world's nuclear weapons combined.",
+      "CoolAdviceOfTheDay": "Brush your teeth the moment you get up.",
+      "DadJokeOfTheDay": "What is the difference between ignorance and apathy?  I don't know and I don't care.",
+      "IsTodayChristmas?": "Ask me in one hour",
+      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/aows6l.jpg"
    }
 }
 ```
