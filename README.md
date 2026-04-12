@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "In 10 minutes, a hurricane releases more energy than all of the world's nuclear weapons combined.",
-      "CoolAdviceOfTheDay": "Brush your teeth the moment you get up.",
-      "DadJokeOfTheDay": "What is the difference between ignorance and apathy?  I don't know and I don't care.",
-      "IsTodayChristmas?": "Ask me in one hour",
-      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/aows6l.jpg"
+      "FunFactOfTheDay": "Dentists have recommended that a toothbrush be kept at least 6 feet away from a toilet to avoid airborne particles resulting from the flush.",
+      "CoolAdviceOfTheDay": "No one knows anyone else in the way you do.",
+      "DadJokeOfTheDay": "How many optometrists does it take to change a light bulb? 1 or 2? 1... or 2?",
+      "IsTodayChristmas?": "Ask me in a year",
+      "IsTodayMyBirthday?": "I dont know",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/aoyz3z.jpg"
    }
 }
 ```
