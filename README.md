@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Dentists have recommended that a toothbrush be kept at least 6 feet away from a toilet to avoid airborne particles resulting from the flush.",
-      "CoolAdviceOfTheDay": "No one knows anyone else in the way you do.",
-      "DadJokeOfTheDay": "How many optometrists does it take to change a light bulb? 1 or 2? 1... or 2?",
-      "IsTodayChristmas?": "Ask me in a year",
-      "IsTodayMyBirthday?": "I dont know",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/aoyz3z.jpg"
+      "FunFactOfTheDay": "Anne Boleyn, Queen Elizabeth I's mother, had six fingers on one hand.",
+      "CoolAdviceOfTheDay": "Give up your seat for someone who needs it.",
+      "DadJokeOfTheDay": "What's the difference between a hippo and a zippo? One is really heavy, the other is a little lighter.",
+      "IsTodayChristmas?": "No say I",
+      "IsTodayMyBirthday?": "Not this time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/ap1c4d.jpg"
    }
 }
 ```
