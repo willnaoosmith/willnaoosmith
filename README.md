@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Anne Boleyn, Queen Elizabeth I's mother, had six fingers on one hand.",
-      "CoolAdviceOfTheDay": "Give up your seat for someone who needs it.",
-      "DadJokeOfTheDay": "What's the difference between a hippo and a zippo? One is really heavy, the other is a little lighter.",
-      "IsTodayChristmas?": "No say I",
-      "IsTodayMyBirthday?": "Not this time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/ap1c4d.jpg"
+      "FunFactOfTheDay": "In the United States, a pound of potato chips costs two hundred times more than a pound of potatoes.",
+      "CoolAdviceOfTheDay": "You're not that important; it's what you do that counts.",
+      "DadJokeOfTheDay": "How do you steal a coat? You jacket.",
+      "IsTodayChristmas?": "Nah",
+      "IsTodayMyBirthday?": "Ask me in one hour",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/ap4jja.jpg"
    }
 }
 ```
