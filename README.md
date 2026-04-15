@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "In the United States, a pound of potato chips costs two hundred times more than a pound of potatoes.",
-      "CoolAdviceOfTheDay": "You're not that important; it's what you do that counts.",
-      "DadJokeOfTheDay": "How do you steal a coat? You jacket.",
-      "IsTodayChristmas?": "Nah",
-      "IsTodayMyBirthday?": "Ask me in one hour",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/ap4jja.jpg"
+      "FunFactOfTheDay": "Elvis had a twin brother named Garon, who died at birth, which is why Elvis middle name was Aron.",
+      "CoolAdviceOfTheDay": "Don't take it personally.",
+      "DadJokeOfTheDay": "Which is the fastest growing city in the world? Dublin'",
+      "IsTodayChristmas?": "Not quite",
+      "IsTodayMyBirthday?": "Ask me tomorrow",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/ap7x8v.jpg"
    }
 }
 ```
