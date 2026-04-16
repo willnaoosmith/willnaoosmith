@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Elvis had a twin brother named Garon, who died at birth, which is why Elvis middle name was Aron.",
-      "CoolAdviceOfTheDay": "Don't take it personally.",
-      "DadJokeOfTheDay": "Which is the fastest growing city in the world? Dublin'",
-      "IsTodayChristmas?": "Not quite",
-      "IsTodayMyBirthday?": "Ask me tomorrow",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/ap7x8v.jpg"
+      "FunFactOfTheDay": "Larry Lewis ran the 100-yard dash in 17.8 seconds in 1969, thereby setting a new world`s record for runners in the 100-years-or-older class. He was 101.",
+      "CoolAdviceOfTheDay": "Avoid mixing Ginger Nuts with other biscuits, they contaminate. Keep separated.",
+      "DadJokeOfTheDay": "I once lost a banana at court but then I appealed. ",
+      "IsTodayChristmas?": "Maybe",
+      "IsTodayMyBirthday?": "!Yes",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/apbeei.jpg"
    }
 }
 ```
