@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Larry Lewis ran the 100-yard dash in 17.8 seconds in 1969, thereby setting a new world`s record for runners in the 100-years-or-older class. He was 101.",
-      "CoolAdviceOfTheDay": "Avoid mixing Ginger Nuts with other biscuits, they contaminate. Keep separated.",
-      "DadJokeOfTheDay": "I once lost a banana at court but then I appealed. ",
-      "IsTodayChristmas?": "Maybe",
-      "IsTodayMyBirthday?": "!Yes",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/apbeei.jpg"
+      "FunFactOfTheDay": "Ten percent of the Russian government`s income comes from the sale of vodka.",
+      "CoolAdviceOfTheDay": "Walking is a perfectly valid solution to traffic congestion problems.",
+      "DadJokeOfTheDay": "A girl once asked me what my heart desired, apparently blood, oxygen and neural messages were all wrong answers",
+      "IsTodayChristmas?": "No",
+      "IsTodayMyBirthday?": "Ask me in one hour",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/apey7a.jpg"
    }
 }
 ```
