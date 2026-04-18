@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Ten percent of the Russian government`s income comes from the sale of vodka.",
-      "CoolAdviceOfTheDay": "Walking is a perfectly valid solution to traffic congestion problems.",
-      "DadJokeOfTheDay": "A girl once asked me what my heart desired, apparently blood, oxygen and neural messages were all wrong answers",
-      "IsTodayChristmas?": "No",
-      "IsTodayMyBirthday?": "Ask me in one hour",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/apey7a.jpg"
+      "FunFactOfTheDay": "The storage capacity of human brain exceeds 4 Terabytes.",
+      "CoolAdviceOfTheDay": "If you're going bald, don't comb your hair over your bald patch.",
+      "DadJokeOfTheDay": "So, I heard this pun about cows, but it’s kinda offensive so I won’t say it. I don’t want there to be any beef between us. ",
+      "IsTodayChristmas?": "Not quite",
+      "IsTodayMyBirthday?": "Ask me tomorrow",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/api80v.jpg"
    }
 }
 ```
