@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The storage capacity of human brain exceeds 4 Terabytes.",
-      "CoolAdviceOfTheDay": "If you're going bald, don't comb your hair over your bald patch.",
-      "DadJokeOfTheDay": "So, I heard this pun about cows, but it’s kinda offensive so I won’t say it. I don’t want there to be any beef between us. ",
-      "IsTodayChristmas?": "Not quite",
-      "IsTodayMyBirthday?": "Ask me tomorrow",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/api80v.jpg"
+      "FunFactOfTheDay": "The longest one-syllable word in the English language is 'screeched.' ",
+      "CoolAdviceOfTheDay": "Some of life's best lessons are learnt at the worst times.",
+      "DadJokeOfTheDay": "what do you call a dog that can do magic tricks? a labracadabrador",
+      "IsTodayChristmas?": "Ask me tomorrow",
+      "IsTodayMyBirthday?": "Ask me in one hour",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/apkfkt.jpg"
    }
 }
 ```
