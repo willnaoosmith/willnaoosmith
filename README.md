@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The longest one-syllable word in the English language is 'screeched.' ",
-      "CoolAdviceOfTheDay": "Some of life's best lessons are learnt at the worst times.",
-      "DadJokeOfTheDay": "what do you call a dog that can do magic tricks? a labracadabrador",
-      "IsTodayChristmas?": "Ask me tomorrow",
+      "FunFactOfTheDay": "Arabic numerals are not really Arabic; they were created in India.",
+      "CoolAdviceOfTheDay": "Pedantry is fine, unless you're on the receiving end. And not a pedant.",
+      "DadJokeOfTheDay": "Two peanuts were walking down the street. One was a salted.",
+      "IsTodayChristmas?": "Not yet",
       "IsTodayMyBirthday?": "Ask me in one hour",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/apkfkt.jpg"
+      "RandomMemeOfTheDay": "https://i.imgflip.com/apmtfb.jpg"
    }
 }
 ```
