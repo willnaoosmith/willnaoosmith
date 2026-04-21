@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Arabic numerals are not really Arabic; they were created in India.",
-      "CoolAdviceOfTheDay": "Pedantry is fine, unless you're on the receiving end. And not a pedant.",
-      "DadJokeOfTheDay": "Two peanuts were walking down the street. One was a salted.",
-      "IsTodayChristmas?": "Not yet",
-      "IsTodayMyBirthday?": "Ask me in one hour",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/apmtfb.jpg"
+      "FunFactOfTheDay": "Everyday, more money is printed for Monopoly sets than for the U.S. Treasury.",
+      "CoolAdviceOfTheDay": "For every complex problem there is an answer that is clear, simple, and wrong.",
+      "DadJokeOfTheDay": "What did the scarf say to the hat? You go on ahead, I am going to hang around a bit longer.",
+      "IsTodayChristmas?": "Maybe another time",
+      "IsTodayMyBirthday?": "No",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/apq2iy.jpg"
    }
 }
 ```
