@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Pamela Anderson Lee is Canada`s Centennial Baby, being the first baby born on the centennial anniversary of Canada`s independence.",
-      "CoolAdviceOfTheDay": "Do something selfless.",
-      "DadJokeOfTheDay": "Two parrots are sitting on a perch. One turns to the other and asks, 'do you smell fish?'",
-      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
-      "IsTodayMyBirthday?": "Yes'nt",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/aptexj.jpg"
+      "FunFactOfTheDay": "The ant always falls over on its right side when intoxicated.",
+      "CoolAdviceOfTheDay": "Learn to handle criticism.",
+      "DadJokeOfTheDay": "I accidentally took my cats meds last night. Don’t ask meow.",
+      "IsTodayChristmas?": "Unfortunately, not",
+      "IsTodayMyBirthday?": "Not yet",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/apwx0z.jpg"
    }
 }
 ```
