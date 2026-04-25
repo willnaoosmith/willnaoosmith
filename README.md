@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Koalas never drink water. They get fluids from the eucalyptus leaves they eat.",
-      "CoolAdviceOfTheDay": "Giving someone a hug can be mutually rewarding. Try to give at least one hug a day to someone.",
-      "DadJokeOfTheDay": "Where do bees go to the bathroom?  The BP station.",
-      "IsTodayChristmas?": "I dont know",
-      "IsTodayMyBirthday?": "Not quite",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/aq0ek0.jpg"
+      "FunFactOfTheDay": "The official beverage of Ohio is tomato juice.",
+      "CoolAdviceOfTheDay": "Always bet on black.",
+      "DadJokeOfTheDay": "What do you call a troublesome Canadian high schooler? A poutine.",
+      "IsTodayChristmas?": "No say I",
+      "IsTodayMyBirthday?": "Ask me tomorrow",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/aq3okh.jpg"
    }
 }
 ```
