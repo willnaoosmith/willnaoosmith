@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The official beverage of Ohio is tomato juice.",
-      "CoolAdviceOfTheDay": "Always bet on black.",
-      "DadJokeOfTheDay": "What do you call a troublesome Canadian high schooler? A poutine.",
-      "IsTodayChristmas?": "No say I",
-      "IsTodayMyBirthday?": "Ask me tomorrow",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/aq3okh.jpg"
+      "FunFactOfTheDay": "The first female guest host of 'Saturday Night Live' was Candace Bergen.",
+      "CoolAdviceOfTheDay": "Build something out of LEGO.",
+      "DadJokeOfTheDay": "I've started telling everyone about the benefits of eating dried grapes. It's all about raisin awareness.",
+      "IsTodayChristmas?": "Not yet",
+      "IsTodayMyBirthday?": "Yes'nt",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/aq618v.jpg"
    }
 }
 ```
