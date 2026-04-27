@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The first female guest host of 'Saturday Night Live' was Candace Bergen.",
-      "CoolAdviceOfTheDay": "Build something out of LEGO.",
-      "DadJokeOfTheDay": "I've started telling everyone about the benefits of eating dried grapes. It's all about raisin awareness.",
-      "IsTodayChristmas?": "Not yet",
-      "IsTodayMyBirthday?": "Yes'nt",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/aq618v.jpg"
+      "FunFactOfTheDay": "The average raindrop falls at 7 miles per hour.",
+      "CoolAdviceOfTheDay": "Most things look better when you put them in a circle.",
+      "DadJokeOfTheDay": "Did you hear about the runner who was criticized? He just took it in stride",
+      "IsTodayChristmas?": "!Yes",
+      "IsTodayMyBirthday?": "Ask me tomorrow",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/aq8goh.jpg"
    }
 }
 ```
