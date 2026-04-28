@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The average raindrop falls at 7 miles per hour.",
-      "CoolAdviceOfTheDay": "Most things look better when you put them in a circle.",
-      "DadJokeOfTheDay": "Did you hear about the runner who was criticized? He just took it in stride",
+      "FunFactOfTheDay": "98% of all murders and rapes are by a close family member or friend of the victim.",
+      "CoolAdviceOfTheDay": "You can fail at what you don't want. So you might as well take a chance on doing what you love.",
+      "DadJokeOfTheDay": "Sgt.: Commissar! Commissar! The troops are revolting! Commissar: Well, you’re pretty repulsive yourself.",
       "IsTodayChristmas?": "!Yes",
       "IsTodayMyBirthday?": "Ask me tomorrow",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/aq8goh.jpg"
+      "RandomMemeOfTheDay": "https://i.imgflip.com/aqbufa.jpg"
    }
 }
 ```
