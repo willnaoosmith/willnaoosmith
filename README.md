@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "An Olympic gold medal must contain 92.5 percent silver",
-      "CoolAdviceOfTheDay": "State the problem in words as clearly as possible.",
-      "DadJokeOfTheDay": "What is the difference between ignorance and apathy?  I don't know and I don't care.",
-      "IsTodayChristmas?": "Not this time",
-      "IsTodayMyBirthday?": "Ask me in a year",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/aqmk6f.jpg"
+      "FunFactOfTheDay": "If one places a tiny amount of liquor on a scorpion, it will instantly go mad and sting itself to death.",
+      "CoolAdviceOfTheDay": "Alway do anything for love, but don't do that.",
+      "DadJokeOfTheDay": "Where do rabbits go after they get married? On a bunny-moon.",
+      "IsTodayChristmas?": "Not quite",
+      "IsTodayMyBirthday?": "Nah",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/aqpgga.jpg"
    }
 }
 ```
