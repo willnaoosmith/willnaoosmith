@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "If one places a tiny amount of liquor on a scorpion, it will instantly go mad and sting itself to death.",
-      "CoolAdviceOfTheDay": "Alway do anything for love, but don't do that.",
-      "DadJokeOfTheDay": "Where do rabbits go after they get married? On a bunny-moon.",
-      "IsTodayChristmas?": "Not quite",
-      "IsTodayMyBirthday?": "Nah",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/aqpgga.jpg"
+      "FunFactOfTheDay": "Male bats have the highest rate of homosexuality of any mammal.",
+      "CoolAdviceOfTheDay": "Never regret. If it's good, it's wonderful. If it's bad, it's experience.",
+      "DadJokeOfTheDay": "Did you hear about the cheese who saved the world? It was Legend-dairy!",
+      "IsTodayChristmas?": "Nah",
+      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/aqrrrs.jpg"
    }
 }
 ```
