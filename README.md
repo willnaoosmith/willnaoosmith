@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Male bats have the highest rate of homosexuality of any mammal.",
-      "CoolAdviceOfTheDay": "Never regret. If it's good, it's wonderful. If it's bad, it's experience.",
-      "DadJokeOfTheDay": "Did you hear about the cheese who saved the world? It was Legend-dairy!",
-      "IsTodayChristmas?": "Nah",
-      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/aqrrrs.jpg"
+      "FunFactOfTheDay": "An ostrich`s eye is bigger than its brain.  ",
+      "CoolAdviceOfTheDay": "Tell it like it is.",
+      "DadJokeOfTheDay": "What's large, grey, and doesn't matter? An irrelephant. ",
+      "IsTodayChristmas?": "No",
+      "IsTodayMyBirthday?": "One day",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/aqu7y1.jpg"
    }
 }
 ```
