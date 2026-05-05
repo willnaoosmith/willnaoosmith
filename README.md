@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "An ostrich`s eye is bigger than its brain.  ",
-      "CoolAdviceOfTheDay": "Tell it like it is.",
-      "DadJokeOfTheDay": "What's large, grey, and doesn't matter? An irrelephant. ",
-      "IsTodayChristmas?": "No",
-      "IsTodayMyBirthday?": "One day",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/aqu7y1.jpg"
+      "FunFactOfTheDay": "`Obsession` is the most popular boat name.",
+      "CoolAdviceOfTheDay": "Always block trolls.",
+      "DadJokeOfTheDay": "What did the ocean say to the shore? Nothing, it just waved.",
+      "IsTodayChristmas?": "Nah",
+      "IsTodayMyBirthday?": "Not yet",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/aqxl62.jpg"
    }
 }
 ```
