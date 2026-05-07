@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "In Bangladesh, kids as young as 15 can be jailed for cheating on their finals!",
-      "CoolAdviceOfTheDay": "If you're squashed close to strangers on public transport, try not to be rude to them. No one likes those situations.",
-      "DadJokeOfTheDay": "How do you make a water bed more bouncy. You use Spring Water",
-      "IsTodayChristmas?": "Ask me tomorrow",
-      "IsTodayMyBirthday?": "Unfortunately, not",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/ar16jo.jpg"
+      "FunFactOfTheDay": "Camels have three eyelids to protect themselves from blowing sand.",
+      "CoolAdviceOfTheDay": "Never buy cheap cling film.",
+      "DadJokeOfTheDay": "In the news a courtroom artist was arrested today, I'm not surprised, he always seemed sketchy.",
+      "IsTodayChristmas?": "Not quite",
+      "IsTodayMyBirthday?": "Not quite",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/ar4u0l.jpg"
    }
 }
 ```
