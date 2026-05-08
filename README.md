@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Camels have three eyelids to protect themselves from blowing sand.",
-      "CoolAdviceOfTheDay": "Never buy cheap cling film.",
-      "DadJokeOfTheDay": "In the news a courtroom artist was arrested today, I'm not surprised, he always seemed sketchy.",
-      "IsTodayChristmas?": "Not quite",
-      "IsTodayMyBirthday?": "Not quite",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/ar4u0l.jpg"
+      "FunFactOfTheDay": "No piece of square dry paper can be folded in half more than 7 times",
+      "CoolAdviceOfTheDay": "You spend half your life asleep or in bed. It's worth spending money on a good mattress, decent pillows and a comfy duvet.",
+      "DadJokeOfTheDay": "Wife: Honey I’m pregnant.  Me: Well…. what do we do now?  Wife: Well, I guess we should go to a baby doctor.  Me: Hm.. I think I’d be a lot more comfortable going to an adult doctor.",
+      "IsTodayChristmas?": "Unfortunately, not",
+      "IsTodayMyBirthday?": "Ask me tomorrow",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/ar8hxx.jpg"
    }
 }
 ```
