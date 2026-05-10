@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "In golf, a ‘Bo Derek’ is a score of 10.",
-      "CoolAdviceOfTheDay": "Visitors are like fish: As much as you might like them, after three days they start to smell.",
-      "DadJokeOfTheDay": "Did you hear about the cheese factory that exploded in France? There was nothing left but de Brie.",
-      "IsTodayChristmas?": "Ask me in one hour",
-      "IsTodayMyBirthday?": "No",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/arbym5.jpg"
+      "FunFactOfTheDay": "The Black Widow spider eats her mate during or after sex.",
+      "CoolAdviceOfTheDay": "Once you find a really good friend don't do anything that could mess up your friendship.",
+      "DadJokeOfTheDay": "Parallel lines have so much in common. It’s a shame they’ll never meet.",
+      "IsTodayChristmas?": "Unfortunately, not",
+      "IsTodayMyBirthday?": "Nah",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/are7py.jpg"
    }
 }
 ```
