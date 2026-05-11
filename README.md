@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The Black Widow spider eats her mate during or after sex.",
-      "CoolAdviceOfTheDay": "Once you find a really good friend don't do anything that could mess up your friendship.",
-      "DadJokeOfTheDay": "Parallel lines have so much in common. It’s a shame they’ll never meet.",
-      "IsTodayChristmas?": "Unfortunately, not",
-      "IsTodayMyBirthday?": "Nah",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/are7py.jpg"
+      "FunFactOfTheDay": "Humphrey Bogart NEVER said “Play it again, Sam” in Casablanca",
+      "CoolAdviceOfTheDay": "Never regret. If it's good, it's wonderful. If it's bad, it's experience.",
+      "DadJokeOfTheDay": "I'm practicing for a bug-eating contest and I've got butterflies in my stomach.",
+      "IsTodayChristmas?": "I dont know",
+      "IsTodayMyBirthday?": "Unfortunately, not",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/arglxm.jpg"
    }
 }
 ```
