@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Humphrey Bogart NEVER said “Play it again, Sam” in Casablanca",
-      "CoolAdviceOfTheDay": "Never regret. If it's good, it's wonderful. If it's bad, it's experience.",
-      "DadJokeOfTheDay": "I'm practicing for a bug-eating contest and I've got butterflies in my stomach.",
-      "IsTodayChristmas?": "I dont know",
+      "FunFactOfTheDay": "Lawn darts are illegal in Canada.",
+      "CoolAdviceOfTheDay": "Do something selfless.",
+      "DadJokeOfTheDay": "Did you hear about the cheese factory that exploded in France? There was nothing left but de Brie.",
+      "IsTodayChristmas?": "Nah",
       "IsTodayMyBirthday?": "Unfortunately, not",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/arglxm.jpg"
+      "RandomMemeOfTheDay": "https://i.imgflip.com/arjxdu.jpg"
    }
 }
 ```
