@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Lawn darts are illegal in Canada.",
-      "CoolAdviceOfTheDay": "Do something selfless.",
-      "DadJokeOfTheDay": "Did you hear about the cheese factory that exploded in France? There was nothing left but de Brie.",
-      "IsTodayChristmas?": "Nah",
-      "IsTodayMyBirthday?": "Unfortunately, not",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/arjxdu.jpg"
+      "FunFactOfTheDay": "In Disney`s Fantasia, the Sorcerer`s name is 'Yensid' (Disney backwards.)",
+      "CoolAdviceOfTheDay": "State the problem in words as clearly as possible.",
+      "DadJokeOfTheDay": "Where do cats write notes? Scratch Paper!",
+      "IsTodayChristmas?": "!Yes",
+      "IsTodayMyBirthday?": "Not this time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/arnifg.jpg"
    }
 }
 ```
