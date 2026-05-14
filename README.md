@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "In Disney`s Fantasia, the Sorcerer`s name is 'Yensid' (Disney backwards.)",
-      "CoolAdviceOfTheDay": "State the problem in words as clearly as possible.",
-      "DadJokeOfTheDay": "Where do cats write notes? Scratch Paper!",
-      "IsTodayChristmas?": "!Yes",
-      "IsTodayMyBirthday?": "Not this time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/arnifg.jpg"
+      "FunFactOfTheDay": "About 500 movies are made in the US and 800 in India annually.",
+      "CoolAdviceOfTheDay": "Quality beats quantity.",
+      "DadJokeOfTheDay": "What did the Zen Buddist say to the hotdog vendor? Make me one with everything.",
+      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
+      "IsTodayMyBirthday?": "No",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/arr3sd.jpg"
    }
 }
 ```
