@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "About 500 movies are made in the US and 800 in India annually.",
-      "CoolAdviceOfTheDay": "Quality beats quantity.",
-      "DadJokeOfTheDay": "What did the Zen Buddist say to the hotdog vendor? Make me one with everything.",
-      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
-      "IsTodayMyBirthday?": "No",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/arr3sd.jpg"
+      "FunFactOfTheDay": "The average American butt is 14.9 inches long.",
+      "CoolAdviceOfTheDay": "You will always regret the round of JÃ¤germeister.",
+      "DadJokeOfTheDay": "What did one plate say to the other plate? Dinner is on me!",
+      "IsTodayChristmas?": "One day",
+      "IsTodayMyBirthday?": "Not quite",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/aruirh.jpg"
    }
 }
 ```
