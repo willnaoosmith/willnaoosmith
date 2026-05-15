@@ -70,16 +70,39 @@
 <h4 align="left">My weekly programming languages per time spent</h4>
 
 <!--START_SECTION:waka-->
+**🐱 My GitHub Data** 
 
-```txt
-Total Time: 7 hrs 26 mins
+> 📦 114.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 57 Contributions in the Year 2026
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 45 Public Repositories 
+ > 
+> 🔑 24 Private Repositories 
+ > 
+**I'm an Early 🐤** 
 
-Text         2 hrs 36 mins         ████████▓░░░░░░░░░░░░░░░░   35.01 %
-Python       2 hrs 14 mins         ███████▓░░░░░░░░░░░░░░░░░   30.17 %
-JavaScript   1 hr 17 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.42 %
-CSS          45 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.26 %
-JSON         28 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.49 %
+```text
+🌞 Morning                658 commits         ████████░░░░░░░░░░░░░░░░░   33.02 % 
+🌆 Daytime                891 commits         ███████████░░░░░░░░░░░░░░   44.71 % 
+🌃 Evening                387 commits         █████░░░░░░░░░░░░░░░░░░░░   19.42 % 
+🌙 Night                  57 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
 ```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Text                     2 hrs 36 mins       █████████░░░░░░░░░░░░░░░░   35.01 % 
+Python                   2 hrs 14 mins       ████████░░░░░░░░░░░░░░░░░   30.17 % 
+JavaScript               1 hr 17 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.42 % 
+CSS                      45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
+JSON                     28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
+```
+
 
 <!--END_SECTION:waka-->
 
