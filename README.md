@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The average American butt is 14.9 inches long.",
-      "CoolAdviceOfTheDay": "You will always regret the round of JÃ¤germeister.",
-      "DadJokeOfTheDay": "What did one plate say to the other plate? Dinner is on me!",
-      "IsTodayChristmas?": "One day",
-      "IsTodayMyBirthday?": "Not quite",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/aruirh.jpg"
+      "FunFactOfTheDay": "The Amazon is the world's largest river, 3,890 miles (6,259 km) long.",
+      "CoolAdviceOfTheDay": "The best nights out are when people around you are simply having fun.",
+      "DadJokeOfTheDay": "People are shocked to discover I have a police record but I love their greatest hits!",
+      "IsTodayChristmas?": "Maybe",
+      "IsTodayMyBirthday?": "Not this time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/arxpce.jpg"
    }
 }
 ```
