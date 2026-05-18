@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "You can lead a cow upstairs but not downstairs.",
-      "CoolAdviceOfTheDay": "Be a good lover.",
-      "DadJokeOfTheDay": "Why did the house go to the doctor? It was having window panes.",
-      "IsTodayChristmas?": "No",
-      "IsTodayMyBirthday?": "No say I",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/arzxr5.jpg"
+      "FunFactOfTheDay": "A family of 26 could go to the movies in Mexico city for the price of one in Tokyo.",
+      "CoolAdviceOfTheDay": "What could you increase? What could you reduce?",
+      "DadJokeOfTheDay": "Why are fish easy to weigh? Because they have their own scales.",
+      "IsTodayChristmas?": "Not quite",
+      "IsTodayMyBirthday?": "Not quite",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/as2a1l.jpg"
    }
 }
 ```
