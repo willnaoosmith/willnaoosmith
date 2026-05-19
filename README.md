@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "A family of 26 could go to the movies in Mexico city for the price of one in Tokyo.",
-      "CoolAdviceOfTheDay": "What could you increase? What could you reduce?",
-      "DadJokeOfTheDay": "Why are fish easy to weigh? Because they have their own scales.",
-      "IsTodayChristmas?": "Not quite",
-      "IsTodayMyBirthday?": "Not quite",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/as2a1l.jpg"
+      "FunFactOfTheDay": "The Declaration of Independence was written on hemp (marijuana) paper.",
+      "CoolAdviceOfTheDay": "Never write in an email to someone, something which you wouldn't say to that person's face.",
+      "DadJokeOfTheDay": "Why did the belt go to prison? He held up a pair of pants!",
+      "IsTodayChristmas?": "Maybe",
+      "IsTodayMyBirthday?": "Maybe",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/as5kzd.jpg"
    }
 }
 ```
