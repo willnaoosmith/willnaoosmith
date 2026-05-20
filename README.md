@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The Declaration of Independence was written on hemp (marijuana) paper.",
-      "CoolAdviceOfTheDay": "Never write in an email to someone, something which you wouldn't say to that person's face.",
-      "DadJokeOfTheDay": "Why did the belt go to prison? He held up a pair of pants!",
-      "IsTodayChristmas?": "Maybe",
-      "IsTodayMyBirthday?": "Maybe",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/as5kzd.jpg"
+      "FunFactOfTheDay": "A snail can sleep for three years. ",
+      "CoolAdviceOfTheDay": "When hugging, hug with both arms and apply reasonable, affectionate pressure.",
+      "DadJokeOfTheDay": "What do you call a dad that has fallen through the ice? A Popsicle.",
+      "IsTodayChristmas?": "!Yes",
+      "IsTodayMyBirthday?": "One day",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/as93fi.jpg"
    }
 }
 ```
