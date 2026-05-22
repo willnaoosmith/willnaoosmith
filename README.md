@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Arnold Schonberg suffered from triskaidecaphobia, the fear of the number 13.  He died at 13 minutes from midnight on Friday the 13th.",
-      "CoolAdviceOfTheDay": "A problem shared is a problem halved.",
-      "DadJokeOfTheDay": "Do you want a brief explanation of what an acorn is? In a nutshell, it's an oak tree.",
-      "IsTodayChristmas?": "Not quite",
+      "FunFactOfTheDay": "CBS` '60 Minutes' is the only TV show without a theme song/music.",
+      "CoolAdviceOfTheDay": "If you have grandparents or parents - Talk to them more. Ask them about their life experiences.",
+      "DadJokeOfTheDay": "Somebody stole my Microsoft Office and they're going to pay - you have my Word.",
+      "IsTodayChristmas?": "Ask me in one hour",
       "IsTodayMyBirthday?": "Not quite",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/asckr5.jpg"
+      "RandomMemeOfTheDay": "https://i.imgflip.com/asfyrr.jpg"
    }
 }
 ```
