@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "John Lennon`s first girlfriend was named Thelma Pickles.",
-      "CoolAdviceOfTheDay": "Don't always believe what you think.",
-      "DadJokeOfTheDay": "Animal Fact #25: Most bobcats are not named bob.",
-      "IsTodayChristmas?": "!Yes",
-      "IsTodayMyBirthday?": "Nah",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/asniih.jpg"
+      "FunFactOfTheDay": "Eskimos have over 15 words for the English word of 'Snow'",
+      "CoolAdviceOfTheDay": "Always block trolls.",
+      "DadJokeOfTheDay": "Our wedding was so beautiful, even the cake was in tiers.",
+      "IsTodayChristmas?": "Unfortunately, not",
+      "IsTodayMyBirthday?": "Maybe",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/asq18n.jpg"
    }
 }
 ```
