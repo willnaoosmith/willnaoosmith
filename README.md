@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Humans use a total of 72 different muscles in speech.",
-      "CoolAdviceOfTheDay": "When something goes wrong in life, just shout 'plot twist!' and carry on.",
-      "DadJokeOfTheDay": "You know what they say about cliffhangers...",
+      "FunFactOfTheDay": "In Japan, watermelons are squared. It's easier to stack them that way.",
+      "CoolAdviceOfTheDay": "Look people in the eye.",
+      "DadJokeOfTheDay": "Why don’t skeletons ever go trick or treating? Because they have nobody to go with.",
       "IsTodayChristmas?": "Not yet",
-      "IsTodayMyBirthday?": "Not yet",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/ast9qo.jpg"
+      "IsTodayMyBirthday?": "Unfortunately, not",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/aswk49.jpg"
    }
 }
 ```
