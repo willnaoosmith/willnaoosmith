@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "In Japan, watermelons are squared. It's easier to stack them that way.",
-      "CoolAdviceOfTheDay": "Look people in the eye.",
-      "DadJokeOfTheDay": "Why don’t skeletons ever go trick or treating? Because they have nobody to go with.",
-      "IsTodayChristmas?": "Not yet",
-      "IsTodayMyBirthday?": "Unfortunately, not",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/aswk49.jpg"
+      "FunFactOfTheDay": "Simplistic passwords contribute to over 80% of all computer password break-ins.",
+      "CoolAdviceOfTheDay": "Never regret. If it's good, it's wonderful. If it's bad, it's experience.",
+      "DadJokeOfTheDay": "My boss told me to attach two pieces of wood together... I totally nailed it!",
+      "IsTodayChristmas?": "I dont know",
+      "IsTodayMyBirthday?": "I dont know",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/aszyu0.jpg"
    }
 }
 ```
