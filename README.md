@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Simplistic passwords contribute to over 80% of all computer password break-ins.",
-      "CoolAdviceOfTheDay": "Never regret. If it's good, it's wonderful. If it's bad, it's experience.",
-      "DadJokeOfTheDay": "My boss told me to attach two pieces of wood together... I totally nailed it!",
-      "IsTodayChristmas?": "I dont know",
-      "IsTodayMyBirthday?": "I dont know",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/aszyu0.jpg"
+      "FunFactOfTheDay": "The cruise liner Queen Elizabeth II moves only six inches for each gallon of diesel that it burns.",
+      "CoolAdviceOfTheDay": "When hugging, hug with both arms and apply reasonable, affectionate pressure.",
+      "DadJokeOfTheDay": "Why did the scarecrow win an award? Because he was outstanding in his field.",
+      "IsTodayChristmas?": "Maybe",
+      "IsTodayMyBirthday?": "Yes'nt",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/at37nz.jpg"
    }
 }
 ```
