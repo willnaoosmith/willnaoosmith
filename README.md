@@ -70,38 +70,15 @@
 <h4 align="left">My weekly programming languages per time spent</h4>
 
 <!--START_SECTION:waka-->
-**🐱 My GitHub Data** 
 
-> 📦 114.9 kB Used in GitHub's Storage 
- > 
-> 🏆 60 Contributions in the Year 2026
- > 
-> 💼 Opted to Hire
- > 
-> 📜 45 Public Repositories 
- > 
-> 🔑 24 Private Repositories 
- > 
-**I'm an Early 🐤** 
+```txt
+Total Time: 1 hr 13 mins
 
-```text
-🌞 Morning                659 commits         ████████░░░░░░░░░░░░░░░░░   33.02 % 
-🌆 Daytime                891 commits         ███████████░░░░░░░░░░░░░░   44.64 % 
-🌃 Evening                389 commits         █████░░░░░░░░░░░░░░░░░░░░   19.49 % 
-🌙 Night                  57 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+Python       56 mins               ███████████████████▒░░░░░   77.42 %
+JavaScript   13 mins               ████▓░░░░░░░░░░░░░░░░░░░░   19.00 %
+Text         1 min                 ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
+CSS          1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
 ```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Python                   56 mins             ███████████████████░░░░░░   77.42 % 
-JavaScript               13 mins             █████░░░░░░░░░░░░░░░░░░░░   19.00 % 
-Text                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
-CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
-```
-
 
 <!--END_SECTION:waka-->
 
