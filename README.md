@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The cruise liner Queen Elizabeth II moves only six inches for each gallon of diesel that it burns.",
-      "CoolAdviceOfTheDay": "When hugging, hug with both arms and apply reasonable, affectionate pressure.",
-      "DadJokeOfTheDay": "Why did the scarecrow win an award? Because he was outstanding in his field.",
-      "IsTodayChristmas?": "Maybe",
-      "IsTodayMyBirthday?": "Yes'nt",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/at37nz.jpg"
+      "FunFactOfTheDay": "The first contraceptive was crocodile dung used by the ancient Egyptians.",
+      "CoolAdviceOfTheDay": "To improve productivity, always have a shittier task to put off.",
+      "DadJokeOfTheDay": "The other day, my wife asked me to pass her lipstick but I accidentally passed her a glue stick. She still isn't talking to me.",
+      "IsTodayChristmas?": "Not yet",
+      "IsTodayMyBirthday?": "Nah",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/at5m6n.jpg"
    }
 }
 ```
