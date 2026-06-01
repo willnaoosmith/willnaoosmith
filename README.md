@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The first contraceptive was crocodile dung used by the ancient Egyptians.",
-      "CoolAdviceOfTheDay": "To improve productivity, always have a shittier task to put off.",
-      "DadJokeOfTheDay": "The other day, my wife asked me to pass her lipstick but I accidentally passed her a glue stick. She still isn't talking to me.",
-      "IsTodayChristmas?": "Not yet",
-      "IsTodayMyBirthday?": "Nah",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/at5m6n.jpg"
+      "FunFactOfTheDay": "The average lead pencil will draw a line 35 miles long or write approximately 50,000 English words.",
+      "CoolAdviceOfTheDay": "If you are feeling down, try holding a pencil between your top lip and your nose for five minutes.",
+      "DadJokeOfTheDay": "Why do birds fly south for the winter? Because it's too far to walk.",
+      "IsTodayChristmas?": "Nope",
+      "IsTodayMyBirthday?": "Not quite",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/at83gv.jpg"
    }
 }
 ```
