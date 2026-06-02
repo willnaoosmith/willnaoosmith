@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The average lead pencil will draw a line 35 miles long or write approximately 50,000 English words.",
-      "CoolAdviceOfTheDay": "If you are feeling down, try holding a pencil between your top lip and your nose for five minutes.",
-      "DadJokeOfTheDay": "Why do birds fly south for the winter? Because it's too far to walk.",
-      "IsTodayChristmas?": "Nope",
-      "IsTodayMyBirthday?": "Not quite",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/at83gv.jpg"
+      "FunFactOfTheDay": "There are more plastic flamingos in the U.S that there are real ones.",
+      "CoolAdviceOfTheDay": "Try making a list.",
+      "DadJokeOfTheDay": "A quick shoutout to all of the sidewalks out there... Thanks for keeping me off the streets.",
+      "IsTodayChristmas?": "One day",
+      "IsTodayMyBirthday?": "No",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/atb7ai.jpg"
    }
 }
 ```
