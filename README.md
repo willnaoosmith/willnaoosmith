@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "There are more plastic flamingos in the U.S that there are real ones.",
-      "CoolAdviceOfTheDay": "Try making a list.",
-      "DadJokeOfTheDay": "A quick shoutout to all of the sidewalks out there... Thanks for keeping me off the streets.",
-      "IsTodayChristmas?": "One day",
-      "IsTodayMyBirthday?": "No",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/atb7ai.jpg"
+      "FunFactOfTheDay": "80% of burglaries are committed by people aged 13-21.",
+      "CoolAdviceOfTheDay": "A common regret in life is wishing one hadn't worked so hard.",
+      "DadJokeOfTheDay": "What did the calculator say to the student? You can count on me.",
+      "IsTodayChristmas?": "No say I",
+      "IsTodayMyBirthday?": "Not quite",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/ateomu.jpg"
    }
 }
 ```
