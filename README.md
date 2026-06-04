@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "80% of burglaries are committed by people aged 13-21.",
-      "CoolAdviceOfTheDay": "A common regret in life is wishing one hadn't worked so hard.",
-      "DadJokeOfTheDay": "What did the calculator say to the student? You can count on me.",
-      "IsTodayChristmas?": "No say I",
-      "IsTodayMyBirthday?": "Not quite",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/ateomu.jpg"
+      "FunFactOfTheDay": "The “save” icon in Microsoft Office programs shows a floppy disk with the shutter on backwards.",
+      "CoolAdviceOfTheDay": "Don't take it personally.",
+      "DadJokeOfTheDay": "What did the hat say to the scarf? You can hang around. I'll just go on ahead. ",
+      "IsTodayChristmas?": "Not this time",
+      "IsTodayMyBirthday?": "Yes'nt",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/athx3q.jpg"
    }
 }
 ```
