@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The “save” icon in Microsoft Office programs shows a floppy disk with the shutter on backwards.",
-      "CoolAdviceOfTheDay": "Don't take it personally.",
-      "DadJokeOfTheDay": "What did the hat say to the scarf? You can hang around. I'll just go on ahead. ",
-      "IsTodayChristmas?": "Not this time",
-      "IsTodayMyBirthday?": "Yes'nt",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/athx3q.jpg"
+      "FunFactOfTheDay": "Camels chew in a figure 8 pattern.",
+      "CoolAdviceOfTheDay": "A common regret in life is wishing one hadn't worked so hard.",
+      "DadJokeOfTheDay": "A girl once asked me what my heart desired, apparently blood, oxygen and neural messages were all wrong answers",
+      "IsTodayChristmas?": "Not quite",
+      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/atl359.jpg"
    }
 }
 ```
