@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Camels chew in a figure 8 pattern.",
-      "CoolAdviceOfTheDay": "A common regret in life is wishing one hadn't worked so hard.",
-      "DadJokeOfTheDay": "A girl once asked me what my heart desired, apparently blood, oxygen and neural messages were all wrong answers",
-      "IsTodayChristmas?": "Not quite",
-      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/atl359.jpg"
+      "FunFactOfTheDay": "Fictional/horror writer Stephen King sleeps with a nearby light on to calm his fear of the dark. ",
+      "CoolAdviceOfTheDay": "If you can't do anything about it, there's no point in worrying about it.",
+      "DadJokeOfTheDay": "Someone broke into my house last night and stole my limbo trophy. How low can you go?",
+      "IsTodayChristmas?": "Nah",
+      "IsTodayMyBirthday?": "Not quite",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/ato2xh.jpg"
    }
 }
 ```
