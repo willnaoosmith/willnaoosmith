@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Fictional/horror writer Stephen King sleeps with a nearby light on to calm his fear of the dark. ",
-      "CoolAdviceOfTheDay": "If you can't do anything about it, there's no point in worrying about it.",
-      "DadJokeOfTheDay": "Someone broke into my house last night and stole my limbo trophy. How low can you go?",
-      "IsTodayChristmas?": "Nah",
-      "IsTodayMyBirthday?": "Not quite",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/ato2xh.jpg"
+      "FunFactOfTheDay": "Wyoming was the first state to give women the right to vote in 1869.",
+      "CoolAdviceOfTheDay": "One of the top five regrets people have is that they didn't have the courage to be their true self.",
+      "DadJokeOfTheDay": "In my career as a lumberjack I cut down exactly 52,487 trees. I know because I kept a log.",
+      "IsTodayChristmas?": "Not this time",
+      "IsTodayMyBirthday?": "Yes'nt",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/atq9o8.jpg"
    }
 }
 ```
