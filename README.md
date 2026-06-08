@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Wyoming was the first state to give women the right to vote in 1869.",
-      "CoolAdviceOfTheDay": "One of the top five regrets people have is that they didn't have the courage to be their true self.",
-      "DadJokeOfTheDay": "In my career as a lumberjack I cut down exactly 52,487 trees. I know because I kept a log.",
-      "IsTodayChristmas?": "Not this time",
+      "FunFactOfTheDay": "A palindrome is a sentence or group of sentences that reads the same backwards as it does forward: Ex:  `Red rum, sir, is murder.` `Ma is as selfless as I am.` `Nurse, I spy gypsies. Run!`  `A man, a plan, a canal - Panama.` `He lived as a devil, eh?`",
+      "CoolAdviceOfTheDay": "Don't always believe what you think.",
+      "DadJokeOfTheDay": "I couldn't figure out how the seat belt worked. Then it just clicked.",
+      "IsTodayChristmas?": "Nah",
       "IsTodayMyBirthday?": "Yes'nt",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/atq9o8.jpg"
+      "RandomMemeOfTheDay": "https://i.imgflip.com/atslrz.jpg"
    }
 }
 ```
