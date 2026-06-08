@@ -70,16 +70,39 @@
 <h4 align="left">My weekly programming languages per time spent</h4>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C534%20hrs%2040%20mins-blue?style=flat)
 
-```txt
-Total Time: 2 hrs 36 mins
+**🐱 My GitHub Data** 
 
-Liquid       1 hr 18 mins          ████████████▒░░░░░░░░░░░░   49.92 %
-Text         41 mins               ██████▓░░░░░░░░░░░░░░░░░░   26.43 %
-JavaScript   20 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.02 %
-Python       7 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 %
-CSS          4 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
+> 📦 114.9 kB Used in GitHub's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 45 Public Repositories 
+ > 
+> 🔑 24 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                656 commits         ████████░░░░░░░░░░░░░░░░░   32.87 % 
+🌆 Daytime                894 commits         ███████████░░░░░░░░░░░░░░   44.79 % 
+🌃 Evening                389 commits         █████░░░░░░░░░░░░░░░░░░░░   19.49 % 
+🌙 Night                  57 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
 ```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Liquid                   1 hr 18 mins        ████████████░░░░░░░░░░░░░   49.88 % 
+Text                     41 mins             ███████░░░░░░░░░░░░░░░░░░   26.49 % 
+JavaScript               20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
+Python                   7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
+CSS                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+```
+
 
 <!--END_SECTION:waka-->
 
