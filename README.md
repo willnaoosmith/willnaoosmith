@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Between 2 and 3 jockeys are killed each year in horse racing.",
-      "CoolAdviceOfTheDay": "Quality beats quantity.",
-      "DadJokeOfTheDay": "Want to hear my pizza joke? Never mind, it's too cheesy.",
-      "IsTodayChristmas?": "Ask me in a year",
-      "IsTodayMyBirthday?": "No",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/atvmgd.jpg"
+      "FunFactOfTheDay": "King Louis XIX ruled France for 15 minutes.",
+      "CoolAdviceOfTheDay": "Taking photos with tablet devices looks weird.",
+      "DadJokeOfTheDay": "A panda walks into a bar and says to the bartender “I’ll have a Scotch and . . . . . . . . . . . . . . Coke thank you”.   “Sure thing” the bartender replies and asks “but what’s with the big pause?”   The panda holds up his hands and says “I was born with them”",
+      "IsTodayChristmas?": "Not yet",
+      "IsTodayMyBirthday?": "No say I",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/atyw69.jpg"
    }
 }
 ```
