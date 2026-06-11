@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "King Louis XIX ruled France for 15 minutes.",
-      "CoolAdviceOfTheDay": "Taking photos with tablet devices looks weird.",
-      "DadJokeOfTheDay": "A panda walks into a bar and says to the bartender “I’ll have a Scotch and . . . . . . . . . . . . . . Coke thank you”.   “Sure thing” the bartender replies and asks “but what’s with the big pause?”   The panda holds up his hands and says “I was born with them”",
-      "IsTodayChristmas?": "Not yet",
-      "IsTodayMyBirthday?": "No say I",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/atyw69.jpg"
+      "FunFactOfTheDay": "On average, 100 people choke to death on ball-point pens every year.",
+      "CoolAdviceOfTheDay": "It's unlucky to be superstitious.",
+      "DadJokeOfTheDay": "I accidentally drank a bottle of invisible ink. Now I’m in hospital, waiting to be seen.",
+      "IsTodayChristmas?": "Nope",
+      "IsTodayMyBirthday?": "Not this time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/au2925.jpg"
    }
 }
 ```
