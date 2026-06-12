@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "On average, 100 people choke to death on ball-point pens every year.",
-      "CoolAdviceOfTheDay": "It's unlucky to be superstitious.",
-      "DadJokeOfTheDay": "I accidentally drank a bottle of invisible ink. Now I’m in hospital, waiting to be seen.",
-      "IsTodayChristmas?": "Nope",
-      "IsTodayMyBirthday?": "Not this time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/au2925.jpg"
+      "FunFactOfTheDay": "There are more plastic flamingos in the U.S that there are real ones.",
+      "CoolAdviceOfTheDay": "Happiness is a journey, not a destination.",
+      "DadJokeOfTheDay": "Why did the man run around his bed? Because he was trying to catch up on his sleep!",
+      "IsTodayChristmas?": "Maybe",
+      "IsTodayMyBirthday?": "Ask me in one hour",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/au5jdx.jpg"
    }
 }
 ```
