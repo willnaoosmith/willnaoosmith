@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "There are more plastic flamingos in the U.S that there are real ones.",
-      "CoolAdviceOfTheDay": "Happiness is a journey, not a destination.",
-      "DadJokeOfTheDay": "Why did the man run around his bed? Because he was trying to catch up on his sleep!",
-      "IsTodayChristmas?": "Maybe",
-      "IsTodayMyBirthday?": "Ask me in one hour",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/au5jdx.jpg"
+      "FunFactOfTheDay": "If you plant an apple seed, it is almost guaranteed to grow a tree of a different type of apple.",
+      "CoolAdviceOfTheDay": "It is easy to sit up and take notice, what's difficult is getting up and taking action.",
+      "DadJokeOfTheDay": "I am so good at sleeping I can do it with my eyes closed!",
+      "IsTodayChristmas?": "Ask me in a year",
+      "IsTodayMyBirthday?": "I dont know",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/au8hv7.jpg"
    }
 }
 ```
