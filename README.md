@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "If you plant an apple seed, it is almost guaranteed to grow a tree of a different type of apple.",
-      "CoolAdviceOfTheDay": "It is easy to sit up and take notice, what's difficult is getting up and taking action.",
-      "DadJokeOfTheDay": "I am so good at sleeping I can do it with my eyes closed!",
-      "IsTodayChristmas?": "Ask me in a year",
-      "IsTodayMyBirthday?": "I dont know",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/au8hv7.jpg"
+      "FunFactOfTheDay": "The name Jeep comes from “GP”, the army abbreviation for General Purpose.",
+      "CoolAdviceOfTheDay": "Give up your seat for someone who needs it.",
+      "DadJokeOfTheDay": "Why do choirs keep buckets handy? So they can carry their tune",
+      "IsTodayChristmas?": "Yes'nt",
+      "IsTodayMyBirthday?": "Maybe another time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/auampm.jpg"
    }
 }
 ```
