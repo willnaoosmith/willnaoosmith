@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The name Jeep comes from “GP”, the army abbreviation for General Purpose.",
-      "CoolAdviceOfTheDay": "Give up your seat for someone who needs it.",
-      "DadJokeOfTheDay": "Why do choirs keep buckets handy? So they can carry their tune",
-      "IsTodayChristmas?": "Yes'nt",
-      "IsTodayMyBirthday?": "Maybe another time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/auampm.jpg"
+      "FunFactOfTheDay": "There are no clocks in Las Vegas gambling casinos.",
+      "CoolAdviceOfTheDay": "Most things are not as bad as you think they are.",
+      "DadJokeOfTheDay": "What did the calculator say to the student? You can count on me.",
+      "IsTodayChristmas?": "Maybe another time",
+      "IsTodayMyBirthday?": "Unfortunately, not",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/aud1yf.jpg"
    }
 }
 ```
