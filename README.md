@@ -70,20 +70,15 @@
 <h4 align="left">My weekly programming languages per time spent</h4>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C537%20hrs%2010%20mins-blue?style=flat)
 
-**🐱 My GitHub Data** 
+```txt
+Total Time: 3 hrs 18 mins
 
-> 📦 114.9 kB Used in GitHub's Storage 
- > 
-> 🏆 65 Contributions in the Year 2026
- > 
-> 💼 Opted to Hire
- > 
-> 📜 45 Public Repositories 
- > 
-> 🔑 24 Private Repositories 
- > 
+Liquid   3 hrs 9 mins          ████████████████████████░   95.55 %
+Text     7 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
+XML      1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
+JSON     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+```
 
 <!--END_SECTION:waka-->
 
