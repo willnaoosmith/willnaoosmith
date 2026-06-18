@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Your stomach needs to produce a new layer of mucus every two weeks or it would digest itself.",
-      "CoolAdviceOfTheDay": "Learn from your mistakes.",
-      "DadJokeOfTheDay": "What do Alexander the Great and Winnie the Pooh have in common? Same middle name.",
-      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
-      "IsTodayMyBirthday?": "Nah",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/auj632.jpg"
+      "FunFactOfTheDay": "Oh no",
+      "CoolAdviceOfTheDay": "Have a firm handshake.",
+      "DadJokeOfTheDay": "A farmer had 297 cows, when he rounded them up, he found he had 300",
+      "IsTodayChristmas?": "Nah",
+      "IsTodayMyBirthday?": "Unfortunately, not",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/aum7oa.jpg"
    }
 }
 ```
