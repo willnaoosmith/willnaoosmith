@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Oh no",
-      "CoolAdviceOfTheDay": "Have a firm handshake.",
-      "DadJokeOfTheDay": "A farmer had 297 cows, when he rounded them up, he found he had 300",
-      "IsTodayChristmas?": "Nah",
-      "IsTodayMyBirthday?": "Unfortunately, not",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/aum7oa.jpg"
+      "FunFactOfTheDay": "Recycling one glass jar, saves enough energy to watch T.V for 3 hours!",
+      "CoolAdviceOfTheDay": "If you're feeling tired or anxious, a pint of water will almost always make you feel better.",
+      "DadJokeOfTheDay": "What do you call someone with no nose? Nobody knows.",
+      "IsTodayChristmas?": "Unfortunately, not",
+      "IsTodayMyBirthday?": "One day",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/auphgg.jpg"
    }
 }
 ```
