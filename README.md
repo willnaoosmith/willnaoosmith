@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Recycling one glass jar, saves enough energy to watch T.V for 3 hours!",
-      "CoolAdviceOfTheDay": "If you're feeling tired or anxious, a pint of water will almost always make you feel better.",
-      "DadJokeOfTheDay": "What do you call someone with no nose? Nobody knows.",
+      "FunFactOfTheDay": "Oh no",
+      "CoolAdviceOfTheDay": "Hold the door open for the next person.",
+      "DadJokeOfTheDay": "What do you get if you put a duck in a cement mixer? Quacks in the pavement.",
       "IsTodayChristmas?": "Unfortunately, not",
-      "IsTodayMyBirthday?": "One day",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/auphgg.jpg"
+      "IsTodayMyBirthday?": "Unfortunately, not",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/aus3lt.jpg"
    }
 }
 ```
