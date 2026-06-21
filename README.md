@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Oh no",
-      "CoolAdviceOfTheDay": "Hold the door open for the next person.",
-      "DadJokeOfTheDay": "What do you get if you put a duck in a cement mixer? Quacks in the pavement.",
-      "IsTodayChristmas?": "Unfortunately, not",
-      "IsTodayMyBirthday?": "Unfortunately, not",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/aus3lt.jpg"
+      "FunFactOfTheDay": "The average lifespan of an eyelash is five months.",
+      "CoolAdviceOfTheDay": "Make choices and dont look back.",
+      "DadJokeOfTheDay": "What do you call a pig that knows karate? A pork chop!",
+      "IsTodayChristmas?": "Not quite",
+      "IsTodayMyBirthday?": "Not this time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/auu64p.jpg"
    }
 }
 ```
