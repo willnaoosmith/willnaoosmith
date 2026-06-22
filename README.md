@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The average lifespan of an eyelash is five months.",
-      "CoolAdviceOfTheDay": "Make choices and dont look back.",
-      "DadJokeOfTheDay": "What do you call a pig that knows karate? A pork chop!",
-      "IsTodayChristmas?": "Not quite",
+      "FunFactOfTheDay": "$203,000,000 is spent on barbed wire each year in the U.S.",
+      "CoolAdviceOfTheDay": "You spend half your life asleep or in bed. It's worth spending money on a good mattress, decent pillows and a comfy duvet.",
+      "DadJokeOfTheDay": "What do you get hanging from Apple trees? Sore arms.",
+      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
       "IsTodayMyBirthday?": "Not this time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/auu64p.jpg"
+      "RandomMemeOfTheDay": "https://i.imgflip.com/auwij4.jpg"
    }
 }
 ```
