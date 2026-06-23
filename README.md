@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "$203,000,000 is spent on barbed wire each year in the U.S.",
-      "CoolAdviceOfTheDay": "You spend half your life asleep or in bed. It's worth spending money on a good mattress, decent pillows and a comfy duvet.",
-      "DadJokeOfTheDay": "What do you get hanging from Apple trees? Sore arms.",
-      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
-      "IsTodayMyBirthday?": "Not this time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/auwij4.jpg"
+      "FunFactOfTheDay": "All polar bears are left-handed.",
+      "CoolAdviceOfTheDay": "Visitors are like fish: As much as you might like them, after three days they start to smell.",
+      "DadJokeOfTheDay": "Got a new suit recently made entirely of living plants. I wasn’t sure at first, but it’s grown on me",
+      "IsTodayChristmas?": "One day",
+      "IsTodayMyBirthday?": "Nope",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/auzbhx.jpg"
    }
 }
 ```
