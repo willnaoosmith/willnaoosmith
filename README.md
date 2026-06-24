@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "All polar bears are left-handed.",
-      "CoolAdviceOfTheDay": "Visitors are like fish: As much as you might like them, after three days they start to smell.",
-      "DadJokeOfTheDay": "Got a new suit recently made entirely of living plants. I wasn’t sure at first, but it’s grown on me",
-      "IsTodayChristmas?": "One day",
-      "IsTodayMyBirthday?": "Nope",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/auzbhx.jpg"
+      "FunFactOfTheDay": "Cats have over one hundred vocal sounds; dogs only have about ten.",
+      "CoolAdviceOfTheDay": "Always double check you actually attached the file to the email.",
+      "DadJokeOfTheDay": "You know that cemetery up the road? People are dying to get in there.",
+      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
+      "IsTodayMyBirthday?": "Not quite",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/av288a.jpg"
    }
 }
 ```
