@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Eskimos have over 15 words for the English word of 'Snow'",
-      "CoolAdviceOfTheDay": "Don't put off breaking up with someone when you know you want to. Prolonging the situation only makes it worse.",
-      "DadJokeOfTheDay": "Me: If humans lose the ability to hear high frequency volumes as they get older, can my 4 week old son hear a dog whistle?  Doctor: No, humans can never hear that high of a frequency no matter what age they are.  Me: Trick question... dogs can't whistle.",
-      "IsTodayChristmas?": "!Yes",
-      "IsTodayMyBirthday?": "I dont know",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/av5ayk.jpg"
+      "FunFactOfTheDay": "Humphrey Bogart NEVER said “Play it again, Sam” in Casablanca",
+      "CoolAdviceOfTheDay": "The quieter you become, the more you can hear.",
+      "DadJokeOfTheDay": "A beekeeper was indicted after he confessed to years of stealing at work. They charged him with emBEEzlement",
+      "IsTodayChristmas?": "Ask me in one hour",
+      "IsTodayMyBirthday?": "Not quite",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/av8es9.jpg"
    }
 }
 ```
