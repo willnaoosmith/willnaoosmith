@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Humphrey Bogart NEVER said “Play it again, Sam” in Casablanca",
-      "CoolAdviceOfTheDay": "The quieter you become, the more you can hear.",
-      "DadJokeOfTheDay": "A beekeeper was indicted after he confessed to years of stealing at work. They charged him with emBEEzlement",
-      "IsTodayChristmas?": "Ask me in one hour",
+      "FunFactOfTheDay": "The penguin is the only bird that can swim but can't fly.",
+      "CoolAdviceOfTheDay": "If you don't want something to be public, don't post it on the Internet.",
+      "DadJokeOfTheDay": "I tried to milk a cow today, but was unsuccessful. Udder failure.",
+      "IsTodayChristmas?": "Ask me tomorrow",
       "IsTodayMyBirthday?": "Not quite",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/av8es9.jpg"
+      "RandomMemeOfTheDay": "https://i.imgflip.com/avb6to.jpg"
    }
 }
 ```
