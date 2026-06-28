@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The penguin is the only bird that can swim but can't fly.",
-      "CoolAdviceOfTheDay": "If you don't want something to be public, don't post it on the Internet.",
-      "DadJokeOfTheDay": "I tried to milk a cow today, but was unsuccessful. Udder failure.",
-      "IsTodayChristmas?": "Ask me tomorrow",
-      "IsTodayMyBirthday?": "Not quite",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/avb6to.jpg"
+      "FunFactOfTheDay": "The largest taxi fleet in the world is found in Mexico City. The city boasts a fleet of over 60,000 taxis.",
+      "CoolAdviceOfTheDay": "State the problem in words as clearly as possible.",
+      "DadJokeOfTheDay": "How does the moon cut his hair? Eclipse it.",
+      "IsTodayChristmas?": "No",
+      "IsTodayMyBirthday?": "Nah",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/avd966.jpg"
    }
 }
 ```
