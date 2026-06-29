@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The largest taxi fleet in the world is found in Mexico City. The city boasts a fleet of over 60,000 taxis.",
-      "CoolAdviceOfTheDay": "State the problem in words as clearly as possible.",
-      "DadJokeOfTheDay": "How does the moon cut his hair? Eclipse it.",
+      "FunFactOfTheDay": " was Harrison Ford`s idea so that he could take a bathroom break.",
+      "CoolAdviceOfTheDay": "Learn from your mistakes.",
+      "DadJokeOfTheDay": "To the person who stole my anti-depressant pills: I hope you're happy now.",
       "IsTodayChristmas?": "No",
-      "IsTodayMyBirthday?": "Nah",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/avd966.jpg"
+      "IsTodayMyBirthday?": "Ask me in a year",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/avfg7m.jpg"
    }
 }
 ```
