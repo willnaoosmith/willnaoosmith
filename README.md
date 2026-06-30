@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": " was Harrison Ford`s idea so that he could take a bathroom break.",
-      "CoolAdviceOfTheDay": "Learn from your mistakes.",
-      "DadJokeOfTheDay": "To the person who stole my anti-depressant pills: I hope you're happy now.",
-      "IsTodayChristmas?": "No",
-      "IsTodayMyBirthday?": "Ask me in a year",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/avfg7m.jpg"
+      "FunFactOfTheDay": "Lizards can self-amputate their tails for protection. It grows back after a few months.",
+      "CoolAdviceOfTheDay": "Stop procrastinating.",
+      "DadJokeOfTheDay": "Why do valley girls hang out in odd numbered groups? Because they can't even.",
+      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
+      "IsTodayMyBirthday?": "Not this time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/avibj7.jpg"
    }
 }
 ```
