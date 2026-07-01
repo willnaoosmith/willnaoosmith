@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Lizards can self-amputate their tails for protection. It grows back after a few months.",
-      "CoolAdviceOfTheDay": "Stop procrastinating.",
-      "DadJokeOfTheDay": "Why do valley girls hang out in odd numbered groups? Because they can't even.",
-      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
-      "IsTodayMyBirthday?": "Not this time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/avibj7.jpg"
+      "FunFactOfTheDay": "The 'Dull Men's Hall of Fame' is located in Carroll, Wisconsin.",
+      "CoolAdviceOfTheDay": "True happiness always resides in the quest.",
+      "DadJokeOfTheDay": "'I'm sorry.' 'Hi sorry, I'm dad'",
+      "IsTodayChristmas?": "Not this time",
+      "IsTodayMyBirthday?": "Not quite",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/avlf1u.jpg"
    }
 }
 ```
