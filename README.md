@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Sharkskin has tiny tooth-like scales all over.",
-      "CoolAdviceOfTheDay": "A nod is as good as a wink to a blind horse.",
-      "DadJokeOfTheDay": "My cat was just sick on the carpet, I don’t think it’s feline well.",
-      "IsTodayChristmas?": "No say I",
-      "IsTodayMyBirthday?": "Ask me in a year",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/avrmy3.jpg"
+      "FunFactOfTheDay": "Barbie's full name is 'Babara Millicent Roberts.'",
+      "CoolAdviceOfTheDay": "If you don't like the opinion you've been given, get another one.",
+      "DadJokeOfTheDay": "I had a rough day, and then somebody went and ripped the front and back pages from my dictionary. It just goes from bad to worse.",
+      "IsTodayChristmas?": "Maybe another time",
+      "IsTodayMyBirthday?": "Maybe another time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/avud1b.jpg"
    }
 }
 ```
