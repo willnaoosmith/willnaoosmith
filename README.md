@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The thyroid cartilage is more commonly known as the adams apple.",
-      "CoolAdviceOfTheDay": "You don't need to floss all of your teeth. Only the ones you want to keep.",
-      "DadJokeOfTheDay": "What has ears but cannot hear? A field of corn.",
-      "IsTodayChristmas?": "No",
-      "IsTodayMyBirthday?": "Ask me in a year",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/avwe4k.jpg"
+      "FunFactOfTheDay": "The six official languages of the U.N. are: English, French, Arabic, Chinese, Russian and Spanish.",
+      "CoolAdviceOfTheDay": "Work is never as important as you think it is.",
+      "DadJokeOfTheDay": "Every machine in the coin factory broke down all of a sudden without explanation. It just doesn’t make any cents.",
+      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
+      "IsTodayMyBirthday?": "Maybe another time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/avyn2d.jpg"
    }
 }
 ```
