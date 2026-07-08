@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The pancreas produces Insulin.",
-      "CoolAdviceOfTheDay": "Never set an alarm clock unless you know how to switch it off",
-      "DadJokeOfTheDay": "What did the calculator say to the student? You can count on me.",
-      "IsTodayChristmas?": "Not yet",
+      "FunFactOfTheDay": "The angel falls in Venezuela are nearly 20 times taller than Niagara Falls.",
+      "CoolAdviceOfTheDay": "Measure twice, cut once.",
+      "DadJokeOfTheDay": "My first time using an elevator was an uplifting experience. The second time let me down.",
+      "IsTodayChristmas?": "Unfortunately, not",
       "IsTodayMyBirthday?": "One day",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/aw1hpk.jpg"
+      "RandomMemeOfTheDay": "https://i.imgflip.com/aw4erp.jpg"
    }
 }
 ```
