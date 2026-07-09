@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The angel falls in Venezuela are nearly 20 times taller than Niagara Falls.",
-      "CoolAdviceOfTheDay": "Measure twice, cut once.",
-      "DadJokeOfTheDay": "My first time using an elevator was an uplifting experience. The second time let me down.",
-      "IsTodayChristmas?": "Unfortunately, not",
-      "IsTodayMyBirthday?": "One day",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/aw4erp.jpg"
+      "FunFactOfTheDay": "Peanuts are one of the ingredients of dynamite.",
+      "CoolAdviceOfTheDay": "Taking photos with tablet devices looks weird.",
+      "DadJokeOfTheDay": "My sister bet me $15 that I couldn't build a car out of spaghetti. You should have seen the look on her face as I drove pasta.",
+      "IsTodayChristmas?": "I dont know",
+      "IsTodayMyBirthday?": "Not yet",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/aw7h50.jpg"
    }
 }
 ```
