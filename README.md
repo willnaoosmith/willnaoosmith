@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "In 1980, a Las Vegas hospital suspended workers for betting on when patients would die.",
-      "CoolAdviceOfTheDay": "You can fail at what you don't want. So you might as well take a chance on doing what you love.",
-      "DadJokeOfTheDay": "Yesterday I confused the words 'jacuzzi' and 'yakuza'. Now I'm in hot water with the Japanese mafia.",
-      "IsTodayChristmas?": "Not this time",
-      "IsTodayMyBirthday?": "Unfortunately, not",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/awk7ch.jpg"
+      "FunFactOfTheDay": "The only domestic animal not mentioned in the Bible is the cat. ",
+      "CoolAdviceOfTheDay": "Sometimes it's best to ignore other people's advice.",
+      "DadJokeOfTheDay": "Why did the half blind man fall in the well? Because he couldn't see that well!",
+      "IsTodayChristmas?": "Ask me in a year",
+      "IsTodayMyBirthday?": "Maybe",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/awn3te.jpg"
    }
 }
 ```
