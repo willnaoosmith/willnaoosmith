@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The only domestic animal not mentioned in the Bible is the cat. ",
-      "CoolAdviceOfTheDay": "Sometimes it's best to ignore other people's advice.",
-      "DadJokeOfTheDay": "Why did the half blind man fall in the well? Because he couldn't see that well!",
-      "IsTodayChristmas?": "Ask me in a year",
-      "IsTodayMyBirthday?": "Maybe",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/awn3te.jpg"
+      "FunFactOfTheDay": "The first female guest host of 'Saturday Night Live' was Candace Bergen.",
+      "CoolAdviceOfTheDay": "Don't use Excel or Powerpoint documents for your basic word processing needs.",
+      "DadJokeOfTheDay": "What did the dog say to the two trees? Bark bark.",
+      "IsTodayChristmas?": "Yes'nt",
+      "IsTodayMyBirthday?": "Maybe another time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/awq53x.jpg"
    }
 }
 ```
