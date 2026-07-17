@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The first female guest host of 'Saturday Night Live' was Candace Bergen.",
-      "CoolAdviceOfTheDay": "Don't use Excel or Powerpoint documents for your basic word processing needs.",
-      "DadJokeOfTheDay": "What did the dog say to the two trees? Bark bark.",
-      "IsTodayChristmas?": "Yes'nt",
-      "IsTodayMyBirthday?": "Maybe another time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/awq53x.jpg"
+      "FunFactOfTheDay": "The average chocolate bar has 8 insects’ legs melted into it.",
+      "CoolAdviceOfTheDay": "If it ain't broke don't fix it.",
+      "DadJokeOfTheDay": "You can't run through a camp site. You can only ran, because it's past tents.",
+      "IsTodayChristmas?": "No",
+      "IsTodayMyBirthday?": "I dont know",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/awt3vk.jpg"
    }
 }
 ```
