@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The average chocolate bar has 8 insects’ legs melted into it.",
-      "CoolAdviceOfTheDay": "If it ain't broke don't fix it.",
-      "DadJokeOfTheDay": "You can't run through a camp site. You can only ran, because it's past tents.",
-      "IsTodayChristmas?": "No",
-      "IsTodayMyBirthday?": "I dont know",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/awt3vk.jpg"
+      "FunFactOfTheDay": "The average American looks at eight houses before buying one.",
+      "CoolAdviceOfTheDay": "If you're squashed close to strangers on public transport, try not to be rude to them. No one likes those situations.",
+      "DadJokeOfTheDay": "Why are mummys scared of vacation? They're afraid to unwind.",
+      "IsTodayChristmas?": "Maybe",
+      "IsTodayMyBirthday?": "Ask me in a year",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/awvvvg.jpg"
    }
 }
 ```
