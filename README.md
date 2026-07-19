@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The average American looks at eight houses before buying one.",
-      "CoolAdviceOfTheDay": "If you're squashed close to strangers on public transport, try not to be rude to them. No one likes those situations.",
-      "DadJokeOfTheDay": "Why are mummys scared of vacation? They're afraid to unwind.",
-      "IsTodayChristmas?": "Maybe",
-      "IsTodayMyBirthday?": "Ask me in a year",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/awvvvg.jpg"
+      "FunFactOfTheDay": "In golf, a ‘Bo Derek’ is a score of 10.",
+      "CoolAdviceOfTheDay": "Rule number 1: Try not to die. Rule number 2: Don't be a dick.",
+      "DadJokeOfTheDay": "Have you heard the story about the magic tractor? It drove down the road and turned into a field.",
+      "IsTodayChristmas?": "No",
+      "IsTodayMyBirthday?": "Not this time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/awxylj.jpg"
    }
 }
 ```
