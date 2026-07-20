@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "In golf, a ‘Bo Derek’ is a score of 10.",
-      "CoolAdviceOfTheDay": "Rule number 1: Try not to die. Rule number 2: Don't be a dick.",
-      "DadJokeOfTheDay": "Have you heard the story about the magic tractor? It drove down the road and turned into a field.",
-      "IsTodayChristmas?": "No",
-      "IsTodayMyBirthday?": "Not this time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/awxylj.jpg"
+      "FunFactOfTheDay": "Someone paid $14,000 for the bra worn by Marilyn Monroe in the film 'Some Like It Hot'.",
+      "CoolAdviceOfTheDay": "Do not seek praise, seek criticism.",
+      "DadJokeOfTheDay": "Why are skeletons so calm? Because nothing gets under their skin.",
+      "IsTodayChristmas?": "No say I",
+      "IsTodayMyBirthday?": "One day",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/ax06n9.jpg"
    }
 }
 ```
