@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Someone paid $14,000 for the bra worn by Marilyn Monroe in the film 'Some Like It Hot'.",
-      "CoolAdviceOfTheDay": "Do not seek praise, seek criticism.",
-      "DadJokeOfTheDay": "Why are skeletons so calm? Because nothing gets under their skin.",
-      "IsTodayChristmas?": "No say I",
-      "IsTodayMyBirthday?": "One day",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/ax06n9.jpg"
+      "FunFactOfTheDay": "The most common name in world is Mohammed.",
+      "CoolAdviceOfTheDay": "If you get stuck, try doing the opposite of what the solution requires.",
+      "DadJokeOfTheDay": "Why was the strawberry sad? Its parents were in a jam.",
+      "IsTodayChristmas?": "Maybe another time",
+      "IsTodayMyBirthday?": "Yes'nt",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/ax2wyj.jpg"
    }
 }
 ```
