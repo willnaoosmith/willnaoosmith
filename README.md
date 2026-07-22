@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The most common name in world is Mohammed.",
-      "CoolAdviceOfTheDay": "If you get stuck, try doing the opposite of what the solution requires.",
-      "DadJokeOfTheDay": "Why was the strawberry sad? Its parents were in a jam.",
-      "IsTodayChristmas?": "Maybe another time",
-      "IsTodayMyBirthday?": "Yes'nt",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/ax2wyj.jpg"
+      "FunFactOfTheDay": "The most sensitive cluster of nerves is at the base of the spine.",
+      "CoolAdviceOfTheDay": "Tell it like it is.",
+      "DadJokeOfTheDay": "Why did the man put his money in the freezer? He wanted cold hard cash!",
+      "IsTodayChristmas?": "Maybe",
+      "IsTodayMyBirthday?": "No say I",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/ax5qls.jpg"
    }
 }
 ```
