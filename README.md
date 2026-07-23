@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The most sensitive cluster of nerves is at the base of the spine.",
-      "CoolAdviceOfTheDay": "Tell it like it is.",
-      "DadJokeOfTheDay": "Why did the man put his money in the freezer? He wanted cold hard cash!",
-      "IsTodayChristmas?": "Maybe",
-      "IsTodayMyBirthday?": "No say I",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/ax5qls.jpg"
+      "FunFactOfTheDay": "A bull can inseminate 300 cows from one single ejaculation.",
+      "CoolAdviceOfTheDay": "If you cannot unscrew the lid of a jar, try placing a rubber band around its circumference for extra grip.",
+      "DadJokeOfTheDay": "I ordered a chicken and an egg from Amazon. I'll let you know.",
+      "IsTodayChristmas?": "One day",
+      "IsTodayMyBirthday?": "Maybe another time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/ax8la8.jpg"
    }
 }
 ```
