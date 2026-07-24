@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "A bull can inseminate 300 cows from one single ejaculation.",
-      "CoolAdviceOfTheDay": "If you cannot unscrew the lid of a jar, try placing a rubber band around its circumference for extra grip.",
-      "DadJokeOfTheDay": "I ordered a chicken and an egg from Amazon. I'll let you know.",
-      "IsTodayChristmas?": "One day",
-      "IsTodayMyBirthday?": "Maybe another time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/ax8la8.jpg"
+      "FunFactOfTheDay": "The Black Widow spider eats her mate during or after sex.",
+      "CoolAdviceOfTheDay": "Sing in the shower.",
+      "DadJokeOfTheDay": "Which is the fastest growing city in the world? Dublin'",
+      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
+      "IsTodayMyBirthday?": "Nah",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/axbi7y.jpg"
    }
 }
 ```
