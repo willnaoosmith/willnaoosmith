@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "China has more English speakers than the United States.",
-      "CoolAdviceOfTheDay": "Brush your teeth the moment you get up.",
-      "DadJokeOfTheDay": "What do you give a sick lemon? Lemonaid.",
-      "IsTodayChristmas?": "Not yet",
-      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/axe89y.jpg"
+      "FunFactOfTheDay": "Elephants only sleep for two hours each day.",
+      "CoolAdviceOfTheDay": "You will always regret the round of Tequila.",
+      "DadJokeOfTheDay": "What do you call a group of disorganized cats? A cat-tastrophe.",
+      "IsTodayChristmas?": "Nope",
+      "IsTodayMyBirthday?": "Maybe another time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/axg6p9.jpg"
    }
 }
 ```
