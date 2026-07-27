@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Elephants only sleep for two hours each day.",
-      "CoolAdviceOfTheDay": "You will always regret the round of Tequila.",
-      "DadJokeOfTheDay": "What do you call a group of disorganized cats? A cat-tastrophe.",
-      "IsTodayChristmas?": "Nope",
-      "IsTodayMyBirthday?": "Maybe another time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/axg6p9.jpg"
+      "FunFactOfTheDay": "“Lassie” was played by a group of male dogs; the main one was named Pal.",
+      "CoolAdviceOfTheDay": "Stop using the term 'busy' as an excuse.",
+      "DadJokeOfTheDay": "What did the green grape say to the purple grape? BREATH!!",
+      "IsTodayChristmas?": "Maybe another time",
+      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/axib1h.jpg"
    }
 }
 ```
