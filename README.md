@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "“Lassie” was played by a group of male dogs; the main one was named Pal.",
-      "CoolAdviceOfTheDay": "Stop using the term 'busy' as an excuse.",
-      "DadJokeOfTheDay": "What did the green grape say to the purple grape? BREATH!!",
-      "IsTodayChristmas?": "Maybe another time",
-      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/axib1h.jpg"
+      "FunFactOfTheDay": "The value of Pi will be officially 'rounded down' to 3.14 from 3.14159265359 on December 31, 1999.",
+      "CoolAdviceOfTheDay": "Never waste an opportunity to tell someone you love them.",
+      "DadJokeOfTheDay": "Today, my son asked 'Can I have a book mark?' and I burst into tears. 11 years old and he still doesn't know my name is Brian.",
+      "IsTodayChristmas?": "Unfortunately, not",
+      "IsTodayMyBirthday?": "Ask me tomorrow",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/axkz06.jpg"
    }
 }
 ```
