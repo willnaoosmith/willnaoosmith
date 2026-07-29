@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The value of Pi will be officially 'rounded down' to 3.14 from 3.14159265359 on December 31, 1999.",
-      "CoolAdviceOfTheDay": "Never waste an opportunity to tell someone you love them.",
-      "DadJokeOfTheDay": "Today, my son asked 'Can I have a book mark?' and I burst into tears. 11 years old and he still doesn't know my name is Brian.",
-      "IsTodayChristmas?": "Unfortunately, not",
-      "IsTodayMyBirthday?": "Ask me tomorrow",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/axkz06.jpg"
+      "FunFactOfTheDay": "The scene where Indiana Jones shoots the swordsman in Raider’s of the Lost Ark was Harrison Ford's idea so that he could take a bathroom break.",
+      "CoolAdviceOfTheDay": "Don't always rely on your comforts.",
+      "DadJokeOfTheDay": "Did you hear about the cheese who saved the world? It was Legend-dairy!",
+      "IsTodayChristmas?": "No say I",
+      "IsTodayMyBirthday?": "No",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/axnt5g.jpg"
    }
 }
 ```
