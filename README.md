@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The scene where Indiana Jones shoots the swordsman in Raider’s of the Lost Ark was Harrison Ford's idea so that he could take a bathroom break.",
-      "CoolAdviceOfTheDay": "Don't always rely on your comforts.",
-      "DadJokeOfTheDay": "Did you hear about the cheese who saved the world? It was Legend-dairy!",
-      "IsTodayChristmas?": "No say I",
-      "IsTodayMyBirthday?": "No",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/axnt5g.jpg"
+      "FunFactOfTheDay": "Someone paid $14,000 for the bra worn by Marilyn Monroe in the film 'Some Like It Hot'.",
+      "CoolAdviceOfTheDay": "You're not that important; it's what you do that counts.",
+      "DadJokeOfTheDay": "Do you know where you can get chicken broth in bulk? The stock market.",
+      "IsTodayChristmas?": "!Yes",
+      "IsTodayMyBirthday?": "Not this time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/axqoz5.jpg"
    }
 }
 ```
