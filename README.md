@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Someone paid $14,000 for the bra worn by Marilyn Monroe in the film 'Some Like It Hot'.",
-      "CoolAdviceOfTheDay": "You're not that important; it's what you do that counts.",
-      "DadJokeOfTheDay": "Do you know where you can get chicken broth in bulk? The stock market.",
+      "FunFactOfTheDay": "The first streetlights in America were installed in Philadelphia around 1757.",
+      "CoolAdviceOfTheDay": "Giving someone a hug can be mutually rewarding. Try to give at least one hug a day to someone.",
+      "DadJokeOfTheDay": "How did the hipster burn the roof of his mouth? He ate the pizza before it was cool.",
       "IsTodayChristmas?": "!Yes",
-      "IsTodayMyBirthday?": "Not this time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/axqoz5.jpg"
+      "IsTodayMyBirthday?": "Not yet",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/axtmmi.jpg"
    }
 }
 ```
