@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The first streetlights in America were installed in Philadelphia around 1757.",
-      "CoolAdviceOfTheDay": "Giving someone a hug can be mutually rewarding. Try to give at least one hug a day to someone.",
-      "DadJokeOfTheDay": "How did the hipster burn the roof of his mouth? He ate the pizza before it was cool.",
-      "IsTodayChristmas?": "!Yes",
-      "IsTodayMyBirthday?": "Not yet",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/axtmmi.jpg"
+      "FunFactOfTheDay": "There is an average of 61,000 people airborne over the US at any given moment.",
+      "CoolAdviceOfTheDay": "It is easy to sit up and take notice, what's difficult is getting up and taking action.",
+      "DadJokeOfTheDay": "A Sandwich walks into a bar, the bartender says “Sorry, we don’t serve food here”",
+      "IsTodayChristmas?": "Unfortunately, not",
+      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/axwdl6.jpg"
    }
 }
 ```
