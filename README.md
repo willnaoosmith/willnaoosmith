@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "There is an average of 61,000 people airborne over the US at any given moment.",
-      "CoolAdviceOfTheDay": "It is easy to sit up and take notice, what's difficult is getting up and taking action.",
-      "DadJokeOfTheDay": "A Sandwich walks into a bar, the bartender says “Sorry, we don’t serve food here”",
-      "IsTodayChristmas?": "Unfortunately, not",
-      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/axwdl6.jpg"
+      "FunFactOfTheDay": "South Dakota is the only U.S state which shares no letters with the name of it`s capital",
+      "CoolAdviceOfTheDay": "Quality beats quantity.",
+      "DadJokeOfTheDay": "I got fired from the transmission factor, turns out I didn't put on enough shifts...",
+      "IsTodayChristmas?": "!Yes",
+      "IsTodayMyBirthday?": "Nope",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/axycg8.jpg"
    }
 }
 ```
