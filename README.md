@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "South Dakota is the only U.S state which shares no letters with the name of it`s capital",
-      "CoolAdviceOfTheDay": "Quality beats quantity.",
-      "DadJokeOfTheDay": "I got fired from the transmission factor, turns out I didn't put on enough shifts...",
-      "IsTodayChristmas?": "!Yes",
-      "IsTodayMyBirthday?": "Nope",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/axycg8.jpg"
+      "FunFactOfTheDay": "Alfred Hitchcock didn`t have a belly button. It was eliminated when he was sewn up after surgery.",
+      "CoolAdviceOfTheDay": "Never run a marathon in Crocs.",
+      "DadJokeOfTheDay": "It was so cold yesterday my computer froze. My own fault though, I left too many windows open.",
+      "IsTodayChristmas?": "Nope",
+      "IsTodayMyBirthday?": "I dont know",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/ay0dkj.jpg"
    }
 }
 ```
