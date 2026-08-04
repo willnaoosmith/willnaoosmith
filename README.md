@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Alfred Hitchcock didn`t have a belly button. It was eliminated when he was sewn up after surgery.",
-      "CoolAdviceOfTheDay": "Never run a marathon in Crocs.",
-      "DadJokeOfTheDay": "It was so cold yesterday my computer froze. My own fault though, I left too many windows open.",
-      "IsTodayChristmas?": "Nope",
-      "IsTodayMyBirthday?": "I dont know",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/ay0dkj.jpg"
+      "FunFactOfTheDay": "In every episode of “Seinfeld” there is a Superman picture or reference somewhere.",
+      "CoolAdviceOfTheDay": "To improve productivity, always have a shittier task to put off.",
+      "DadJokeOfTheDay": "If two vegans are having an argument, is it still considered beef?",
+      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
+      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/ay307u.jpg"
    }
 }
 ```
