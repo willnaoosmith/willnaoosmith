@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "In every episode of “Seinfeld” there is a Superman picture or reference somewhere.",
-      "CoolAdviceOfTheDay": "To improve productivity, always have a shittier task to put off.",
-      "DadJokeOfTheDay": "If two vegans are having an argument, is it still considered beef?",
-      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
-      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/ay307u.jpg"
+      "FunFactOfTheDay": "One in eight million people has progeria, a disease that causes people to grow faster than they age.",
+      "CoolAdviceOfTheDay": "Don't assume anything is possible or impossible until you've asked the people who will be doing the work.",
+      "DadJokeOfTheDay": "What do I look like? A JOKE MACHINE!?",
+      "IsTodayChristmas?": "Ask me tomorrow",
+      "IsTodayMyBirthday?": "Ask me in a year",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/ay5ru7.jpg"
    }
 }
 ```
