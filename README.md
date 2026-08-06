@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "One in eight million people has progeria, a disease that causes people to grow faster than they age.",
-      "CoolAdviceOfTheDay": "Don't assume anything is possible or impossible until you've asked the people who will be doing the work.",
-      "DadJokeOfTheDay": "What do I look like? A JOKE MACHINE!?",
-      "IsTodayChristmas?": "Ask me tomorrow",
-      "IsTodayMyBirthday?": "Ask me in a year",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/ay5ru7.jpg"
+      "FunFactOfTheDay": "The penguin is the only bird that can swim but can't fly.",
+      "CoolAdviceOfTheDay": "Being kind is more rewarding than being right.",
+      "DadJokeOfTheDay": "Don't buy flowers at a monastery. Because only you can prevent florist friars.",
+      "IsTodayChristmas?": "I dont know",
+      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/ay8n3p.jpg"
    }
 }
 ```
