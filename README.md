@@ -70,14 +70,43 @@
 <h4 align="left">My weekly programming languages per time spent</h4>
 
 <!--START_SECTION:waka-->
+**🐱 My GitHub Data** 
 
-```txt
-Total Time: 58 mins
+> 📦 115.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 92 Contributions in the Year 2026
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 45 Public Repositories 
+ > 
+> 🔑 24 Private Repositories 
+ > 
+**I'm an Early 🐤** 
 
-Other   36 mins               ███████████████▓░░░░░░░░░   62.48 %
-HTML    21 mins               █████████░░░░░░░░░░░░░░░░   36.06 %
-Text    0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
+```text
+🌞 Morning                674 commits         ████████░░░░░░░░░░░░░░░░░   33.06 % 
+🌆 Daytime                920 commits         ███████████░░░░░░░░░░░░░░   45.12 % 
+🌃 Evening                388 commits         █████░░░░░░░░░░░░░░░░░░░░   19.03 % 
+🌙 Night                  57 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
 ```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Other                    36 mins             ████████████████░░░░░░░░░   62.48 % 
+HTML                     21 mins             █████████░░░░░░░░░░░░░░░░   36.06 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 
 <!--END_SECTION:waka-->
 
