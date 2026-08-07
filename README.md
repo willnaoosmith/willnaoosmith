@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The penguin is the only bird that can swim but can't fly.",
-      "CoolAdviceOfTheDay": "Being kind is more rewarding than being right.",
-      "DadJokeOfTheDay": "Don't buy flowers at a monastery. Because only you can prevent florist friars.",
-      "IsTodayChristmas?": "I dont know",
-      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/ay8n3p.jpg"
+      "FunFactOfTheDay": "Emus and kangaroos cannot walk backwards, and are on the Australian coat of arms for that reason.",
+      "CoolAdviceOfTheDay": "Don't wear clean trousers when walking your dog in the park.",
+      "DadJokeOfTheDay": "A girl once asked me what my heart desired, apparently blood, oxygen and neural messages were all wrong answers",
+      "IsTodayChristmas?": "Not this time",
+      "IsTodayMyBirthday?": "Ask me in one hour",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/aybhuu.jpg"
    }
 }
 ```
