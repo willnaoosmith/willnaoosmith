@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Emus and kangaroos cannot walk backwards, and are on the Australian coat of arms for that reason.",
-      "CoolAdviceOfTheDay": "Don't wear clean trousers when walking your dog in the park.",
-      "DadJokeOfTheDay": "A girl once asked me what my heart desired, apparently blood, oxygen and neural messages were all wrong answers",
-      "IsTodayChristmas?": "Not this time",
+      "FunFactOfTheDay": "If you were to take a taxicab from New York City to Los Angeles, it would cost you $8,325.",
+      "CoolAdviceOfTheDay": "Always seek out advice or opinions when making a decision.",
+      "DadJokeOfTheDay": "If you walk into a forest and cut down a tree, but the tree doesn't understand why you cut it down, do you think it's stumped?",
+      "IsTodayChristmas?": "I dont know",
       "IsTodayMyBirthday?": "Ask me in one hour",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/aybhuu.jpg"
+      "RandomMemeOfTheDay": "https://i.imgflip.com/aye4gd.jpg"
    }
 }
 ```
