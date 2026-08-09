@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "If you were to take a taxicab from New York City to Los Angeles, it would cost you $8,325.",
-      "CoolAdviceOfTheDay": "Always seek out advice or opinions when making a decision.",
-      "DadJokeOfTheDay": "If you walk into a forest and cut down a tree, but the tree doesn't understand why you cut it down, do you think it's stumped?",
-      "IsTodayChristmas?": "I dont know",
-      "IsTodayMyBirthday?": "Ask me in one hour",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/aye4gd.jpg"
+      "FunFactOfTheDay": "It is illegal to hunt camels in the state of Arizona.",
+      "CoolAdviceOfTheDay": "Do, or do not. There is no try.",
+      "DadJokeOfTheDay": "How come the stadium got hot after the game? Because all of the fans left.",
+      "IsTodayChristmas?": "Nah",
+      "IsTodayMyBirthday?": "No",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/ayg3e4.jpg"
    }
 }
 ```
