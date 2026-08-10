@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "It is illegal to hunt camels in the state of Arizona.",
-      "CoolAdviceOfTheDay": "Do, or do not. There is no try.",
-      "DadJokeOfTheDay": "How come the stadium got hot after the game? Because all of the fans left.",
+      "FunFactOfTheDay": "Rugby, North Dakota is the geographical center of North America.",
+      "CoolAdviceOfTheDay": "If you want to be happily married, marry a happy person.",
+      "DadJokeOfTheDay": "Did you hear the news? FedEx and UPS are merging. They’re going to go by the name Fed-Up from now on.",
       "IsTodayChristmas?": "Nah",
-      "IsTodayMyBirthday?": "No",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/ayg3e4.jpg"
+      "IsTodayMyBirthday?": "Maybe another time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/ayi30d.jpg"
    }
 }
 ```
