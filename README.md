@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Rugby, North Dakota is the geographical center of North America.",
-      "CoolAdviceOfTheDay": "If you want to be happily married, marry a happy person.",
-      "DadJokeOfTheDay": "Did you hear the news? FedEx and UPS are merging. They’re going to go by the name Fed-Up from now on.",
-      "IsTodayChristmas?": "Nah",
-      "IsTodayMyBirthday?": "Maybe another time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/ayi30d.jpg"
+      "FunFactOfTheDay": "Al Capone`s business card said he was a used furniture dealer.",
+      "CoolAdviceOfTheDay": "When you're looking up at birds flying overhead, keep your mouth closed.",
+      "DadJokeOfTheDay": "People are making apocalypse jokes like there’s no tomorrow.",
+      "IsTodayChristmas?": "Unfortunately, not",
+      "IsTodayMyBirthday?": "Ask me in one hour",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/ayks7g.jpg"
    }
 }
 ```
