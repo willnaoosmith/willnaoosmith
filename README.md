@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Al Capone`s business card said he was a used furniture dealer.",
-      "CoolAdviceOfTheDay": "When you're looking up at birds flying overhead, keep your mouth closed.",
-      "DadJokeOfTheDay": "People are making apocalypse jokes like there’s no tomorrow.",
-      "IsTodayChristmas?": "Unfortunately, not",
-      "IsTodayMyBirthday?": "Ask me in one hour",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/ayks7g.jpg"
+      "FunFactOfTheDay": "Vatican City is the smallest country in the world, with a population of 1000 and just 108.7 acres.",
+      "CoolAdviceOfTheDay": "Don't waste food.",
+      "DadJokeOfTheDay": "Camping is intense.",
+      "IsTodayChristmas?": "Nah",
+      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/aynkip.jpg"
    }
 }
 ```
