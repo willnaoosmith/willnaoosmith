@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Vatican City is the smallest country in the world, with a population of 1000 and just 108.7 acres.",
-      "CoolAdviceOfTheDay": "Don't waste food.",
-      "DadJokeOfTheDay": "Camping is intense.",
-      "IsTodayChristmas?": "Nah",
-      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/aynkip.jpg"
+      "FunFactOfTheDay": "The mask worn by Michael Myers in the original 'Halloween' was actually a Captain Kirk mask painted white.",
+      "CoolAdviceOfTheDay": "Don't always believe what you think.",
+      "DadJokeOfTheDay": "To the person who stole my anti-depressant pills: I hope you're happy now.",
+      "IsTodayChristmas?": "One day",
+      "IsTodayMyBirthday?": "Not yet",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/ayqdrc.jpg"
    }
 }
 ```
