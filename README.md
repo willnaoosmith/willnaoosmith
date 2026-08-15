@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Your tongue is the only muscle in your body that is attached at only one end.",
-      "CoolAdviceOfTheDay": "If you're feeling tired or anxious, a pint of water will almost always make you feel better.",
-      "DadJokeOfTheDay": "I won an argument with a weather forecaster once. His logic was cloudy...",
-      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
-      "IsTodayMyBirthday?": "Not this time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/aytca4.jpg"
+      "FunFactOfTheDay": "Someone paid $14,000 for the bra worn by Marilyn Monroe in the film 'Some Like It Hot'.",
+      "CoolAdviceOfTheDay": "When in doubt, just take the next small step.",
+      "DadJokeOfTheDay": "Why did the tomato blush? Because it saw the salad dressing.",
+      "IsTodayChristmas?": "No",
+      "IsTodayMyBirthday?": "Maybe another time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/ayw0xj.jpg"
    }
 }
 ```
