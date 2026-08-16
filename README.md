@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Someone paid $14,000 for the bra worn by Marilyn Monroe in the film 'Some Like It Hot'.",
-      "CoolAdviceOfTheDay": "When in doubt, just take the next small step.",
-      "DadJokeOfTheDay": "Why did the tomato blush? Because it saw the salad dressing.",
-      "IsTodayChristmas?": "No",
-      "IsTodayMyBirthday?": "Maybe another time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/ayw0xj.jpg"
+      "FunFactOfTheDay": "Sex is biochemically no different from eating large quantities of chocolate.",
+      "CoolAdviceOfTheDay": "Never let your Mother cut your hair.",
+      "DadJokeOfTheDay": "Why was Pavlov's beard so soft?  Because he conditioned it.",
+      "IsTodayChristmas?": "Nope",
+      "IsTodayMyBirthday?": "Nope",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/ayy1v7.jpg"
    }
 }
 ```
