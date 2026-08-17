@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Sex is biochemically no different from eating large quantities of chocolate.",
-      "CoolAdviceOfTheDay": "Never let your Mother cut your hair.",
-      "DadJokeOfTheDay": "Why was Pavlov's beard so soft?  Because he conditioned it.",
-      "IsTodayChristmas?": "Nope",
-      "IsTodayMyBirthday?": "Nope",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/ayy1v7.jpg"
+      "FunFactOfTheDay": "Intelligent people have more zinc and copper in their hair.",
+      "CoolAdviceOfTheDay": "Do not check work email on your days off.",
+      "DadJokeOfTheDay": "A man was caught stealing in a supermarket today while balanced on the shoulders of a couple of vampires. He was charged with shoplifting on two counts. ",
+      "IsTodayChristmas?": "Yes'nt",
+      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/az03ij.jpg"
    }
 }
 ```
