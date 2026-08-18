@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Intelligent people have more zinc and copper in their hair.",
-      "CoolAdviceOfTheDay": "Do not check work email on your days off.",
-      "DadJokeOfTheDay": "A man was caught stealing in a supermarket today while balanced on the shoulders of a couple of vampires. He was charged with shoplifting on two counts. ",
-      "IsTodayChristmas?": "Yes'nt",
-      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/az03ij.jpg"
+      "FunFactOfTheDay": "It's against the law to burp, or sneeze in a church in Nebraska, USA.",
+      "CoolAdviceOfTheDay": "Take time once in a while to look up at the stars for at least 5 minutes, in order to comprehend your cosmic significance.",
+      "DadJokeOfTheDay": "What did the left eye say to the right eye? Between us, something smells!",
+      "IsTodayChristmas?": "Nope",
+      "IsTodayMyBirthday?": "Ask me in a year",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/az2teg.jpg"
    }
 }
 ```
