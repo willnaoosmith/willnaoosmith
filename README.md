@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The scene where Indiana Jones shoots the swordsman in Raider’s of the Lost Ark was Harrison Ford's idea so that he could take a bathroom break.",
-      "CoolAdviceOfTheDay": "Take time once in a while to look up at the stars for at least 5 minutes, in order to comprehend your cosmic significance.",
-      "DadJokeOfTheDay": "Writing with a broken pencil is pointless.",
-      "IsTodayChristmas?": "Ask me in a year",
-      "IsTodayMyBirthday?": "Not yet",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/az5mj1.jpg"
+      "FunFactOfTheDay": "John Lennon’s first girlfriend was named Thelma Pickles.",
+      "CoolAdviceOfTheDay": "Cars are bad investments.",
+      "DadJokeOfTheDay": "Why does Waldo only wear stripes? Because he doesn't want to be spotted.",
+      "IsTodayChristmas?": "I dont know",
+      "IsTodayMyBirthday?": "Nah",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/az8i6z.jpg"
    }
 }
 ```
