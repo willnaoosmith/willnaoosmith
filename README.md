@@ -54,11 +54,11 @@
    },
    "RandomStuff": {
       "FunFactOfTheDay": "John Lennon’s first girlfriend was named Thelma Pickles.",
-      "CoolAdviceOfTheDay": "Cars are bad investments.",
-      "DadJokeOfTheDay": "Why does Waldo only wear stripes? Because he doesn't want to be spotted.",
-      "IsTodayChristmas?": "I dont know",
-      "IsTodayMyBirthday?": "Nah",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/az8i6z.jpg"
+      "CoolAdviceOfTheDay": "If you don't want something to be public, don't post it on the Internet.",
+      "DadJokeOfTheDay": "What did the shy pebble wish for? That she was a little boulder.",
+      "IsTodayChristmas?": "Unfortunately, not",
+      "IsTodayMyBirthday?": "Maybe",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/azbg37.jpg"
    }
 }
 ```
