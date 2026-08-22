@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "John Lennon’s first girlfriend was named Thelma Pickles.",
-      "CoolAdviceOfTheDay": "If you don't want something to be public, don't post it on the Internet.",
-      "DadJokeOfTheDay": "What did the shy pebble wish for? That she was a little boulder.",
-      "IsTodayChristmas?": "Unfortunately, not",
-      "IsTodayMyBirthday?": "Maybe",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/azbg37.jpg"
+      "FunFactOfTheDay": "Van Gogh only sold one painting when he was alive.",
+      "CoolAdviceOfTheDay": "Accentuate the positive, eliminate the negative.",
+      "DadJokeOfTheDay": "To the person who stole my anti-depressant pills: I hope you're happy now.",
+      "IsTodayChristmas?": "Yes'nt",
+      "IsTodayMyBirthday?": "Not this time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/aze9a6.jpg"
    }
 }
 ```
