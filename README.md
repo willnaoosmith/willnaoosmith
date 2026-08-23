@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Van Gogh only sold one painting when he was alive.",
-      "CoolAdviceOfTheDay": "Accentuate the positive, eliminate the negative.",
-      "DadJokeOfTheDay": "To the person who stole my anti-depressant pills: I hope you're happy now.",
-      "IsTodayChristmas?": "Yes'nt",
-      "IsTodayMyBirthday?": "Not this time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/aze9a6.jpg"
+      "FunFactOfTheDay": "The average lead pencil will draw a line 35 miles long or write approximately 50,000 English words.  More than 2 billion pencils are manufactured each year in the United States. If these were laid end to end they would circle the world nine times.",
+      "CoolAdviceOfTheDay": "Life is better when you sing about bananas.",
+      "DadJokeOfTheDay": "Velcro… What a rip-off.",
+      "IsTodayChristmas?": "Maybe another time",
+      "IsTodayMyBirthday?": "Not quite",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/azg9mu.jpg"
    }
 }
 ```
