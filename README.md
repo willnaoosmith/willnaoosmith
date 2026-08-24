@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The average lead pencil will draw a line 35 miles long or write approximately 50,000 English words.  More than 2 billion pencils are manufactured each year in the United States. If these were laid end to end they would circle the world nine times.",
-      "CoolAdviceOfTheDay": "Life is better when you sing about bananas.",
+      "FunFactOfTheDay": "Women manage the money and pay the bills in  75% of all Americans households.",
+      "CoolAdviceOfTheDay": "The hardest things to say are usually the most important.",
       "DadJokeOfTheDay": "Velcro… What a rip-off.",
-      "IsTodayChristmas?": "Maybe another time",
-      "IsTodayMyBirthday?": "Not quite",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/azg9mu.jpg"
+      "IsTodayChristmas?": "Not quite",
+      "IsTodayMyBirthday?": "I dont know",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/azicp7.jpg"
    }
 }
 ```
