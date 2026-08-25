@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Women manage the money and pay the bills in  75% of all Americans households.",
-      "CoolAdviceOfTheDay": "The hardest things to say are usually the most important.",
-      "DadJokeOfTheDay": "Velcro… What a rip-off.",
-      "IsTodayChristmas?": "Not quite",
-      "IsTodayMyBirthday?": "I dont know",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/azicp7.jpg"
+      "FunFactOfTheDay": "Average number of people airborne over the US any given hour: 61,000.",
+      "CoolAdviceOfTheDay": "Age is of no importance, unless you are a cheese.",
+      "DadJokeOfTheDay": "This is my step ladder. I never knew my real ladder.",
+      "IsTodayChristmas?": "Ask me in a year",
+      "IsTodayMyBirthday?": "Not yet",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/azl593.jpg"
    }
 }
 ```
