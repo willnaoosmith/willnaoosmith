@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Average number of people airborne over the US any given hour: 61,000.",
-      "CoolAdviceOfTheDay": "Age is of no importance, unless you are a cheese.",
-      "DadJokeOfTheDay": "This is my step ladder. I never knew my real ladder.",
-      "IsTodayChristmas?": "Ask me in a year",
-      "IsTodayMyBirthday?": "Not yet",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/azl593.jpg"
+      "FunFactOfTheDay": "“Duff” is the decaying organic matter found on a forest floor.",
+      "CoolAdviceOfTheDay": "The best sex is fun.",
+      "DadJokeOfTheDay": "What is the difference between ignorance and apathy?  I don't know and I don't care.",
+      "IsTodayChristmas?": "Ask me tomorrow",
+      "IsTodayMyBirthday?": "Nope",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/azo3bj.jpg"
    }
 }
 ```
