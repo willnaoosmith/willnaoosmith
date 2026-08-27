@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "“Duff” is the decaying organic matter found on a forest floor.",
-      "CoolAdviceOfTheDay": "The best sex is fun.",
-      "DadJokeOfTheDay": "What is the difference between ignorance and apathy?  I don't know and I don't care.",
-      "IsTodayChristmas?": "Ask me tomorrow",
-      "IsTodayMyBirthday?": "Nope",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/azo3bj.jpg"
+      "FunFactOfTheDay": "3.9% of all women do not wear underwear.",
+      "CoolAdviceOfTheDay": "The most important thing is the thing most easily forgotten.",
+      "DadJokeOfTheDay": "How many bones are in the human hand? A handful of them.",
+      "IsTodayChristmas?": "Nah",
+      "IsTodayMyBirthday?": "Unfortunately, not",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/azs1w8.jpg"
    }
 }
 ```
