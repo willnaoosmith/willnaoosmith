@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "3.9% of all women do not wear underwear.",
-      "CoolAdviceOfTheDay": "The most important thing is the thing most easily forgotten.",
-      "DadJokeOfTheDay": "How many bones are in the human hand? A handful of them.",
-      "IsTodayChristmas?": "Nah",
-      "IsTodayMyBirthday?": "Unfortunately, not",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/azs1w8.jpg"
+      "FunFactOfTheDay": "Chewing gum while peeling onions will keep you from crying.",
+      "CoolAdviceOfTheDay": "Just because you are offended, doesn't mean you are right.",
+      "DadJokeOfTheDay": "A man tried to sell me a coffin today. I told him that's the last thing I need.",
+      "IsTodayChristmas?": "Ask me in one hour",
+      "IsTodayMyBirthday?": "One day",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/azv968.jpg"
    }
 }
 ```
