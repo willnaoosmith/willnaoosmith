@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "When we think of Big Ben in London, we think of the clock. Actually, it's the bell.",
-      "CoolAdviceOfTheDay": "Eat food. Not too much, mostly plants.",
-      "DadJokeOfTheDay": "What's the worst part about being a cross-eyed teacher?  They can't control their pupils.",
-      "IsTodayChristmas?": "Not yet",
-      "IsTodayMyBirthday?": "Ask me in a year",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/azx9uk.jpg"
+      "FunFactOfTheDay": "If you have three quarters, four dimes, and four pennies, you have $1.19, the largest amount of money in coins without being able to make change for a dollar.",
+      "CoolAdviceOfTheDay": "Try using an old idea.",
+      "DadJokeOfTheDay": "How do you teach a kid to climb stairs? There is a step by step guide.",
+      "IsTodayChristmas?": "Maybe",
+      "IsTodayMyBirthday?": "Unfortunately, not",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/azz8v6.jpg"
    }
 }
 ```
