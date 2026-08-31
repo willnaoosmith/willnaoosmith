@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "If you have three quarters, four dimes, and four pennies, you have $1.19, the largest amount of money in coins without being able to make change for a dollar.",
-      "CoolAdviceOfTheDay": "Try using an old idea.",
-      "DadJokeOfTheDay": "How do you teach a kid to climb stairs? There is a step by step guide.",
-      "IsTodayChristmas?": "Maybe",
-      "IsTodayMyBirthday?": "Unfortunately, not",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/azz8v6.jpg"
+      "FunFactOfTheDay": "Abraham Lincoln’s ghost is said to haunt the White House.",
+      "CoolAdviceOfTheDay": "One of the top five regrets people have is that they didn't have the courage to be their true self.",
+      "DadJokeOfTheDay": "‘Put the cat out’ … ‘I didn’t realize it was on fire",
+      "IsTodayChristmas?": "Nope",
+      "IsTodayMyBirthday?": "Ask me tomorrow",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/b01goh.jpg"
    }
 }
 ```
