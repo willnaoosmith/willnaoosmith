@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Abraham Lincoln’s ghost is said to haunt the White House.",
-      "CoolAdviceOfTheDay": "One of the top five regrets people have is that they didn't have the courage to be their true self.",
-      "DadJokeOfTheDay": "‘Put the cat out’ … ‘I didn’t realize it was on fire",
-      "IsTodayChristmas?": "Nope",
-      "IsTodayMyBirthday?": "Ask me tomorrow",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/b01goh.jpg"
+      "FunFactOfTheDay": "The citrus soda 7-UP was created in 1929; `7` was selected after the original 7-ounce containers and `UP` for the direction of the bubbles.",
+      "CoolAdviceOfTheDay": "Don't judge a book by its cover, unless it has a synopsis on the back.",
+      "DadJokeOfTheDay": "What’s brown and sounds like a bell? Dung!",
+      "IsTodayChristmas?": "Nah",
+      "IsTodayMyBirthday?": "Maybe",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/b048bw.jpg"
    }
 }
 ```
