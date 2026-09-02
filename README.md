@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The citrus soda 7-UP was created in 1929; `7` was selected after the original 7-ounce containers and `UP` for the direction of the bubbles.",
-      "CoolAdviceOfTheDay": "Don't judge a book by its cover, unless it has a synopsis on the back.",
-      "DadJokeOfTheDay": "What’s brown and sounds like a bell? Dung!",
-      "IsTodayChristmas?": "Nah",
-      "IsTodayMyBirthday?": "Maybe",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/b048bw.jpg"
+      "FunFactOfTheDay": "The first toilet ever seen on television was on 'Leave It to Beaver.'",
+      "CoolAdviceOfTheDay": "Alway do anything for love, but don't do that.",
+      "DadJokeOfTheDay": "Why was the broom late for the meeting? He overswept.",
+      "IsTodayChristmas?": "No",
+      "IsTodayMyBirthday?": "Nah",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/b076vi.jpg"
    }
 }
 ```
