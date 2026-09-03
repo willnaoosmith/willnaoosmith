@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The first toilet ever seen on television was on 'Leave It to Beaver.'",
-      "CoolAdviceOfTheDay": "Alway do anything for love, but don't do that.",
-      "DadJokeOfTheDay": "Why was the broom late for the meeting? He overswept.",
-      "IsTodayChristmas?": "No",
-      "IsTodayMyBirthday?": "Nah",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/b076vi.jpg"
+      "FunFactOfTheDay": "Looks like someone needs to repair their code now",
+      "CoolAdviceOfTheDay": "Try using an old idea.",
+      "DadJokeOfTheDay": "Did you hear the news? FedEx and UPS are merging. They’re going to go by the name Fed-Up from now on.",
+      "IsTodayChristmas?": "Ask me in one hour",
+      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/b0a8kt.jpg"
    }
 }
 ```
