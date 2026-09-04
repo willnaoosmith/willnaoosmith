@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Looks like someone needs to repair their code now",
-      "CoolAdviceOfTheDay": "Try using an old idea.",
-      "DadJokeOfTheDay": "Did you hear the news? FedEx and UPS are merging. They’re going to go by the name Fed-Up from now on.",
-      "IsTodayChristmas?": "Ask me in one hour",
-      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/b0a8kt.jpg"
+      "FunFactOfTheDay": "The site with the highest number of women visitors between the age of 35 and 44 years old: Alka-Seltzer.com",
+      "CoolAdviceOfTheDay": "If it still itches after a week, go to the doctors.",
+      "DadJokeOfTheDay": "I used to hate facial hair, but then it grew on me.",
+      "IsTodayChristmas?": "Maybe",
+      "IsTodayMyBirthday?": "Yes'nt",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/b0dck8.jpg"
    }
 }
 ```
