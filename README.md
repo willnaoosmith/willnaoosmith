@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Mr. Rogers was an ordained Presbyterian minister.",
-      "CoolAdviceOfTheDay": "Sarcasm is the lowest form of wit. Employ correctly with apt timing.",
-      "DadJokeOfTheDay": "Someone asked me, what's the ninth letter of the alphabet? It was a complete guess, but I was right.",
-      "IsTodayChristmas?": "No",
-      "IsTodayMyBirthday?": "Not yet",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/b0g4r4.jpg"
+      "FunFactOfTheDay": "`Stewardesses` is the longest word that is typed with only the left hand.",
+      "CoolAdviceOfTheDay": "Try making a list.",
+      "DadJokeOfTheDay": "When my wife told me to stop impersonating a flamingo, I had to put my foot down.",
+      "IsTodayChristmas?": "Not this time",
+      "IsTodayMyBirthday?": "Not quite",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/b0i77w.jpg"
    }
 }
 ```
