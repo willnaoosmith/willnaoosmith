@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "`Stewardesses` is the longest word that is typed with only the left hand.",
-      "CoolAdviceOfTheDay": "Try making a list.",
-      "DadJokeOfTheDay": "When my wife told me to stop impersonating a flamingo, I had to put my foot down.",
-      "IsTodayChristmas?": "Not this time",
-      "IsTodayMyBirthday?": "Not quite",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/b0i77w.jpg"
+      "FunFactOfTheDay": "The Vatican city registered 0 births in 1983",
+      "CoolAdviceOfTheDay": "The most delicious cocktails often have the highest alcohol content. Always pace yourself to preserve your dignity.",
+      "DadJokeOfTheDay": "Shout out to my grandma, that's the only way she can hear.",
+      "IsTodayChristmas?": "Maybe another time",
+      "IsTodayMyBirthday?": "Unfortunately, not",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/b0keb9.jpg"
    }
 }
 ```
