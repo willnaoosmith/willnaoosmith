@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Chocolate can kill dogs; it directly affects their heart and nervous system.",
-      "CoolAdviceOfTheDay": "Don't put off breaking up with someone when you know you want to. Prolonging the situation only makes it worse.",
-      "DadJokeOfTheDay": "Without geometry life is pointless.",
-      "IsTodayChristmas?": "I dont know",
-      "IsTodayMyBirthday?": "No say I",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/b0mxhe.jpg"
+      "FunFactOfTheDay": "A honeybee can fly at fifteen miles per hour.",
+      "CoolAdviceOfTheDay": "Hold the door open for the next person.",
+      "DadJokeOfTheDay": "What did the dog say to the two trees? Bark bark.",
+      "IsTodayChristmas?": "Nah",
+      "IsTodayMyBirthday?": "Unfortunately, not",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/b0pvzu.jpg"
    }
 }
 ```
