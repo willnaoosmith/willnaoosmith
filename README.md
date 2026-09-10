@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "A honeybee can fly at fifteen miles per hour.",
-      "CoolAdviceOfTheDay": "Hold the door open for the next person.",
-      "DadJokeOfTheDay": "What did the dog say to the two trees? Bark bark.",
-      "IsTodayChristmas?": "Nah",
+      "FunFactOfTheDay": "John Adams, Thomas Jefferson, and James Monroe died on July 4th.",
+      "CoolAdviceOfTheDay": "Most things are not as bad as you think they are.",
+      "DadJokeOfTheDay": "To be Frank, I'd have to change my name.",
+      "IsTodayChristmas?": "No",
       "IsTodayMyBirthday?": "Unfortunately, not",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/b0pvzu.jpg"
+      "RandomMemeOfTheDay": "https://i.imgflip.com/b0sz6x.jpg"
    }
 }
 ```
