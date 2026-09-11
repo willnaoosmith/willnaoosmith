@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "John Adams, Thomas Jefferson, and James Monroe died on July 4th.",
-      "CoolAdviceOfTheDay": "Most things are not as bad as you think they are.",
-      "DadJokeOfTheDay": "To be Frank, I'd have to change my name.",
-      "IsTodayChristmas?": "No",
-      "IsTodayMyBirthday?": "Unfortunately, not",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/b0sz6x.jpg"
+      "FunFactOfTheDay": "It's impossible to sneeze with your eyes open.",
+      "CoolAdviceOfTheDay": "Just because you are offended, doesn't mean you are right.",
+      "DadJokeOfTheDay": "What did the piece of bread say to the knife? Butter me up.",
+      "IsTodayChristmas?": "I dont know",
+      "IsTodayMyBirthday?": "One day",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/b0w3dj.jpg"
    }
 }
 ```
