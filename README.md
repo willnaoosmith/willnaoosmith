@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "It's impossible to sneeze with your eyes open.",
-      "CoolAdviceOfTheDay": "Just because you are offended, doesn't mean you are right.",
-      "DadJokeOfTheDay": "What did the piece of bread say to the knife? Butter me up.",
-      "IsTodayChristmas?": "I dont know",
-      "IsTodayMyBirthday?": "One day",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/b0w3dj.jpg"
+      "FunFactOfTheDay": "An ant always falls over on its right side when intoxicated.",
+      "CoolAdviceOfTheDay": "If you don't want something to be public, don't post it on the Internet.",
+      "DadJokeOfTheDay": "What do you call a bee that lives in America? A USB.",
+      "IsTodayChristmas?": "Maybe another time",
+      "IsTodayMyBirthday?": "!Yes",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/b0yx3e.jpg"
    }
 }
 ```
