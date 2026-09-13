@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "An ant always falls over on its right side when intoxicated.",
-      "CoolAdviceOfTheDay": "If you don't want something to be public, don't post it on the Internet.",
-      "DadJokeOfTheDay": "What do you call a bee that lives in America? A USB.",
-      "IsTodayChristmas?": "Maybe another time",
-      "IsTodayMyBirthday?": "!Yes",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/b0yx3e.jpg"
+      "FunFactOfTheDay": "Oh no",
+      "CoolAdviceOfTheDay": "Do a bit more for your friends.",
+      "DadJokeOfTheDay": "I asked my date to go to the gym the other day. They never showed up. That's when I knew we wouldn't work out.",
+      "IsTodayChristmas?": "Unfortunately, not",
+      "IsTodayMyBirthday?": "Nah",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/b11509.jpg"
    }
 }
 ```
