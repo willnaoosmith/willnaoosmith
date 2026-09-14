@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Oh no",
-      "CoolAdviceOfTheDay": "Do a bit more for your friends.",
-      "DadJokeOfTheDay": "I asked my date to go to the gym the other day. They never showed up. That's when I knew we wouldn't work out.",
-      "IsTodayChristmas?": "Unfortunately, not",
-      "IsTodayMyBirthday?": "Nah",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/b11509.jpg"
+      "FunFactOfTheDay": "Coca-Cola would be green if coloring weren’t added to it.",
+      "CoolAdviceOfTheDay": "Never write in an email to someone, something which you wouldn't say to that person's face.",
+      "DadJokeOfTheDay": "Past, present, and future walked into a bar.... It was tense.",
+      "IsTodayChristmas?": "Ask me tomorrow",
+      "IsTodayMyBirthday?": "No say I",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/b13kts.jpg"
    }
 }
 ```
