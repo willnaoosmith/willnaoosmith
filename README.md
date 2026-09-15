@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Coca-Cola would be green if coloring weren’t added to it.",
-      "CoolAdviceOfTheDay": "Never write in an email to someone, something which you wouldn't say to that person's face.",
-      "DadJokeOfTheDay": "Past, present, and future walked into a bar.... It was tense.",
-      "IsTodayChristmas?": "Ask me tomorrow",
+      "FunFactOfTheDay": "Half of all bank robberies take place on a Friday.",
+      "CoolAdviceOfTheDay": "Never waste an opportunity to tell someone you love them.",
+      "DadJokeOfTheDay": "What did the Buffalo say to his little boy when he dropped him off at school? Bison.",
+      "IsTodayChristmas?": "Not yet",
       "IsTodayMyBirthday?": "No say I",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/b13kts.jpg"
+      "RandomMemeOfTheDay": "https://i.imgflip.com/b16jyj.jpg"
    }
 }
 ```
