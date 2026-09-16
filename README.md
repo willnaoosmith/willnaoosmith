@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Half of all bank robberies take place on a Friday.",
-      "CoolAdviceOfTheDay": "Never waste an opportunity to tell someone you love them.",
-      "DadJokeOfTheDay": "What did the Buffalo say to his little boy when he dropped him off at school? Bison.",
-      "IsTodayChristmas?": "Not yet",
-      "IsTodayMyBirthday?": "No say I",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/b16jyj.jpg"
+      "FunFactOfTheDay": "In Japan, watermelons are squared. It's easier to stack them that way.",
+      "CoolAdviceOfTheDay": "You will always regret the round of JÃ¤germeister.",
+      "DadJokeOfTheDay": "Never take advice from electrons. They are always negative.",
+      "IsTodayChristmas?": "Maybe another time",
+      "IsTodayMyBirthday?": "Maybe another time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/b19mga.jpg"
    }
 }
 ```
