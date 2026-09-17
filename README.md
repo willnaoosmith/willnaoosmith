@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "In Japan, watermelons are squared. It's easier to stack them that way.",
-      "CoolAdviceOfTheDay": "You will always regret the round of JÃ¤germeister.",
-      "DadJokeOfTheDay": "Never take advice from electrons. They are always negative.",
-      "IsTodayChristmas?": "Maybe another time",
+      "FunFactOfTheDay": "Butte County, South Dakota is the geographical center of the U.S.",
+      "CoolAdviceOfTheDay": "Don't feed Mogwais after midnight.",
+      "DadJokeOfTheDay": "Did you hear about the chameleon who couldn't change color? They had a reptile dysfunction.",
+      "IsTodayChristmas?": "Not quite",
       "IsTodayMyBirthday?": "Maybe another time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/b19mga.jpg"
+      "RandomMemeOfTheDay": "https://i.imgflip.com/b1csrx.jpg"
    }
 }
 ```
