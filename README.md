@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Butte County, South Dakota is the geographical center of the U.S.",
-      "CoolAdviceOfTheDay": "Don't feed Mogwais after midnight.",
-      "DadJokeOfTheDay": "Did you hear about the chameleon who couldn't change color? They had a reptile dysfunction.",
-      "IsTodayChristmas?": "Not quite",
-      "IsTodayMyBirthday?": "Maybe another time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/b1csrx.jpg"
+      "FunFactOfTheDay": "In 10 minutes, a hurricane releases more energy than all the world’s nuclear weapons combined.",
+      "CoolAdviceOfTheDay": "If you think nobody cares if you're alive, try missing a few payments.",
+      "DadJokeOfTheDay": "Did you hear the joke about the wandering nun? She was a roman catholic.",
+      "IsTodayChristmas?": "Maybe",
+      "IsTodayMyBirthday?": "I dont know",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/b1fy5r.jpg"
    }
 }
 ```
