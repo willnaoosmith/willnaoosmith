@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "In 10 minutes, a hurricane releases more energy than all the world’s nuclear weapons combined.",
-      "CoolAdviceOfTheDay": "If you think nobody cares if you're alive, try missing a few payments.",
-      "DadJokeOfTheDay": "Did you hear the joke about the wandering nun? She was a roman catholic.",
-      "IsTodayChristmas?": "Maybe",
-      "IsTodayMyBirthday?": "I dont know",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/b1fy5r.jpg"
+      "FunFactOfTheDay": "Blueberry Jelly Bellies were created especially for Ronald Reagan.",
+      "CoolAdviceOfTheDay": "Give up your seat for someone who needs it.",
+      "DadJokeOfTheDay": "A horse walks into a bar. The bar tender says 'Hey.' The horse says 'Sure.'",
+      "IsTodayChristmas?": "Maybe another time",
+      "IsTodayMyBirthday?": "No",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/b1is2h.jpg"
    }
 }
 ```
