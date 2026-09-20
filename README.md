@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Blueberry Jelly Bellies were created especially for Ronald Reagan.",
-      "CoolAdviceOfTheDay": "Give up your seat for someone who needs it.",
-      "DadJokeOfTheDay": "A horse walks into a bar. The bar tender says 'Hey.' The horse says 'Sure.'",
-      "IsTodayChristmas?": "Maybe another time",
-      "IsTodayMyBirthday?": "No",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/b1is2h.jpg"
+      "FunFactOfTheDay": "A polar bears skin is black. Its fur is actually clear, but like snow it appears white.",
+      "CoolAdviceOfTheDay": "What's stopping you?",
+      "DadJokeOfTheDay": "I was so proud when I finished the puzzle in six months, when on the side it said three to four years.",
+      "IsTodayChristmas?": "One day",
+      "IsTodayMyBirthday?": "Not yet",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/b1kv33.jpg"
    }
 }
 ```
