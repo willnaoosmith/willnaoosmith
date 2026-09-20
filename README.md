@@ -70,15 +70,64 @@
 <h4 align="left">My weekly programming languages per time spent</h4>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C521%20hrs%2028%20mins-blue?style=flat)
 
-```txt
-Total Time: 27 mins
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20mins-blue?style=flat)
 
-Python       24 mins               ██████████████████████░░░   88.33 %
-Other        2 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   07.30 %
-JavaScript   0 secs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
-Text         0 secs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
+**🐱 My GitHub Data** 
+
+> 📦 115.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 106 Contributions in the Year 2026
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 46 Public Repositories 
+ > 
+> 🔑 24 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                695 commits         ████████░░░░░░░░░░░░░░░░░   33.33 % 
+🌆 Daytime                934 commits         ███████████░░░░░░░░░░░░░░   44.80 % 
+🌃 Evening                399 commits         █████░░░░░░░░░░░░░░░░░░░░   19.14 % 
+🌙 Night                  57 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
 ```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Python                   24 mins             ██████████████████████░░░   88.33 % 
+Other                    2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
+JavaScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+Text                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 2 mins (7.69%)
+
+✍️ 19 lines written by AI, 40 lines written by hand (32.2% AI-written)
+
+🔤 27,766 Input Tokens, 6,273 Output Tokens
+
+💵 $0.22 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 1 AI Prompts
+
+Sonnet                   19 lines            █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 32.2% of written lines came from AI
+📝 Concise Prompter — average 202 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 82.73% of changed lines were hand-edited
+```
+
 
 <!--END_SECTION:waka-->
 
