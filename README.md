@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "A polar bears skin is black. Its fur is actually clear, but like snow it appears white.",
-      "CoolAdviceOfTheDay": "What's stopping you?",
-      "DadJokeOfTheDay": "I was so proud when I finished the puzzle in six months, when on the side it said three to four years.",
-      "IsTodayChristmas?": "One day",
+      "FunFactOfTheDay": "Each of us generates about 3.5 pounds of rubbish a day, most of it paper.",
+      "CoolAdviceOfTheDay": "Try to do the things that you're incapable of.",
+      "DadJokeOfTheDay": "I used to have a job at a calendar factory but I got the sack because I took a couple of days off.",
+      "IsTodayChristmas?": "Not this time",
       "IsTodayMyBirthday?": "Not yet",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/b1kv33.jpg"
+      "RandomMemeOfTheDay": "https://i.imgflip.com/b1n4rt.jpg"
    }
 }
 ```
