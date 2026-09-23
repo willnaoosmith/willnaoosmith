@@ -70,64 +70,15 @@
 <h4 align="left">My weekly programming languages per time spent</h4>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C521%20hrs%2028%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20mins-blue?style=flat)
+```txt
+Total Time: 17 mins
 
-**🐱 My GitHub Data** 
-
-> 📦 115.1 kB Used in GitHub's Storage 
- > 
-> 🏆 106 Contributions in the Year 2026
- > 
-> 💼 Opted to Hire
- > 
-> 📜 46 Public Repositories 
- > 
-> 🔑 24 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                695 commits         ████████░░░░░░░░░░░░░░░░░   33.33 % 
-🌆 Daytime                934 commits         ███████████░░░░░░░░░░░░░░   44.80 % 
-🌃 Evening                399 commits         █████░░░░░░░░░░░░░░░░░░░░   19.14 % 
-🌙 Night                  57 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
+Python       14 mins               ████████████████████▓░░░░   82.79 %
+Other        2 mins                ███░░░░░░░░░░░░░░░░░░░░░░   11.44 %
+JavaScript   0 secs                █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
+Text         0 secs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
 ```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Python                   14 mins             █████████████████████░░░░   82.79 % 
-Other                    2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
-JavaScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
-Text                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 2 mins (12.06%)
-
-✍️ 19 lines written by AI, 2 lines written by hand (90.48% AI-written)
-
-🔤 27,766 Input Tokens, 6,273 Output Tokens
-
-💵 $0.22 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 1 AI Prompts
-
-Sonnet                   19 lines            █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 90.48% of written lines came from AI
-📝 Concise Prompter — average 202 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 36.67% of changed lines were hand-edited
-```
-
 
 <!--END_SECTION:waka-->
 
