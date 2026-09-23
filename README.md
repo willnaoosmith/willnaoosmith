@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Every person, including identical twins, has a unique eye & tongue print along with their finger print.",
-      "CoolAdviceOfTheDay": "Do not compare yourself with others.",
-      "DadJokeOfTheDay": "What did the drummer name her twin daughters? Anna One, Anna Two...",
-      "IsTodayChristmas?": "!Yes",
-      "IsTodayMyBirthday?": "No say I",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/b1q11m.jpg"
+      "FunFactOfTheDay": "The average lead pencil will draw a line 35 miles long or write approximately 50,000 English words.  More than 2 billion pencils are manufactured each year in the United States. If these were laid end to end they would circle the world nine times.",
+      "CoolAdviceOfTheDay": "Take time once in a while to look up at the stars for at least 5 minutes, in order to comprehend your cosmic significance.",
+      "DadJokeOfTheDay": "Thanks for explaining the word 'many' to me. It means a lot.",
+      "IsTodayChristmas?": "Not yet",
+      "IsTodayMyBirthday?": "Nah",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/b1t436.jpg"
    }
 }
 ```
