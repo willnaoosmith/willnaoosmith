@@ -70,65 +70,16 @@
 <h4 align="left">My weekly programming languages per time spent</h4>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C521%20hrs%2028%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20mins-blue?style=flat)
+```txt
+Total Time: 16 mins
 
-**🐱 My GitHub Data** 
-
-> 📦 115.1 kB Used in GitHub's Storage 
- > 
-> 🏆 106 Contributions in the Year 2026
- > 
-> 💼 Opted to Hire
- > 
-> 📜 46 Public Repositories 
- > 
-> 🔑 24 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                695 commits         ████████░░░░░░░░░░░░░░░░░   33.33 % 
-🌆 Daytime                934 commits         ███████████░░░░░░░░░░░░░░   44.80 % 
-🌃 Evening                399 commits         █████░░░░░░░░░░░░░░░░░░░░   19.14 % 
-🌙 Night                  57 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
+Python       9 mins                ██████████████▒░░░░░░░░░░   57.69 %
+JSON         3 mins                █████▓░░░░░░░░░░░░░░░░░░░   22.16 %
+Other        2 mins                ███░░░░░░░░░░░░░░░░░░░░░░   12.35 %
+JavaScript   0 secs                █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 %
+Text         0 secs                █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
 ```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Python                   9 mins              ██████████████░░░░░░░░░░░   57.69 % 
-JSON                     3 mins              ██████░░░░░░░░░░░░░░░░░░░   22.16 % 
-Other                    2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
-JavaScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
-Text                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 2 mins (13.01%)
-
-✍️ 19 lines written by AI, 49 lines written by hand (27.94% AI-written)
-
-🔤 27,766 Input Tokens, 6,273 Output Tokens
-
-💵 $0.22 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 1 AI Prompts
-
-Sonnet                   19 lines            █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 27.94% of written lines came from AI
-📝 Concise Prompter — average 202 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 72.86% of changed lines were hand-edited
-```
-
 
 <!--END_SECTION:waka-->
 
