@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The pancreas produces Insulin.",
-      "CoolAdviceOfTheDay": "A common regret in life is wishing one hadn't worked so hard.",
-      "DadJokeOfTheDay": "I was shocked when I was diagnosed as colorblind... It came out of the purple.",
-      "IsTodayChristmas?": "Not yet",
-      "IsTodayMyBirthday?": "Ask me in a year",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/b1zfc9.jpg"
+      "FunFactOfTheDay": "One quarter of the bones in your body are in your feet.",
+      "CoolAdviceOfTheDay": "For every complex problem there is an answer that is clear, simple, and wrong.",
+      "DadJokeOfTheDay": "What's black and white and read all over? The newspaper.",
+      "IsTodayChristmas?": "Yes'nt",
+      "IsTodayMyBirthday?": "One day",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/b22934.jpg"
    }
 }
 ```
