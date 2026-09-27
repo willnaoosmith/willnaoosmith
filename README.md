@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "One quarter of the bones in your body are in your feet.",
-      "CoolAdviceOfTheDay": "For every complex problem there is an answer that is clear, simple, and wrong.",
-      "DadJokeOfTheDay": "What's black and white and read all over? The newspaper.",
-      "IsTodayChristmas?": "Yes'nt",
-      "IsTodayMyBirthday?": "One day",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/b22934.jpg"
+      "FunFactOfTheDay": "John Lennon’s first girlfriend was named Thelma Pickles.",
+      "CoolAdviceOfTheDay": "Some people would be better off if they took their own advice.",
+      "DadJokeOfTheDay": "Did you hear about the chameleon who couldn't change color? They had a reptile dysfunction.",
+      "IsTodayChristmas?": "Not this time",
+      "IsTodayMyBirthday?": "Nope",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/b24coq.jpg"
    }
 }
 ```
