@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "John Lennon’s first girlfriend was named Thelma Pickles.",
-      "CoolAdviceOfTheDay": "Some people would be better off if they took their own advice.",
-      "DadJokeOfTheDay": "Did you hear about the chameleon who couldn't change color? They had a reptile dysfunction.",
-      "IsTodayChristmas?": "Not this time",
-      "IsTodayMyBirthday?": "Nope",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/b24coq.jpg"
+      "FunFactOfTheDay": "Bats always turn left when exiting a cave",
+      "CoolAdviceOfTheDay": "Don't always rely on your comforts.",
+      "DadJokeOfTheDay": "I couldn't figure out how the seat belt worked. Then it just clicked.",
+      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
+      "IsTodayMyBirthday?": "Unfortunately, not",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/b26o0p.jpg"
    }
 }
 ```
