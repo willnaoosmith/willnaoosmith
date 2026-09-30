@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Orville Wright was involved in the first aircraft accident. His passenger, a Frenchman, was killed.",
-      "CoolAdviceOfTheDay": "You don't need to floss all of your teeth. Only the ones you want to keep.",
-      "DadJokeOfTheDay": "Where does Napoleon keep his armies? In his sleevies.",
-      "IsTodayChristmas?": "Ask me in one hour",
-      "IsTodayMyBirthday?": "Nah",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/b29nqa.jpg"
+      "FunFactOfTheDay": "In Aspen Colorado, you can have a maximum income of $104,000 and still receive government subsidized housing.",
+      "CoolAdviceOfTheDay": "Learn to handle criticism.",
+      "DadJokeOfTheDay": "Why did the cookie cry? Because his mother was a wafer so long",
+      "IsTodayChristmas?": "No",
+      "IsTodayMyBirthday?": "No",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/b2crzm.jpg"
    }
 }
 ```
