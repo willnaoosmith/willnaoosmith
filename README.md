@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "In Aspen Colorado, you can have a maximum income of $104,000 and still receive government subsidized housing.",
-      "CoolAdviceOfTheDay": "Learn to handle criticism.",
-      "DadJokeOfTheDay": "Why did the cookie cry? Because his mother was a wafer so long",
-      "IsTodayChristmas?": "No",
-      "IsTodayMyBirthday?": "No",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/b2crzm.jpg"
+      "FunFactOfTheDay": "A Boeing 747s wingspan is longer than the Wright brother's first flight.",
+      "CoolAdviceOfTheDay": "The best nights out are when people around you are simply having fun.",
+      "DadJokeOfTheDay": "Egyptians claimed to invent the guitar, but they were such lyres.﻿",
+      "IsTodayChristmas?": "I dont know",
+      "IsTodayMyBirthday?": "Not this time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/b2g0mn.jpg"
    }
 }
 ```
