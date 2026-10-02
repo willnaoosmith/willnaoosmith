@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "A Boeing 747s wingspan is longer than the Wright brother's first flight.",
-      "CoolAdviceOfTheDay": "The best nights out are when people around you are simply having fun.",
-      "DadJokeOfTheDay": "Egyptians claimed to invent the guitar, but they were such lyres.﻿",
-      "IsTodayChristmas?": "I dont know",
-      "IsTodayMyBirthday?": "Not this time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/b2g0mn.jpg"
+      "FunFactOfTheDay": "There is a town in Newfoundland, Canada called Dildo.",
+      "CoolAdviceOfTheDay": "You will always regret the round of Tequila.",
+      "DadJokeOfTheDay": "What did the digital clock say to the grandfather clock? Look, no hands!",
+      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
+      "IsTodayMyBirthday?": "Ask me tomorrow",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/b2j5qh.jpg"
    }
 }
 ```
