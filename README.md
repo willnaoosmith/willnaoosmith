@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "There is a town in Newfoundland, Canada called Dildo.",
-      "CoolAdviceOfTheDay": "You will always regret the round of Tequila.",
-      "DadJokeOfTheDay": "What did the digital clock say to the grandfather clock? Look, no hands!",
-      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
-      "IsTodayMyBirthday?": "Ask me tomorrow",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/b2j5qh.jpg"
+      "FunFactOfTheDay": "Scotland has more redheads than any other part of the world.",
+      "CoolAdviceOfTheDay": "If you're going bald, don't comb your hair over your bald patch.",
+      "DadJokeOfTheDay": "Did you hear about the cheese factory that exploded in France? There was nothing left but de Brie.",
+      "IsTodayChristmas?": "Unfortunately, not",
+      "IsTodayMyBirthday?": "Not this time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/b2lx2v.jpg"
    }
 }
 ```
