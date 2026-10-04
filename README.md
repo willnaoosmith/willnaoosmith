@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Scotland has more redheads than any other part of the world.",
-      "CoolAdviceOfTheDay": "If you're going bald, don't comb your hair over your bald patch.",
-      "DadJokeOfTheDay": "Did you hear about the cheese factory that exploded in France? There was nothing left but de Brie.",
-      "IsTodayChristmas?": "Unfortunately, not",
-      "IsTodayMyBirthday?": "Not this time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/b2lx2v.jpg"
+      "FunFactOfTheDay": "Approximately every seven minutes of every day, someone in an aerobics class pulls their hamstring.",
+      "CoolAdviceOfTheDay": "Don't always rely on your comforts.",
+      "DadJokeOfTheDay": "What did the beaver say to the tree? It's been nice gnawing you.",
+      "IsTodayChristmas?": "Maybe another time",
+      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/b2nyq0.jpg"
    }
 }
 ```
