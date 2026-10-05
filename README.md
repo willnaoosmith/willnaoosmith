@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Approximately every seven minutes of every day, someone in an aerobics class pulls their hamstring.",
-      "CoolAdviceOfTheDay": "Don't always rely on your comforts.",
-      "DadJokeOfTheDay": "What did the beaver say to the tree? It's been nice gnawing you.",
-      "IsTodayChristmas?": "Maybe another time",
-      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/b2nyq0.jpg"
+      "FunFactOfTheDay": "Koalas never drink water. They get fluids from the eucalyptus leaves they eat.",
+      "CoolAdviceOfTheDay": "If you need cheering up, try searching online for photos of kittens.",
+      "DadJokeOfTheDay": "What do you call a criminal going down the stairs? Condescending",
+      "IsTodayChristmas?": "Nope",
+      "IsTodayMyBirthday?": "No",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/b2qdkz.jpg"
    }
 }
 ```
