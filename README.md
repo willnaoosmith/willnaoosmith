@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Koalas never drink water. They get fluids from the eucalyptus leaves they eat.",
-      "CoolAdviceOfTheDay": "If you need cheering up, try searching online for photos of kittens.",
-      "DadJokeOfTheDay": "What do you call a criminal going down the stairs? Condescending",
-      "IsTodayChristmas?": "Nope",
-      "IsTodayMyBirthday?": "No",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/b2qdkz.jpg"
+      "FunFactOfTheDay": "To escape the grip of a crocodile`s jaws, push your thumbs into its eyeballs - it will let you go instantly.",
+      "CoolAdviceOfTheDay": "Try using an old idea.",
+      "DadJokeOfTheDay": "I had a dream that I was a muffler last night. I woke up exhausted!",
+      "IsTodayChristmas?": "Ask me in one hour",
+      "IsTodayMyBirthday?": "Not yet",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/b2tamw.jpg"
    }
 }
 ```
