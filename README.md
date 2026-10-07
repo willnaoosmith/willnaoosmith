@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "To escape the grip of a crocodile`s jaws, push your thumbs into its eyeballs - it will let you go instantly.",
-      "CoolAdviceOfTheDay": "Try using an old idea.",
-      "DadJokeOfTheDay": "I had a dream that I was a muffler last night. I woke up exhausted!",
-      "IsTodayChristmas?": "Ask me in one hour",
-      "IsTodayMyBirthday?": "Not yet",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/b2tamw.jpg"
+      "FunFactOfTheDay": "The pop you hear when you crack your knuckles is actually a bubble of gas burning.",
+      "CoolAdviceOfTheDay": "A common regret in life is wishing one hadn't worked so hard.",
+      "DadJokeOfTheDay": "I was in an 80's band called the prevention. We were better than the cure.",
+      "IsTodayChristmas?": "Ask me in a year",
+      "IsTodayMyBirthday?": "Ask me in one hour",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/b2wbti.jpg"
    }
 }
 ```
