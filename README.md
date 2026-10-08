@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The pop you hear when you crack your knuckles is actually a bubble of gas burning.",
-      "CoolAdviceOfTheDay": "A common regret in life is wishing one hadn't worked so hard.",
-      "DadJokeOfTheDay": "I was in an 80's band called the prevention. We were better than the cure.",
+      "FunFactOfTheDay": "Pearls melt in vinegar.",
+      "CoolAdviceOfTheDay": "Things are just things. Don't get too attached to them.",
+      "DadJokeOfTheDay": "Why did the fireman wear red, white, and blue suspenders? To hold his pants up.",
       "IsTodayChristmas?": "Ask me in a year",
-      "IsTodayMyBirthday?": "Ask me in one hour",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/b2wbti.jpg"
+      "IsTodayMyBirthday?": "Maybe",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/b2ze82.jpg"
    }
 }
 ```
