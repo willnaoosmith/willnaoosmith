@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Pearls melt in vinegar.",
-      "CoolAdviceOfTheDay": "Things are just things. Don't get too attached to them.",
-      "DadJokeOfTheDay": "Why did the fireman wear red, white, and blue suspenders? To hold his pants up.",
-      "IsTodayChristmas?": "Ask me in a year",
-      "IsTodayMyBirthday?": "Maybe",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/b2ze82.jpg"
+      "FunFactOfTheDay": "Shakespeare invented the word 'assassination' and 'bump.'",
+      "CoolAdviceOfTheDay": "Happiness is a journey, not a destination.",
+      "DadJokeOfTheDay": "Why don't eggs tell jokes? They'd crack each other up",
+      "IsTodayChristmas?": "Nah",
+      "IsTodayMyBirthday?": "I dont know",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/b32i2z.jpg"
    }
 }
 ```
