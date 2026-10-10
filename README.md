@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Shakespeare invented the word 'assassination' and 'bump.'",
-      "CoolAdviceOfTheDay": "Happiness is a journey, not a destination.",
-      "DadJokeOfTheDay": "Why don't eggs tell jokes? They'd crack each other up",
-      "IsTodayChristmas?": "Nah",
-      "IsTodayMyBirthday?": "I dont know",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/b32i2z.jpg"
+      "FunFactOfTheDay": "Nevada is the driest state in the U.S.. Each year it averages 7.5 inches (19 cm) of rain.",
+      "CoolAdviceOfTheDay": "Just because you are offended, doesn't mean you are right.",
+      "DadJokeOfTheDay": "What is bread's favorite number?  Leaven.",
+      "IsTodayChristmas?": "One day",
+      "IsTodayMyBirthday?": "Ask me in one hour",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/b3561b.jpg"
    }
 }
 ```
