@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Nevada is the driest state in the U.S.. Each year it averages 7.5 inches (19 cm) of rain.",
-      "CoolAdviceOfTheDay": "Just because you are offended, doesn't mean you are right.",
-      "DadJokeOfTheDay": "What is bread's favorite number?  Leaven.",
-      "IsTodayChristmas?": "One day",
-      "IsTodayMyBirthday?": "Ask me in one hour",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/b3561b.jpg"
+      "FunFactOfTheDay": "The catfish has over 27000 taste buds (more than any other animal)",
+      "CoolAdviceOfTheDay": "If you've nothing nice to say, say nothing.",
+      "DadJokeOfTheDay": "Why do bees hum? Because they don't know the words.",
+      "IsTodayChristmas?": "Maybe another time",
+      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/b376m2.jpg"
    }
 }
 ```
