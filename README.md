@@ -70,16 +70,65 @@
 <h4 align="left">My weekly programming languages per time spent</h4>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C528%20hrs%206%20mins-blue?style=flat)
 
-```txt
-Total Time: 2 hrs 56 mins
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2028%20mins-blue?style=flat)
 
-Python       1 hr 14 mins          ██████████▓░░░░░░░░░░░░░░   42.14 %
-JavaScript   31 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.81 %
-JSON         28 mins               ████░░░░░░░░░░░░░░░░░░░░░   16.32 %
-Text         17 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.90 %
-CSS          9 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.20 %
+**🐱 My GitHub Data** 
+
+> 📦 115.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 118 Contributions in the Year 2026
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 46 Public Repositories 
+ > 
+> 🔑 24 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                3373 commits        ███████░░░░░░░░░░░░░░░░░░   27.57 % 
+🌆 Daytime                5285 commits        ███████████░░░░░░░░░░░░░░   43.20 % 
+🌃 Evening                3159 commits        ██████░░░░░░░░░░░░░░░░░░░   25.82 % 
+🌙 Night                  417 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
 ```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Python                   1 hr 14 mins        ███████████░░░░░░░░░░░░░░   43.11 % 
+JavaScript               31 mins             █████░░░░░░░░░░░░░░░░░░░░   18.22 % 
+JSON                     28 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.69 % 
+Text                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
+CSS                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 2 hrs 25 mins (84.81%)
+
+✍️ 9,252 lines written by AI, 9 lines written by hand (99.9% AI-written)
+
+🔤 941,785 Input Tokens, 548,779 Output Tokens
+
+💵 $45.06 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 18 AI Prompts
+
+Sonnet                   9,437 lines         █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.9% of written lines came from AI
+📚 Verbose Prompter — average 2,663 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🚀 High AI Trust — 0.22% of changed lines were hand-edited
+```
+
 
 <!--END_SECTION:waka-->
 
