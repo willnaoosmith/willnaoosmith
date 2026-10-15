@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "It has been estimated that humans use only 10% of their brain.",
-      "CoolAdviceOfTheDay": "Everything matters, but nothing matters that much.",
-      "DadJokeOfTheDay": "Who is the coolest Doctor in the hospital? The hip Doctor!",
-      "IsTodayChristmas?": "Ask me tomorrow",
-      "IsTodayMyBirthday?": "Not this time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/b3f4ho.jpg"
+      "FunFactOfTheDay": "On average, 12 newborns will be given to the wrong parents daily.",
+      "CoolAdviceOfTheDay": "Never let your Mother cut your hair.",
+      "DadJokeOfTheDay": "I needed a password eight characters long so I picked Snow White and the Seven Dwarfs.",
+      "IsTodayChristmas?": "I dont know",
+      "IsTodayMyBirthday?": "No say I",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/b3i3y5.jpg"
    }
 }
 ```
