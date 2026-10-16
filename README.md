@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "On average, 12 newborns will be given to the wrong parents daily.",
-      "CoolAdviceOfTheDay": "Never let your Mother cut your hair.",
-      "DadJokeOfTheDay": "I needed a password eight characters long so I picked Snow White and the Seven Dwarfs.",
-      "IsTodayChristmas?": "I dont know",
-      "IsTodayMyBirthday?": "No say I",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/b3i3y5.jpg"
+      "FunFactOfTheDay": "If you plant an apple seed, it is almost guaranteed to grow a tree of a different type of apple.",
+      "CoolAdviceOfTheDay": "Good advice is something a man gives when he is too old to set a bad example.",
+      "DadJokeOfTheDay": "What do you do when you see a space man? Park your car, man.",
+      "IsTodayChristmas?": "Not quite",
+      "IsTodayMyBirthday?": "Unfortunately, not",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/b3l802.jpg"
    }
 }
 ```
