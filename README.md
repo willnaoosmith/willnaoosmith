@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "If you plant an apple seed, it is almost guaranteed to grow a tree of a different type of apple.",
-      "CoolAdviceOfTheDay": "Good advice is something a man gives when he is too old to set a bad example.",
-      "DadJokeOfTheDay": "What do you do when you see a space man? Park your car, man.",
-      "IsTodayChristmas?": "Not quite",
-      "IsTodayMyBirthday?": "Unfortunately, not",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/b3l802.jpg"
+      "FunFactOfTheDay": "A snail can sleep for 3 years.",
+      "CoolAdviceOfTheDay": "Age is of no importance, unless you are a cheese.",
+      "DadJokeOfTheDay": "What kind of bagel can fly? A plain bagel.",
+      "IsTodayChristmas?": "Not yet",
+      "IsTodayMyBirthday?": "Maybe another time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/b3o25d.jpg"
    }
 }
 ```
