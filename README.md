@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Gabriel, Michael, and Lucifer are the only angels named in the Bible.",
-      "CoolAdviceOfTheDay": "Some people would be better off if they took their own advice.",
-      "DadJokeOfTheDay": "I’ll tell you something about German sausages, they’re the wurst",
-      "IsTodayChristmas?": "No",
-      "IsTodayMyBirthday?": "Ask me tomorrow",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/b3q3p5.jpg"
+      "FunFactOfTheDay": "Rubber bands last longer when refrigerated.",
+      "CoolAdviceOfTheDay": "Identify sources of happiness.",
+      "DadJokeOfTheDay": "Why are graveyards so noisy? Because of all the coffin.",
+      "IsTodayChristmas?": "Not quite",
+      "IsTodayMyBirthday?": "Ask me in a year",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/b3selp.jpg"
    }
 }
 ```
