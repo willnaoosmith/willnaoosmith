@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Rubber bands last longer when refrigerated.",
-      "CoolAdviceOfTheDay": "Identify sources of happiness.",
-      "DadJokeOfTheDay": "Why are graveyards so noisy? Because of all the coffin.",
-      "IsTodayChristmas?": "Not quite",
-      "IsTodayMyBirthday?": "Ask me in a year",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/b3selp.jpg"
+      "FunFactOfTheDay": "3.9% of all women do not wear underwear.",
+      "CoolAdviceOfTheDay": "One of the top five regrets people have is that they didn't stay in contact with friends.",
+      "DadJokeOfTheDay": "I won an argument with a weather forecaster once. His logic was cloudy...",
+      "IsTodayChristmas?": "Ask me in a year",
+      "IsTodayMyBirthday?": "Nope",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/b3vcmz.jpg"
    }
 }
 ```
