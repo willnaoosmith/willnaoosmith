@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "3.9% of all women do not wear underwear.",
-      "CoolAdviceOfTheDay": "One of the top five regrets people have is that they didn't stay in contact with friends.",
-      "DadJokeOfTheDay": "I won an argument with a weather forecaster once. His logic was cloudy...",
-      "IsTodayChristmas?": "Ask me in a year",
-      "IsTodayMyBirthday?": "Nope",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/b3vcmz.jpg"
+      "FunFactOfTheDay": "Broccoli and cauliflower are the only vegetables that are flowers.",
+      "CoolAdviceOfTheDay": "Sarcasm is the lowest form of wit. Employ correctly with apt timing.",
+      "DadJokeOfTheDay": "Why do bears have hairy coats? Fur protection.",
+      "IsTodayChristmas?": "!Yes",
+      "IsTodayMyBirthday?": "One day",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/b3yd55.jpg"
    }
 }
 ```
