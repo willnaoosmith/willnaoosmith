@@ -53,12 +53,13 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Broccoli and cauliflower are the only vegetables that are flowers.",
-      "CoolAdviceOfTheDay": "Sarcasm is the lowest form of wit. Employ correctly with apt timing.",
-      "DadJokeOfTheDay": "Why do bears have hairy coats? Fur protection.",
-      "IsTodayChristmas?": "!Yes",
-      "IsTodayMyBirthday?": "One day",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/b3yd55.jpg"
+      "FunFactOfTheDay": "Chameleons can move their eyes in two directions at the same time.",
+      "CoolAdviceOfTheDay": "Be brave. Even if you're not, pretend to be. No one can tell the difference.",
+      "DadJokeOfTheDay": "Why did the Clydesdale give the pony a glass of water? 
+Because he was a little horse!",
+      "IsTodayChristmas?": "Nope",
+      "IsTodayMyBirthday?": "Unfortunately, not",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/b41jzs.jpg"
    }
 }
 ```
