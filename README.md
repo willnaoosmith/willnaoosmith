@@ -71,45 +71,12 @@ Because he was a little horse!",
 <h4 align="left">My weekly programming languages per time spent</h4>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C528%20hrs%2014%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2028%20mins-blue?style=flat)
+```txt
+Total Time: 8 mins
 
-**🐱 My GitHub Data** 
-
-> 📦 115.2 kB Used in GitHub's Storage 
- > 
-> 🏆 118 Contributions in the Year 2026
- > 
-> 💼 Opted to Hire
- > 
-> 📜 46 Public Repositories 
- > 
-> 🔑 24 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                3373 commits        ███████░░░░░░░░░░░░░░░░░░   27.57 % 
-🌆 Daytime                5285 commits        ███████████░░░░░░░░░░░░░░   43.20 % 
-🌃 Evening                3159 commits        ██████░░░░░░░░░░░░░░░░░░░   25.82 % 
-🌙 Night                  417 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
+JavaScript   8 mins                █████████████████████████   100.00 %
 ```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-JavaScript               8 mins              █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 
 <!--END_SECTION:waka-->
 
