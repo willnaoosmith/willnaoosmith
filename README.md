@@ -53,13 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Chameleons can move their eyes in two directions at the same time.",
-      "CoolAdviceOfTheDay": "Be brave. Even if you're not, pretend to be. No one can tell the difference.",
-      "DadJokeOfTheDay": "Why did the Clydesdale give the pony a glass of water? 
-Because he was a little horse!",
-      "IsTodayChristmas?": "Nope",
-      "IsTodayMyBirthday?": "Unfortunately, not",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/b41jzs.jpg"
+      "FunFactOfTheDay": "The San Francisco Cable cars are the only mobile National Monuments.",
+      "CoolAdviceOfTheDay": "If you have the chance, take it!",
+      "DadJokeOfTheDay": "Someone asked me to name two structures that hold water. I said 'Well dam'",
+      "IsTodayChristmas?": "Nah",
+      "IsTodayMyBirthday?": "Maybe",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/b44qnh.jpg"
    }
 }
 ```
