@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The San Francisco Cable cars are the only mobile National Monuments.",
-      "CoolAdviceOfTheDay": "If you have the chance, take it!",
-      "DadJokeOfTheDay": "Someone asked me to name two structures that hold water. I said 'Well dam'",
-      "IsTodayChristmas?": "Nah",
-      "IsTodayMyBirthday?": "Maybe",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/b44qnh.jpg"
+      "FunFactOfTheDay": "Buckingham Palace has 602 rooms.",
+      "CoolAdviceOfTheDay": "To improve productivity, always have a shittier task to put off.",
+      "DadJokeOfTheDay": "As I suspected, someone has been adding soil to my garden. The plot thickens.",
+      "IsTodayChristmas?": "Nope",
+      "IsTodayMyBirthday?": "Yes'nt",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/b47l0k.jpg"
    }
 }
 ```
