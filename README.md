@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Buckingham Palace has 602 rooms.",
-      "CoolAdviceOfTheDay": "To improve productivity, always have a shittier task to put off.",
-      "DadJokeOfTheDay": "As I suspected, someone has been adding soil to my garden. The plot thickens.",
-      "IsTodayChristmas?": "Nope",
-      "IsTodayMyBirthday?": "Yes'nt",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/b47l0k.jpg"
+      "FunFactOfTheDay": "In space, astronauts cannot cry, because there is no gravity, so the tears can't flow.",
+      "CoolAdviceOfTheDay": "When something goes wrong in life, just shout 'plot twist!' and carry on.",
+      "DadJokeOfTheDay": "What happens to a frog's car when it breaks down? It gets toad.",
+      "IsTodayChristmas?": "Unfortunately, not",
+      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/b49oj9.jpg"
    }
 }
 ```
