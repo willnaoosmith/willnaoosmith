@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "By raising your legs slowly and lying on your back, you cannot sink into quicksand.",
-      "CoolAdviceOfTheDay": "To improve productivity, always have a shittier task to put off.",
-      "DadJokeOfTheDay": "Where did Captain Hook get his hook? From a second hand store.",
-      "IsTodayChristmas?": "Ask me in a year",
-      "IsTodayMyBirthday?": "Maybe another time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/b4bynn.jpg"
+      "FunFactOfTheDay": "The most popular first name in the world is Muhammad.",
+      "CoolAdviceOfTheDay": "Do, or do not. There is no try.",
+      "DadJokeOfTheDay": "Why does Superman get invited to dinners? Because he is a Supperhero.",
+      "IsTodayChristmas?": "Not this time",
+      "IsTodayMyBirthday?": "Nah",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/b4ev8l.jpg"
    }
 }
 ```
