@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The most popular first name in the world is Muhammad.",
-      "CoolAdviceOfTheDay": "Do, or do not. There is no try.",
-      "DadJokeOfTheDay": "Why does Superman get invited to dinners? Because he is a Supperhero.",
-      "IsTodayChristmas?": "Not this time",
-      "IsTodayMyBirthday?": "Nah",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/b4ev8l.jpg"
+      "FunFactOfTheDay": "A snail can sleep for three years. ",
+      "CoolAdviceOfTheDay": "Don't wear clean trousers when walking your dog in the park.",
+      "DadJokeOfTheDay": "Slept like a log last night … woke up in the fireplace.",
+      "IsTodayChristmas?": "Maybe another time",
+      "IsTodayMyBirthday?": "Maybe",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/b4hz85.jpg"
    }
 }
 ```
