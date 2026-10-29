@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "A snail can sleep for three years. ",
-      "CoolAdviceOfTheDay": "Don't wear clean trousers when walking your dog in the park.",
-      "DadJokeOfTheDay": "Slept like a log last night … woke up in the fireplace.",
-      "IsTodayChristmas?": "Maybe another time",
-      "IsTodayMyBirthday?": "Maybe",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/b4hz85.jpg"
+      "FunFactOfTheDay": "Laredo, Texas is the U.S.'s farthest inland port.",
+      "CoolAdviceOfTheDay": "Work is never as important as you think it is.",
+      "DadJokeOfTheDay": "What did the mountain climber name his son? Cliff.",
+      "IsTodayChristmas?": "Yes'nt",
+      "IsTodayMyBirthday?": "Ask me in one hour",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/b4l2qc.jpg"
    }
 }
 ```
