@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Laredo, Texas is the U.S.'s farthest inland port.",
-      "CoolAdviceOfTheDay": "Work is never as important as you think it is.",
-      "DadJokeOfTheDay": "What did the mountain climber name his son? Cliff.",
-      "IsTodayChristmas?": "Yes'nt",
-      "IsTodayMyBirthday?": "Ask me in one hour",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/b4l2qc.jpg"
+      "FunFactOfTheDay": "The glue on Israeli postage is certified kosher.",
+      "CoolAdviceOfTheDay": "Most things look better when you put them in a circle.",
+      "DadJokeOfTheDay": "Every night at 11:11, I make a wish that someone will come fix my broken clock.",
+      "IsTodayChristmas?": "I dont know",
+      "IsTodayMyBirthday?": "Not yet",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/b4oa9j.jpg"
    }
 }
 ```
