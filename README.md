@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The 'save' icon on Microsoft Word shows a floppy disk with the shutter on backwards.",
-      "CoolAdviceOfTheDay": "You never really grow up.",
-      "DadJokeOfTheDay": "Sore throats are a pain in the neck!",
-      "IsTodayChristmas?": "Maybe",
-      "IsTodayMyBirthday?": "I dont know",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/b4r3fo.jpg"
+      "FunFactOfTheDay": "The Black Death reduced the population of Europe by one third in the period from 1347 to 1351.",
+      "CoolAdviceOfTheDay": "Most things done in secrecy are better left undone.",
+      "DadJokeOfTheDay": "People are making apocalypse jokes like there’s no tomorrow.",
+      "IsTodayChristmas?": "Nope",
+      "IsTodayMyBirthday?": "No say I",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/b4t3iq.jpg"
    }
 }
 ```
