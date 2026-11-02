@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The Black Death reduced the population of Europe by one third in the period from 1347 to 1351.",
-      "CoolAdviceOfTheDay": "Most things done in secrecy are better left undone.",
-      "DadJokeOfTheDay": "People are making apocalypse jokes like there’s no tomorrow.",
-      "IsTodayChristmas?": "Nope",
-      "IsTodayMyBirthday?": "No say I",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/b4t3iq.jpg"
+      "FunFactOfTheDay": "Coca-Cola was originally green.",
+      "CoolAdviceOfTheDay": "Never regret. If it's good, it's wonderful. If it's bad, it's experience.",
+      "DadJokeOfTheDay": "The great thing about stationery shops is they're always in the same place...",
+      "IsTodayChristmas?": "I dont know",
+      "IsTodayMyBirthday?": "Unfortunately, not",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/b4vfx7.jpg"
    }
 }
 ```
