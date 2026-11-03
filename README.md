@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Coca-Cola was originally green.",
-      "CoolAdviceOfTheDay": "Never regret. If it's good, it's wonderful. If it's bad, it's experience.",
-      "DadJokeOfTheDay": "The great thing about stationery shops is they're always in the same place...",
-      "IsTodayChristmas?": "I dont know",
-      "IsTodayMyBirthday?": "Unfortunately, not",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/b4vfx7.jpg"
+      "FunFactOfTheDay": "'Dreamt' is the only English word that ends in the letters 'mt.'",
+      "CoolAdviceOfTheDay": "Never run with scissors.",
+      "DadJokeOfTheDay": "As I suspected, someone has been adding soil to my garden. The plot thickens.",
+      "IsTodayChristmas?": "Nah",
+      "IsTodayMyBirthday?": "I dont know",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/b4yf5e.jpg"
    }
 }
 ```
