@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "'Dreamt' is the only English word that ends in the letters 'mt.'",
-      "CoolAdviceOfTheDay": "Never run with scissors.",
-      "DadJokeOfTheDay": "As I suspected, someone has been adding soil to my garden. The plot thickens.",
-      "IsTodayChristmas?": "Nah",
-      "IsTodayMyBirthday?": "I dont know",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/b4yf5e.jpg"
+      "FunFactOfTheDay": "In medieval France, unfaithful wives were made to chase a chicken through town naked.",
+      "CoolAdviceOfTheDay": "You spend half your life asleep or in bed. It's worth spending money on a good mattress, decent pillows and a comfy duvet.",
+      "DadJokeOfTheDay": "I don't trust sushi, there's something fishy about it.",
+      "IsTodayChristmas?": "Ask me in one hour",
+      "IsTodayMyBirthday?": "No say I",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/b5525f.jpg"
    }
 }
 ```
