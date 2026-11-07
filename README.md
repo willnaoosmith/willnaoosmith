@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The first streetlights in America were installed in Philadelphia around 1757.",
-      "CoolAdviceOfTheDay": "The more ideas that you give away, the more ideas that will come to you.",
-      "DadJokeOfTheDay": "What happens to a frog's car when it breaks down? It gets toad.",
-      "IsTodayChristmas?": "Maybe another time",
-      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/b58985.jpg"
+      "FunFactOfTheDay": "Frank Lloyd Wright's son invented Lincoln Logs.",
+      "CoolAdviceOfTheDay": "Never cut your own fringe.",
+      "DadJokeOfTheDay": "Leather is great for sneaking around because it's made of hide.",
+      "IsTodayChristmas?": "No",
+      "IsTodayMyBirthday?": "Yes'nt",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/b5b0ir.jpg"
    }
 }
 ```
