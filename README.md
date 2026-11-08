@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Frank Lloyd Wright's son invented Lincoln Logs.",
-      "CoolAdviceOfTheDay": "Never cut your own fringe.",
-      "DadJokeOfTheDay": "Leather is great for sneaking around because it's made of hide.",
-      "IsTodayChristmas?": "No",
-      "IsTodayMyBirthday?": "Yes'nt",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/b5b0ir.jpg"
+      "FunFactOfTheDay": "Alabama was the first state to recognize Christmas as an official holiday.",
+      "CoolAdviceOfTheDay": "If it still itches after a week, go to the doctors.",
+      "DadJokeOfTheDay": "Why did the cowboy have a weiner dog? Somebody told him to get a long little doggy.",
+      "IsTodayChristmas?": "Maybe",
+      "IsTodayMyBirthday?": "Ask me tomorrow",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/b5d4sj.jpg"
    }
 }
 ```
