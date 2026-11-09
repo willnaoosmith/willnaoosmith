@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Alabama was the first state to recognize Christmas as an official holiday.",
-      "CoolAdviceOfTheDay": "If it still itches after a week, go to the doctors.",
-      "DadJokeOfTheDay": "Why did the cowboy have a weiner dog? Somebody told him to get a long little doggy.",
-      "IsTodayChristmas?": "Maybe",
-      "IsTodayMyBirthday?": "Ask me tomorrow",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/b5d4sj.jpg"
+      "FunFactOfTheDay": "Antarctica is the only continent that does not have land areas below sea level.",
+      "CoolAdviceOfTheDay": "Being kind is more rewarding than being right.",
+      "DadJokeOfTheDay": "How can you tell a vampire has a cold? They start coffin.",
+      "IsTodayChristmas?": "I dont know",
+      "IsTodayMyBirthday?": "Ask me in one hour",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/b5fhn1.jpg"
    }
 }
 ```
