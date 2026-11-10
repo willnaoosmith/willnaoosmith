@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Antarctica is the only continent that does not have land areas below sea level.",
-      "CoolAdviceOfTheDay": "Being kind is more rewarding than being right.",
-      "DadJokeOfTheDay": "How can you tell a vampire has a cold? They start coffin.",
-      "IsTodayChristmas?": "I dont know",
-      "IsTodayMyBirthday?": "Ask me in one hour",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/b5fhn1.jpg"
+      "FunFactOfTheDay": "More people speak English in China than the United States.",
+      "CoolAdviceOfTheDay": "What's stopping you?",
+      "DadJokeOfTheDay": "What do birds give out on Halloween? Tweets.",
+      "IsTodayChristmas?": "One day",
+      "IsTodayMyBirthday?": "Yes'nt",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/b5ihnt.jpg"
    }
 }
 ```
