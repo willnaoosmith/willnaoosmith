@@ -53,12 +53,13 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "More people speak English in China than the United States.",
-      "CoolAdviceOfTheDay": "What's stopping you?",
-      "DadJokeOfTheDay": "What do birds give out on Halloween? Tweets.",
-      "IsTodayChristmas?": "One day",
-      "IsTodayMyBirthday?": "Yes'nt",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/b5ihnt.jpg"
+      "FunFactOfTheDay": "If you feed a seagull Alka-Seltzer, its stomach will explode.",
+      "CoolAdviceOfTheDay": "Some people would be better off if they took their own advice.",
+      "DadJokeOfTheDay": "Why did the Clydesdale give the pony a glass of water? 
+Because he was a little horse!",
+      "IsTodayChristmas?": "Yes'nt",
+      "IsTodayMyBirthday?": "Nope",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/b5lobl.jpg"
    }
 }
 ```
