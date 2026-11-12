@@ -53,13 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "If you feed a seagull Alka-Seltzer, its stomach will explode.",
-      "CoolAdviceOfTheDay": "Some people would be better off if they took their own advice.",
-      "DadJokeOfTheDay": "Why did the Clydesdale give the pony a glass of water? 
-Because he was a little horse!",
-      "IsTodayChristmas?": "Yes'nt",
-      "IsTodayMyBirthday?": "Nope",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/b5lobl.jpg"
+      "FunFactOfTheDay": "Dentists have recommended that a toothbrush be kept at least 6 feet away from a toilet to avoid airborne particles resulting from the flush.",
+      "CoolAdviceOfTheDay": "Learn to handle criticism.",
+      "DadJokeOfTheDay": "What do you call two guys hanging out by your window? Kurt & Rod.",
+      "IsTodayChristmas?": "Maybe another time",
+      "IsTodayMyBirthday?": "Not quite",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/b5otlp.jpg"
    }
 }
 ```
