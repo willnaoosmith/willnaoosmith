@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Dentists have recommended that a toothbrush be kept at least 6 feet away from a toilet to avoid airborne particles resulting from the flush.",
-      "CoolAdviceOfTheDay": "Learn to handle criticism.",
-      "DadJokeOfTheDay": "What do you call two guys hanging out by your window? Kurt & Rod.",
-      "IsTodayChristmas?": "Maybe another time",
-      "IsTodayMyBirthday?": "Not quite",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/b5otlp.jpg"
+      "FunFactOfTheDay": "They NEVER said “Beam me up, Scotty” on Star Trek.",
+      "CoolAdviceOfTheDay": "Some of life's best lessons are learnt at the worst times.",
+      "DadJokeOfTheDay": " I never wanted to believe that my Dad was stealing from his job as a road worker. But when I got home, all the signs were there.  ",
+      "IsTodayChristmas?": "Yes'nt",
+      "IsTodayMyBirthday?": "Yes'nt",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/b5s9c2.jpg"
    }
 }
 ```
