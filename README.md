@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "They NEVER said “Beam me up, Scotty” on Star Trek.",
-      "CoolAdviceOfTheDay": "Some of life's best lessons are learnt at the worst times.",
-      "DadJokeOfTheDay": " I never wanted to believe that my Dad was stealing from his job as a road worker. But when I got home, all the signs were there.  ",
-      "IsTodayChristmas?": "Yes'nt",
-      "IsTodayMyBirthday?": "Yes'nt",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/b5s9c2.jpg"
+      "FunFactOfTheDay": "In England, the Speaker of the House is not allowed to speak. ",
+      "CoolAdviceOfTheDay": "Remember that spiders are more afraid of you, than you are of them.",
+      "DadJokeOfTheDay": "Did you hear about the bread factory burning down? They say the business is toast.",
+      "IsTodayChristmas?": "Ask me tomorrow",
+      "IsTodayMyBirthday?": "Unfortunately, not",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/b5v46w.jpg"
    }
 }
 ```
