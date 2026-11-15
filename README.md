@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "In England, the Speaker of the House is not allowed to speak. ",
-      "CoolAdviceOfTheDay": "Remember that spiders are more afraid of you, than you are of them.",
-      "DadJokeOfTheDay": "Did you hear about the bread factory burning down? They say the business is toast.",
-      "IsTodayChristmas?": "Ask me tomorrow",
-      "IsTodayMyBirthday?": "Unfortunately, not",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/b5v46w.jpg"
+      "FunFactOfTheDay": "The ZIP in “ZIP code” means Zoning Improvement Plan.",
+      "CoolAdviceOfTheDay": "Always get two ciders.",
+      "DadJokeOfTheDay": "How come the stadium got hot after the game? Because all of the fans left.",
+      "IsTodayChristmas?": "Ask me in one hour",
+      "IsTodayMyBirthday?": "Yes'nt",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/b5xalk.jpg"
    }
 }
 ```
