@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The ZIP in “ZIP code” means Zoning Improvement Plan.",
-      "CoolAdviceOfTheDay": "Always get two ciders.",
-      "DadJokeOfTheDay": "How come the stadium got hot after the game? Because all of the fans left.",
-      "IsTodayChristmas?": "Ask me in one hour",
-      "IsTodayMyBirthday?": "Yes'nt",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/b5xalk.jpg"
+      "FunFactOfTheDay": "If you went out into space, you would explode before you suffocated because there`s no air pressure.",
+      "CoolAdviceOfTheDay": "Age is of no importance, unless you are a cheese.",
+      "DadJokeOfTheDay": "I made a playlist for hiking. It has music from Peanuts, The Cranberries, and Eminem. I call it my Trail Mix.",
+      "IsTodayChristmas?": "Ask me tomorrow",
+      "IsTodayMyBirthday?": "Ask me in one hour",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/b5zof0.jpg"
    }
 }
 ```
