@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "If you went out into space, you would explode before you suffocated because there`s no air pressure.",
-      "CoolAdviceOfTheDay": "Age is of no importance, unless you are a cheese.",
-      "DadJokeOfTheDay": "I made a playlist for hiking. It has music from Peanuts, The Cranberries, and Eminem. I call it my Trail Mix.",
-      "IsTodayChristmas?": "Ask me tomorrow",
-      "IsTodayMyBirthday?": "Ask me in one hour",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/b5zof0.jpg"
+      "FunFactOfTheDay": "The past-tense of the English word “dare” is “durst”",
+      "CoolAdviceOfTheDay": "Don't take life too seriously.",
+      "DadJokeOfTheDay": "I considered building the patio by myself. But I didn't have the stones.",
+      "IsTodayChristmas?": "Ask me in one hour",
+      "IsTodayMyBirthday?": "Unfortunately, not",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/b62t4q.jpg"
    }
 }
 ```
