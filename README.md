@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The past-tense of the English word “dare” is “durst”",
-      "CoolAdviceOfTheDay": "Don't take life too seriously.",
-      "DadJokeOfTheDay": "I considered building the patio by myself. But I didn't have the stones.",
-      "IsTodayChristmas?": "Ask me in one hour",
-      "IsTodayMyBirthday?": "Unfortunately, not",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/b62t4q.jpg"
+      "FunFactOfTheDay": "People say “bless you” when you sneeze because your heart stops for a millisecond.",
+      "CoolAdviceOfTheDay": "It's wrong to be right.",
+      "DadJokeOfTheDay": "I couldn't get a reservation at the library. They were completely booked.",
+      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
+      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/b65xlh.jpg"
    }
 }
 ```
