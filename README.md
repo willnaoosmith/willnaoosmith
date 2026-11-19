@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "People say “bless you” when you sneeze because your heart stops for a millisecond.",
-      "CoolAdviceOfTheDay": "It's wrong to be right.",
-      "DadJokeOfTheDay": "I couldn't get a reservation at the library. They were completely booked.",
-      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
-      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/b65xlh.jpg"
+      "FunFactOfTheDay": "The muzzle of a lion is like a fingerprint - no two lions have the same pattern of whiskers.  ",
+      "CoolAdviceOfTheDay": "If you find yourself distressed about something, ask yourself if it will still matter tomorrow or next week or next month.",
+      "DadJokeOfTheDay": "Want to hear my pizza joke? Never mind, it's too cheesy.",
+      "IsTodayChristmas?": "Not yet",
+      "IsTodayMyBirthday?": "Not quite",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/b695ub.jpg"
    }
 }
 ```
