@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The muzzle of a lion is like a fingerprint - no two lions have the same pattern of whiskers.  ",
+      "FunFactOfTheDay": "The serial number of the first MAC ever produced was 2001.",
       "CoolAdviceOfTheDay": "If you find yourself distressed about something, ask yourself if it will still matter tomorrow or next week or next month.",
-      "DadJokeOfTheDay": "Want to hear my pizza joke? Never mind, it's too cheesy.",
-      "IsTodayChristmas?": "Not yet",
-      "IsTodayMyBirthday?": "Not quite",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/b695ub.jpg"
+      "DadJokeOfTheDay": "Don't buy flowers at a monastery. Because only you can prevent florist friars.",
+      "IsTodayChristmas?": "Nope",
+      "IsTodayMyBirthday?": "No",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/b6c95d.jpg"
    }
 }
 ```
