@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The serial number of the first MAC ever produced was 2001.",
-      "CoolAdviceOfTheDay": "If you find yourself distressed about something, ask yourself if it will still matter tomorrow or next week or next month.",
-      "DadJokeOfTheDay": "Don't buy flowers at a monastery. Because only you can prevent florist friars.",
-      "IsTodayChristmas?": "Nope",
+      "FunFactOfTheDay": "Celery has negative calories! It takes more calories to eat a piece of celery than the celery has in it.",
+      "CoolAdviceOfTheDay": "Don't take life too seriously.",
+      "DadJokeOfTheDay": "The best time on a clock is 6:30--hands down.",
+      "IsTodayChristmas?": "Nah",
       "IsTodayMyBirthday?": "No",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/b6c95d.jpg"
+      "RandomMemeOfTheDay": "https://i.imgflip.com/b6exyt.jpg"
    }
 }
 ```
