@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Celery has negative calories! It takes more calories to eat a piece of celery than the celery has in it.",
-      "CoolAdviceOfTheDay": "Don't take life too seriously.",
-      "DadJokeOfTheDay": "The best time on a clock is 6:30--hands down.",
-      "IsTodayChristmas?": "Nah",
-      "IsTodayMyBirthday?": "No",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/b6exyt.jpg"
+      "FunFactOfTheDay": "Your heart beats over 100,000 times a day!",
+      "CoolAdviceOfTheDay": "Most things look better when you put them in a circle.",
+      "DadJokeOfTheDay": "A man tried to sell me a coffin today. I told him that's the last thing I need.",
+      "IsTodayChristmas?": "No say I",
+      "IsTodayMyBirthday?": "Yes'nt",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/b6gxgr.jpg"
    }
 }
 ```
