@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Your heart beats over 100,000 times a day!",
-      "CoolAdviceOfTheDay": "Most things look better when you put them in a circle.",
-      "DadJokeOfTheDay": "A man tried to sell me a coffin today. I told him that's the last thing I need.",
-      "IsTodayChristmas?": "No say I",
-      "IsTodayMyBirthday?": "Yes'nt",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/b6gxgr.jpg"
+      "FunFactOfTheDay": "The highest per capita Jell-O comsumption in the US is Des Moines.",
+      "CoolAdviceOfTheDay": "Avoid mixing Ginger Nuts with other biscuits, they contaminate. Keep separated.",
+      "DadJokeOfTheDay": "What's large, grey, and doesn't matter? An irrelephant. ",
+      "IsTodayChristmas?": "Not this time",
+      "IsTodayMyBirthday?": "No",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/b6j8pq.jpg"
    }
 }
 ```
