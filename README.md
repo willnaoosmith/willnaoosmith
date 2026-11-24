@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The highest per capita Jell-O comsumption in the US is Des Moines.",
-      "CoolAdviceOfTheDay": "Avoid mixing Ginger Nuts with other biscuits, they contaminate. Keep separated.",
-      "DadJokeOfTheDay": "What's large, grey, and doesn't matter? An irrelephant. ",
-      "IsTodayChristmas?": "Not this time",
-      "IsTodayMyBirthday?": "No",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/b6j8pq.jpg"
+      "FunFactOfTheDay": "Lightning strikes the earth about 8 million times a day.",
+      "CoolAdviceOfTheDay": "Taking photos with tablet devices looks weird.",
+      "DadJokeOfTheDay": "What does a pirate pay for his corn? A buccaneer!",
+      "IsTodayChristmas?": "Unfortunately, not",
+      "IsTodayMyBirthday?": "One day",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/b6mauw.jpg"
    }
 }
 ```
