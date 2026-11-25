@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Lightning strikes the earth about 8 million times a day.",
-      "CoolAdviceOfTheDay": "Taking photos with tablet devices looks weird.",
-      "DadJokeOfTheDay": "What does a pirate pay for his corn? A buccaneer!",
-      "IsTodayChristmas?": "Unfortunately, not",
-      "IsTodayMyBirthday?": "One day",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/b6mauw.jpg"
+      "FunFactOfTheDay": "Dr. Seuss pronounced his name “soyce”.",
+      "CoolAdviceOfTheDay": "Try making a list.",
+      "DadJokeOfTheDay": "My dentist is the best, he even has a little plaque!",
+      "IsTodayChristmas?": "One day",
+      "IsTodayMyBirthday?": "!Yes",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/b6p2ie.jpg"
    }
 }
 ```
