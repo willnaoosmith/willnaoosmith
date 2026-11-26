@@ -53,12 +53,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Dr. Seuss pronounced his name “soyce”.",
-      "CoolAdviceOfTheDay": "Try making a list.",
-      "DadJokeOfTheDay": "My dentist is the best, he even has a little plaque!",
-      "IsTodayChristmas?": "One day",
-      "IsTodayMyBirthday?": "!Yes",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/b6p2ie.jpg"
+      "FunFactOfTheDay": "The only nation whose name begins with an 'A', but doesn`t end in an 'A' is Afghanistan.",
+      "CoolAdviceOfTheDay": "Avoid mixing Ginger Nuts with other biscuits, they contaminate. Keep separated.",
+      "DadJokeOfTheDay": "Did you hear that the police have a warrant out on a midget psychic ripping people off? It reads “Small medium at large.”",
+      "IsTodayChristmas?": "Ask me tomorrow",
+      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/b6ruiw.jpg"
    }
 }
 ```
